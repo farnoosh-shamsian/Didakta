@@ -1,0 +1,1380 @@
+﻿For the previous version, see:
+https://docs.google.com/document/d/1RLg-GB3CbsDAD15R0OEwOA9m4NToeFDjk7WckQGf33s/edit?usp=sharing
+Nominative
+§Nom1. Subject
+§Nom2. Predicate
+§Nom3. Independent
+§Nom4. As Vocative
+Genitive
+§Gen1. Possessor
+§Gen2. Partitive
+§Gen3. Quality
+§Gen4. Explanation
+§Gen5. Material
+§Gen6. Measure
+§Gen7. Subjective
+§Gen8. Objective
+§Gen9. Value
+§Gen10. Complement of the Verb
+§Gen11. Source and Separation
+§Gen12. Time
+§Gen13. Comparison
+§Gen14. Place
+§Gen15. In Genitive Absolute
+§Gen16. Reference
+§Gen17. Cause
+Dative
+§Dat1. Complement of the verb
+§Dat2. Possessor
+§Dat3. Advantage (or Disadvantage)
+§Dat4. Ethical Dative (or Dative of Feeling)
+§Dat5. Agent
+§Dat6. Manner and means
+§Dat7. Measure of Difference
+§Dat8. Instrument
+§Dat10. Accompaniment
+§Dat11. Time
+§Dat12. Place
+§Dat13. Respect
+§Dat14. Experiencer
+Accusative
+§Acc1. Direct Object
+§Acc2. Cognate
+§Acc3. Subject of Infinitive or Participle
+§Acc4. Respect
+§Acc5. Time
+§Acc6. Space
+§Acc7. Direction
+§Acc8. Adverbial
+§Acc9. Oaths
+§Acc10. Double Accusative
+§Acc11. Cause or Goal
+Vocative
+§Voc1. Exclamations and direct address
+Present
+§Pres1. Present of Continuity
+§Pres2. Customary Action (Iterative)
+§Pres3. Conative Present
+§Pres4. Historical Present
+§Pres5. Resultative and Perfective Present
+§Pres6. Non-indicative (Imperfective Aspect)
+Imperfect
+§Impf1. Imperfect of Continuance
+§Impf2. Customary Action (Iterative)
+§Impf3. Conative Imperfect
+§Impf4. Imperfect of Completed Action
+§Impf5. Imperfect of Description
+§Impf6. Imperfect of Consecutive Action
+Future
+§Fut1. Future Events or Expectations
+§Fut2. Hypothesis or General Truth
+§Fut3. Jussive Future
+§Fut4. Non-indicative
+Aorist
+§Aor1. Resultative Aorist
+§Aor2. Ingressive Aorist
+§Aor3. Complexive Aorist
+§Aor4. Gnomic Aorist
+§Aor5. Suggestive Questions and Requests
+§Aor6. Customary Action (Iterative)
+§Aor7. Dramatic Aorist
+§Aor8. Non-indicative (Perfective Aspect)
+Perfect
+§Perf1. Completed action
+§Perf2. Intensive Perfect
+§Perf3. Perfect for Future Perfect
+§Perf4. Non-indicative
+Pluperfect
+§Pluperf1. Past Perfect
+§Pluperf2. Pluperfect of Immediate Occurrence
+§Pluperf3. Intensive Pluperfect
+Future Perfect
+§Futperf1. Future Completed Action
+§Futperf2. Intensive or Immediate Consequence
+Active Voice
+§Act1. Active Voice
+Middle Voice
+§Mid1. Indirect Reflexive Middle
+§Mid2. Direct Reflexive Middle
+§Mid3. Speech Act Middle
+§Mid4. Body Motion Middle
+§Mid5. Mental Activity or Process
+§Mid6. Reciprocal Middle
+§Mid7. Spontaneous Process Middle
+Passive Voice
+§Pass1. Passive voice
+Indicative
+§Ind1. Assertions and Questions
+§Ind2. Unfulfilled Obligation
+§Ind3. Unattainable Wish
+§Ind4. Counterfactual Indicative
+§Ind5. In Subordinate Clause
+Subjunctive
+§Subj1. Hortatory Subjunctive
+§Subj2. Prohibitive Subjunctive
+§Subj3. Doubtful Assertion
+§Subj4. Deliberative Subjunctive
+§Subj5. Anticipatory Subjunctive (Homeric)
+§Subj6. Emphatic Denial
+§Subj7. In subordinate clause
+Optative
+§Opt1. Optative of Wish
+§Opt2. Command or Request
+§Opt3. Potential Optative
+§Opt4. In subordinate clause
+Imperative
+§Impr1. Command or Prohibition
+§Impr2. Assumption, Concession or Greeting
+Infinitive
+§Inf1. Dynamic infinitive
+§Inf2. Declarative infinitive
+§Inf3. Idiomatic expressions
+§Inf4. Infinitive of Commands, Wishes, and Exclamations
+§Inf5. Articular Infinitive
+Participle
+§Partic1. Attributive and Substantival Participle
+§Partic2. Circumstantial Participle
+§Partic3. Circumstantial Participle - Genitive Absolute
+§Partic4. Circumstantial Participle - Accusative Absolute
+§Partic5. Supplementary Participle
+Article
+§Art1. Particular article
+§Art2. As Substantivizer
+§Art3. Pronominal
+§Art4. Generic
+§Art5. Abstract Concept
+§Art6. Proper Names
+§Art7. Possession
+The pronoun αὐτός
+§Aut1. Emphatic
+§Aut2. Personal Pronoun
+§Aut3. Identicalness
+§Aut4. Reflexive
+References:
+
+
+Nominative
+§Nom1. Subject[1] 
+The nominative case marks the subject of the verb.
+→ “ταῦτα οἱ αἱρετοὶ ἀγγέλλουσι τοῖς στρατιώταις” Xen. Anab. 1.2.3; ⇾ The delegates report these things to the soldiers
+→ “Πρόξενος παρῆν” X. A. 1.2.3; ⇾ Proxenus was present
+§Nom2. Predicate[2]
+The predicate noun in agreement of the subject of verbs such as εἰμί and γίγνομαι is in the nominative.
+→ “Κλέαρχος φυγὰς ἦν” Xen. Anab. 1. 1. 9; ⇾ Clearchus was an exile
+→ “πᾶν ἐστὶ ἄνθρωπος συμφορή.” Hdt. 1.32.4; ⇾ Man is entirely (a victim of) chance.
+§Nom3. Independent[3]
+The nominative may be used independently in citing the names of persons and things.
+→ “προσείληφε τὴν τῶν πονηρῶν κοινὴν ἐπωνυμίαν συκοφάντης” Aeschin. 2.99; ⇾ he - the sycophant - received the common appellation of the vile
+→ “τὸ δ᾽ ὑμεῖς ὅταν λέγω, λέγω τὴν πόλιν” D. 18.88; ⇾ when I say You, I mean the State
+Independent nominatives are also used in incomplete sentences:
+→ “τίθημι δύο ποιητικῆς εἴδη: θεία μὲν καὶ ἀνθρωπίνη” P. Soph. 266d; ⇾ I assume two kinds of poetry: the divine and the human
+§Nom4. As Vocative[4]
+In a few cases, the nominative is used instead of a vocative for addressing or invoking.
+→ “ὦ πόλις πόλις” Soph. OT 633; ⇾ O city, city!
+→ “ὁ παῖς ἀκολούθει δεῦρο τὰ σκεύη φέρων” Aristoph. Frogs 521; ⇾ Follow, slave, and bring my baggage.
+Genitive
+§Gen1. Possessor[5]
+The genitive denotes ownership, possession, or belonging. The genitive of possessor marks a person or thing that possesses someone or something else (and not the possessed). With persons the genitive may denote the relation of child to parent, wife to husband, and of inferior to superior.
+→ “ὁ Κύρου στόλος” Xen. Anab. 1.2.5; ⇾ the expedition of Cyrus
+→ “ἡ οἰκία ἡ Σίμωνος” L. 3.32; ⇾ the house of Simon
+→ “Θουκυδίδης ὁ Ὀλόρου” T. 4.104; ⇾ Thucydides, the son of Olorus
+→ “Διὸς Ἄρτεμις” S. Aj. 172; ⇾ Artemis, daughter of Zeus 
+→ “ἡ Σμικυθίωνος Μελιστίχη” Ar. Eccl. 46; ⇾ Melistiche wife of Smicythion
+→ “Αυδὸς ὁ Φερεκλέους” And. 1.17; ⇾ Lydus, the slave of Pherecles
+The possessive genitive is used with the neuter article (singular or plural) denoting affairs, conditions, power, and the like:
+→ “τὸ τῶν ἐφόρων” P. L. 712d; ⇾ the power of the ephors
+→ “τὸ τῆς τέχνης” P. G. 450c; ⇾ the function of the art
+→ “τὸ τοῦ Σόλωνος” P. Lach. 188b; ⇾ the maxim of Solon
+→ “ἄδηλα τὰ τῶν πολέμων” T. 2.11; ⇾ the chances of war are uncertain
+→ “τὰ τῆς πόλεως” P. A. 36c; ⇾ the interests of the State
+§Gen2. Partitive[6]  
+The genitive may express the general class to which a specific noun belongs. The partitive genitive or the genitive of the divided whole may be used with any word that expresses or implies a part.
+→ “οἱ ἄποροι τῶν πολιτῶν” Dem. 18.104; ⇾ the needy among the citizens
+→ “τῶν Θρᾳκῶν πελτασταί” T. 7.27; ⇾ targeteers of the Thracians 
+→ “οἱ τῶν ἀδίκων ἀφικνούμενοι” P. G. 525c; ⇾ those of the unrighteous who come here
+→ “ὀλίγοι αὐτῶν” X. A. 3.1.3; ⇾ few of them
+→ “τῶν ἄλλων Ἑλλήνων ὁ βουλόμενος” T. 3.92; ⇾ whoever of the rest of the Greeks so desires
+→ “οἱ μὲν αὐτῶν, οἱ δ᾽ οὔ” P. A. 24e; ⇾ some of them and not others
+→ “οἳ ὕστερον ἐλήφθησαν τῶν πολεμίων”X. A. 1.7.13; ⇾ those of the enemy who were taken later
+→ “οὐδεὶς ἀνθρώπων” P. S. 220a; ⇾ no one in the world
+→ “τὶ τοῦ τείχους” T. 7.4; ⇾ a part of the wall
+→ “ἓν τῶν πολλῶν” P. A. 17a; ⇾ one of the many things
+§Gen3. Quality[7] 
+The genitive of quality denotes the quality of a person or thing and often is used as a predicate.
+→ “ἐὼν τρόπου ἡσυχίου” Hdt. 1.107; ⇾ being of a peaceful disposition
+→ “οἱ δέ τινες τῆς αὐτῆς γνώμης ὀλίγοι κατέφυγον” T. 3.70; ⇾ but some few of the same opinion fled
+→ “ταῦτα παμπόλλων ἐστὶ λόγων” P. L. 642a; ⇾ this calls for a thorough discussion
+→ “θεωρήσατ᾽ αὐτόν, μὴ ὁποτέρου τοῦ λόγου, ἀλλ᾽ ὁποτέρου τοῦ βίου ἐστίν” Aes. 3.168; ⇾ consider, not the manner of his speech, but the manner of his life
+→ “εἰ δοκεῖ ταῦτα καὶ δαπάνης μεγάλης καὶ πόνων πολλῶν καὶ πραγματείας εἶναι” D. 8.48; ⇾ if these matters seem to involve great expense and much toil and trouble
+The attributive use occurs in poetry: 
+→ “χόρτων εὐδένδρων Εὐρώπας”E. I. T. 134; ⇾ Europe with its pastures amid fair trees
+→ “λευκῆς χιόνος πτέρυξ” S. Ant. 114; ⇾ a wing white as snow (of white snow) 
+§Gen4. Explanation[8]
+The genitive of explanation, also called appositive genitive, adds specification or explanation to the meaning of a more general word.
+→ “ἄελλαι παντοίων ἀνέμων” Hom. Od. 5.292; ⇾ blasts of wind of every sort
+This construction is chiefly poetic, but in prose we find:
+→ “ὑὸς μέγα χρῆμα[9]” Hdt. 1.36; ⇾ a monster of a boar 
+→ “τὸ ὄρος τῆς Ἰστώνης” T. 4.46; ⇾ the hill Istone
+§Gen5. Material[10]
+The genitive of material expresses the composition or contents of a noun or specifies the material out of which something is made.
+→ “ἕρκος ὀδόντων” Hom. Il. 4.350; ⇾ the fence (consisting) of the teeth 
+→ “κρήνη ἡδέος ὕδατος” X. A. 6.4.4; ⇾ a spring of sweet water
+→ “σωροὶ σίτου, ξύλων, λίθων” X. H. 4.4.12; ⇾ heaps of corn, wood, stones 
+→ “στεφάνους ῥόδων ὄντας, ἀλλ᾽ ου᾽ χρυσίου” D. 22.70; ⇾ crowns that were of roses, not of gold
+→ “ἐστρωμένη ἐστὶ ὁδὸς λίθου” Hdt. 2.138; ⇾ a road was paved with stone
+§Gen6. Measure[11]
+ The genitive of measure denotes the extent in space, time or degree of a noun or its amount.
+→ “ὀκτὼ σταδίων τεῖχος” T. 7.2; ⇾ a wall eight stades long
+→ “πέντε ἡμερῶν σιτία” T. 7. 43; ⇾ provisions for five days
+→ “ἐπειδὰν ἐτῶν ᾖ τις τριάκοντα” P. L. 721a; ⇾ when a man is thirty years old
+→ “τὰ τείχη ἦν σταδίων ὀκτώ” T. 4.66; ⇾ the walls were eight stades long
+→ “δυοῖν μναῖν πρόσοδος” X. Vect. 3.10; ⇾ an income of two minae
+§Gen7. Subjective[12]
+With nouns derived from verbs, the genitive may denote the subject of the action expressed in the noun. The subjective genitive is active in sense.
+→ “τῶν βαρβάρων φόβος” X. A. 1.2.17; ⇾ the fear of the barbarians (which they feel: οἱ βάρβαροι φοβοῦνται)
+→  “ἡ βασιλέως ἐπιορκία” X. A. 3. 2. 4; ⇾ the perjury of the king (βασιλεὺς ἐπιορκεῖ) 
+→ “τὸ ὀργιζόμενον τῆς γνώμης” T. 2.59; ⇾ their angry feelings (such genitives with substantive participles are common in Thucydides).
+§Gen8. Objective[13] 
+With nouns derived from verbs, the objective genitive denotes the object in a passive sense, and is very common with substantives indicating a frame of mind or an emotion:
+→ “φόβος τῶν Εἱλώτων” Thuc. 3.54; ⇾ the fear of the Helots (felt towards them: φοβοῦνται τοὺς Εἵλωτας）
+→ ἡ τῶν Ἑλλήνων εὔνοια X. A. 4.7.20; ⇾ good-will towards the Greeks (εὐνοεῖ τοῖς Ἕλλησι)
+→ “ἡ τῶν καλῶν συνουσία” P. L. 838a; ⇾ intercourse with the good (σύνεισι τοῖς καλοῖς) 
+→ “ὁ θεῶν πόλεμος” X. A. 2.5.7; ⇾ war with the gods
+→ “ὅρκοι θεῶν” E. Hipp. 657; ⇾ oaths by the gods
+→ “θεῶν εὐχαί” P. Phae. 244e; ⇾ prayers to the gods
+“ἀδικημάτων ὀργή” L. 12.20; ⇾ anger at injustice
+→ “ἐγκράτεια ἡδονῆς” I. 1.21; ⇾ moderation in pleasure
+→ “σοῦ μῦθος” S. O. C. 1161; ⇾ speech with thee
+§Gen9. Value[14] 
+The genitive of value denotes the value of a noun, such as price of an object.
+→ “ἱερὰ τριῶν ταλάντων” L. 30.20; ⇾ offerings worth three talents
+→ “χιλίων δραχμῶν δίκην φεύγω” D. 55.25; ⇾ I am defendant in an action involving a thousand drachmas
+With verbs of buying, selling, costing or exchanging, the price for which one gives stands in the genitive:
+→ “ἀργυρίου πρίασθαι ἢ ἀποδόσθαι ἵππον” P. R. 333b; ⇾ to buy or sell a horse for money
+→ “Θεμιστοκλέα τῶν μεγίστων δωρεῶν ἠξίωσαν” I. 4.154; ⇾ they deemed Themistocles worthy of the greatest gifts
+→ “οὐκ ἀνταλλακτέον μοι τὴν φιλοτιμίαν οὐδενὸς κέρδους” D. 19.223; ⇾ I must not barter my public spirit for any price
+§Gen10. Complement of the Verb[15] 
+The genitive is used as the object of some verbs that usually denote sharing, beginning, aiming, attaining, remembering, smelling, touching, hearing, perceiving, filing, ruling, separating,  releasing, depriving, commanding, etc. Many of these verbs might also take an object accusative or dative with slight differences in the meaning. Object of certain compound verbs (in particular with ἀπο-, ἐκ-, κατα-, προ- etc.) is in genitive. The objects in genitive often could  also be regarded as the genitive of source, cause, comparison, etc.
+→ “τῆς θαλάττης ἐκράτει” Plat. Menex. 239e; ⇾ he was master of the sea
+→ “λήγειν τῶν πόνων” I. 1.14; ⇾ to cease from toil
+→ “ἐπιστήμη χωριζομένη δικαιοσύνης” P. Menex. 246e; ⇾ knowledge divorced from justice
+→ “μεταστὰς τῆς Ἀθηναίων ξυμμαχίας” T. 2.67; ⇾ withdrawing from the alliance with the Athenians
+→ “παύσαντες αὐτὸν τῆς στρατηγίας” X. H. 6.2.13; ⇾ removing him from his office of general
+→ “εἴργεσθαι τῆς ἀγορᾶς” L. 6.24; ⇾ to be excluded from the forum
+→ “σῶσαι κακοῦ” S. Ph. 919; ⇾ to save from evil
+→ “ἀποστερεῖ με τῶν χρημάτων” I. 17.35; ⇾ he deprives me of my property
+→ “πάντες μετεῖχον τῆς ἑορτῆς” X. A. 5.3.9; ⇾ all took part in the festival
+→ “σίτου κοινωνεῖν” X. M. 2.6.22; ⇾ to take a share of food
+→ “(ἡ νόσος) ἥψατο τῶν ἀνθρώπων” T. 2.48; ⇾ the plague laid hold of the men
+→ “ἀντιλάβεσθε τῶν πραγμάτων” D. 1.20; ⇾ take our public policy in hand
+→ “τοῦ λόγου ἤρχετο ὧδε” X. A. 3. 2. 7; ⇾ he began his speech as follows
+→ “ἀνθρώπων στοχάζεσθαι” X. C. 1.6.29; ⇾ to aim at men
+→ “ἐφιέμενοι τῶν κερδῶν” T. 1.8; ⇾ desiring gain
+→ “τῆς ἀρετῆς ἐφικέσθαι” I. 1.5; ⇾ to attain to virtue
+→ “ὄζω μύρου” Ar. Eccl. 524; ⇾ I smell of perfume
+→ “ὀλίγοι σίτου ἐγεύσαντο” X. A. 3.1.3; ⇾ few tasted food
+→ “τῶν ἀπόντων φίλων μέμνησο” I. 1.26; ⇾ remember your absent friends
+→ “ἀκροώμενοι τοῦ ᾁδοντος” X. C. 1.3.10; ⇾ listening to the singer
+→ “κρομμύων ὀσφραίνομαι”Ar. Ran. 654; ⇾ I smell onions
+→ “τῶν πολεμίων ἀκούειν” X. C. 8.1.4; ⇾ to submit to enemies
+→ “τροφῆς εὐπορεῖν” X. Vect. 6.1; ⇾ to have plenty of provisions
+→ “ὕβρεως μεστοῦσθαι” P. L. 713c; ⇾ to be filled with pride
+→ “τῆς θαλάττης ἐκράτει” P. Menex. 239e; ⇾ he was master of the sea
+→ “ἡγεῖτο τῆς ἐξόδου” T. 2.10; ⇾ he led the expedition
+§Gen11. Source and Separation[16] 
+The genitive may indicate the place or point from which something is seperated, particularly with words denoting motion or separation. Here may be classed the genitive of origin, indicating origin, source or offspring.
+→ “λήγειν τῶν πόνων” I. 1.14; ⇾ to cease from toil
+→ “ἐπιστήμη χωριζομένη δικαιοσύνης” P. Menex. 246e; ⇾ knowledge divorced from justice” 
+→ “πίθων ἠφύσσετο οἶνος” Hom. Od. 23.305; ⇾ wine was broached from the casks 
+→ “ταῦτα δέ σου τυχόντες” X. A. 6. 6. 32; ⇾ obtaining this of you 
+→ “μάθε μου καὶ τάδε” X. C. 1.6.44; ⇾ learn this also from me
+→ “οἱ Σόλωνος νόμοι” D. 20.103; ⇾ the laws of Solon
+→ “κύματα παντοίων ἀνέμων” Hom. Il. 2.369; ⇾ waves caused by all kinds of winds
+→ “Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο” X. A. 1.1.1; ⇾ of Darius and Parysatis are born two sons
+§Gen12. Time[17]
+The genitive denotes the time within which, or at a certain point of which, an action takes place. As contrasted with the accusative of time, the genitive signals a time frame for an action.
+→ “τὸν μὲν χειμῶνα ὕει ὁ θεός, τοῦ δὲ θέρεος χρηίσκονται τῷ ὕδατι” Hdt. 3.117; ⇾ during the (entire) winter the god rains, but in (a part of) summer they need the water
+The genitive may denote the time since an action has happened or the time until an action will happen:
+→ “οὐδείς μέ πω ἠρώτηκε καινὸν οὐδὲν πολλῶν ἐτῶν” P. G. 448a; ⇾ for many years nobody has put a new question to me
+→ “βασιλεὺς οὐ μαχεῖται δέκα ἡμερῶν” X. A. 1.7.18; ⇾ the king will not fight for ten days
+§Gen13. Comparison[18]
+The genitive of comparison complements comparatives and superlatives as a standard of comparison.
+→ “ἡμῶν ὁ γεραίτερος” X. C. 5.1.6; ⇾ the elder of us
+→ “οἱ πρεσβύτατοι τῶν στρατηγῶν” X. A. 3.3.11; ⇾ the oldest of the generals 
+→ “σίτῳ πάντων ἀνθρώπων πλείστῳ χρώμεθ᾽ ἐπεισάκτῳ” D. 18.87; ⇾ we make use of imported grain more than all other people
+It is also used with a superlative adverb:
+→ “ἡ ναῦς ἄριστά μοι ἔπλει παντὸς τοῦ στρατοπέδου” L. 21.6; ⇾ my ship was the best sailer of the whole squadron
+§Gen14. Place[19] 
+The genitive denotes the place within which or at which an action happens. This is more frequent in poetry than in prose.
+→ πεδίοιο διωκέμεν Hom. Il. 5.202; ⇾ to chase over the plain
+→ λελουμένος Ὠκεανοῖο Hom. Il. 5.6; ⇾ having bathed in Oceanus
+→ “οὔτε Πύλου ἱερῆς οὔτ᾽ Ἄργεος οὔτε Μυκήνης” Hom. Od. 21.80; ⇾ neither in sacred Pylos nor in Argos nor in Mycenae
+→ “τόνδ᾽ εἰσεδέξω τειχέων” E. Phoen. 451; ⇾ thou didst admit this man within the walls
+→ “ἐπετάχυνον τῆς ὁδοῦ τοὺς σχολαίτερον προσιόντας” T. 4.47; ⇾ they hastened on their way those who came up more slowly
+→ “λαιᾶς χειρὸς οἰκοῦσι” A. Pr. 714; ⇾ they dwell on the left hand (possibly ablatival).
+§Gen15. In Genitive Absolute[20]
+A circumstantial participle agreeing with a genitive noun or pronoun which is not in the main construction of the sentence, stands in the genitive absolute. The noun or pronoun accompanying the participle expresses the subject:
+→ “ταῦτ᾽ ἐπράχθη Κόνωνος στρατηγοῦντος” I. 9.56; ⇾ these things were affected while Conon was in command
+→ “Ἠϊόνα . . . Μήδων ἐχόντων πολιορκίᾳ εἷλον” T. 1.98; ⇾ they blockaded and captured Eïon which was held by the Medes
+§Gen16. Reference[21]
+The genitive of reference is used with verbs of saying or thinking to state the subject and expresses a more or less close connection or relation to a subject.
+→ “τί δὲ ἵππων οἴει;” P. R. 459b; ⇾ but what do you think of horses? 
+→ “εἰπὲ δέ μοι πατρός” Hom. Od. 11.174; ⇾ but tell me about my father
+→ “τοῦ κασιγνήτου τί φῄς;” S. El. 317; ⇾ what dost thou say of thy brother?
+→ "ἵππος ἢν κακουργῇ, τὸν ἱππέα κακίζομεν: τῆς δὲ γυναικός, εἰ κακοποιεῖ κτλ.” X. O. 3.11; ⇾ if a horse is vicious, we lay the fault to the groom; but as regards a wife, if she conducts herself ill, etc.
+→ “ὡσαύτως δὲ καὶ τῶν ἄλλων τεχνῶν” P. Charm. 165d; ⇾ and so in the case of the other arts too
+→ “τί δὲ τῶν πολλῶν καλῶν;” P. Ph. 78d; ⇾ what about the many beautiful things?
+§Gen17. Cause[22]
+With verbs of emotion and dispute, the genitive denotes the cause. Such verbs are to wonder at, admire, envy, praise, blame. hate, pity, grieve for, be angry at, take vengeance on, and the like. The genitive of cause is closely connected with the genitive with verbs of disputing and verbs of judicial action.
+→ “ἐθαύμασα τῆς τόλμης τῶν λεγόντων” L. 12.41; ⇾ I wondered at the hardihood of the speakers
+→ “τοῦτον ἀγασθεὶς τῆς πρᾳότητος” X. C. 2.3.21; ⇾ admiring him for his mildness
+→ “ζηλῶ σε τοῦ νοῦ, τῆς δὲ δειλίας στυγῶ” S. El. 1027; ⇾ I envy thee for thy prudence, I hate thee for thy cowardice
+→ “σὲ ηὐδαιμόνισα τοῦ τρόπου” P. Cr. 43b; ⇾ I thought you happy because of your disposition 
+→ “τὸν ξένον δίκαιον αἰνέσαι προθυμίας” E. I. A. 1371; ⇾ it is right to praise the stranger for his zeal
+→ “τοῦ πάθους ᾤκτιρεν αὐτόν” X. C. 5.4.32; ⇾ he pitied him for his misery
+→ “ἠμφισβήτησεν Ἐρεχθεῖ τῆς πόλεως” I. 12.193; ⇾ he disputed the possession of the city with Erechtheus
+→ “αἰτιᾶσθαι ἀλλήλους τοῦ γεγενημένου” X. Ages. 1.33; ⇾ to accuse one another of what had happened
+→ “ἐμὲ ὁ Μέλητος ἀσεβείας ἐγράψατο” P. Euth. 5c; ⇾ Meletus prosecuted me for impiety
+→ “δώρων ἐκρίθησαν” L. 27.3; ⇾ they were tried for bribery
+Dative
+§Dat1. Complement of the verb[23]
+Dative expresses the indirect object of a verb, while the direct object is usually in accusative. The dative may be used as the object of many verbs, such as to benefit, help, injure, please, displease, be friendly or hostile, blame, be angry, threaten, envy, trust, believe, meet, obey, etc.
+Object of certain compound verbs (in particular with σύν, ἐν, ἐπί, and with some compounded with παρά, περί, πρός, and ὑπό, etc.) is in dative, because the preposition keeps a sense that requires the dative. The objects in dative often could also be regarded as the dative of advantage, accompaniment, etc.
+→ “ἐμβλέψας αὐτῷ” P. Charm. 162d; ⇾ looking at him
+→ “ἐλπίδας ἐμποιεῖν ἀνθρώποις” X. C. 1.6.19; ⇾ to create expectations in men
+→ “αὐτοῖς ἐπέπεσε τὸ Ἑλληνικόν” X. A. 4.1.10; ⇾ the Greek force fell upon them
+→ “συναδικεῖν αὐτοῖς” X. A. 2. 6. 27; ⇾ to be their accomplice in wrong-doing
+→ “τοῖς νόμοις πείθου” I. 1.16; ⇾ obey the laws
+→ “τῷ ὑμετέρῳ ξυμφόρῳ ὑπακούειν” T. 5.98; ⇾ to be subservient to your interests
+→ “ἐπίστευον αὐτῷ αἱ πόλεις” X. A. 1.9.8; ⇾ the cities trusted him
+→ “τῷ Μυσῷ ἐσήμηνε φεύγειν” X. A. 5.2.30; ⇾ he ordered the Mysian to flee
+→ “οὗτοι οὐ παρεγένοντο βασιλεῖ” X. A. 5.6.8; ⇾ these did not join the king
+→ “παρέστω ὑμῖν ὁ κῆρυξ” X. A. 3. 1. 46; ⇾ let the herald come with us
+→ “Ξενοφῶντι προσέτρεχον δύο νεανίσκω” X. A. 4. 3. 10; ⇾ two youths ran up to Xenophon 
+→ “ὑποκεῖσθαι τῷ ἄρχοντι” P. G. 510c; ⇾ to be subject to the ruler
+→ “τῷ Ὑρκανίῳ ἵππον ἐδωρήσατο” X. C. 8.4.24; ⇾ he presented a horse to the Hyrcanian
+→ “μικρὸν μεγάλῳ εἰκάσαι” T. 4.36; ⇾ to compare a small thing to a great thing
+→ “πέμπων αὐτῷ ἄγγελον” X. A. 1.3.8; ⇾ sending a messenger to him
+→ “παρῄνει τοῖς Ἀθηναίοις τοιάδε” T. 6.8; ⇾ he advised the Athenians as follows 
+→ “οὐκ ἂν ἠνώχλει νῦν ἡμῖν” D. 3.5; ⇾ he would not now be troubling us
+→ “ἐμοὶ ὀργίζονται”P. A. 23c; ⇾ they are angry at me
+→ “οὐ φθονῶν τοῖς πλουτοῦσιν” X. A. 1.9.19; ⇾ not cherishing envy against the rich
+→ “ἐπεὶ δὲ ἀπήντησαν αὐτοῖς οἱ στρατηγοί” X. A. 2.3.17; ⇾ but when the generals met them
+→ “περιτυγχάνει Φιλοκράτει” X. H. 4.8.24; ⇾ he meets Philocrates
+§Dat2. Possessor[24]
+With verbs such as γίγνομαι and εἰμί, dative denotes possession, belonging or interest. The person for whom a thing exists is put in the dative.
+→ “ἄλλοις μὲν χρήματά ἐστι, ἡμῖν δὲ ξύμμαχοι ἀγαθοί” Thuc. 1.86; ⇾ others have riches, we have good allies
+→ “τῷ δικαίῳ παρὰ θεῶν δῶρα γίγνεται” P. R. 613e; ⇾ gifts are bestowed upon the just man by the gods
+→ “ὑπάρχει ἡμῖν οὐδὲν τῶν ἐπιτηδείων” X. A. 2.2.11; ⇾ we have no supply of provisions
+§Dat3. Advantage (or Disadvantage)[25]
+The person or thing for (or against) whom an action is done, is put in dative. With verbs which have no sense of advantage or disadvantage, the dative of advantage (or disadvantage) refers to the beneficiary or malefactive.
+→ “στεφανοῦσθαι τῷ θεῷ” X. H. 4.3.21; ⇾ to be crowned in honour of the god
+→ “ἄλλῳ ὁ τοιοῦτος πλουτεῖ, καὶ οὐχ ἑαυτῷ” Plat. Menex. 246e; ⇾ such a man is rich for another, and not for himself
+→ ἐπειδὴ αὐτοῖς οἱ βάρβαροι ἐκ τῆς χώρας ἀπῆλθον T. 1.89; ⇾ after the barbarians had departed (for them, to their advantage) from their country
+→ “ἄλλο στράτευμα αὐτῷ συνελέγετο” X. A. 1.1.9; ⇾ another army was being raised for him
+→ “Φιλιστίδης ἔπραττε Φιλίππῳ” D. 9.59; ⇾ Philistides was working in the interest of Philip
+→ “τὰ χρήματ᾽ αἴτι᾽ ἀνθρωποῖς κακῶν” E. Fr. 632; ⇾ money is a cause of misery to mankind
+→ “Δαναοῖσιν λοιγὸν ἄμυνον” Hom. Il. 1.456; ⇾ ward off ruin from (for) the Danai
+§Dat4. Ethical Dative (or Dative of Feeling)[26]
+ A dative personal pronoun of the first and second person (μοι, ἡμῖν, σοι [or τοί], ὑμῖν) signals the interest of the speaker or the one being spoken to in the action of a statement and may also denote surprise.This dative is very rare in the third person. In many cases, ethical Dative (or Dative of Feeling) is left untranslated.
+→ “τοιοῦτο ὑμῖν ἐστι ἡ τυραννίς” Hdt. 5.92; ⇾ such a thing, you know, is despotism
+→ “μέμνησθέ μοι μὴ θορυβεῖν” P. A. 27b; ⇾ pray remember not to make a disturbance
+→ “ἀμουσότεροι γενήσονται ὑμῖν οἱ νέοι” P. R. 546d; ⇾ your young men will grow less cultivated
+→ “ὦ μῆτερ, ὡς καλός μοι ὁ πάππος” X. C. 1.3.2; ⇾ oh mother, how handsome grandpa is!
+§Dat5. Agent[27]
+With either verbal adjectives ending in -τός and -τέος or passive verbs in the perfect or pluperfect tenses, the dative of agent indicates the person in whose interest an action is done.
+The notion of agency does not belong to the dative, but it is a natural inference that the person interested is the agent. The usual restriction of the dative to tenses of completed action seems to be due to the fact that the agent is represented as placed in the position of viewing an already completed action in the light of its relation to himself (interest, advantage, possession).
+→ “τοσαῦτά μοι εἰρήσθω” Lys. 24.4; ⇾ let so much have been said by me
+→ “ἐμοὶ καὶ τούτοις πέπρακται” D. 19.205; ⇾ has been done by (for) me and these men 
+→ “ἐπειδὴ αὐτοῖς παρεσκεύαστο” T. 1.46; ⇾ when they had got their preparations ready
+→ “τοῖς οἴκοι ζηλωτός” X. A. 1.7.4; ⇾ envied by those at home
+→ “ἡμῖν γ᾽ ὑπὲρ τῆς ἐλευθερίας ἀγωνιστέον” D. 9.70; ⇾ we at least must struggle to defend our freedom 
+§Dat6. Manner and means[28]
+The dative, usually of an abstract substantive, may indicate accompanying circumstance and manner or the means of an action. The datives of manner, means and attendant circumstances are somtimes similar to adverbs, for instance: βίᾳ by force, δίκῃ justly, δόλῳ by craft, (τῷ) ἔργῳ in fact, ἡσυχῇ quietly, σπουδῇ hastily, with difficulty, τῇ ἀληθείᾳ in truth, τῷ ὄντι in reality, ὀργῇ in anger.
+→ “πολλῇ βοῇ προσέκειντο” Thuc. 4.127; ⇾ they attacked with loud shouts
+→ “παντὶ σθένει” Thuc. 5. 23; ⇾ with all one's might
+→ “σιωπῇ ἐδείπνουν” Xen. Sym. 1; ⇾ They ate in silence.
+→ “κατὰ σπουδὴν καὶ πολλῷ θορύβῳ ταῖς μὲν ναυσὶν ἐπὶ τὴν Σαλαμῖνα ἔπλεον” Thuc. 2.94.2; ⇾ Hastily and with much noise they sailed their ships to Salamis.
+→ “βιαίῳ θανάτῳ ἀποθνῄσκειν” X. Hi. 4.3 (= βίᾳ); ⇾ to die (by) a violent death.
+→ “θεῖν δρόμῳ” X. A. 1.8.19; ⇾ to run at full speed
+The dative of price and the dative of material and constituent parts may fall under this category:
+→ “μέρει τῶν ἀδικημάτων τὸν κίνδυνον ἐξεπρίαντο” L. 27.6; ⇾ they freed themselves from the danger at the price of a part of their unjust gains
+→ “κατεσκευάσατο ἅρματα τροχοῖς ἰσχυροῖς” X. C. 6.1.29; ⇾ he made chariots with strong wheels
+→ “ἐζημίωσαν χρήμασιν” Thuc. 2.65; ⇾ they punished him by a fine
+§Dat7. Measure of Difference[29]
+With comparative adjectives, the dative marks the degree by which one thing differs from another. The dative of measure of difference indicates the extent of the difference and is used with comparatives or superlatives and other expressions of comparison.
+→ “κεφαλῇ ἐλάττων P. Ph. 101a; ⇾ a head shorter (lit. by the head) 
+→ “οὐ πολλαῖς ἡμέραις ὕστερον ἦλθεν” X. H. 1.1.1; ⇾ he arrived not many days later 
+→ “ἰόντες δέκα ἡμέραις πρὸ Παναθηναίων” T. 5.47; ⇾ coming ten days before the Panathenaic festival
+→ “πολλῷ μείζων ἐγίγνετο ἡ βοὴ ὅσῳ δὴ πλείους ἐγίγνοντο” X. A. 4.7.23; ⇾ the shouting became much louder as the men increased in number
+→ “μακρῷ ἄριστα” P. L. 858e; ⇾ by far the best
+§Dat8. Instrument[30]
+The dative of instrument expresses the instrument or tool by which or with which an action is done or accompanied. This use of the dative is the representative of the lost instrumental case.
+→ “ἔβαλλέ με λίθοις” L. 3.8; ⇾ he hit me with stone
+→ “ἵησι τῇ ἀξίνῃ” X. A. 1.5.12; ⇾ he hurls his ax at him (hurls with his ax)
+→ “ταῖς μαχαίραις κόπτοντες X. A. 4. 6. 26; ⇾ hacking them with their swords
+→ “φυλαττόμενοι φύλαξι” X. A. 6.4.27; ⇾ defending themselves by pickets 
+§Dat9. Cause or Purpose[31]
+For the dative of purpose (to what end?), a predicate noun is used: 
+“ἐκείνῳ ἡ χώρα δῶρον ἐδόθη” X. H. 3.1.6; ⇾ the country was given to him as a gift
+The dative, especially with verbs of emotion, expresses the occasion (external cause) or the motive (internal cause). The dative of cause sometimes approximates to a dative of purpose.
+ → “Ἀθηναῖοι ἐφ᾽ ἡμᾶς ὥρμηνται Λεοντίνων κατοικίσει” T. 6.33; ⇾ the Athenians have set out against us (with a view to) to restore the Leontines 
+→ “τῇ τύχῃ ἐλπίσας”  T. 3.97; ⇾ confident by reason of his good fortune
+→ “τούτοις ἥσθη” X. A. 1.9.26; ⇾ he was pleased at this
+→ “ἠχθόμεθα τοῖς γεγενημένοις” X. A. 5. 7. 20; ⇾ we were troubled at what had occurred
+→ “φιλίᾳ καὶ εὐνοίᾳ ἑπόμενοι” X. A. 2.6.13; ⇾ following out of friendship and good will
+→ “οἱ μὲν ἀπορίᾳ ἀκολούθων, οἱ δὲ ἀπιστίᾳ” T. 7.75; ⇾ some (carried their own food) because they lacked servants, others through distrust of them
+→ “ὕβρει καὶ οὐκ οἴνῳ τοῦτο ποιῶν” D. 21.74; ⇾ doing this out of insolence and not because he was drunk
+§Dat10. Accompaniment[32]
+The dative of accompaniment is used with verbs signifying to accompany or follow, mainly in military terminology. This meaning of dative is often equivalent to a dative of means outside the context of military terms.
+→ “ἀκολουθεῖν τῷ ἡγουμένῳ” P. R. 474c; ⇾ to follow the leader
+→ “ ἕπεσθαι ὑμῖν βούλομαι” X. A. 3.1.25; ⇾ I am willing to follow you
+→ “ἐξελαύνει τῷ στρατεύματι παντί” X. A. 1.7.14; ⇾ he marches out with all his army 
+An extension of this usage occurs when the persons in the dative are essentially the same as the persons forming the subject (distributive use).
+→ “ἡμῖν ἐφείποντο οἱ πολέμιοι καὶ ἱππικῷ καὶ πελταστικῷ” X. A. 7.6.29; ⇾ the enemy pursued us with their cavalry and peltasts
+§Dat11. Time[33]
+The dative without a preposition is commonly used to express an specific moment or period of time (chiefly day, night, month, year, season) at which an action occurred. The dative contrasts one point of time with another, and is usually accompanied by an attributive. 
+→ “ταύτην μὲν τὴν ἡμέραν αὐτοῦ ἔμειναν, τῇ δὲ ὑστεραίᾳ κτλ.” X. H. 1.1.14; ⇾ throughout that day they waited there, but on the day following, etc.
+→ “τρίτῳ μηνί” L. 21.1; ⇾ in the third month
+→ “περιιόντι τῷ θέρει” T. 1.30; ⇾ when summer was coming to an end
+→ “ἐξηκοστῷ ἔτει” T. 1. 12; ⇾ in the sixtieth year 
+→  “χειμῶνος ὥρᾳ”  And. 1.137; ⇾ in the winter season
+→ “Παναθηναίοις”  D. 21.156; ⇾ at the Panathenaea 
+→ “ταῖς πομπαῖς” D. 21. 171; ⇾ at the processions
+→ “τοῖς τραγῳδοῖς” Aes. 3.176; ⇾ at the representations of the tragedies
+§Dat12. Place[34]
+In poetry the dative without a preposition is used to express the place where a person or thing is or where an action is taking place. In prose, the dative of place is limited to a few place names. This use of the dative is the representative of the lost locative case.
+→ “στὰς μέσῳ ἕρκεϊ” Hom. Il. 16.231; ⇾ taking his stand in the middle of the court 
+→ “γῇ ἔκειτο” S. O. T. 1266; ⇾ she lay on the ground
+→ “ἀριπρεπὴς Τρώεσσιν” Hom. Il. 6. 477; ⇾ conspicuous among the Trojans
+→ “τοῖσι δ᾽ ἀνέστη” Hom. Il. 1.68; ⇾ may be rose up among them (or for them).
+→ “πεδίῳ πέσε” Hom. Il. 5.82; ⇾ fell on the ground
+→ “κολεῷ ἄορ θέο” Hom. Od. 10.302; ⇾ put thy sword into its sheath
+§Dat13. Respect[35]
+The dative of respect indicates a thing in respect to which the verb or adjective is limited and is often nearly equivalent to the accusative of respect. The dative expresses the particular point of view from which a statement is made. 
+→ “ἀσθενὴς τῷ σώματι” Dem. 21.165; ⇾ weak in body
+→ “ἀνὴρ ἡλικίᾳ ἔτι νέος” T. 5.43; ⇾ a man still young in years
+→ “τοῖς σώμασι τὸ πλέον ἰσχύουσα ἢ τοῖς χρήμασιν” T.1.121; ⇾ a power stronger in men than in money
+→ “τῇ φωνῇ τραχύς” X. A. 2.6.9; ⇾ harsh of voice
+→ “φρονήσει διαφέρων” X. C. 2.3.5; ⇾ distinguished in understanding
+→ “τῶν τότε δυνάμει προύχων” T. 1.9; ⇾ superior in power to the men of that time
+→ “ὀνόματι σπονδαί” T. 6.10; ⇾ a truce so far as the name goes 
+§Dat14. Experiencer[36]
+The dative of a noun or pronoun can express the person in whose opinion a statement holds true or a situation or a direction is defined. The dative of experiencer is also common with impersonal verbs expressing emotions, necessity or need.
+→ “γάμους τοὺς πρώτους ἐγάμει Πέρσῃσι ὁ Δαρεῖος”  Hdt. 3.88; ⇾ Darius contracted marriages most distinguished in the eyes of the Persians.
+→ “πᾶσι νικᾶν τοῖς κριταῖς” Ar. Av. 445; ⇾ to be victorious in the judgment of all the judges
+→ “πολλοῖσιν οἰκτρός” S. Tr. 1071; ⇾ pitiful in the eyes of many
+→ “ἔδοξέ τῇ βουλῇ ἢ τῷ δήμῳ ἢ ἀμφοτέροις” Plat. Pha. 258a; ⇾ The council or the people or both decided
+The dative participle, without a noun or pronoun, is frequently used in the singular or plural to denote indefinitely the person judging or observing. This construction is most common with participles of verbs of coming or going and with participles of verbs of considering.
+→ “ἡ Θρᾴκη ἐστὶν ἐπὶ δεξιὰ εἰς τὸν Πόντον εἰσπλέοντι”  X. A. 6.4.1; ⇾ Thrace is on the right as you sail into the Pontus
+→ “ἔλεγον ὅτι ἡ ὁδὸς διαβάντι τὸν ποταμὸν ἐπὶ Λυδίαν φέροι” X. A. 3.5.15; ⇾ they said that, when you had crossed the river, the road led to Lydia
+→ “οὐκ οὖν ἄτοπον διαλογιζομένοις τὰς δωρεὰς νυνὶ πλείους εἶναι;” Aes. 3.179; ⇾ is it not strange, when we reflect, that gifts are more frequent now?
+→ “τὸ μὲν ἔξωθεν ἁπτομένῳ σῶμα οὐκ ἄγαν θερμὸν ἦν” T. 2.49; ⇾ if you touched the surface the body was not very hot
+→ “πρὸς ὠφέλειαν σκοπουμένῳ ὁ ἐπαινέτης τοῦ δικαίου ἀληθεύει” P. R. 589c; ⇾ if you look at the matter from the point of view of advantage, the panegyrist of justice speaks the truth
+Accusative
+§Acc1. Direct Object[37]
+ Accusative is used as the direct object with verbs which take an object.
+→ “τὸν ἄνδρα ὁρῶ” Xen. Anab. 1.8.26; ⇾ I see the man
+→ “πάντες τὸν ἄνδρα ἐπαινοῦσιν” Plat. Prot. 310e; ⇾ Everyone praises the man
+→ “τὴν δυσγένειαν τὴν ἐμὴν αἰσχύνεται” Soph. OT 1079; ⇾ I am ashamed of my lowly descent.
+§Acc2. Cognate[38]
+The cognate accusatives are objects added to specify the nature of the action of the verb and are either etymologically or semantically related to the verb. They can be substantives in the accusative that are of the same origin as the verb (they contain the same stem), or of kindred meaning with the verb (they express the same meaning). In many cases, the cognate accusative is left untranslated to avoid redundancy.
+→ “πολλὴν φλυαρίαν φλυαροῦντα” P. A. 19c; ⇾ talking much nonsense
+→ “ξυνέφυγε τὴν φυγὴν ταύτην” P. A. 21 a; ⇾ he shared in the recent exile
+→ “τὴν ἐν Σαλαμῖνι ναυμαχίαν ναυμαχήσαντες” D. 59.97; ⇾ victorious in the sea-fight at Salamis
+→ “τὰς ὑποσχέσεις ἃς οὗτος ὑπισχνεῖτο” D. 19. 47; ⇾ the promises which he made
+→ “ἡ αἰτία ἣν αἰτιῶνται”Ant. 6.27; ⇾ the charge they bring
+→ “πόλεμος ἐπολεμεῖτο” X. H. 4.8.1; ⇾ war was waged
+→ “πόλεμος ἐταράχθη” D. 18.151; ⇾ war was stirred up
+§Acc3. Subject of Infinitive or Participle[39]
+The accusative can express the subject in an infinitive or participle clause. When the subject of the infinitive is different from that of the governing verb, it stands in the accusative; and a predicate noun stands also in the accusative. When the subject of the infinitive is the same as the subject or object of the governing verb, or when it has already been made known in the sentence, it is rarely repeated with the infinitive. 
+→ “νομίζω γὰρ ὑμᾶς ἐμοὶ εἶναι καὶ πατρίδα καὶ φίλους” X. A. 1.3.6; ⇾ for I think you are to me both fatherland and friends
+→ “τὸν γὰρ καλὸν κἀγαθὸν ἄνδρα εὐδαίμονα εἶναί φημι” P. G. 470e; ⇾ for I maintain that the noble and good man is happy
+→ “οἶμαι ἐμὲ πλείω χρήματα εἰργάσθαι ἢ ἄλλους σύνδυο” P. Hipp. M. 282e; ⇾ I think I have made more money than any two others together
+→ “παρήγγειλε τὰ ὅπλα τίθεσθαι τοὺς Ἕλληνας” X. A. 2.2.21; ⇾ he issued orders that the Greeks should get under arms
+§Acc4. Respect[40]
+The accusative of respect or limitation expresses a thing in respect to which the verb or adjective is limited. The accusative usually expresses a local relation or the instrument. The word restricted by the accusative of respect usually indicates like or similar to, good or better, bad or worse, a physical or a mental quality, or an emotion. The accusative of respect often specifies qualities and attributes (nature, form, size, name, birth, number, etc.), or it may indicate the sphere in general and is added to verbs denoting a state, and to adjectives.
+→ “τυφλὸς τά τ᾽ ὦτα τόν τε νοῦν τά τ᾽ ὄμματ᾽ εἶ” Soph. OT 371; ⇾ you are blind in ears, and mind, and eyes
+→ “ὁ ἄνθρωπος τὸν δάκτυλον ἀλγεῖ” P. R. 462d; ⇾ the man has a pain in his finger
+→ “πόδας ὠκὺς Ἀχιλλεύς” Hom. Il. 1.58; ⇾ swift-footed Achilles
+→ “διαφέρει γυνὴ ἀνδρὸς τὴν φύσιν” P. R. 453b; ⇾ woman differs from man in nature
+→ “πλῆθος ὡς δισχίλιοι” X. A. 4. 2. 2; ⇾ about two thousand in number
+→ “λέξον ὅστις εἶ γένος” E. Bacch. 460; ⇾ tell me of what race thou art
+→ “δεινοὶ μάχην” A. Pers. 27; ⇾ terrible in battle 
+→ “γένεσθε τὴν διάνοιαν”Aes. 3.153; ⇾ transfer yourselves in thought
+§Acc5. Time[41]
+ The accusative of time indicates duration and the extent of time. It implies that the action of the verb covers the entire period. 
+→ “ἔμεινεν ἡμέρας ἑπτά” X. A. 1.2.6; ⇾ he remained seven days
+→ “ξυμμαχίαν ἐποιήσαντο ἑκατὸν ἔτη” T. 3.114; ⇾ they made an alliance for a hundred years
+To mark how long a situation has lasted or how much time has elapsed since something happened, an ordinal is used without the article, but often with the addition of οὑτοσί. The current day or year is included. Thus:
+→ “τὴν μητέρα τελευτήσασαν τρίτον ἔτος τουτί” L. 24.6; ⇾ my mother who died two years ago
+→ “ἐπιδεδήμηκε τρίτην ἤδη ἡμέραν” P. Pr. 309d; ⇾ he has been in the city since day before yesterday
+→ “ἀπηγγέλθη Φίλιππος τρίτον ἢ τέταρτον ἔτος τουτὶ Ἡραῖον τεῖχος πολιορκῶν”D. 3.4; ⇾ this is the third or fourth year since it was announced that Philip was besieging fort Heraeum
+§Acc6. Space[42]
+The accusative of space expresses a space, distance or path. It denotes the space or way over which an action is extended, or the measure of the space traversed.
+→ “ἄγειν (στρατιὰν) στενὰς ὁδούς” X. C. 1.6.43; ⇾ to lead an army over narrow roads
+→ “ἐξελαύνει σταθμοὺς τρεῖς, παρασάγγας εἴκοσι καὶ δύο” X. A. 1.2.5; ⇾ he advances three stages, twenty- two parasangs
+→ “ἀπέχει ἡ Πλάταια τῶν Θηβῶν σταδίους ἑβδομήκοντα” T. 2.5; ⇾ Plataea is seventy stades distant from Thebes
+§Acc7. Direction[43]
+In poetry, the accusative may be used without a preposition to express the goal after verbs of motion.
+→ “ἄστυ Καδμεῖον μολών” S. O. T. 35; ⇾ having come to the city of Cadmus
+→ “πέμψομέν νιν Ἑλλάδα” E. Tro. 883; ⇾ we will convey her to Greece
+Of persons in Homer (especially with ἱκνέομαι, ἵκω, ἱκάνω = reach) and in the lyric parts of the drama: 
+→ “μνηστῆρας ἀφίκετο” Hom. Od. 1.325; ⇾ came unto the suitors
+§Acc8. Adverbial[44]
+Many accusatives marking limitations of the verbal action serve the same function as adverbs. 
+Expressing manner: τρόπον τινά in some way, τίνα τρόπον in what way? τόνδε (τοῦτον) τὸν τρόπον in this way, πάντα τρόπον in every way (also παντὶ τρόπῳ), τὴν ταχίστην (ὁδόν) in the quickest way, τὴν εὐθεῖαν (ὁδόν) straightforward.
+→ “δίκην τοξότου” P. L. 705e; ⇾ like an archer
+→ “ἔπλεε πρόφασιν ἐπ᾽ Ἑλλησπόντου” Hdt. 5.33; ⇾ he sailed professedly for the Hellespont
+Many adverbial accusatives express measure and degree: μέγα, μεγάλα greatly, πολύ, πολλά much, τὸ πολύ, τὰ πολλά for the most part, ὅσον as much as, οὐδέν, μηδέν not at all, τοσοῦτον so much, τὶ somewhat, ἀρχήν or τὴν ἀρχήν at all with οὐ or μή.
+→ “ἐν τῷ παραχρῆμα οὐκ ἔστιν ἀρχὴν ὀρθῶς βουλεύεσθαι”Ant. 5.73; ⇾ it is utterly impossible to deliberate correctly offhand
+§Acc9. Oaths[45]
+The accusative of oath indicates the person or thing by which one swears and is accompanied bythe adverbs of swearing such as μά, οὐ μά, ναὶ μά, νή, or verbs of swearing, ὀμνύναι swear by (τοὺς θεούς, pass. Ζεὺς ὀμώμοται) and swear to (τὸν ὅρκον, pass. ὁ ὅρκος ὀμώμοται).
+→ “ὀμνύω ὑμῖν θεοὺς πάντας καὶ πάσας” Xen. Anab. 6.1.31; ⇾ I swear to you by all the gods and goddesses.
+μά is negative, except when preceded by ναί. μά may stand alone when a negative precedes (often in a question) or when a negative follows in the next clause: 
+→ “μὰ τὸν Ἀπόλλω, οὔκ” Ar. Thesm. 269; ⇾ No, by Apollo
+μά is sometimes omitted after οὐ, and after ναί: 
+→ “οὐ τὸν Ὄλυμπον” S. O. T. 1088; ⇾ by heaven, [you wil] not.
+§Acc10. Double Accusative[46]
+In addition to a direct object, several verbs take a compliment in the accusative. Double accusatives are common with the verbs meaning to do, to demand, to ask, to name or call, to choose, to persuade, etc. The second accusative could also be internal object (see Acc2.).
+→ “ἔλεγε ὅσα ἀγαθὰ Κῦρος Πέρσας πεποιήκοι” Hdt. 3.75.1; ⇾ He recounted how many good things Cyrus had done to the Persians.
+→ “στρατηγὸν αὐτὸν ἀπέδειξε” X. A. 1.1.2; ⇾ he appointed him general
+→ “πατέρα ἐμὲ ἐκαλεῖτε” X. A. 7. 6. 38; ⇾ you were wont to call me father 
+→ “αἱρεῖσθαι αὐτὸν τὸν Ἰνδῶν βασιλέα δικαστήν” X. C. 2.4.8; ⇾ to choose the king of the Indians himself to be arbitrator
+→ “Τιμόθεον στρατηγὸν ἐχειροτόνησαν” X. H. 6.2.11; ⇾ they elected Timotheus general
+→ “ἑαυτὸν δεσπότην πεποίηκεν” X. C. 1.3.18; ⇾ he has made himself master
+→ “ἐὰν ἐμὲ σὸν θεράποντα ποιήσῃ” X. O. 7.42; ⇾ if you make me your servant
+→ “εἰς τοὺς Ἕλληνας σαυτὸν σοφιστὴν παρέχων” P. Pr. 312a; ⇾ showing yourself a sophist before the Greeks
+→ “οὐ τοῦτ᾽ ἐρωτῶ σε” Ar. Nub. 641; ⇾ that's not the question I'm asking you
+→ “τὴν θυγατέρα ἔκρυπτε τὸν θάνατον τοῦ ἀνδρός” L. 32.7; ⇾ he concealed from his daughter her husband's death 
+→ “Κῦρον αἰτεῖν πλοῖα” X. A. 1.3.14; ⇾ to ask Cyrus for boats
+→ “ὑμᾶς τοῦτο οὐ πείθω” P. A. 37a; ⇾ I cannot persuade you of this
+→ “ἀναμνήσω ὑμᾶς καὶ τοὺς κινδύνους” X. A. 3.2.11; ⇾ I will remind you of the dangers also
+§Acc11. Cause or Goal[47]
+The accusative could express the cause as a neuter pronoun indicating a situation. Many of these pronouns are very idiomatic: τί; 'why?, wherefore?' τοῦτο, ταῦτα 'for this reason'. The difference with the accusative of goal is very small.
+→ “ταῦτα δὴ λιποῦσ᾽ ἱκάνω χρυσεοστόλμους δόμους” Aesch. Pers. 159; ⇾ For these reasons I have left the gold-decorated palace.
+→ “τί δέ; … - ἵνα ἤκουσας ἀνδρῶν διαλεγομένων οἳ νῦν σοφώτατοί εἰσι” Plat. Euthyd. 304e; ⇾ Why was that? So that you could hear men who are the wisest at the moment. 
+→ “αὐτὰ ταῦτα ἥκω” P. Pr. 310e; ⇾ for this very reason have I come
+→ “τοῦτ᾽ ἄχθεσθε” X. A. 3.2.20; ⇾ for this reason you are vexed
+With χάριν for the sake of (lit. favour):
+→ “οὐ τὴν Ἀθηναίων χάριν ἐστρατεύοντο” Hdt. 5.99; ⇾ did not engage in the expedition out of good will to the Athenians
+→ “τοῦ χάριν” Ar. Plut. 53; ⇾ for what reason?
+→ “τὴν σὴν ἥκω χάριν” S. Ph. 1413; ⇾ for thy sake I have come
+Vocative
+§Voc1. Exclamations and direct address[48]
+The vocative is used in exclamations and in direct address: 
+→ “ὦ Ζεῦ καὶ θεοί” P. Pr. 310d; ⇾ oh Zeus and ye gods
+→ “ἄνθρωπε” X. C. 2.2.7; ⇾ my good fellow 
+In ordinary conversation and public speeches, the polite ὦ is usually added. Without ὦ the vocative may express astonishment, joy, contempt, a threat, or a warning, etc.:
+→ “ἀκούεις Αἰσχίνη;” D. 18.121; ⇾ d'ye hear, Aeschines? 
+But this distinction is not always observed, though in general ὦ has a familiar tone which was unsuited to elevated poetry.
+
+
+Present
+§Pres1. Present of Continuity[49]
+The present represents a present state, or an action going on at the moment of speaking. The action might have begun before the present time. The present tense has an imperfective aspect and therefore often indicates incomplete actions. It may also indicate immediate future, or likely and certain actions in the near future. In prophecies a future event may be regarded as present.
+→ “ἀληθῆ λέγω” L. 13.72; ⇾ I am telling the truth
+→ “μεταξὺ τὸν λόγον καταλύομεν;” P. G. 505c; ⇾ shall we break off in the middle?
+→ “καὶ εἰ βούλει, παραχωρῶ σοι τοῦ βήματος, ἕως ἂν εἴπῃς” Aes. 3.165; ⇾ and if you wish, I will yield you the floor until you tell us
+→ “ἀπόλλυμαι” Ant. 5.35; ⇾ I am on the verge of ruin
+→ “εἰ αὕτη ἡ πόλις ληφθήσεται, ἔχεται καὶ ἡ πᾶσα Σικελία” T. 6.91; ⇾ if this city is taken, the whole of Sicily as well is in their power
+→ “χρόνῳ ἀγρεῖ Πριάμου πόλιν ἅδε κέλευθος” A. Ag. 126; ⇾ in time this expedition will capture Priam's city
+§Pres2. Customary Action (Iterative)[50]
+The present is used to express a customary or repeated action: 
+→ “οὗτος μὲν γὰρ ὕδωρ, ἐγὼ δ᾽ οἶνον πίνω” D. 19.46; ⇾ for this man drinks water, whereas I drink wine
+The present indicative may also indicate a general Truth and could be used to express an action that is true for all time. The present is an absolute tense in such sentences. The future, aorist, and perfect may also express a general truth.
+→ “τὰ δὶς πέντε δέκα ἐστίν” Xen. Mem. 4.4.7; ⇾ two times five is ten
+→ “ἄγει δὲ πρὸς φῶς τὴν ἀλήθειαν χρόνος” Men. Sent. 11; ⇾ time brings the truth to light
+§Pres3. Conative Present[51]
+The present may express an action begun, attempted, or intended. The idea of attempt or intention is an inference from the context and lies in the present only so far as the present does not denote completion.
+→ “τὴν δόξαν ταύτην πείθουσιν ὑμᾶς ἀποβαλεῖν” I. 6.12; ⇾ they are trying to persuade you to throw away this renown
+→ “δίδωμί σοι αὐτὴν ταύτην γυναῖκα” X. C. 8.5.19; ⇾ I offer you this woman herself as a wife
+→ “προδίδοτον τὴν Ἑλλάδα” Ar. P. 408; ⇾ they are trying to betray Greece
+§Pres4. Historical Present[52]
+In lively or dramatic narration, the present is used to represent a past action as going on at the moment of speaking or writing. The historical present may represent either the descriptive imperfect or the narrative aorist. This use does not occur in Homer.
+→ ὁ δὲ Θεμιστοκλῆς φεύγει ἐς Κέρκυραν . . . διακομίζεται ἐς τὴν ἤπειρον” T. 1.136; ⇾ Themistocles fled (flees) to Corcyra . . . was (is) transported to the mainland
+Closely connected with the historical present is the annalistic present, which is used to register historical facts or to note incidents.
+→ “Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο” X. A. 1.1.1; ⇾ of Darius and Parysatis were (are) born two sons 
+→ “καὶ ὁ ἐνιαυτὸς ἔληγεν, ἐν ᾧ Καρχηδόνιοι αἱροῦσι δύο πόλεις Ἑλληνίδας” X. H. 1.1.37; ⇾ and the year came to an end in which the Carthaginians captured two Greek cities
+§Pres5. Resultative and Perfective Present[53]
+The present of certain verbs often expresses an enduring result, and may be translated by the perfect: ἀδικῶ I am guilty (ἄδικός εἰμι), I have done wrong, νικῶ, κρατῶ, I am victorious, I have conquered, ἡττῶμαι I am conquered, φεύγω I am the defendant or I am an exile, προδίδωμι I am a traitor, ἁλίσκομαι I am captured, στέρομαι I am deprived, γίγνομαι I am a descendant.
+The perfective present is common with verbs of hearing, saying, learning, whose action commenced in the past, but whose effect continues into the present. The present tense with telic verbs has a resultative meaning, such as ἥκω I am come, I have arrived, οἴχομαι I am gone, etc. The present may also indicate an action begun in the past and continued in the present. This use of present tense is accompanied by a definite or indefinite expression of past time. 
+→ “Θεμιστοκλῆς ἥκω παρὰ σέ” T. 1.137; ⇾ I Themistocles have come to you
+→ “οἶδα ὅπῃ οἴχονται” X. A. 1.4.8; ⇾ I know where they have gone
+→ “πάλαι θαυμάζω” P. Cr. 43b; ⇾ I have been long (and am still) wondering 
+→ “ἐξ ὧν ἀκούω” X. A. 1.9.28; ⇾ from what I hear (have heard)
+→ “ὅπερ λέγω” P. A. 21a; ⇾ as I said
+§Pres6. Non-indicative (Imperfective Aspect)[54]
+The tenses of the moods other than the indicative rarely have relative temporal value, however, they express the grammatical aspect of the verb. The aspect of a verb indicates how an action extends over time and the way it is presented. For instance, It may present an action as a complete whole, or an incomplete, ongoing process. The present stem has an imperfective aspect, generally expressing actions as ongoing or repeated.
+With subjunctive: 
+→ “τὰ αὑτῶν ἅμα ἐκποριζώμεθα” T. 1.82; ⇾ let us at the same time keep developing our resources
+With optative:
+→ “πλούσιον δὲ νομίζοιμι τὸν σοφόν” P. Phae. 279b; ⇾ may I (always) count the wise man wealthy
+With Imperative, implying continuance: 
+→ “τοὺς γονεῖς τἱμα” I. 1.16; ⇾ honour thy parents
+→ “πάντα τἀληθῆ λέγε” L. 1.18; ⇾ tell (go on and tell in detail) the whole truth
+→ “τοὺς ἵππους ἐκείνοις δίδοτε” X. C. 4.5.47; ⇾ offer the horses to them
+With Participles: The present participle denotes that an action is in process, is attempted, or is repeated. The action is generally coincident (rarely antecedent or subsequent) to that of the leading verb.
+→ “ἐργαζόμεναι μὲν ἠρίστων, ἐργασάμεναι δὲ ἐδείπνουν” X. M. 2.7.1; ⇾ the women took their noonday meal while they continued their work, but took their supper when they had stopped work
+→ “οἱ Κορίνθιοι μέχρι τούτου προθύμως πράσσοντες ἀνεῖσαν τῆς φιλονεικίας” T. 5.32; ⇾ the Corinthians, who up to that time had been acting zealously, now slackened in their vehemence
+With infinitives: 
+→ “οὐδὲ βουλεύεσθαι ἔτι ὥρα, ἀλλὰ βεβουλεῦσθαι” P. Cr. 46a; ⇾ it is time no longer to be making up one's mind, but to have it made up”
+
+
+Imperfect
+§Impf1. Imperfect of Continuance[55]
+The imperfect represents an action as ongoing in the past. 
+→ “διέφθειραν Ἀθηναίων πίντε καὶ εἴκοσι, οἳ ξυνεπολιορκοῦντο” T. 3.68; ⇾ they put to death twenty-five of the Athenians who were besieged (i.e. from the beginning to the end of the siege) 
+→ “ἐβασίλευεν Ἀντίοχος” T. 2.80; ⇾ Antiochus was reigning
+The imperfect of verbs of sending, going, saying, exhorting, etc., which imply continuous action, is often used where one might expect the aorist of concluded action. Thus, in ἔπεμπον, the action is regarded as unfinished since the goal is not reached.
+→ “ἄγγελον ἔπεμπον καὶ τοὺς νεκροὺς ὑποσπόνδους ἀπέδοσαν” T. 2.6; ⇾ they sent a messenger and surrendered the dead under a truce 
+With a negative, the imperfect often denotes resistance or refusal (would not or could not), while the negative aorist denotes unrestricted denial of a fact.
+→ “τὴν πρόκλησιν οὐκ ἐδέχεσθε” T. 3.64; ⇾ you would not accept the proposal (compare to: τὴν ἱκετείαν οὐκ ἐδέξαντο T.1. 24; ⇾ they did not receive the supplication) 
+→ “ὁ μὲν οὐκ ἐγάμει, ὁ δὲ ἔγημεν” D. 44.17; ⇾ the one would not marry, the other did
+→ “οὐδὲ φωνὴν ἤκουον, εἴ τις ἄλλο τι βούλοιτο λέγειν” D. 18.43; ⇾ they would not even listen to a syllable if ever any one wished to say anything to the contrary
+§Impf2. Customary Action (Iterative)[56] 
+The imperfect is used to express frequently repeated or customary past actions. ἄν may be used with this imperfect to express the repetition emphatically. Homer and Herodotus have iterative imperfects and aorists stems in -σκον and -σκομην denoting a customary or repeated past action. 
+→ “ἐπεὶ εἶδον αὐτὸν οἵπερ πρόσθεν προσεκύνουν, καὶ τότε προσεκύνησαν” X. A. 1.6.10; ⇾ when they caught sight of him, the very men who before this were wont to prostrate themselves before him, prostrated themselves on this occasion also
+→ “(Σωκράτης) τοὺς ἑαυτοῦ ἐπιθυμοῦντας οὐκ ἐπράττετο χρήματα” X. M. 1.2.5; ⇾ Socrates was not in the habit of demanding money from those who were passionately attached to him
+→ “ἐπεθύμει ἄν τις ἔτι πλείω αὐτοῦ ἀκούειν” X. C. 1.4.3; ⇾ people would (used to) desire to hear still more from him 
+→ “διηρώτων ἄν” P. A. 22b; ⇾ I used to ask
+§Impf3. Conative Imperfect[57]
+The imperfect may express an action attempted, intended, or expected in the past that eventually did not occur. The conative imperfect is used with telic verbs.
+→ “ἔπειθον αὐτούς, καὶ οὓς ἔπεισα, τούτους ἔχων ἐπορευόμην” X. C. 5.5.2; ⇾  I tried to persuade them, and I marched away with those whom I succeeded in persuading
+→ “Ἁλόννησον ἐδίδου: ὁ δ᾽ ἀπηγόρευε μὴ λαμβάνειν” Aes. 3.83; ⇾ Philip offered (proposed to give) Halonnesus, but he (Demosthenes) dissuaded them from accepting it
+→ “Θηβαῖοι κατεδουλοῦντ᾽ αὐτούς” D. 8.74; ⇾ the Thebans tried to enslave them
+→ “ἠπείγοντο ἐς τὴν Κέρκυραν” T. 4.3; ⇾ they were for pushing on to Corcyra
+§Impf4. Imperfect of Completed Action[58]
+The imperfect with telic verbs[a] draws attention toward the consequences of the action, while the present of these verbs suggests that the action is not completed yet. Thus, ἧκον I had come (rarely I came), ᾠχόμην I had departed, as ἐνίκων I was victorious, ἡττώμην I was defeated.
+→ “ὃ μὲν δή σφι τὰ ἐντεταλμένα ἀπήγγελλε, τοῖσι δὲ ἕαδε μὲν βοηθέειν Ἀθηναίοισι ...” Hdt. 6.106; ⇾ He delivered the message he had been ordered to say, and they resolved to send help to the Athenians
+→ “(Ὀλύμπια) οἷς Ἀνδροσθένης παγκράτιον ἐνίκα” T. 5.49; ⇾ the Olympic games, at which Androsthenes was the victor (= had won) in the pancratium
+→ “τὸ πλοῖον ἧκεν, ἐν ᾧ ἐπλέομεν” Ant. 5.29; ⇾ the vessel arrived in which we (had) sailed
+§Impf5. Imperfect of Description[b][59]
+The imperfect can explain the background circumstances under which an action has taken place. It describes manners and customs; the situation, circumstances, and details of events; and the development of actions represented as continuing in past time. The imperfect[c] often has a dramatic or panoramic force: it enables the reader to follow the course of events as they occurred, as if he were a spectator of the scene depicted.
+→ “εὐθὺς ἀνεβόησάν τε πάντες καὶ προσπεσόντες ἐμάχοντο, ἐώθουν, ἐωθοῦντο, ἔπαιον, ἐπαίοντο” X. C. 7. 1. 38; ⇾ immediately all raised a shout and falling upon each other fought, pushed and were pushed, struck and were struck
+→ “ἐπεὶ δὲ ταῦτα ἐρρήθη, ἐπορεύοντο: τῶν δὲ ἀπαντώντων οἱ μὲν ἀπέθνῃσκον, οἱ δὲ ἔφευγον πάλιν εἴσω, οἱ δὲ ἐβόων” X. C. 7. 5. 26; ⇾ and when these words had been spoken, they proceeded to advance; and of those who met them some were killed, others fled back indoors, and others shouted
+In descriptions of places and scenery and in other statements of existing facts the imperfect is often used by assimilation to the time of the narrative (usually set forth in the main verb).
+→ “ἀφίκοντο ἐπὶ τὸν ποταμὸν ὃς ὥριζε τὴν τῶν Μακρώνων χώραν καὶ τὴν τῶν Σκυθηνῶν” X. A. 4.8.1; ⇾ they came to the river which divided the country of the Macrones from that of the Scytheni
+→ “ἐξελαύνει ἐπὶ ποταμὸν πλήρη ἰχθύων, οὓς οἱ Σύροι θεοὺς ἐνόμιζον” X. A. 1. 4. 9; ⇾ he marched to a river full of fish, which the Syrians regarded as gods 
+The imperfect may refer to a topic previously discussed. This is called the philosophical imperfect: 
+→ “ἦν ἡ μουσικὴ ἀντίστροφος τῆς γυμναστικῆς εἰ μέμνησαι” P. R. 522a; ⇾ music is (as we have seen) the counterpart of gymnastics, if you remember the discussion 
+§Impf6. Imperfect of Consecutive Action[60]
+The imperfect may refer to an action that immediately follows another action. This use of imperfect is sometimes referred to as inchoative or inceptive imperfect; however, this use of imperfect does not exactly refer the beginning point of an action , but it expressses the action in process.
+→ “ἐπειδὴ δὲ καιρὸς ἦν, προσέβαλλον” T. 7.51; ⇾ but when the proper time arrived, they began an (proceeded to) attack
+ → “ὡς δὲ πορευομένων ἐξεκύμαινέ τι τῆς φάλαγγος, τὸ ὑπολειπόμενον ἤρξατο δρόμῳ θεῖν: καὶ ἅμα ἐφθέγξαντο πάντες οἷον τῷ Ἐνυαλίῳ ἐλελίζουσι, καὶ πάντες δὲ ἔθεον” X. A. 1.8.18; ⇾ And when, as they proceeded, a part of the phalanx billowed out, those who were thus left behind began to run; at the same moment they all set up the sort of war-cry which they raise to Enyalius, and next, they were all running.
+
+
+
+
+Future
+§Fut1. Future Events or Expectations[61]
+The future denotes an action that will take place at some future time. The future tense indicates that according to the opinion, expectation, hope, fear, or purpose of the speaker or the agent, the action would happen in the future. Depending on the context, the action of the future could be both continuative (like the present) or, similar to the aorist, express simple attainment. For instance, πείσω means I shall try to persuade , or I shall convince (resultative), βασιλεύσω I shall be king, shall reign or I shall become king (ingressive).
+→ “λήψεται μισθὸν τάλαντον” X. A. 2.2.20; ⇾ he shall receive a talent as his reward
+→ “Θηβαῖοι ἔχουσι μὲν ἀπεχθῶς, ἔτι δ᾽ ἐχθροτέρως σχήσουσιν” T. 5.18; ⇾ the Thebans are hostile and will become still more so
+§Fut2. Hypothesis or General Truth[62]
+The future may be used to express an action possible in the moment of speaking, hypothetical scenarios, inferences, or present intention. In this sense, instead of indicating that the action would happen in the actual future, the future tense implies that the statement could be verified in the future.
+→ “εὑρήσομεν τοὺς φιλοτίμους τῶν ἀνδρῶν . . . ἀντὶ τοῦ ζῆν ἀποθνῄσκειν εὐκλεῶς αἱρουμένους” I. 9.3; ⇾ we shall find that ambitious men choose a glorious death in preference to life”
+→ “αἶρε πλῆκτρον, εἰ μαχεῖ” Ar. Av. 759; ⇾ raise your spur if you mean to fight
+→ “τί λέξεις;” E. Med. 1310; ⇾ what do you mean?
+The future may indicate a general truth (also known as gnomic future).
+→ “ἀνὴρ ἐπιεικὴς υἱὸν ἀπολέσας ῥᾷστα οἴσει τῶν ἄλλων P. R. 603e; ⇾ a reasonable man, if he loses a son, will (is expected to) bear it more easily than other men 
+The future tense in commonly used in deliberative questions: 
+→ “τί ἐροῦμεν ἢ τί φήσομεν; D. 8.37; ⇾ what shall we say or what shall we propose?
+§Fut3. Jussive Future[63]
+The future in the second person may function similar to the imperative, and express an urgent command, prohibition, concession or permission. The tone of the jussive future is generally familiar. In combination with οὐ μή , it indicates urgent prohibition. This use of the future tense is post-homeric.
+→ “ὣς οὖν ποιήσετε” P. Pr. 338a; ⇾ you will do thus 
+→ “ἀναγνώσεται τὸν νόμον—ἀναγίγνωσκε D. 24.39; ⇾ the clerk will read the law—read
+→ “αὐτὸς γνώσει” P. Phil. 12a; ⇾ you will judge for yourself
+→ “σπουδὴ ἔσται τῆς ὁδοῦ” T. 7.77; ⇾ you will have to hurry on the march
+→ “ὑμεῖς οὖν, ἐὰν σωφρονῆτε, οὐ τούτου ἀλλ᾽ ὑμῶν φείσεσθε X. H. 2.3.34; ⇾ now, if you are wise, you will spare, not him, but yourselves
+§Fut4. Non-indicative[64]
+The tenses of the moods other than the indicative rarely have relative temporal value, however, they express the grammatical aspect of the verb. The aspect of a verb indicates the way an action extends over time and the way it is presented. For instance, It may present an action as a complete whole, or an incomplete, ongoing process. The future stem does not have an aspectual value, meaning that it is neutral and make no distinction between completed or imperfect actions.
+With participles (chiefly voluntative): 
+→ “οὐ συνήλθομεν ὡς βασιλεῖ πολεμήσοντες” X. A. 2.3.21; ⇾ we have not come together for the purpose of waging war with the king
+With infinitives: When the context shows that stress is laid on the idea of futurity, the future infinitive, referring to future time relative to the main verb, is sometimes used instead of the present or aorist.
+→ “οὐκ ἀποκωλύσειν δυνατοὶ ὄντες” T. 3.28; ⇾ not being able to prevent
+→ “πολλοῦ δέω κατ᾽ ἐμαυτοῦ ἐρεῖν” P. A. 37b; ⇾ I am far from intending to speak to my own disadvantage
+Aorist
+§Aor1. Resultative Aorist[65]
+The aorist expresses the mere occurrence of an action in the past. The action is regarded as an event or single fact without reference to the length of time it occupied. As a narrative tense it is often used to state the chief events and facts, while the other past tenses set forth subordinate actions and attendant circumstances. In contrast to the imperfect (and present) the aorist denotes the result, end, or effect of an action.
+→ “ἐνίκησαν οἱ Κερκυραῖοι καὶ ναῦς πέντε καὶ δέκα διέφθειραν” T. 1.29; ⇾ the Corcyraeans were victorious and destroyed fifteen ships
+→ “σκοποὺς δὲ καταστήσας συνέλεξε τοὺς στρατιώτας καὶ ἔλεξεν” X. A. 6.3.11; ⇾ and after he posted watchers he called the troops together and spoke as follows
+The same verb may be a resultative aorist or an ingressive aorist; for instance, ἔβαλον I let fly a missile (ingressive), and I hit (resultative); κατέσχον I got possession of (ingressive), and I kept back (resultative).
+§Aor2. Ingressive Aorist[66]
+The aorist of verbs whose present denotes a state or a continued action, expresses the entrance into that state or the beginning of that action. The ingressive aorist is used with atelic verbs, particularly with stative verbs and indicates the beginning of a state; for instance, ἄρχω rule: ἦρξα became ruler, βασιλεύω am king, rule: ἐβασίλευσα became king, ascended the throne, or νοσῶ am ill: ἐνόσησα fell ill.
+→ “καί οἱ πάντα τε ἐκεῖνα διδοῖ καὶ πρὸς ἕτερα δωρέεται οὐκ ἐλάσσω ἐκείνων. οὕτω μὲν ἐπλούτησε ἡ οἰκίη αὕτη μεγάλως” Hdt. 6.125; ⇾ and he gave him all those things and gifted him much more again, thus the family grew very rich
+→ “Πεισιστράτου τελευτήσαντος Ἱππίας ἔσχε τὴν ἀρχήν” T. 6.54; ⇾ when Peisistratus died Hippias succeeded to his power 
+§Aor3. Complexive Aorist[67]
+The complexive aorist is used to survey at a glance the course of a past action from beginning to end and often is accompanied with an expression of the duration. It may sum up the result of a preceding narrative. This is often called the concentrative aorist, because it concentrates the entire course of an action to a single point. 
+→ “τούτῳ τῷ τρόπῳ τὴν πόλιν ἐτείχισαν” T. 1.93; ⇾ it was in this manner that they fortified the city 
+→ “τέσσαρα καὶ δέκα ἔτη ἐνέμειναν αἱ σπονδαί” T. 2.2; ⇾ the peace lasted fourteen years
+→ “ὀλίγον χρόνον ξυνέμεινεν ἡ ὁμαιχμία” T.1. 18; ⇾ the league lasted a short time
+→ “ἐνταῦθα ἔμεινε Κῦρος ἡμέρας τριάκοντα” X. A. 1.2.9; ⇾ Cyrus remained thirty days there
+§Aor4. Gnomic Aorist[68] 
+Gnomic aorist (γνώμη maxim, proverb) indicates a general truth. This use of the aorist does not seem to simply states a past occurrence, but it expresses habits, general tendencies, procedures, or typical events.
+→ “παθὼν δέ τε νήπιος ἔγνω” H.WD.218; ⇾ a fool learns by experience
+→ “κάλλος μὲν γὰρ ἢ χρόνος ἀνήλωσεν ἢ νόσος ἐμάρανε” I. 1.6; ⇾ for beauty is either wasted by time or withered by disease
+Akin to the gnomic aorist is the aorist employed in general descriptions, imaginary scenes and in descriptions of manners and custom. The aorist is used in similes in poetry, and usually contains the point of comparison.
+→ “ἐπειδὰν ἀφίκωνται οἱ τετελευτηκότες εἰς τὸν τόπον, οἷ ὁ δαίμων ἕκαστον κομίζ πρῶτον μὲν διεδικάσαντο οἵ τε καλῶς καὶ ὁσίως βιώσαντες καὶ οἱ μή” P. Ph. 113d; ⇾ when the dead reach the place whither each is severally conducted by his genius, first of all the have judgment pronounced upon them as they have lived well and devoutly not  
+→ “φᾶρος δὲ αὐτημερὸν ἐξυφήναντες οἱ ἱρέες κατ᾽ ὦν ἔδησαν ἑνὸς ἑωυτῶν μίτρῃ τοὺς ὀφθαλμούς” Hdt. 2.122; ⇾ after having woven a mantle on the same day the pries bind the eyes of one of their number with a snood
+→ “ἤριπε δ᾽ ὡς ὅτε τις δρῦς ἤριπεν” Hom. Il. 16.477; ⇾ he fell as falls an oak
+§Aor5. Suggestive Questions and Requests[69]
+The aorist is used in questions with τί οὖν ου and τί οὐ to express surprise that something has not been done. The question is here equivalent to a command or a suggestion.
+→ “τί οὖν οὐχὶ καὶ σὺ ὑπέμνησάς με;” X. Hi. 1.3; ⇾ why don't you recall it to my mind?
+→ “τί οὖν οὐ διηγήσω ἡμῖν τὴν συνουσίαν, εἰ μή σέ τι κωλύει…” P. Pr. 310a; ⇾ let us hear your account of the conversation at once, if nothing prevents you
+§Aor6. Customary Action (Iterative)[70]
+The aorist with ἄν may indicate repetitions and habits. Additionally, Homer and Herodotus have iterative imperfects and aorists in -σκον and -σκομην denoting a customary or repeated past action. Homer has iterative forms in the imperfect and 1 and 2 aorist active and middle. Herodotus has no iteratives in the 1 aorist and few in the 2 aorist.
+→ “εἶπεν ἄν” X. C. 7.1.14; ⇾ he used to say 
+→ “ἂν ἔλεξεν” X. C. 7.1.10; ⇾ he was wont to say
+→ “οὐ μὲν γάρ τι φύγεσκε βαθείης βένθεσιν ὕλης κνώδαλον, ὅττι δίοιτο” Hom. Od. 17.316; ⇾ no creature that he started in the depths of the thick wood could escape him
+§Aor7. Dramatic Aorist[71]
+The first person singular of the aorist is used in the answers and reactions in tragedy and comedy, often indicating a state of mind or an act expressing a state of mind (especially approval or disapproval) occurring to the speaker in the moment just passed. The  dramatic aorist is sometimes called instantaneous aorist.
+→ “ἥσθην, ἐγέλασα” Ar. Eq. 696; ⇾ I am delighted, I can't help laughing
+→ “ἐδεξάμην τὸ ῥηθέν” S. El. 668; ⇾ I welcome the omen 
+Sometimes this use appears outside of dialogue:
+→ “ἀπέπτυσα” A. Pr. 1070; ⇾ I spurn
+§Aor8. Non-indicative (Perfective Aspect)[72]
+The tenses of the moods other than the indicative rarely have relative temporal value, however, they express the aspect of the verb. The aspect of a verb indicates the way an action extends over time and the way it is presented. For instance, It may present an action as a complete whole, or an incomplete, ongoing process. The aorist has a perfective aspect, presenting the verb as completed, or an uninterrupted whole.
+With Subjunctive:
+→ “πορισώμεθα οὖν πρῶτον τὴν δαπάνην” T. 1.83; ⇾ let us procure the money first
+With optative:
+→ “εἰ γὰρ γένοιτο” X. C. 6.1.38; ⇾ would that it might happen
+With imperatives, indicating simple occurrence: 
+→ “βλέψον πρὸς τὰ ὄρη” X. A. 4.1.20; ⇾ look (cast a glance) toward the mountains 
+→ “ἡμῖν τοὺς ἵππους δότε” X. C. 4.5.47; ⇾ give the horses to us
+With Infinitives:
+→ “τοῦ πιεῖν ἐπιθυμία” T. 7.84; ⇾ the desire of obtaining drink
+→ “ἤρξατο γενέσθαι” T. 1. 103; ⇾ began to be 
+With Participles:
+→ “δειπνήσας ἐχώρει” T. 3.112; ⇾ after supper he advanced
+→ “τοὺς ἐλευθέρους ἀποκτείναντες ἀνεχώρησαν” T. 5. 83; ⇾ after killing the free men they withdrew
+→ “ἐπομόσας ἔφη” X. C. 4.1.23; ⇾ he took an oath and said
+→ “Σάτυρος καὶ Χρέμων, οἱ τῶν τριάκοντα γενόμενοι, Κλεοφῶντος κατηγόρουν” L. 30.12; ⇾ Satyrus and Chremon, who (afterwards) became members of the Thirty, accused Cleophon
+Perfect
+§Perf1. Completed action[73]
+The perfect denotes a completed action the effects of which still continue in the present: 
+→ “τὰ οἰκήματα ᾠκοδόμηται” X. O. 9.2; ⇾ the rooms have been constructed (their construction is finished) 
+→ “τὰς πόλεις αὐτῶν παρῄρηται” D. 9.26; ⇾ he has taken away (and still holds) their cities 
+→ “τί βουλεύεσθον ποιεῖν; οὐδέν, ἔφη ὁ Χαρμίδης, ἀλλὰ βεβουλεύμεθα” P. Charm. 176c; ⇾ what are you conspiring to do? Nothing, said Charmides; we have already conspired
+“ἐφοβήθην, καὶ ἔτι καὶ νῦν τεθορύβημαι” Aes. 2.4; ⇾ I was struck with fear, and even at the present moment am still in a state of agitation
+When the perfect marks the enduring result rather than the completed act, it may not indicate any clear reference to the preceding action; for instance, κέκλημαι (have received a name) am called, my name is, κέκτημαι (have acquired) possess, μέμνημαι (have recalled) remember, τέθνηκα (have passed away) am dead, οἶδα (have found out) know. These are often translated to a present tense and therefore, they are sometimes called “perfect with present meaning”; however, they are not fundamentally different from other perfect verbs.
+§Perf2. Intensive Perfect[74]
+The perfects tense with atelic verbs may indicate an emphasis of the degree of the state expressed by the verb. These are often called intensive perfects. Such are: verbs of the senses (δέδορκα gaze, πέφρικα shudder), of sustained sound (κέκραγα bawl, λέληκα shout, βέβρυχα roar), of emotion (πεφόβημαι am filled with alarm, γέγηθα am glad, μέμηλε cares for), of gesture (κέχηνα keep the mouth agape), and many others (σεσίγηκα am still, etc.).
+→ “πολλὰ δὲ θαυμάζων τῶν εἰωθότων λέγεσθαι παρ᾽ ὑμῖν, οὐδενὸς ἧττον, ὦ ἄνδρες Ἀθηναῖοι, τεθαύμακα, ὃ καὶ πρώην τινὸς ἤκουσ᾽ εἰπόντος ἐν τῇ βουλῇ” Dem. 8.4; ⇾ I often wonder at the sort of speeches that are delivered here, but nothing, men of Athens, has surprised me more than what I heard uttered in the Council the other day
+With certain telic verbs, the perfect tense may emphasize the responsibility of the subject for the results of the verb. 
+→ “γέγραφε δὲ καὶ ταῦτα ὁ αὐτὸς Θουκυδίδης Ἀθηναῖος” T. 5.26; ⇾ the same Thucydides of Athens is the author of this a well.
+§Perf3. Perfect for Future Perfect[75]
+The perfect may be used instead of the future perfect to anticipate an action that has not occurred yet; however, it is presented as already having had an effect . This use of the perfect tense is sometimes called the rhetorical perfect.
+→ “κἂν τοῦτο νικῶμεν, πάνθ᾽ ἡμῖν πεποίηται” X. A. 1.8.12; ⇾ and if we conquer in that quarter, everything has been (will have been) accomplished by us
+Especially with the phrase τὸ ἐπί τινι, the perfect anticipates the certain occurrence of an event: 
+→ “τὸ ἐπὶ τούτῳ ἀπολώλαμεν” X. A. 6.6.23; ⇾ for all he could do, we had perished
+§Perf4. Non-indicative[76]
+The tenses of the moods other than the indicative rarely have relative temporal value, however, they express the aspect of the verb. The aspect of a verb indicates the way an action extends over time and the way it is presented. For instance, It may present an action as a complete whole, or an incomplete, ongoing process. The perfect in non-indicative verbs presents the action as a state and emphasizes on the effect or results of an action that has already happened. 
+With subjunctive:
+→ “ἵνα, ἢν μὴ ὑπακούωσι, τεθνήκωσιν” T. 8.74; ⇾ that, in case they do not submit, they may be put to death (lit. may be dead at once) 
+With optative: In the optative, the reference is always to future time. The tenses do not refer to differences of time, and denote only the stage of the action.
+→ “τεθναίης ὦ Προῖτ᾽, ἢ κάκτανε Βελλεροφόντην” Hom. Il. 6.164; ⇾ either die thyself, Proetus, or slay Bellerophon
+With Imperative, indicating completion with permanent result: 
+→ “Τετάχθω” P. R. 562a; ⇾ let him take his place (and stay there) 
+→ “εἰρήσθω” P. R. 503b; ⇾ let it have been said (once for all)
+With infinitives, Often of certainty of action:
+→ “οὐδὲ βουλεύεσθαι ἔτι ὥρα, ἀλλὰ βεβουλεῦσθαι” P. Cr. 46a; ⇾ it is time no longer to be making up one's mind, but to have it made up
+With Participles:
+→ “καταλαμβάνουσι Βρασίδαν ἐπεληλυθότα” T. 3.69; ⇾ they found (historical present) that Brasidas had arrived
+A perfect participle may have the force of a pluperfect if accompanied by an adverb like πρόσθεν: 
+→ “ὁ πρόσθε κεκτημένος” S. Ph. 778; ⇾ he who possessed it before
+
+
+Pluperfect
+§Pluperf1. Past Perfect[77]
+The pluperfect is the past of the perfect, therefore, it indicates a past fixed state resulting from a completed action. Unlike many other languages, Greek does not necessarily need to use pluperfect for expressing an action that happened prior to an aforementioned time in the past, and  it can use the aspectual value of other past tenses for this purpose. The pluperfect expresses absolute tense.
+→ “ἦλθον οἱ Ἰνδοὶ ἐκ τῶν πολεμίων οὓς ἐπεπόμφει Κῦρος ἐπὶ κατασκοπήν” X. C. 6.2.9; ⇾ the Indians returned whom Cyrus had sent to get news of the enemy 
+Similar to imperfect, the pluperfect is also used for describing the background circumstances of an action:
+→ “φθάνουσι τῶν Πλαταιῶν καὶ οἱ ὕστατοι διαβάντες τὴν τάφρον, χαλεπῶς δὲ καὶ βιαίως: κρύσταλλός τε γὰρ ἐπεπήγει οὐ βέβαιος ἐν αὐτῇ ὥστ᾽ ἐπελθεῖν, … καὶ ἡ νὺξ … ὑπονειφομένη πολὺ τὸ ὕδωρ … ἐπεποιήκει” T. 3.23; ⇾ even the last of Plataeans got over the ditch, though not without effort and difficulty; as ice had formed in it, not strong enough to walk upon, and the snow that had fallen during the night, had made the water deep
+§Pluperf2. Pluperfect of Immediate Occurrence[78]
+The pluperfect may denote that a past action occurred so immediately or suddenly that it was accomplished almost at the same moment as another action.
+→ “ὡς δὲ ἐλήφθησαν, ἐλέλυντο αἱ σπονδαί” T. 4.47; ⇾ and when they were captured the truce was (already) at an end (the fact of their capture was equivalent to the immediate rupture of the truce).
+→ “ἐπεὶ δ᾽ ἅπαξ ἤρξαντο ὑπείκειν, ταχὺ δὴ πᾶσα ἡ ἀκρόπολις ἔρημος τῶν πολεμίων ἐγεγένητο” X. H. 7.2.9; ⇾ And when they had once begun to give way, speedily the whole Acropolis had become bare of the enemy
+§Pluperf3. Intensive Pluperfect[79]
+Similar to the perfect tense, pluperfect with certain atelic verbs such as φοβέομαι or θαυμάζω might indicate an intensive interpretation.
+→ “ἔξω … οἱ τῶν Ἀρκάδων ὁπλῖται παντάπασιν οὐκ ἀντεξῇσαν: οὕτω τοὺς πελταστὰς ἐπεφόβηντο” X. H. 4.4.16; ⇾ the hoplites of the Arcadians did not come out at all to meet them; such fear they felt for the peltasts
+
+
+Future Perfect
+§Futperf1. Future Completed Action[80]
+The future perfect denotes a future state resulting from a completed action: ἀναγεγράψομαι I shall stand enrolled, δεδήσεται he shall be kept in prison. 
+→ “ἡ θύρα κεκλῄσεται” Ar. Lys. 1071; ⇾ the door will be kept shut
+→ “σὲ δ᾽ ἄλλη τις γυνὴ κεκτήσεται” Eur. Alc. 181; ⇾ Some other woman will possess you
+Most future perfects are middle in form, passive in meaning. The active future perfect is usually periphrastic, meaning that it is formed by combining the perfect active participle with ἔσομαι shall be; for instance, γεγραφὼς ἔσομαι I shall have written. Exceptions are two perfects with a present meaning, ἕστηκα I stand (ἵστημι set) and τέθνηκα I am dead (θνῄσκω), which form the future perfects ἑστήξω I shall stand, τεθνήξω I shall be dead.
+→ “τὰ δέοντ᾽ ἐσόμεθα ἐγνωκότες” D. 4.50; ⇾ we shall have determined on our duty
+§Futperf2. Intensive or Immediate Consequence[81]
+When stress is laid upon complete fulfillment, the future perfect may imply rapidity, immediate consequence, or certainty, of action accomplished in the future.
+→ “φράζε, καὶ πεπράξεται” Ar. Pl. 1027; ⇾ speak, and it shall be done instanter
+→ “εὐθὺς Ἀριαῖος ἀφεστήξει: ὥστε φίλος ἡμῖν οὐδεὶς λελείψεται” X. A. 2.4.5; ⇾ Ariaeus will soon withdraw, so that we shall have no friend left
+Active Voice
+§Act1. Active Voice[82]
+The active voice represents the subject as performing the action of the verb: λούω I wash. Under action is included being, as ἡ ὁδὸς μακρά ἐστι the way is long. 
+Active verbs may be transitive or intransitive. Verbs capable of taking a direct object are called transitive because their action passes over to an object. Other verbs are called intransitive. Many verbs are used in the active voice both transitively and intransitively. The distinction between transitive and intransitive verbs is a grammatical convenience, and is not founded on an essential difference of nature. 
+→ “πάλαι θαυμάζω” P. Cr. 43b; ⇾ I have been long wondering 
+→ “λήψεται μισθὸν τάλαντον” X. A. 2.2.20; ⇾ he shall receive a talent as his reward
+→ “τὸν ἄνδρα ὁρῶ” Xen. Anab. 1.8.26; ⇾ I see the man
+→ “Κλέαρχος φυγὰς ἦν” Xen. Anab. 1. 1. 9; ⇾ Clearchus was an exile
+The active may be causative, and used of an action performed at the bidding of the subject: 
+→ “Κῦρος τὰ βασίλεια κατέκαυσεν” X. A. 1.4.10; ⇾ Cyrus burnt down the palace (i.e. had it burnt down) 
+Middle Voice
+§Mid1. Indirect Reflexive Middle[83]
+In indirect Reflexive Middle, the subject of the verb is affected by the verb, often as a beneficiary. The Indirect Reflexive Middle represents the subject as acting for himself, with reference to himself, or with something belonging to himself. Self is often the indirect object. So πορίζεσθαι provide for oneself (πορίζειν provide), φυλάττεσθαι guard against (φυλάττειν keep guard), αἱρεῖσθαι choose (take for oneself). The middle often denotes that the subject acts with something belonging to himself (material objects, means, powers). It is often used for acts done willingly. 
+→ “ὅπλα πορίσασθαι” T. 4.9; ⇾ to procure arms for themselves
+→ “ὁπλίτας μετεπέμψατο” T. 7. 31; ⇾ he sent for hoplites
+→ “γυναῖκα ἠγαγόμην” L. 1.6; ⇾ I married
+Some middle verbs may indicate that the subject has something done by another for himself. This use is often called the causative middle.
+→ “ἐγὼ γάρ σε ταῦτα ἐδιδαξάμην” X. C. 1.6.2; ⇾ for I had you taught this
+→ “παρατίθεσθαι σῖτον” X. C. 8. 6. 12; ⇾ to have food served up
+→ “ὅσοι ὅπλα ἀφῄρηνται, ταχὺ ἄλλα ποιήσονται” X. C. 6. 1. 12; ⇾ all who have had their arms taken from them will soon get others made
+→ “ἑαυτῷ σκηνὴν κατεσκευάσατο” X. C. 2. 1. 30; ⇾ he had a tent prepared for himself
+§Mid2. Direct Reflexive Middle[84]
+The Direct Reflexive Middle represents the subject as acting directly on themselves. Self is here the direct object. Direct reflexive middle verbs often express external and natural acts, such as grooming: ἀλείφεσθαι anoint oneself or λοῦσθαι wash oneself. The part affected may be added in the accusative.
+→ “οὐκ ἐλούσατ᾽ ἐξ ὅτουπερ ἐγένετο” Ar. Plut. 85; ⇾ He has not bathed since his birth
+“ἐπαίσατο τὸν μηρόν” X. C. 7.3.6; ⇾ he smote his thigh
+The reflexive pronoun may be used with the middle often for emphasis: 
+“ἑαυτὸν ἀποκρύπτεσθαι” P. R. 393c; ⇾ to hide himself” 
+§Mid3. Speech Act Middle[85] 
+Verbs expressing certain kinds of speech are often middle-only. Most speech act middle verbs have a rather specific lexical meaning, while more general or neutral verbs of saying tend to be active.
+The subject of a speech act middle could be involved in the speech act in different ways, for example, as a beneficiary or an experiencer. In some cases, the subject may to gain benefit from the speech act. Some middle verbs of speech may indicate a strong emotional or mental involvement of the subject.
+→ “τῇ δεκάτῃ δ᾽ ἀγορὴν δὲ καλέσσατο λαὸν Ἀχιλλεύς” Hom. Il. 1. 54; ⇾ but on the tenth Achilles called the people to assembly
+→ “ἀλλ᾽ ἔκ τοι ἐρέω καὶ ἐπὶ μέγαν ὅρκον ὀμοῦμαι” Hom. Il. 1. 233; ⇾ But I will speak out to you, and will swear thereto a mighty oath
+→ “ὣς φάτο Πηλεΐδης” Hom. Il. 1. 245; ⇾ So spoke the son of Peleus
+→ “ὅ σφιν ἐὺ φρονέων ἀγορήσατο καὶ μετέειπεν” Hom. Il. 1. 253; ⇾ He with good intent addressed the gathering and spoke among them
+§Mid4. Body Motion Middle[86][d]
+The middles of body motion represent the subject changing their physical state voluntarily, thus being both the agent and the patient; for instance, ἅλλεσθαι jump, πέτεσθαι fly or ὀρχεῖσθαι dance. Under this category belongs the middle of collective motion. The middle of collective motion is used for verbs express a change of position of a group, such as gathering.
+→ “θάμβησεν δ᾽ Ἀχιλεύς, μετὰ δ᾽ ἐτράπετ᾽, αὐτίκα δ᾽ ἔγνω Παλλάδ᾽ Ἀθηναίην” Hom. Il. 1. 199; ⇾ Achilles was seized with wonder, and turned around, and immediately recognized Pallas Athene.
+→ “Μυρμιδόνων δ᾽ ἐπί τε κλισίας καὶ νῆας ἱκέσθην” Hom. Il. 1. 328; ⇾ … and came to the tents and the ships of the Myrmidons.
+→ “οἳ μὲν ἐκήρυσσον, τοὶ δ᾽ ἠγείροντο μάλ᾽ ὦκα” Hom. Il. 2.52; ⇾ they made summons, and the men gathered full quickly.
+→ “οὗτος κἂν εἰς μαχαίρας κυβιστήσειε κἂν εἰς πῦρ ἅλοιτο” Xen. Mem. 1.3.9; ⇾ the man would do a somersault into a ring of knives; he would jump into fire.
+§Mid5. Mental Activity, Process or Perception[87] 
+Middle verbs of mental activity or process indicate intentional  or unintentional involvement of a subject in a mental or emotional activity; for instance, βούλομαι want or prefer, ἥδομαι enjoy or be glad, ἡγέομαι believe or consider. The subject could be involved in the verb as the agent or the experiencer. 
+The crucial difference between the mental activity and the mental process type[e] is that mental activities are intentinal while the mental process is unintentional. However, many verbs may indicate both mental processes and activities. Verbs of perception are also included in this category, expressing intentional or unintentional perception of a subject through their sensory organs.
+→ “ὅς κ᾽ εἴποι ὅ τι τόσσον ἐχώσατο Φοῖβος Ἀπόλλων” Hom. Il. 1. 64; ⇾ … who might say why Phoebus Apollo is so angry.
+→ “ἀκροώμενοι τοῦ ᾁδοντος” X. C. 1.3.10; ⇾ listening to the singer
+→ “οἱ Ἕλληνες δρησμὸν βουλεύονται καταρρωδηκότες …” Hdt. 8. 75; ⇾ the Hellenes are planning flight in their fear …
+§Mid6. Reciprocal Middle[88]
+Reciprocal middle verbs involve events that naturally need more than one participant, acting toward each other in the same manner, meaning that the relation between each participant to the other one is the same; for instance, with verbs of contending, conversing (questioning, replying), greeting, embracing, etc. The reciprocal middle is often found with compounds of διά.
+→ “οἱ ἀθληταὶ ἠγωνίζοντο” T. 1.6; ⇾ the athletes contended
+→ “καταστάντες ἐμάχοντο” T. 1.49; ⇾ when they had got into position they fought
+→ “ἀνὴρ ἀνδρὶ διελέγοντο” T. 8.93; ⇾ they conversed man with man
+→ “ἐπιμείγνυσθαι ἀλλήλοις” X. C. 7.4.5; ⇾ to have friendly intercourse with one another
+→ “ταῦτα διανεμοῦνται” L. 21.14; ⇾ they will divide this up among themselves 
+§Mid7. Spontaneous Process Middle[89]
+The subjects of spontaneous process middle verbs go through internal, physical changes of state without initiating it directly. The importance difference from passive is that in spontaneous process middles the agent is unknown or unidentifiable. Most middles of this type also have a causative counterpart in the active voice; for instance, ἀπόλλυμαι perish and ἀπόλλυμι destroy.
+→ “(...) πέλας τῶν κήπων (...), ἐν τοῖσι φύεται αὐτόματα ῥόδα” Hdt. 8.138.2; ⇾ (...) near the gardens (...), where roses grow of themselves
+→ “αἰεὶ δὲ πυραὶ νεκύων καίοντο θαμειαί” Hom. Il. 1. 52; ⇾ and constantly the pyres of the dead burned thick.
+Passive Voice
+§Pass1. Passive voice[90]
+The passive voice represents the subject as acted on. The passive has been developed from the middle. With the exception of some futures and the aorist, the middle forms do duty as passives: αἱρεῖται takes for himself, i.e. chooses, and is chosen; κέχυται has poured itself, has been poured. The agent of the passive is regularly expressed by ὑπό and the genitive; sometimes by ἀπό, διά, ἐκ, παρά, πρός with the genitive, or by ὑπό with the dative (in poetry).
+→ “ἐώθουν, ἐωθοῦντο, ἔπαιον, ἐπαίοντο” X. C. 7.1.38; ⇾ they pushed, were pushed, they struck, were struck
+→ “φθονηθεὶς ὑπὸ τοὖ Οδυσσέως” X. M. 4.2.33; ⇾ envied by Odysseus 
+→ “οὐκ ἠξίουν οὗτοι ἡγεμονεύεσθαι ὑφ᾽ ἡμῶν” T. 3.61; ⇾ they did not think it right to be governed by us
+The passive may have the sense allow oneself to be, get oneself: 
+→ “ἐξάγοντές τε καὶ ἐξαγόυενοι” P. Cr. 48d; ⇾ carrying and allowing ourselves to be carried across the border
+ The dative, or a prepositional phrase, is regularly used with the passive to denote the instrument, means, or cause. The agent may be viewed as the instrument. The instrument of an action, when regarded as the agent, is personified, and may be expressed by ὑπό with the genitive.
+→ “ἁλίσκεται  ὑπὸ τριήρους” D. 53.6; ⇾ he is captured by a trireme 
+Indicative
+§Ind1. Assertions and Questions[91]
+The indicative states particular or general suppositions, makes affirmative or negative assertions and expressing beliefs, facts or assumptions. The indicative is also used for expressing requests, suggestions and questions.
+→ “Κλέαρχος φυγὰς ἦν” Xen. Anab. 1. 1. 9; ⇾ Clearchus was an exile
+→ “τί δὲ ἵππων οἴει;” P. R. 459b; ⇾ but what do you think of horses? 
+In assumptions:
+→ “ἐξήμαρτέ τις ἄκων: συγγνώμη ἀντὶ τιμωρίας τούτῳ” D. 18.274; ⇾ suppose someone involuntarily committed an offence; for him there is pardon rather than punishment 
+The indicative may be used to express a doubtful assertion about a present or past action (negative μή or μὴ οὐ). Such sentences are often regarded as questions with the effect of doubtful affirmation.
+→ “ἀλλ᾽ ἄρα . . . μὴ ὁ Κτήσιππος ἦν ὁ ταῦτ᾽ εἰπών” P. Eu. 290e; ⇾ but I suspect (i.e. perhaps) after all it was Ctesippus who said this 
+→ “ἀλλὰ μὴ τοῦτο οὐ καλῶς ὡμολογήσαμεν” P. Men. 89c; ⇾ but perhaps we did not do well in agreeing to this
+§Ind2. Unfulfilled Obligation[92]
+With impersonal verbs indicating obligation, propriety, necessity, or possibility, the indicative without ἄν is used to express an unfulfilled obligation.  Such expressions are ἔδει, χρῆν (or ἐχρῆν), προσῆκε, καιρὸς ἦν, ἄξιον ἦν, εἰκὸς ἦν, δίκαιον ἦν, αἰσχρὸν ἦν, ἐξῆν, καλῶς εἶχεν, verbals in -τόν or -τέον with ἦν, etc. Here, the indicative denotes that an action contrary to what has happened (often expressed by an infinitive) was or is required. This use of the indicative is a variation of the counterfactual indicative.
+→ “ἔδει τὰ ἐνέχυρα τότε λαβεῖν” X. A. 7.6.23; ⇾ I ought to have taken the pledges then
+→ “ἄξιον ἦν ἀκοῦσαι” P. Eu. 304d; ⇾ it would have been worth hearing
+→ “μένειν ἐξῆν” D. 3.17; ⇾ he might have remained
+→ “τί σιγᾷς; οὐκ ἐχρῆν σιγᾶν” E. Hipp. 297; ⇾ why art thou silent? Thou shouldst not be silent
+→ “τούσδε μὴ ζῆν ἔδει” S. Ph. 418; ⇾ these men ought not to be alive
+§Ind3. Unattainable Wish[93]
+The past indicative with εἴθε or with εἰ γάρ, without ἄν, is used to express a present or past wish which cannot be realized. The imperfect refers to present time, the aorist to past time (negative μή).
+→ “εἴθ᾽ εἶχες βελτἱους φρένας” E. El. 1061; ⇾ would that thou hadst (now) a better heart
+→ “εἴθε σοι τότε συνεγενόμην” X. M. 1.2.46; ⇾ would that I had then been with thee
+An unattainable wish may also be expressed by ὤφελον (ought) with the present or aorist infinitive: 
+→ “ὤφελε Κῦρος ζῆν” X. A. 2.1.4; ⇾ would that Cyrus were (now) alive (Cyrus ought to be alive) 
+→ “εἰ γὰρ ὤφελον οἷοί τε εἶναι οἱ πολλοὶ κακὰ ἐργάζεσθαι” Pl. Cr. 44d; ⇾ would that the multitude were able to do evil 
+§Ind4. Counterfactual Indicative[94]
+The indicative of the historical tenses with ἄν (κέν) may indicate counterfactual (or unreal) actions. The imperfect refers to the present or the past, the aorist to the past (rarely to the present), the pluperfect to the present (less commonly to the past). This use of the indicative with ἄν undicating unreality is closely connected to past potential use of the indicative. The past potential use of the indicative with ἄν (κέν) expresses past potentiality, probability (cautious statement), or necessity.
+→ “τότε δ᾽ αὐτὸ τὸ πρᾶγμ᾽ ἂν ἐκρίνετο ἐφ᾽ αὑτοῦ” D. 18.224; ⇾ but the case would then have been decided on its own merits
+→ “καί κεν πολὺ κέρδιον ἦεν” Hom.Il. 3.41; ⇾ and in that case it were far better
+→ “ἐβουλόμην ἂν Σίμωνα τὴν αὐτὴν γνώμην ἐμοὶ ἔχειν” L. 3.21; ⇾ I should have liked Simon to be (or I wish Simon were) of the same mind as myself
+→ “ὃ οὐκ ἂν ᾤοντο” T. 7.55; ⇾ which they could not have expected
+→ “τίς γὰρ ἂν ᾠήθη ταῦτα γενέσθαι;” D. 9.68; ⇾ for who would have expected these things to happen? 
+→ “ἔγνω ἄν τις” X. C. 7.1.38; ⇾ one might (could, would) have known
+→ “ὑπό κεν ταλασίφρονά περ δέος εἷλεν” Hom.Il. 4.421; ⇾ fear might have seized even a man of stout heart
+§Ind5. In Subordinate Clause[95]
+The indicative mood is frequently used in different types of subordinate clause, including temporal, conditional or relative clauses. The indicative in the subordinate clause may indicate a general assumption or statement, or it may be a modal indicative, for instance, in relative or conditional clauses referring to a counterfactual action.
+→ “ἀξιῶ δέ, ὦ βουλή, εἰ μὲν ἀδικῶ, μηδεμιᾶς συγγνώμης τυγχάνειν” L. 3.4; ⇾ If I am guilty, gentlemen, I expect to get no indulgence
+→ “δῆλον ἦνι ὅτι ἐγγύς που βασιλεὺς ἦν” X. A. 2.3.6; ⇾ it was plain that the king was somewhere hard by
+→ “δοὐδὲ δι᾽ ἓν ἄλλο τρέφονται ἢ ὅπως μαχοῦνται” X. C. 2.1.21; ⇾ nor are they maintained for any other single purpose than for fighting (lit. how they shall fight)
+→ “οὐ γὰρ ἔσθ᾽ ὅπως οὐκ ἠναντιώθη ἄν μοι τὸ εἰωθὸς σημεῖον, εἰ μή τι ἔμελλον ἐγὼ ἀγαθὸν πράξειν”  Plat. Apol. 40c; ⇾ for the accustomed sign would surely have opposed me if something good were not about to happen to me
+Subjunctive
+§Subj1. Hortatory Subjunctive[96]
+The hortatory subjunctive (present or aorist) is used to express a request or a proposal (negative μή). The hortatory use of the subjunctive compensates for the absence of an imperative of the first person and is more common in the first person plural than first person singular.
+→ “νῦν ἴωμεν καὶ ἀκούσωμεν τοῦ ἀνδρός” P. Prot. 314b; ⇾ let us go now and hear the man 
+→ “μήπω ἐκεῖσε ἴωμεν” P. Prot. 311a; ⇾ let's not go there yet  
+→ “ἄγε σκοπῶμεν” X. C. 5.5.15; ⇾ come, let us consider  
+→ “φέρε δὴ περὶ τοῦ ψηφίσματος εἴπω” D. 19.234; ⇾ let me now speak about the bill
+§Subj2. Prohibitive Subjunctive[97]
+The subjunctive (in the second and third persons of the aorist) is often used to express prohibitions (negative μή). The third person is less common and usually represents the second person.
+→ “μηδὲν ἀθυμήσητε” X. A. 5.4.19; ⇾ do not lose heart
+→ “ὑπολάβῃ δὲ μηδείς” T. 6.84; ⇾ and let no one suppose ( = μὴ ὑπολάβητε do not suppose).
+οὐ μή with the subjunctive of the second person in the dramatic poets occasionally expresses a strong prohibition: 
+→ “οὐ μὴ ληρήσῃς” Ar. Nub. 367; ⇾ don't talk nonsense
+§Subj3. Doubtful Assertion[98]
+The present subjunctive with μή may express a doubtful assertion, with μὴ οὐ a doubtful negation. The idea of apprehension or anxiety (real or assumed) is due to the situation. A touch of irony often marks this use, which is chiefly Platonic. With μή (of what may be true): 
+→ “μὴ ἀγροικότερον ᾖ τὸ ἀληθὲς εἰπεῖν” P. G. 462e; ⇾ I suspect it's rather bad form (lit. too rude) to tell the truth
+→ “ἀλλὰ μὴ οὐχ οὕτως ἔχῃ” P. Crat. 436b; ⇾ but I rather think this may not be so
+→ “μὴ οὐκ ᾖ διδακτὸν ἀρετή” P. Men. 94e; ⇾ virtue is perhaps not a thing to be taught
+In Homer μή with the independent subjunctive is used to indicate fear and warning, or to suggest danger: 
+→ “μή τι χολωσάμενος ῥέξῃ κακὸν υἷας Ἀχαιῶν” Hom. Il. 2.195; ⇾ may he not (as I fear he may) in his anger do aught to injure the sons of the Achaeans
+§Subj4. Deliberative Subjunctive[99]
+The deliberative subjunctive (present or aorist) is used for expressing doubt of the speaker about what to do or say (negative μή). It is often used  in the first person.
+→ “εἴπωμεν ἢ σιγῶμεν;” E. Ion 758; ⇾ shall we speak or keep silence? 
+→ “τί δράσω; ποῖ φύγω;” E. Med. 1271; ⇾ what am I to do? whither shall I fly?
+→ “μὴ φῶμεν;” P. R. 554b; ⇾ shall we not say? 
+The subjunctive question does not refer to a future fact, but to what is, under the present circumstances, advantageous or proper to do or say. βούλει, βούλεσθε (poet. θέλεις, θέλετε) often precede the subjunctive.
+→ “βούλει σοι εἴπω;” P. G. 521d; ⇾ do you wish me to say to you?
+§Subj5. Anticipatory Subjunctive (Homeric)[100]
+In Homer the subjunctive is often closely akin to the future indicative, and refers by anticipation to a future event (negative οὐ). 
+→ “οὐ γάρ πω τοίους ἴδον ἀνέρας, οὐδὲ ἴδωμαι” Hom. Il. 1.262; ⇾ for never yet saw I such men, nor shall I see them 
+→ “καί νύ τις ὧδ᾽ εἴπῃσι” Hom. Od. 6. 275; ⇾ and one will say 
+§Subj6. Emphatic Denial[101]
+The subjunctive with οὐ μή can indicate an emphatic denial, expressing a strong belief that something will not happen.
+→ “οὐκέτι μὴ δύνηται βασιλεὺς ἡμᾶς καταλαβεῖν” X. A. 2.2.12; ⇾the king will no longer be able to overtake us
+→ “οὐ μὴ παύσωμαι φιλοσοφῶν” P. A. 29d; ⇾ I will not cease from searching for wisdom
+→ “οὐ μὴ πίθηται” Soph. Phil. 103; ⇾ He will certainly not obey
+§Subj7. In subordinate clause[102]
+The subjunctive mood is frequently used in different types of subordinate clause, including temporal, conditional or relative clauses. Indefinite subjunctive with ἄν is used to represent actions that are occurring repeatedly or generically. Prospective subjunctive with ἄν indicates an action that is definitely or probably occurring in the future. Subjunctive dependent clauses regularly take ἄν except in the older language. The omission of ἄν is sometimes due to clerical error, sometimes perhaps to a sense of euphony, sometimes to a survival of the older construction.
+→ “ὃς ἂν δακρῦσαι μάλιστα τὴν θύσασαν παραχρῆμα ποιήσῃ πόλιν, οὗτος τὰ νικητήρια φέρει” Plat. Laws 7.800d; ⇾ and the man that succeeds at once in drawing most tears from the sacrificing city carries off the palm of victory.
+→ “ὡς ἐγώ ὁπότερος ἂν σφῷν νῦν με μᾶλλον εὖ ποιῇ, τούτῳ παραδώσω τῆς πυκνὸς τὰς ἡνίας” Aristoph. Kn. 1060; ⇾ To whichever of you shall treat me best I hand over the reins of state.
+The present and aorist indicative and subjunctive (usually without ἄν) are regularly used in similes with ὡς, ὡς εἰ, ὡς εἴ τε as if, ὡς ὅτε, ὡς ὁπότε as when.  
+→ “οἱ δ᾽, ὥς τ᾽ αἰγυπιοὶ . . . πέτρῃ ἐφ᾽ ὑψηλῇ μεγάλα κλάζοντε μάχωνται, ὣς οἱ κεκλήγοντες ἐπ᾽ ἀλλήλοισιν ὄρουσαν” Hom. Il. 16.429; ⇾ and they, like vultures who contend with loud screams on a lofty cliff, even so they rushed screaming against each other
+Optative
+§Opt1. Optative of Wish[103]
+The optative without ἄν is used to express a wish referring to the future.  (negative μή). The optative of wish, or cupitive optative, is often introduced by εἰ γάρ, εἴθε (Hom. αι᾽ γάρ, αἴθε), or by εἰ, ὡς (both poetical).
+→ “ὦ παῖ, γένοιο πατρὸς εὐτυχέστερος” S. Aj. 550; ⇾ ah, boy, mayest thou prove more fortunate than thy sire
+→ “ὡς ὄλοιτο” S. El. 126; ⇾ may he perish
+→ “εἴθε φίλος ἡμῖν γένοιο” X. H. 4.1.38; ⇾ oh, if you would become our friend
+The optative introduced by εἰ γάρ, etc. is sometimes explained as a protasis with the conclusion omitted: 
+→ “εἰ γὰρ γένοιτο” X. C. 6.1.38; ⇾ would that it might happen
+An unattainable wish, referring to the present, may be expressed by the present optative in Homer:
+→ “εἴθ᾽ ἡβώοιμι” Hom. Il. 23.624; ⇾ would that I were young again
+Under wishes are included execrations and protestations: 
+→ “ἐξολοίμην” Ar. Ach. 324; ⇾ may I perish
+The optative may indicate rhetorical wishes, willingness, or indifferance as in imprecations.
+→ “ἐν πυρὶ δὴ βουλαί τε γενοίατο μήδεά τ᾽ ἀνδρῶν” Hom. Il. 2.340; ⇾ into the fire let us cast all counsels and plans of warriors
+§Opt2. Command or Request[104]
+The optative may express a command, exhortation, or request in the second-person with a force nearly akin to the imperative. In the first-person, it is used to express compliance to a wish or command or taking permission to do something.
+→ “Χειρίσοφος ἡγοῖτο” X. A. 3.2.37; ⇾ let Chirisophus lead
+→ “λέγοιμ᾽ ἂν ἤδη” Eur. Orest. 640; ⇾ I will speak then
+§Opt3. Potential Optative[105]
+The potential optative with ἄν states a future possibility, propriety, or likelihood. The potential optative, which in Attic regularly takes ἄν, is occasionally found in Homer and later poetry in an earlier form, without that particle. The potential optative is sometimes used to soften the statement of an opinion or fact, or to express irony.
+→ “γνοίης δ᾽ ἂν ὅτι τοῦθ᾽ οὕτως ἔχει” X. C. 1.6.21; ⇾ you may see that this is so
+→ “ἅπαντες ἂν ὁμολογήσειαν” I. 11.5; ⇾ all would agree
+→ “ἡδέως ἂν ἐροίμην” D. 18.64; ⇾ I (would gladly ask) should like to ask
+→ “οὐκ ἂν λάβοις” S. Ph. 103; ⇾ thou canst not take
+→ “λέγοιμ᾽ ἂν τάδε” A. Supp. 928; ⇾ I will tell this
+→ “θᾶσσον ἢ λέγοι τις” E. Hipp. 1186; ⇾ quicker than a man could speak
+§Opt4. In subordinate clause[106]
+The optative mood is frequently used in different types of subordinate clause, including temporal, conditional or relative clauses. In subordinate clauses in the secondary or historic sequence, the optative may replace the original mood. This use of optative is limited to the subordinate clauses of the secondary sequence (imperfect, aorist, pluperfect) and does not appear in primary sequence (present, perfect, future) and is called the oblique optative. The indefinite subordinate clauses of historic sequence may use the iterative optative (without ἄν) to express a habitual or repeated action.
+→ “εἴ πού τι ὁρῴη βρωτόν, διεδίδου” X. A. 4.5.8; ⇾ if ever he saw anything to eat anywhere, he always distributed it
+→ “εἰ δέ τις καὶ ἀντείποι, εὐθὺς . . . ἐτεθνήκει” T. 8.66; ⇾ but if any one even made an objection, he was promptly put to death 
+→ “δέομαι οὖν σου παραμεῖναι ἡμῖν: ὡς ἐγὼ οὐδ᾽ ἂν ἑνὸς ἥδιον ἀκούσαιμι ἢ σοῦ” P. Pr. 335d; ⇾ accordingly I beg you to stay with us; because there is no one (in my opinion) to whom I should more gladly listen than to you.
+→ “τοσούτου δεῖς ἐλέου τινὸς ἄξιος εἶναι ὥστε μισηθείης ἂν δικαιότατ᾽ ἀνθρώπων” D. 37.49; ⇾ you are so far unworthy of compassion that you would be detested most justly of all men
+→ “εἰ δέ τινες φοβοῦνται μὴ ματαία ἂν γένοιτο αὕτη ἡ κατασκευή, εἰ πόλεμος ἐγερθείη, ἐννοησάτω ὅτι κτλ. X. Vect. 4.41; ⇾ if some are afraid that this condition of things may prove vain, if war should arise, let them (him) consider that, etc. 
+When an optative of the principal clause refers to future time (potential optative and optative of wish), the subordinate clause takes the optative by assimilation.
+→ “ἔρδοι τις ἣν ἕκαστος εἰδείη τέχνην” Ar. Vesp. 1431; ⇾ would that every man would practise the craft that he understood
+→ “ὄλοιο μήπω, πρὶν μάθοιμι” S. Ph. 961; ⇾ perish not yet . . . until I learn
+Imperative
+§Impr1. Command or Prohibition[107]
+Under commands are included requests, entreaties, summons, prescriptions, exhortations, etc. All imperative tenses refer to the future. The negative with the imperative verbs is μή and indicates prohibition. In exhortations ἄγε, φέρε, ἴθι (usually with δή, sometimes with νύν), often precede the imperative.
+→ “τὰ μὲν ποίει, τὰ δὲ μὴ ποίει” P. Pr. 325d; ⇾ do this and refrain from doing that
+→ “ἄγε δὴ ἀκούσατε” X. Ap. 14; ⇾ come listen
+→ “ἄγετε δειπνήσατε” X. H. 5.1.18; ⇾ go now, take your supper
+→ “ἀλλ᾽ ἴθι εἰπέ” P. G. 489e; ⇾ but come, say
+→ “μὴ θαύμαζε” P. G. 482a; ⇾ don't be astonished
+→ “μὴ θορυβεῖτε” P. A. 21a; ⇾ don't raise a disturbance
+→ “μηδεὶς διδασκέτω” T. 1.86; ⇾ let no one tell me
+→ “μηδεὶς τοῦτ᾽ ἀγνοείτω” Aes. 3.6; ⇾ let no one be ignorant of this fact
+→ “μήτ᾽ ἀπογνώτω μηδὲν μήτε καταγνώτω” Aes. 3.60; ⇾ let him neither acquit nor condemn in any way
+§Impr2. Assumption, Concession or Greeting[108]
+The imperative may be used in many different expressions, including assumptions (hypothetical imperative), to make a concession, or to grant permission. The imperative is commonly used in greetings and curses.
+→ “ἐμοῦ γ᾽ ἕνεκ᾽ ἔστω” D. 20.14; ⇾ let it be assumed as far as I am concerned
+→ “οὕτως ἐχέτω ὡς σὺ λέγεις” P. S. 201c; ⇾ assume it to be as you say
+→ “οὐκοῦν κείσθω ταῦτα;” P. L. 820e; ⇾ shall these points be established? 
+→ “σὺ δὲ χαῖρε καὶ ἔμπης” Hom. Od. 5.192; ⇾ yet, even so fare thee well
+→ “βάλλ᾽ ἐς κόρακας” Aristoph. Cl. 133; ⇾ go to hell!
+Infinitive
+§Inf1. Dynamic infinitive[109]
+The dynamic infinitive expresses an action, and complements verbs with meaning of want, desire, force, ask, command, try, teach, etc. The dynamic infinitive indicates a potential action, which may or may not be realized. The prolative infinitive which complement verbs that take an infinitive as the object are dynamic infinitives. Dynamic infinitives, among other uses, can indicate purpose, result, or limit the meaning of an adjective or a noun. 
+The tenses of this infinitive are purely aspectual, and denote only the stage of action. The negative of dynamic infinitive is μή, while the negative of declarative infinitive is οὐ.
+→ “τί χρὴ ποιεῖν;” X. A. 2.1.16; ⇾ what must be done?
+→ “παίδευσις καλὴ διδάσκει χρῆσθαι νόμοις” X. Ven. 12.14; ⇾ a good education teaches obedience to the laws
+→ “διαγιγνώσκειν σε τοὺς ἀγαθοὺς καὶ τοὺς κακοὺς ἐδίδαξεν” X. M. 3.1.9; ⇾ he taught you to distinguish the good and the bad
+→ “ἱκανοὶ ἡμᾶς ὠφελεῖν” X. A. 3.3.18; ⇾ able to assist us
+→ “ἐβουλεύοντο ἐκλιπεῖν τὴν πόλιν” Hdt. 6.100; ⇾ they planned to leave the city
+→ “βασιλεὺς ἀξιοῖ σὲ ἀποπλεῖν” X. H. 3.4.25; ⇾ the king asks that you sail away
+→ “ταύτην τὴν χώραν ἐπέτρεψε διαρπάσαι τοῖς Ἕλλησιν” X. A. 1.2.19; ⇾ he gave this land over to the Greeks to plunder
+→ “Ἀριστάρχῳ . . . ἔδοτε ἡμέραν ἀπολογήσασθαι” X. H. 1.7.28; ⇾ you granted a day to Aristarchus to make his defence
+→ “παρέχω ἐμαυτὸν ἐρωτᾶν” P. A. 33b; ⇾ I offer myself to be questioned
+→ “ἀπετράποντο ἐς τὴν πόλιν πρὶν ὑπερβαίνειν” T. 3.24; ⇾ they turned back to the city before they attempted to scale the wall
+§Inf2. Declarative infinitive[110]
+The declarative infinitive expresses a belief, idea, or speech about an action in indirect discourse. Common verbs that take a declarative infinitive are φημί, λέγω, νομίζω, δοκέω, ἀγγέλλω, etc. 
+Unlike dynamic infinitives, declarative infinitives are considered to have relative temporal value. The present tense often indicates that the action is simultanious with the main verb, the future tense indicates posteriority, while the aorist tense is used for expressing anteriority. The perfect tense often indicates a state that is simultaneous with the verb of speech or opinion. 
+The declarative infinitive modified by ἄν has a potential meaning similar to potential optative (Note that the dynamic infinitive never takes ἄν).
+The negative of declarative infinitive is οὐ, however, in some cases an emphatic μή is used.
+→ “εὖνοί φασιν εἶναι” L. 12.49; ⇾ they assert that they are loyal
+→ “οὐδεὶς ἔφασκεν γιγνώσκειν αὐτόν” L. 23.3; ⇾ nobody said that he knew him
+→ “οἱ ἡγεμόνες οὔ φασιν εἶναι ἄλλην ὁδόν” X. A. 4.1.21; ⇾ the guides say there is no other road
+→ “πάντες ἐροῦσι τὸ λοιπὸν μηδὲν εἶναι κερδαλεώτερον τῆς ἀρετῆς” X. C. 7.1.18; ⇾ everybody in time to come will say that there is nothing more profitable than bravery
+→ “βασιλεὺς νικᾶν ἡγεῖται” X. A. 2.1.11; ⇾ the king thinks he is victorious, 
+→ “οἴομαι βέλτιστον εἶναι” X. A. 5.1.8; ⇾ I think it is best 
+→ “ὑπώπτευον ἐπὶ βασιλέα ἰέναι” X. A. 1. 3. 1; ⇾ they suspected that they were to go against the king 
+→ “(Σωκράτης) τὸ ἀγνοεῖν ἑαυτὸν ἐγγυτάτω . . . μανίας ἐλογίζετο εἶναι” X. M. 3.9.6; ⇾ Socrates was of the opinion that for a man not to know himself was very near to madness
+§Inf3. Idiomatic expressions[111]
+Certain idiomatic infinitives are used in parenthetical phrases to limit the application of a single expression or of the entire sentence. This is common with verbs of saying. In these constructions, the infinitive is used absolutely and is not dependant on any other words in the sentence.
+→ “ἀληθές γε ὡς ἔπος εἰπεῖν οὐδὲν εἰρήκασιν” P. A. 17a; ⇾ not one word of truth, I may say, did they utter
+→ “ἀγαθὸν μὲν ἁπλῶς εἰπεῖν οὐδὲν γέγονε τῇ πόλει” Din. 1 31; ⇾ in a word the State gained no advantage
+Especially common is the absolute εἶναι in ἑκὼν willingly, intentionally, if you can help it, usually in negative or quasi-negative statements (ἑκών may be inflected). Some other expressions are ἐμοὶ δοκεῖν, ὡς ἐμοὶ κρῖναι, (ὡς) εἰκάσαι, (ὡς) ἀκοῦσαι, ὀλίγου δεῖν, μικροῦ δεῖν, etc.
+“οὐδὲ ξένοις ἑκὼν εἶναι γέλωτα παρέχεις” X. C. 2.2.15; ⇾ nor do you intentionally cause strangers to laugh
+“ἑκοῦσα εἶναι οὐκ ἀπολείπεται” P. Phae. 252a; ⇾ it is not willingly separated
+→ “τό γε ἐπ᾽ ἐκεῖνον εἶναι ἐσώθης (ἄν)” L. 13.58; ⇾ so far, at least, as it depended on him you would have been saved
+→ “ὁ γὰρ Κτήσιππος ἔτυχε πόρρω καθεζόμενος τοῦ Κλεινίου, ἐμοὶ δοκεῖν” P. Eu. 274b; ⇾ for Ctesippus, it seems to me, happened to be sitting at a distance from Clinias 
+→ “μικροῦ δεῖν τρία τάλαντα” D. 27.29; ⇾ almost three talents
+§Inf4. Infinitive of Commands, Wishes, and Exclamations[112]
+A dynamic infinitive can be used for commands, instead of the second person of the imperative. The person addressed is regarded as the subject. This infinitive is more common in poetry than in prose. 
+→ “θαρσῶν νῦν, Διόμηδες, ἐπὶ Τρώεσσι μάχεσθαι” Hom. Il. 5.121; ⇾ with good courage now, Diomed, fight against the Trojans
+→ “σὺ δέ, Κλεαρίδα . . . τὰς πύλας ἀνοίξας ἐπεκθεῖν” T. 5.9; ⇾ but do you, Clearidas, open the gates and sally forth
+The infinitive with a subject accusative may be used in the sense of the optative of wish.
+→ “θεοὶ πολῖται, μή με δουλείας τυχεῖν” A. Sept. 253; ⇾ ye gods of my country, may bondage not be my lot!
+→ “ὦ Ζεῦ, ἐκγενέσθαι μοι Ἀθηναίους τείσασθαι” Hdt. 5.105; ⇾ oh Zeus, that it be granted to me to punish the Athenians! 
+The infinitive is often used in exclamations of surprise or indignation. The subject stands in the accusative.
+→ “ἐμὲ παθεῖν τάδε” A. Eum. 837; ⇾ that I should suffer this!
+→ “τοιουτονὶ τρέφειν κύνα” Ar. Vesp. 835; ⇾ to keep a dog like that!
+§Inf5. Articular Infinitive[113]
+The infinitive in combination with a neuter singular article can function as a noun phrase. The articular infinitive, while having the character of a substantive, retains the functions of a verb. The articular infinitive can be used similar to any other noun phrase and admits the constructions of an ordinary substantive. It may indicate time (after verbs of saying or thinking), or may be timeless. The case is indicated by the article:
+Nom. τὸ ποιεῖν making or to make, τὸ ποιήσειν, τὸ ποιῆσαι, τὸ πεποιηκέναι
+Gen. τοῦ ποιεῖν of making, τοῦ ποιήσειν, τοῦ ποιῆσαι, etc.
+Dat. τῷ ποιεῖν for making, by making, τῷ ποιήσειν, τῷ ποιῆσαι, etc.
+Acc. τὸ ποιεῖν, τὸ ποιήσειν, τὸ ποιῆσαι, etc.
+The negative of the articular infinitive is μή.
+→ “τὸ Πελοποννησίους αὐτοῖς μὴ βοηθῆσαι παρέσχεν ὑμῖν . . . Σαμίων κόλασιν” T. 1.41; ⇾ the fact that the Peloponnesians did not come to their assistance enabled you to punish the Samians
+→ “τοῦ πιεῖν ἐπιθυμίᾳ” T. 7.84; ⇾ from desire to drink
+→ “τοῦ θαρσεῖν τὸ πλεῖστον εἰληφότες” T. 4.34; ⇾ having gained the greatest amount of courage
+→ “τί οὖν ἐστιν . . . τοῦ τοῖς φίλοις ἀρήγειν κάλλιον;” X. C. 1.5.13; ⇾ what then is nobler than to help one's friends?
+→ “ἐπέσχομεν τοῦ δακρύειν” P. Ph. 117e; ⇾ we desisted from weeping
+→ “ἀντὶ τοῦ ἐπὶ Καρίαν ἰέναι . . . ἐπὶ Φρυγίας ἐπορεύετο” X. H. 3.4.12; ⇾ instead of going against Caria, he marched toward Phrygia 
+→ “ἄνευ τοῦ σωφρονεῖν” X. M. 4.3.1; ⇾ without exercising self-control
+→ “ἵνα . . . ἀπιστῶσι τῷ ἐμὲ τετιμῆσθαι ὑπὸ δαιμόνων” X. Ap. 14; ⇾ that they may distrust my having been honoured by divine powers
+→ “τὸ σπεύδειν δέ σοι παραινῶ” S. Ph. 620; ⇾ I commend speed to thee
+→ “μαθὼν γὰρ οὐκ ἂν ἀρνοίμην τὸ δρᾶν” S. Ph. 118; ⇾ when I am informed, I will not refuse the deed 
+Participle
+§Partic1. Attributive and Substantival Participle[114]
+The attributive participle (with any modifier), with or without the article, modifies a substantive like any other adjective. The substantive with which the attributive participle (with the article) agrees directly, may be omitted, and as a result, the participle becomes a substantive. Such participial nouns appear in active, middle, and passive forms, and admit the distinctions of tense. A participle noun may be modified by adjectives or take a genitive, when its verbal nature has ceased to be felt. Neuter participles are often substantival, as τὰ δέοντα duties. 
+→ “ὁ ἐφεστηκὼς κίνδυνος τῇ πόλει” D. 18.176; ⇾ the danger impending over the State
+→ “οἱ ὄντες ἐχθροί” D. 6. 15; ⇾ the existing enemies
+→ “τὸ Κοτύλαιον ὀνομαζόμενον ὄρος” Aes. 3.86; ⇾ the mountain called Cotylaeum
+→ “οἱ ἐθελήσοντες μένειν” X. H. 7.5.24; ⇾ those who shall be willing to remain
+→ “ὁ οἴκαδε βουλόμενος ἀπιέναι” X. A. 1.7.4; ⇾ whoever wants to go home
+→ “ὁ τὴν γνώμην ταύτην εἰπών” T. 8.68; ⇾ the one who gave this opinion
+→ “ὁ ἐνταῦθ᾽ ἑαυτὸν τάξας τῆς πολιτείας εἴμ᾽ ἐγώ” D. 18.62; ⇾ the man who took this position in the State was I
+→ “τὰ μικρὰ συμφέροντα τῆς πόλεως” D. 18.28; ⇾ the petty interests of the State
+§Partic2. Circumstantial Participle[115]
+The circumstantial participle is added, without the article, to a noun or pronoun to set forth some circumstance under which an action, generally the main action, takes place. The circumstantial participle thus qualifies the principal verb of the sentence like an adverbial clause or supplementary predicate. The circumstantial participle expresses simply circumstance or manner in general. It may imply various other relations, such as time, manner, means, cause, purpose, concession, condition, etc. It is often impossible to assign a participle exclusively to any one of these relations (which are purely logical), nor can all the delicate relations of the participle be set forth in systematic form. 
+If the subject of the participle is not identical with the noun or pronoun subject or object of the leading verb, it forms an absolute participle clause of either genitive or accusative absolute (Explained under Partic3. and Partic4.)
+→ “(οἱ ἄνθρωποι) λιπόντες τὴν ὁδὸν φεύγοντες ὀλίγοι ἀπέθνῃσκον” X. A. 4.2.7; ⇾ by leaving the road and making off only a few were killed 
+→ “ἅπερ καὶ ἀρχόμενος εἶπον” T. 4.64; ⇾ as I said at the outset
+→ “τελευτῶν ἐχαλέπαινεν” X. A. 4.5.16; ⇾ at last he became angry
+Expressing Manner:
+→ “παρήλαυνον τεταγμένοι” X. A. 1.2.16; ⇾ they marched past in order
+→ “ἄνοιγ᾽ ἀνύσας” Ar. Nub. 181; ⇾ hurry up and open
+→ “ἔκπλουν ποιεῖται λαθὼν τὴν φυλακήν” T. 1.65; ⇾ he sailed out unobserved by the guard
+Expressing means:
+→ “λῃζόμενοι ξῶσι” X. C. 3.2.25; ⇾ they live by pillaging
+Expressing cause:
+→ “Παρύσατις . . . ὑπῆρχε τῷ Κύρῳ, φιλοῦσα αὐτὸν μᾶλλον ἢ τὸν βασιλεύοντα Ἀρταξέρξην” X. A. 1.1.4; ⇾ Parysatis favoured Cyrus because she loved him more than she did Artaxerxes the king
+→ “ἀπείχοντο κερδῶν αἰσχρὰ νομίζοντες εἶναι” X. M. 1.2.22; ⇾ they held aloof from gains because they thought them disgraceful
+→ “τί γὰρ δεδιότες σφόδρα οὕτως ἐπείγεσθε; X. H. 1.7.26; ⇾ for what are you afraid of, that you are so desperately in haste?
+Expressing purpose or object: 
+→ “προπέμψαντες κήρυκα πόλεμον προεροῦντα” T. 1.29; ⇾ having sent a herald in advance to proclaim war
+συνεκάλεσαν ἀπὸ τῶν πόλεων ἁπασῶν ἀκουσομένους τῆς παρὰ βασιλέως ἐπιστολῆς X. H. 7.1.39; ⇾ they summoned from all the cities men to listen to the letter from the king 
+Expressing any attendant circumstance:
+→ “συλλέξας στράτευμα ἐπολιόρκει Μίλητον” X. A. 1.1.7; ⇾ having collected an army he laid siege to Miletus
+→ “ἔχων στρατιὰν ἀφικνεῖται” T. 4.30; ⇾ he arrives with an army
+§Partic3. Circumstantial Participle - Genitive Absolute[116]
+A circumstantial participle agreeing with a genitive noun or pronoun which is not in the main construction of the sentence, stands in the genitive absolute. The subject of the participle in the genitive absolute construction is different than the subject of the main verb and it should be expressed separately, therefore, both the participle and its subject stand in the genitive, forming a genitive absolute construction. Like other circumstantial participles, the genitive absolute expresses time, cause, condition, concession, or simply any attendant circumstance. 
+→ “ταῦτ᾽ ἐπράχθη Κόνωνος στρατηγοῦντος” I. 9.56; ⇾ these things were effected while Conon was in command
+→ “τούτων λεχθέντων ἀνέστησαν” X. A. 3.3.1; ⇾ this said, they rose
+→ “Ἠϊόνα . . . Μήδων ἐχόντων πολιορκίᾳ εἷλον” T. 1.98; ⇾ they blockaded and captured Eïon which was held by the Medes
+→ “τῶν σωμάτων θηλυνομένων καὶ αἱ ψυχαὶ ἀρρωστότεραι γίγνονται” X. O. 4.2; ⇾ by the enfeebling of the body, the spirit too is made weaker
+→ “καὶ μεταπεμπομένου αὐτοῦ οὐκ ἐθέλω ἐλθεῖν” X. A. 1.3.10; ⇾ even though he is sending for me, I am unwilling to go 
+→ “Κῦρος ἀνέβη ἐπὶ τὰ ὄρη οὐδενὸς κωλύοντος” X. A. 1.2.22; ⇾ Cyrus ascended the mountains without opposition (lit. no one hindering) (or since no one opposed him).
+§Partic4. Circumstantial Participle - Accusative Absolute[117]
+The accusative absolute is an impersonal participe in accusative singular neuter form that does not agree with a subject. When the participle is impersonal, or has an infinitive as its subject, it stands in the accusative absolute, instead of the genitive. Such participles have no apparent grammatical connection with the rest of the sentence.
+→ “οὐδεὶς τὸ μεῖζον κακὸν αἱρήσεται ἐξὸν τὸ ἔλαττον (αἱρεῖσθαι)” P. Pr. 358d; ⇾ no one will choose the greater evil when it is possible to choose the less
+→ “ἧς (βουλῆς) νῦν ἀξιοῖ τυχεῖν οὐ μετὸν αὐτῷ” L. 31.32; ⇾ to which he now claims admission though he has no right
+→ “δῆλον γὰρ ὅτι οἶσθα μέλον γέ σοι” P. A. 24d; ⇾ for of course you know because it concerns you
+→ “μετεμέλοντο ὅτι μετὰ τὰ ἐν Πύλῳ, καλῶς παρασχόν, οὐ ξυνέβησαν” T. 5.14; ⇾ they repented that after what had occurred at Pylos, although a favourable occasion had presented itself, they had not come to terms 
+→ “προσταχθέν μοι ὑπὸ τοῦ δήμου Μένωνα ἄγειν εἰς Ἑλλήσποντον” D. 50.12; ⇾ a command having been given (it having been commanded) me by the people to convey Menon to the Hellespont
+→ “σὲ οὐχὶ ἐσώσαμεν . . . οἷόν τε ὂν καὶ δυνατόν” P. Cr. 46a; ⇾ we did not rescue you although it was both feasible and possible
+The participle of a personal verb may be used absolutely if it is preceded by ὡς or ὥσπερ. Examples:
+→ “ηὔχετο πρὸς τοὺς θεοὺς τἀγαθὰ διδόναι, ὡς τοὺς θεοὺς κάλλιστα εἰδότας ὁποῖα ἀγαθά ἐστι” X. M. 1.3.2; ⇾ (Socrates) prayed to the gods that they would give him good things, in the belief that the gods know best what sort of things are good
+→ “σιωπῇ ἐδείπνουν, ὤσπερ τοῦτο προστεταγμένον αὐτοῖς” X. S. 1. 11; ⇾ they were supping in silence just as if this had been enjoined upon them
+§Partic5. Supplementary Participle[118]
+The supplementary participle completes the idea of the verb by showing that to which its action relates. The supplementary participle agrees either with the subject or with the object of the main verb; with the subject when the verb is intransitive or passive, with the object when the verb is transitive.
+→ “οὔποτ᾽ ἐπαυόμην ἡμᾶς οἰκτίρων”X. A. 3.1.19; ⇾ I never ceased pitying ourselves
+→ “τοὺς πένητας ἔπαυσ᾽ ἀδικουμένους” D. 18.102; ⇾ I put a stop to the poor being wronged
+→ “ἀδικοῦντα φίλιππον ἐξήλεγξα” D. 18.136; ⇾ I proved that Philip was acting unjustly
+→ “εὐθὺς ἐλεγχθήσεται γελοῖος ὤν” X. M. 1.7.2; ⇾ he will straightway be proved to be ridiculous
+With verbs of emotion (rejoicing and grieving) the participle often denotes cause.
+→ “χαίρω διαλεγόμενος τοῖς σφόδρα πρεσβύταις” P. R. 328d; ⇾ I like to converse with very old men
+→ “οὐκ ἀγαπῶ ζῶν ἐπὶ τούτοις” I. 12.8; ⇾ I am not content to live on these conditions
+→ “οὐκ ἂν ἀχθοίμην μανθάνων” P. Lach. 189a; ⇾ I should not be annoyed at learning
+→ “χαλεπῶς ἔφερον οἰκίας κατελείποντες” T. 2.16; ⇾ they took it hard at abandoning their homes
+→ “οὔ μοι μεταμέλει οὕτως ἀπολογησαμένῳ” P. A. 38e; ⇾ I do not repent having made such a defence
+Article
+§Art1. Particular article[119]
+The article ὁ, ἣ, τό marks something or someone as identifiable and known. The particular article denotes individual persons or things as distinguished from others of the same kind, and is used with someone or something that is well known, are already mentioned or in the mind of the speaker or writer, is particularized by an attributive or by the following description, or marked as usual or proper under the circumstances. In Greek, there is indefinite article; therefore, lack of a definite article functions as an indefinite article. 
+The article is used when reference is made to a person or thing that is considered to be well known, and therefore is identifiable.
+→ “λαβε τὸ βιβλίον” P. Th. 143c; ⇾ take the book
+→ “βουλόμενος τὴν μάχην ποιῆσαι” T. 4.91; ⇾ wishing to fight the battle
+→ “ὁ δῆμος ὁ Ἀθηναίων” Aes. 3.116; ⇾ the people of the Athenians
+→ “λέγε τὴν ἐπιστολήν, ἣν ἔπεμψεν” D. 18.39; ⇾ read the letter that he sent
+→ “τὸ μέρος τῶν ψήφων ὁ διώκων οὐκ ἔλαβεν” D. 18.103; ⇾ the prosecutor did not get the (requisite) part of the votes
+→ (ὑμῖν) ἡ σχολή D. 8.53; ⇾ your usual idleness
+§Art2. As Substantivizer[120]
+When the article is added to a word or word group other than a noun, it is substantivised. The article has the power to make a substantive of any word or words to which it is prefixed. It can be used with adjectives, participles, prepositional phrases, adverbs, attributive genitives, and whole word groups, sentences and clauses. 
+→ “οἱ τιθέμενοι νόμους οἱ ἀσθενεῖς ἄνθρωποί εἰσιν καὶ οἱ πολλοί” P. G. 483b; ⇾ the enactors of the laws are the weak men and the multitude
+→ “τὰ τοῦ δήμου φρονεῖ” Ar. Eq. 1216; ⇾ is on the side of the people/He favors the p eople’s side.
+→“οἱ ἐπὶ τῶν πραγμάτων” D. 18.247; ⇾ those in power, the government
+→ “οἱ ἐν τῇ ἡλικίᾳ” T. 6.24; ⇾ those in the prime of life
+→ “τὰ τῶν στρατιωτῶν” X. A. 3.1.20; ⇾ the condition of the soldiers
+→ “τὰ τῆς ὀργῆς” T. 2.60; ⇾ the outbursts of wrath
+→ “οὐκ ἀπορήσετε τῶν ἐθελησόντων ὑπὲρ ὑμῶν κινδυνεύειν” D. 20.166; ⇾ you will not be in want of those who will be willing to encounter danger for you
+§Art3. Pronominal[121]
+Greek articles originally were demonstrative pronouns and the transition from the demonstrative to the article is so gradual that it is often impossible to distinguish between the two in earlier texts. In Homer ὁ, ἡ, τό is usually a demonstrative pronoun and is used substantively or adjectively; it also serves as the personal pronoun of the third person; however, the pronominal use of article is not common in classical Greek and survives mainly in connection with particles (μέν, δέ, γέ, τοί; and with καί preceding ὁ).
+→ “ἀλλὰ τὸ θαυμάζω” Hom. Od. 4.655; ⇾ but I marvel at this
+→ “τὴν δ᾽ ἐγὼ οὐ λύσω” Hom. Il. 1.29; ⇾ but her I will not release 
+→ “τεύχεα δ᾽ ἐξενάριξε, τά οἱ πόρε χάλκεος Ἄρης” Hom. Il. 7.146; ⇾ he stripped off the arms that brazen Ares had given him
+→ “οἱ μὲν ἐπορεύοντο, οἱ δ᾽ εἵποντο” X. A. 3.4.16; ⇾ the one party proceeded, the other followed
+→ “τοὺς μὲν ἀπέκτεινε, τοὺς δ᾽ ἐξέβαλεν” X. A. 1.1.7; ⇾ some he put to death, and others he expelled
+→ “οἱ μέν τινες ἀπέθνῃσκον, οἱ δ᾽ ἔφευγον” X. C. 3.2.10; ⇾ some were killed, but others escaped 
+§Art4. Generic[122]
+The generic article denotes an entire class as distinguished from other classes. Thus, ὁ ἄνθρωπος man (as distinguished from other beings), οἱ γέροντες the aged.
+→ “δεῖ τὸν στρατιώτην φοβεῖσθαι μᾶλλον τὸν ἄρχοντα ἢ τοὺς πολεμίους” X. A. 2.6.10; ⇾ the (a) soldier should fear his commander rather than the enemy
+→ “πονηρὸν ὁ συκοφάντης” D. 18.242; ⇾ the informer is a vile thing
+In the singular the generic article makes a single object the representative of the entire class; in the plural it denotes all the objects belonging to a class. The generic article is especially common, in the plural, with adjectives used substantively. A participle with the article may also denote an entire class.
+→ “οὐκ ἀπορήσετε τῶν ἐθελησόντων ὑπὲρ ὑμῶν κινδυνεύειν” D. 20.166; ⇾ you will not be in want of those who will be willing to encounter danger for you
+→ “οἱ λογοποιοῦντες” Dem. 4. 49; ⇾ newsmongers
+→ “οἱ ἐθελήσοντες μένειν” X. H. 7.5.24; ⇾ those who shall be willing to remain
+§Art5. Abstract Concept[123]
+Abstract substantives generally have the article: 
+→ “ἡ ἀρετὴ μᾶλλον ἢ ἡ φυγὴ σῴζει τὰς ψυχάς” X. C. 4.1.5; ⇾ valour rather than flight saves men's lives
+→ “ἡ σωφροσύνη … καὶ αὐτὴ ἡ φρόνησις μὴ καθαρμός τις ᾖ” Plat. Phaedo 69c; ⇾ self-restraint and wisdom itself may well be a kind of purification
+However, the names of the virtues, vices, arts, sciences, occupations often omit the article.
+→ τί σωφροσύνη, τί μανία; X. M. 1.1.16; ⇾ what is temperance, what is madness?
+§Art6. Proper Names[124]
+Proper names may take the article if they are previously mentioned or specially marked as well known. However, the use of articles with proper names depends on the style of the author.
+→ “τοὺς στρατιώτας αὐτῶν, τοὺς παρὰ Κλέαρχον ἀπελθόντας, εἴα Κῦρος τὸν Κλέαρχον ἔχειν” X. A. 1.4.7; ⇾ their soldiers who seceded to Clearchus, Cyrus allowed Clearchus to retain
+→ “ὁ Σόλων” D. 20.90; ⇾ Solon
+→ “οἱ Ἡρακλέες” P. Th. 169b; ⇾ the Heracleses 
+§Art7. Possession[125]
+The article often takes the place of an unemphatic possessive pronoun when there is no doubt as to the possessor. 
+→ “Κῦρος καταπηδήσας ἀπὸ τοῦ ἅρματος τὸν θώρακα ἐνέδυ” X. A. 1.8.3; ⇾ Cyrus leaped down from his chariot and put on his breastplate
+→ “περὶ τούτων γὰρ ὑμεῖς νυνὶ τὴν ψῆφον οἴσετε” D. 20.90; ⇾ for these are the questions regarding which you will now cast your votes.
+
+
+The pronoun αὐτός 
+§Aut1. Emphatic[126]
+The pronoun αὐτός is intensive when it is standing alone in the nominative case, or in the predicate position with a substantive, or in agreement with a pronoun, in any case. For instance, αὐτὸς ὁ ἀνήρ, ὁ ἀνὴρ αὐτός the man himself, αὐτοῦ τοῦ ἀνδρός, τοῦ ἀνδρὸς αὐτοῦ, etc.
+→ “αὐτὴ ἡ ἀλήθεια” Aes. 3.207; ⇾ the naked truth
+→ “τὸ πλέον τοῦ χωρίου αὐτὸ καρτερὸν ὑπῆρχε” T. 4.4; ⇾ the greater part of the place was strong in itself (without artificial fortification)
+→ “αὐτὰ τάδε” T. 1.139; ⇾ merely this
+→ “ἄνδρας οἳ καὶ τοῖς μὴ ἐπικαλουμένοις αὐτοὶ ἐπιστρατεύουσι” T. 4.60; ⇾ men who uninvited turn their arms even against those who do not ask their assistance
+→ “αὐτοὶ τὴν γῆν ἔσχον” T. 1.114; ⇾ they (the Athenians) seized the land themselves
+In Homer αὐτός denotes the principal person or thing, in opposition to what is subordinate, and is intensive by contrast: 
+→ “αὐτὸν καὶ θεράποντα” Hom. Il. 13.328; ⇾ the man himself and his attendant
+§Aut2. Personal Pronoun[127]
+When αὐτός is unemphatic and standing alone in the cases other than nominative, it has the meaning of the personal pronoun of the third person (him, her, it, them). This use of αὐτός as a personal pronoun always refers to someone or something that is already introduced. 
+→ “ἐκέλευον αὐτὴν ἀπιέναι” L. 1.12; ⇾ they ordered her to depart
+→ “ἄρχει τις αὐτῶν ἢ 'πὶ τῷ πλήθει λόγος;” Soph. OC 33; ⇾ Does someone govern them, or does authority rest with the masses?
+§Aut3. Identicalness[128]
+After the article, in the attributive position, αὐτός in any case means same. Thus, ὁ αὐτὸς ἀνήρ, rarely (ὁ) ἀνὴρ ὁ αὐτός the same man. 
+→ “τοῦ αὐτοῦ θέρους” T. 4.58; ⇾ in the same summer
+→ “τὰ αὐτὰ ταῦτα” X. A. 1.1.7; ⇾ these same things
+→ “οἱ τοὺς αὐτοὺς αἰεὶ περὶ τῶν αὐτῶν λόγους λέγοντες” Ant. 5.50; ⇾ the people who are continually making the same speeches about the same things
+→ “ἐγὼ μὲν ὁ αὐτός εἰμι, ἱμεῖς δὲ μεταβάλλετε” T. 2.61; ⇾ I am the same, it is you who change
+With a proper name or a word denoting an individual, the article is omitted
+→ “αὐτὸς Μένων” X. A. 2.1.5; ⇾ Menon himself
+→ “πρὸ αὐτοῦ βασιλέως” X. A. 1. 7. 11; ⇾ in front of the Great King himself
+§Aut4. Reflexive[129]
+Instead of the indirect ἑαυτοῦ, etc., the oblique cases of αὐτός may be used as a reflexive pronoun:
+→ “ἐπειρᾶτο τοὺς Ἀθηναίους τῆς ἐς αὐτὸν ὀργῆς παραλύειν” T. 2.65; ⇾ he tried to divert the Athenians from their anger against himself
+When ἑαυτοῦ, etc. precede, αὐτοῦ, etc. are usual instead of the direct reflexive: 
+→ “τὴν ἑαυτοῦ γνώμην ἀπεφαίνετο Σωκράτης πρὸς τοὺς ὁμιλοῦντας αὐτῷ” X. M. 4.7.1; ⇾ Socrates was wont to set forth his opinion to those who conversed with him” 
+Notes:
+Agr. Agreement
+GBP. Governed by Preposition
+
+
+References:
+* Syntax of Classical Greek from Homer to Demosthenes. Basil L. Gildersleeve. New York. American Book Company. 1900.
+* D.B. Monro, A Grammar of the Homeric Dialect. Carlisle, Pennsylvania: Dickinson College Commentaries, 2014. ISBN: 978-1-947822-04-7.
+* H. W. Smyth. 1920. Greek Grammar for Colleges. New York [u.a.]: New York: American Book Company.
+* Allan, Rutger J. The Middle Voice in Ancient Greek: A Study in Polysemy. Amsterdam Studies in Classical Philology, v. 11. Amsterdam: J.C. Gieben, 2003.
+* Van Emde Boas, E., Rijksbaron, A., Huitink, L., & De Bakker, M. (2019). The Cambridge Grammar of Classical Greek. Cambridge: Cambridge University Press. doi:10.1017/9781139027052
+
+
+________________
+[1] Smyth 938-939, Pedalion 436, CGCG 30.02
+[2] Smyth 939, Pedalion 32, CGCG 30.03
+[3] Smyth 940-942, 904, CGCG 30.04, Pedalion 1078
+[4] Pedalion 33, CGCG 30.55
+[5] Smyth 1297-1302, Pedalion 292 and 115 , CGCG 30.28
+
+
+[6] Smyth 1306-1319, Pedalion 118, CGCG 30.29
+[7] Smyth 1320-1321, Pedalion 1041 & 124, CGCG 30.28
+[8] Smyth 1322, Pedalion 120, CGCG 30.28
+[9] For more on this use of χρῆμα: Smyth 1294
+[10] Smyth 1323-1324, Pedalion 122, CGCG 30.28
+[11] Smyth 1325-1327, Pedalion 971 & 780, CGCG 30.28
+[12] Smyth 1330, Pedalion 125, CGCG 30.28
+[13] Smyth 1331-1335, Pedalion 130, CGCG 30.28
+[14] Smyth 1336-1337, Pedalion 318 & 144, CGCG 30.31
+[15] Smyth 1341-1379,  Smyth 1392-1407, Pedalion 977 & 302 & 121 & 166, , CGCG 30.21
+[16] Smyth 1410-1411 & 1392 & 1298, Pedalion 783 & 303, CGCG 30.28 & 30.34
+[17] Smyth 1444-1447, Pedalion 162, CGCG 30.32
+[18] Smyth 1315-1316, Pedalion 146, CGCG 30.24
+[19] Smyth 1448, Pedalion 149, CGCG 30.33
+[20] Smyth 2070-75, Pedalion 1099, CGCG 52.32
+[21] Smyth 1380-81, Pedalion 300 & 320, CGCG 30.21
+[22] Smyth 1375, 1405-9, Pedalion 141, CGCG 30.30
+[23] Smyth 1460-1470, Smyth 1544-1550, Pedalion 197 &182, CGCG 30.37
+[24]  Smyth 1476-1480, CGCG 30.41, Pedalion 202
+[25]  Smyth 1481-1486, Pedalion 185 & 188, CGCG 30.49
+[26]  Smyth 1486-1487, CGCG, 30.53, Pedalion 192
+[27] Smyth 1488-1494, Pedalion 223, CGCG 30.50
+[28] Smyth 1527, Smyth 1507, Smyth 1372, Pedalion 229, CGCG 30.44
+[29] Smyth 1513-1515, Pedalion 367, CGCG 30.54
+[30] Smyth 1503-1511, Pedalion 216, CGCG 30.43
+[31] Smyth 1473, 1517-19, CGCG 30.45
+[32] Smyth 1524-1525, Pedalion 369, CGCG 30.51
+[33] Smyth 1539-1543, CGCG 30.46, Pedalion 178 & 180
+[34] Smyth 1530-1538, CGCG 30.47, Pedalion 170 & 173
+[35] Smyth 1516, Pedalion 240
+[36] Smyth 1496-7, CGCG 30.52, Pedalion 203 & 204
+[37] Smyth 1553-1555, CGCG 30.8, Pedalion 51
+[38] Smyth 1563-1577, CGCG 30.12, Pedalion 342
+[39] Smyth 1972-1981, CGCG 30.11, Pedalion 1006
+[40] Smyth 1600-1605, CGCG 30.14, Pedalion 92 & 820
+[41] Smyth 1582-1587, CGCG 30.15, Pedalion 87 
+[42]  Smyth 1581, CGCG 30.16, Pedalion 84
+[43] Smyth 1588, CGCG 30.17, Pedalion 75
+[44]  Smyth 1606-1611, Pedalion 95 & 105, CGCG 30.18
+[45] Smyth 1596, Pedalion 818
+[46] Smyth 1619-1635, CGCG 30.9, Pedalion 357 & 360 & 108
+[47] Smyth 1610, Pedalion 96 & 100
+[48] Smyth 1283-1288, CGCG 30.55, Pedalion 38 & 49
+[49] Smyth 1875 & 1879-1882, CGCG 33.14
+[50] Smyth 1876-1877, CGCG 33.15
+[51] Smyth 1878, CGCG 33.17 & 33.54
+[52] Smyth 1883-1884, CGCG 33.20
+[53] Smyth 1886-1888, CGCG 33.18 & 33.20
+[54] Smyth 1859-67, 1872, CGCG 30.4-7
+[55] Smyth 1890-1892 & 1896-97, CGCG 33.22
+[56] Smyth 1893-1895, CGCG 33.24
+[57] Smyth 1895, CGCG 33.25
+[58] Smyth 1906, CGCG 33.51
+[59] Smyth 1898-1907, GCGC 33.51
+[60] Smyth 1900, CGCG 33.52
+[61] Smyth 1910-1913, CGCG 33.43
+[62] Smyth 1914-1916, CGCG 33.45
+[63] Smyth 1917-1922, CGCG 38.32 & 33.44
+[64] Smyth 1859-68, 1872, CGCG 30.4-7
+[65] Smyth 1923-1929, CGCG 33.28
+[66] Smyth 1924-1925, CGCG 33.29
+[67] Smyth 1927-1929, CGCG 33.30
+[68] Smyth 1931-1932 & 1935, CGCG 33.31
+[69] Smyth 1934-1936, CGCG 33.33
+[70] Smyth 1933 & 495, CGCG 33.24
+[71] Smyth 1937, CGCG 33.32
+[72] Smyth 1859-67, 1872-3, CGCG 33.4-7
+[73] Smyth 1945-1946, CGCG 33.34 & 33.36
+[74] Smyth 1947, CGCG 33.37 & 33.35
+[75] Smyth 1950, CGCG 33.38
+[76] Smyth 1859-67, 1872, CGCG 33.4-7
+[77] Smyth 1952-1953, CGCG 33.11 & 33.40 & 33.50
+[78] Smyth 1953, CGCG 33.53
+[79] CGCG 33.42
+[80] Smyth 1955-1956 & 581 & 600, CGCG 33.46
+[81] Smyth 1956, CGCG 33.47
+[82] Smyth 1703-1712 & 920, CGCG 35.1-2
+[83] Smyth 1719-1722 & 1725 & 1728, CGCG 35.8-10, Allan (2003): p.112-117
+[84] Smyth 1717-1718 & 1724, CGCG 35.11-12, Allan (2003): p.88-95
+[85] CGCG 35.27, Allan (2003): p.105-112
+[86] Smyth 1729, CGCG 35.17, Allan (2003): p.76-84
+[87] CGCG 35.27 & 35.17, Allan (2003): p.101-105
+[88] Smyth 1726-1727, CGCG 35.24, Allan (2003): p.84-88
+[89] CGCG 35.17, Allan (2003): p.60-64
+[90] Smyth 1735-1752 & 814, CGCG 35.1, Allan (2003): p. 58-60
+[91] Smyth 1771-1773, CGCG 34.5
+[92] Smyth 1774- 1779, CGCG 34.17, Gildersleeve 364
+[93] Smyth 1780-1783, CGCG 34.18 & 38.40, Gildersleeve 367
+[94] Smyth 1784-1789, CGCG 34.15-16
+[95] Smyth 2576-2577 & 2191-2207 & 2297-2365, CGCG 54.2 & 43.5 & 44.2 & 47.7 & 49.4-5 & 50.23-25 & 54.11
+[96] Smyth 1797-1799 & 1809, CGCG 34.6
+[97] Smyth 1800, CGCG 34.7
+[98] Smyth 1801-1804, CGCG 34.10
+[99] Smyth 1804-1809, CGCG 34.8
+[100] Smyth 1810- 1812
+[101] Smyth 1804, CGCG 34.9
+[102] Smyth 2481-3, 2487, CGCG 40.9, Gildersleeve 456
+[103] Smyth 1814-1819, CGCG 34.14, Monro 299
+[104] Smyth 1820 , CGCG 34.13, Monro 299
+[105] Smyth 1821-1834, CGCG 34.13
+[106] Smyth 2186-87 & 1824, CGCG 40. 9 & 40.12-15
+[107] Smyth 1835-1844, CGCG 34.19
+[108] Smyth 1839, CGCG 34.20
+[109] Pedalion 573, CGCG 51.8-18, Smyth 2008-2011
+[110] CGCG 51.19-27, Smyth 2016-2024, Pedalion 622
+[111] Smyth 2012, CGCG 51.49, Pedalion 648
+[112] Smyth 2013-2015, Pedalion 582 & 583, CGCG 51.47-48
+[113] Smyth 2025-2037, CGCG 51.38-46, Pedalion 826 & 621 & 735
+[114] Smyth 2049-2053 & 1166 & 1153, CGCG 52.46-49
+[115] Smyth 2054-2067, CGCG 52.29-31 & 52.34-45
+[116] Smyth 2068-2075, CGCG 52.32
+[117] Smyth 2076-2078, CGCG 52.33 
+[118] Smyth 2088-2119, CGCG 52.8-28
+[119] Smyth 1118-1120, CGCG 28.1-4
+[120] Smyth 1153 & 1124 & 2052, CGCG 28.23-25
+[121] Smyth 1100-1117, CGCG 28.26-31
+[122] Smyth 1122-24, CGCG 28.6
+[123] Smyth 1131-35, CGCG 28.7
+[124] Smyth 1136-42, CGCG 28.8
+[125] Smyth 1121, CGCG 28.4
+[126] Smyth 1204-1208, CGCG 29.9
+[127] Smyth 1212, CGCG 29.7
+[128] Smyth 1210, CGCG 29.8
+[129] Smyth 1228 & 1233, CGCG 29.19
+[a]telic verbs: needs examples and explanation
+[b]Also see Monro 74 about descriptive imperfect, which he argues sometimes is used "in a description along with Aorists for the sake of connexion and variety (i.e.in order to avoid a series of detached assertions)". One of his examples is Il.1.437-439. Here's Amelia's translation:
+437. 2274351[δὲ] As for the men themselves[καὶ αὐτοὶ] they[0] made their way[they:βαῖνον] out[ἐκ] at[ἐπὶ] the[0] edge[ῥηγμῖνι] of the[0] sea[of:θαλάσσης].
+438. 2274351a They[0] disembarked[they:ἐκ βῆσαν] the[0] sacrifice[ἑκατόμβην] for the[0] far-shooter[ἑκηβόλῳ] Apollo[for:Ἀπόλλωνι];
+439. 2274352 And[δὲ] out of[ἐκ] the[0] sea-faring[ποντοπόροιο] ship[νηὸς] Chryseis[Χρυσηῒς] walked[she:βῆ].
+[c]@gcrane2008@gmail.com 
+The last sentence of this explanation from Kuehner 383b mentions that in Iranian languages imperfect is the main tense for narration, and I think this might actually explain why I think there we are explaining Greek Grammar in comparison to English. It's common to use imperfect for narration in Early Modern Persian prose, and therefore some of these categories sound unnatural to me.
+Explanation from Kuehner 383b:
+Auch bei den oben an zweiter Stelle genannten Verben erklärt sich das Imperfekt zumeist daraus, dass der thatsächliche Abschluss der Handlung (bei πέμπειν, πλεῖν u. a. die Erreichung des Zieles, bei κελεύειν, παρακελεύεσθαι u. a. die Ausführung des Befehls) entweder überhaupt nicht erfolgt ist oder ausser Betracht bleibt. Th. 4.28 Νικίας . . . ἐκέλευεν ἥν τινα βούλεται δύναμιν λαβόντα ἐπιχειρεῖν (erfolglose Aufforderung). 3, 112 τοὺς Μεσσηνίους πρώτους ἐπίτηδες ὁ Δημοσθένης προὔταξε καὶ προσαγορεύειν ἐκέλευε (nicht auf die Ausführung, sondern auf den Grund des Befehls kommt es an). 8, 6 ἀντὶ τοῦ Μελαγκρίδου Χαλκιδέα ἔπεμπον (der wirkliche Aufbruch erfolgt erst cap. 12). 3, 49 τριήρη εὐθὺς ἄλλην ἀπέστελλον κατὰ σπουδήν (Imperf., weil im folgenden erst noch geschildert wird, was unterwegs geschah). 1, 46 οἱ δὲ Κορίνθιοι . . ἔπλεον ἐπὶ τὴν Κέρκυραν ναυσὶ πεντήκοντα καὶ ἑκατόν. So steht das Imperfekt namentlich bei den Verben des Sagens, wenn die berichtete Rede dem Erzähler nicht schon als abgeschlossenes Ganzes vorschwebt, sondern in ihren einzelnen Momenten entwickelt wird. Th. 1.72 vor der Rede: οἱ Ἀθηναῖοι ἔλεγον τοιάδε, 79 nach Beendigung derselben aber τοιαῦτα δὲ οἱ Ἀ. εἶπον. X. A. 4.8.14 Ξενοφῶν δὲ ἀπιὼν ἔλεγε τοῖς στρατιώταις: Ἄνδρες, κτλ. Cy. 3. 3, 13 σὺν τούτοις οὖν ὁ Κῦρος ἐλθὼν πρὸς τὸν Κυαξάρην ἤρχετο λόγου τοιοῦδε. Bloss ἤρχετο An. 3. 2, 9. — Andere betrachten Imperfekte wie ἔλεγε als vereinzelte Überbleibsel aus einer älteren Sprachperiode, in der das Imperfekt noch das eigentliche Tempus der Erzählung war (wie im Sanskrit und im Iranischen). S. Delbrück, Syntakt. Forsc
+[d]Bodily movements and functions ?
+[e]Here the example in English is hearing and seeing compared to listening and watching, but I didn't include the example because they may not translate well.
