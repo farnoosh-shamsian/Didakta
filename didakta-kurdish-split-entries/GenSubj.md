@@ -1,0 +1,10 @@
+# §GenSubj. بکه‌ری
+
+بکه‌ری[^26]  
+دۆخی ئيزافه‌ لەگەڵ ئەو ناوانەی کە لە کردارەوە وەرگیراون، دەتوانێ دەربڕی بکه‌ری کردەکی ئه‌و ناوه بێت. ئيزافه‌ی بکه‌ری، مانایەکی دیاری هەیە.  
+→ “[**τῶν**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn25&prior=basi/leios) **[βαρβάρων](http://www.perseus.tufts.edu/hopper/morph?l=barba%2Frwn&la=greek&can=barba%2Frwn1&prior=tw=n)** [φόβος](http://www.perseus.tufts.edu/hopper/morph?l=fo%2Fbos&la=greek&can=fo%2Fbos2&prior=barba/rwn)” [**X. A. 1.2.17**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.2.17&lang=original); ⇾   
+«ترسی بەڕبەڕه‌کان» (ئه‌و ترسه‌ی وا بەڕبەڕه‌کان هه‌ستی ده‌که‌ن[οἱ](http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%2814&prior=fo/bos) [βάρβαροι](http://www.perseus.tufts.edu/hopper/morph?l=ba%2Frbaroi&la=greek&can=ba%2Frbaroi0&prior=oi\() [φοβοῦνται](http://www.perseus.tufts.edu/hopper/morph?l=fobou%3Dntai&la=greek&can=fobou%3Dntai0&prior=ba/rbaroi))  
+→ “[ἡ](http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%289&prior=fobou=ntai) [**βασιλέως**](http://www.perseus.tufts.edu/hopper/morph?l=basile%2Fws&la=greek&can=basile%2Fws0&prior=h\() [ἐπιορκία](http://www.perseus.tufts.edu/hopper/morph?l=e%29piorki%2Fa_&la=greek&can=e%29piorki%2Fa_0&prior=basile/ws)” **[X. A. 3\. 2\. 4](http://www.perseus.tufts.edu/hopper/text?doc=Xen.+Anab.+3.2.4&fromdoc=Perseus%3Atext%3A1999.01.0202)**; ⇾  
+« سوێند‌شکێنی پاشا»  
+→ “[μῆνιν](http://www.perseus.tufts.edu/hopper/morph?l=mh%3Dnin&la=greek&can=mh%3Dnin0) [ἄειδε](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Feide&la=greek&can=a%29%2Feide0&prior=mh=nin) [θεὰ](http://www.perseus.tufts.edu/hopper/morph?l=qea%5C&la=greek&can=qea%5C0&prior=a\)/eide) [Πηληϊάδεω](http://www.perseus.tufts.edu/hopper/morph?l=*phlhi%2Ba%2Fdew&la=greek&can=*phlhi%2Ba%2Fdew0&prior=qea%5C) [**Ἀχιλῆος**](http://www.perseus.tufts.edu/hopper/morph?l=*%29axilh%3Dos&la=greek&can=*%29axilh%3Dos0&prior=*phlhi+a/dew)” **[Hom. Il. 1.1](http://www.perseus.tufts.edu/hopper/text?doc=hom.+Il.+1&fromdoc=Perseus%3Atext%3A1999.04.0007)**; ⇾   
+«"ئەی خواژن، تووڕەیی ئاخیلێئووس، کوڕی پێلێئووس بسترێنه»

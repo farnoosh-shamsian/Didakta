@@ -1,0 +1,9 @@
+# §SubjHomer. Anticipatory Subjunctive (Homeric)[^102]
+
+In Homer the subjunctive is often closely akin to the future indicative, and refers by anticipation to a future event (negative [οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%299&prior=le/gesqai)). 
+
+→ “[οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%2910&prior=ou\)) [γάρ](http://www.perseus.tufts.edu/hopper/morph?l=ga%2Fr&la=greek&can=ga%2Fr2&prior=ou\)) [πω](http://www.perseus.tufts.edu/hopper/morph?l=pw&la=greek&can=pw0&prior=ga/r) [τοίους](http://www.perseus.tufts.edu/hopper/morph?l=toi%2Fous&la=greek&can=toi%2Fous0&prior=pw) [ἴδον](http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fdon&la=greek&can=i%29%2Fdon0&prior=toi/ous) [ἀνέρας](http://www.perseus.tufts.edu/hopper/morph?l=a%29_ne%2Fras&la=greek&can=a%29_ne%2Fras0&prior=i\)/don), [οὐδὲ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29de%5C&la=greek&can=ou%29de%5C0&prior=a\)_ne/ras) [**ἴδωμαι**](http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fdwmai&la=greek&can=i%29%2Fdwmai0&prior=ou\)de\\)” **[Hom. Il. 1.262](http://www.perseus.tufts.edu/hopper/text?doc=Hom.+il.+1&fromdoc=Perseus%3Atext%3A1999.01.0135)**; ⇾ for never yet saw I such men, nor shall I see them 
+
+→ “[καί](http://www.perseus.tufts.edu/hopper/morph?l=kai%2F&la=greek&can=kai%2F2&prior=i\)/dwmai) [νύ](http://www.perseus.tufts.edu/hopper/morph?l=nu%2F&la=greek&can=nu%2F0&prior=kai/) [τις](http://www.perseus.tufts.edu/hopper/morph?l=tis&la=greek&can=tis6&prior=nu/) [ὧδ᾽](http://www.perseus.tufts.edu/hopper/morph?l=w%28%3Dd%27&la=greek&can=w%28%3Dd%271&prior=tis) [**εἴπῃσι**](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%2Fph%7Csi&la=greek&can=ei%29%2Fph%7Csi0&prior=w\(=d%27)” [**Hom. Od. 6\. 275**](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D6); ⇾ and one will say 
+
+###

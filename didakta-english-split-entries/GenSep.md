@@ -1,0 +1,19 @@
+# §GenSep. Source and Separation[^16]
+
+The genitive may indicate the place or point from which something is separated, particularly with words denoting motion or separation. Here may be classed the genitive of origin, indicating origin, source or offspring.
+
+→ “[λήγειν](http://www.perseus.tufts.edu/hopper/morph?l=lh%2Fgein&la=greek&can=lh%2Fgein0) [**τῶν**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn0&prior=lh/gein) **[πόνων](http://www.perseus.tufts.edu/hopper/morph?l=po%2Fnwn&la=greek&can=po%2Fnwn0&prior=tw=n)**” [**I. 1.14**](http://www.perseus.tufts.edu/hopper/text?doc=Isoc.%201.14&lang=original); ⇾ to cease from toil
+
+→ “[ἐπιστήμη](http://www.perseus.tufts.edu/hopper/morph?l=e%29pisth%2Fmh&la=greek&can=e%29pisth%2Fmh0&prior=po/nwn) [χωριζομένη](http://www.perseus.tufts.edu/hopper/morph?l=xwrizome%2Fnh&la=greek&can=xwrizome%2Fnh0&prior=e\)pisth/mh) [**δικαιοσύνης**](http://www.perseus.tufts.edu/hopper/morph?l=dikaiosu%2Fnhs&la=greek&can=dikaiosu%2Fnhs0&prior=xwrizome/nh)” [**P. Menex. 246e**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Menex.%20246e&lang=original); ⇾ knowledge divorced from justice” 
+
+→ “[**πίθων**](http://www.perseus.tufts.edu/hopper/morph?l=pi%2Fqwn&la=greek&can=pi%2Fqwn0&prior=a\)ntepoiou=nto) [ἠφύσσετο](http://www.perseus.tufts.edu/hopper/morph?l=h%29fu%2Fsseto&la=greek&can=h%29fu%2Fsseto0&prior=pi/qwn) [οἶνος](http://www.perseus.tufts.edu/hopper/morph?l=oi%29%3Dnos&la=greek&can=oi%29%3Dnos0&prior=h\)fu/sseto)” **[Hom. Od. 23.305](http://www.perseus.tufts.edu/hopper/text?doc=Hom.+od.+23+305&fromdoc=Perseus%3Atext%3A1999.01.0133)**; ⇾ wine was broached from the casks 
+
+→ “[ταῦτα](http://www.perseus.tufts.edu/hopper/morph?l=tau%3Dta&la=greek&can=tau%3Dta0&prior=du/o) [δέ](http://www.perseus.tufts.edu/hopper/morph?l=de%2F&la=greek&can=de%2F0&prior=tau=ta) [**σου**](http://www.perseus.tufts.edu/hopper/morph?l=sou&la=greek&can=sou0&prior=de/) [τυχόντες](http://www.perseus.tufts.edu/hopper/morph?l=tuxo%2Fntes&la=greek&can=tuxo%2Fntes0&prior=sou)” **[X. A. 6\. 6\. 32](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%206.6.32&lang=original)**; ⇾ obtaining this of you 
+
+→ “[μάθε](http://www.perseus.tufts.edu/hopper/morph?l=ma%2Fqe&la=greek&can=ma%2Fqe0&prior=tuxo/ntes) [**μου**](http://www.perseus.tufts.edu/hopper/morph?l=mou&la=greek&can=mou0&prior=ma/qe) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C1&prior=mou) [τάδε](http://www.perseus.tufts.edu/hopper/morph?l=ta%2Fde&la=greek&can=ta%2Fde0&prior=kai\\)” [**X. C. 1.6.44**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.6.44&lang=original); ⇾ learn this also from me
+
+→ “[κύματα](http://www.perseus.tufts.edu/hopper/morph?l=ku%2F_mata&la=greek&can=ku%2F_mata0&prior=*fili/ppou) [**παντοίων**](http://www.perseus.tufts.edu/hopper/morph?l=pantoi%2Fwn&la=greek&can=pantoi%2Fwn0&prior=ku/_mata) [**ἀνέμων**](http://www.perseus.tufts.edu/hopper/morph?l=a%29ne%2Fmwn&la=greek&can=a%29ne%2Fmwn0&prior=pantoi/wn)” **[Hom. Il. 2.369](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D2%3Acard%3D369)**; ⇾ waves caused by all kinds of winds
+
+→ “[**Δαρείου**](http://www.perseus.tufts.edu/hopper/morph?l=*da_rei%2Fou&la=greek&can=*da_rei%2Fou0&prior=y) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C0&prior=*da_rei/ou) [**Παρυσάτιδος**](http://www.perseus.tufts.edu/hopper/morph?l=*parusa%2Ftidos&la=greek&can=*parusa%2Ftidos0&prior=kai\\) [γίγνονται](http://www.perseus.tufts.edu/hopper/morph?l=gi%2Fgnontai&la=greek&can=gi%2Fgnontai0&prior=*parusa/tidos) [παῖδες](http://www.perseus.tufts.edu/hopper/morph?l=pai%3Ddes&la=greek&can=pai%3Ddes0&prior=gi/gnontai) [δύο](http://www.perseus.tufts.edu/hopper/morph?l=du%2Fo&la=greek&can=du%2Fo1&prior=pai=des)” [**X. A. 1.1.1**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.1.1&lang=original); ⇾ of Darius and Parysatis are born two sons
+
+###

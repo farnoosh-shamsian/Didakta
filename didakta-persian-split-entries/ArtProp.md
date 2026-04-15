@@ -1,0 +1,17 @@
+# §ArtProp. با اسم خاص
+
+اسامی خاص اگر پیش‌تر ذکر شده باشند و یا مشهور باشند ممکن است حرف تعریف بگیرند. استفاده از حرف تعریف با اسامی خاص به سبک نوشتاری نویسنده بستگی دارد.
+
+→ “[τοὺς](http://www.perseus.tufts.edu/hopper/morph?l=tou%5Cs&la=greek&can=tou%5Cs0&prior=*\)aqhnai=os) [στρατιώτας](http://www.perseus.tufts.edu/hopper/morph?l=stratiw%2Fta_s&la=greek&can=stratiw%2Fta_s0&prior=tou\\s) [αὐτῶν](http://www.perseus.tufts.edu/hopper/morph?l=au%29tw%3Dn&la=greek&can=au%29tw%3Dn0&prior=stratiw/ta_s), [τοὺς](http://www.perseus.tufts.edu/hopper/morph?l=tou%5Cs&la=greek&can=tou%5Cs1&prior=au\)tw=n) [παρὰ](http://www.perseus.tufts.edu/hopper/morph?l=para%5C&la=greek&can=para%5C0&prior=tou\\s) [Κλέαρχον](http://www.perseus.tufts.edu/hopper/morph?l=*kle%2Farxon&la=greek&can=*kle%2Farxon0&prior=para\\) [ἀπελθόντας](http://www.perseus.tufts.edu/hopper/morph?l=a%29pelqo%2Fntas&la=greek&can=a%29pelqo%2Fntas0&prior=*kle/arxon), [εἴα](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%2Fa_&la=greek&can=ei%29%2Fa_0&prior=a\)pelqo/ntas) [Κῦρος](http://www.perseus.tufts.edu/hopper/morph?l=*ku%3Dros&la=greek&can=*ku%3Dros0&prior=ei\)/a_) [**τὸν**](http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn0&prior=*ku=ros) [Κλέαρχον](http://www.perseus.tufts.edu/hopper/morph?l=*kle%2Farxon&la=greek&can=*kle%2Farxon1&prior=to\\n) [ἔχειν](http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fxein&la=greek&can=e%29%2Fxein0&prior=*kle/arxon)” [**X. A. 1.4.7**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.4.7&lang=original); ⇾ 
+
+«کورش به کلئارخوس اجاره داد سپاهیانی را که خود سوی کلئارخوس رفته بودند نگه دارد»
+
+→ “[**ὁ**](http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%280&prior=e\)/xein) [Σόλων](http://www.perseus.tufts.edu/hopper/morph?l=*so%2Flwn&la=greek&can=*so%2Flwn0&prior=o\()” [**D. 20.90**](http://www.perseus.tufts.edu/hopper/text?doc=Dem.%2020.90&lang=original); ⇾ 
+
+«سولون»
+
+→ “[**οἱ**](http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%280&prior=*so/lwn) [Ἡρακλέες](http://www.perseus.tufts.edu/hopper/morph?l=*%28hrakle%2Fes&la=greek&can=*%28hrakle%2Fes0&prior=moi)” [**P. Th. 169b**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Theaet.%20169b&lang=original); ⇾
+
+«هراکلس‌ها»
+
+###

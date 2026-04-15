@@ -1,0 +1,15 @@
+# §MidSpon. روند خودآیند
+
+در میانی روند خودآیند یا خود‌به‌خود، فاعل یا نهاد به نحو غیرارادی دچار تغییرات درونی و مکانی  می‌شود. تفاوت مهم بین میانی روند خودآیند با افعال مجهول در این است که در میانی روند خود‌آیند فاعل نامعلوم و یا غیرقابل تشخیص است. بسیاری از افعال میانی روند خود‌آیند در جهت معلوم تبدیل به سببی می‌شوند، مانند [ἀπόλλυμαι](http://www.perseus.tufts.edu/hopper/morph?l=a%29po%2Fllu%5Emai&la=greek&can=a%29po%2Fllu%5Emai0&prior=a\)po/llusqai) «نابود شدن» و [ἀπόλλυμι](http://www.perseus.tufts.edu/hopper/morph?l=a%29po%2Fllu_mi&la=greek&can=a%29po%2Fllu_mi0) «نابود کردن».
+
+→ “(...) [πέλας](http://www.perseus.tufts.edu/hopper/morph?l=pe%2Flas&la=greek&can=pe%2Flas0&prior=oi\)/khsan) [τῶν](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn0&prior=pe/las) [κήπων](http://www.perseus.tufts.edu/hopper/morph?l=kh%2Fpwn&la=greek&can=kh%2Fpwn0&prior=tw=n) (...), [ἐν](http://www.perseus.tufts.edu/hopper/morph?l=e%29n&la=greek&can=e%29n0&prior=*gordi/ew) [τοῖσι](http://www.perseus.tufts.edu/hopper/morph?l=toi%3Dsi&la=greek&can=toi%3Dsi0&prior=e\)n) [**φύεται**](http://www.perseus.tufts.edu/hopper/morph?l=fu%2Fetai&la=greek&can=fu%2Fetai0&prior=toi=si) [αὐτόματα](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%2Fmata&la=greek&can=au%29to%2Fmata0&prior=fu/etai) [ῥόδα](http://www.perseus.tufts.edu/hopper/morph?l=r%28o%2Fda&la=greek&can=r%28o%2Fda0&prior=au\)to/mata)” **[Hdt. 8.138.2](http://www.perseus.tufts.edu/hopper/text?doc=Hdt.+8.138.2&fromdoc=Perseus%3Atext%3A1999.01.0125)**; ⇾ 
+
+«(...) کنار باغ‌ها (...) در آنجا که رُز‌ها خودبه‌خود می‌رویند»
+
+→ “[αἰεὶ](http://www.perseus.tufts.edu/hopper/morph?l=ai%29ei%5C&la=greek&can=ai%29ei%5C0&prior=ba/ll%27) [δὲ](http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C5&prior=ai\)ei\\) [πυραὶ](http://www.perseus.tufts.edu/hopper/morph?l=purai%5C&la=greek&can=purai%5C0&prior=de\\) [νεκύων](http://www.perseus.tufts.edu/hopper/morph?l=neku%2Fwn&la=greek&can=neku%2Fwn0&prior=purai\\) [**καίοντο**](http://www.perseus.tufts.edu/hopper/morph?l=kai%2Fonto&la=greek&can=kai%2Fonto0&prior=neku/wn) [θαμειαί](http://www.perseus.tufts.edu/hopper/morph?l=qameiai%2F&la=greek&can=qameiai%2F0&prior=kai/onto)” [**Hom. Il. 1\. 52**](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D1); ⇾ 
+
+«و هیمه‌‌های آتشِ اجساد، پرازدحام، بی‌وقفه می‌سوختند»
+
+# 
+
+# **جهت مجهول** {#جهت-مجهول}

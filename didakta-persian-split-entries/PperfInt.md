@@ -1,0 +1,9 @@
+# §PperfInt. تأکیدی
+
+مانند زمان حال کامل، گذشته‌ی کامل همراه با برخی افعال غیر غایی مانند [φοβέομαι](http://www.perseus.tufts.edu/hopper/morph?l=fobe%2Fomai&la=greek&can=fobe%2Fomai0&prior=fe/bomai) یا [θαυμάζω](http://www.perseus.tufts.edu/hopper/morph?l=qaum-a%2Fzw&la=greek&can=qaum-a%2Fzw0) ممکن است معنای تاکیدی داشته باشد.
+
+→ “[ἔξω](http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fcw&la=greek&can=e%29%2Fcw0&prior=tei/xh) … [οἱ](http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%281&prior=ga\\r) [τῶν](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn0&prior=oi\() [Ἀρκάδων](http://www.perseus.tufts.edu/hopper/morph?l=*%29arka%2Fdwn&la=greek&can=*%29arka%2Fdwn0&prior=tw=n) [ὁπλῖται](http://www.perseus.tufts.edu/hopper/morph?l=o%28pli%3Dtai&la=greek&can=o%28pli%3Dtai0&prior=*\)arka/dwn) [παντάπασιν](http://www.perseus.tufts.edu/hopper/morph?l=panta%2Fpasin&la=greek&can=panta%2Fpasin0&prior=o\(pli=tai) [οὐκ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29k&la=greek&can=ou%29k0&prior=panta/pasin) [ἀντεξῇσαν](http://www.perseus.tufts.edu/hopper/morph?l=a%29ntech%3D%7Csan&la=greek&can=a%29ntech%3D%7Csan0&prior=ou\)k): [οὕτω](http://www.perseus.tufts.edu/hopper/morph?l=ou%28%2Ftw&la=greek&can=ou%28%2Ftw0&prior=a\)ntech=|san) [τοὺς](http://www.perseus.tufts.edu/hopper/morph?l=tou%5Cs&la=greek&can=tou%5Cs0&prior=ou\(/tw) [πελταστὰς](http://www.perseus.tufts.edu/hopper/morph?l=peltasta%5Cs&la=greek&can=peltasta%5Cs0&prior=tou\\s) [**ἐπεφόβηντο**](http://www.perseus.tufts.edu/hopper/morph?l=e%29pefo%2Fbhnto&la=greek&can=e%29pefo%2Fbhnto0&prior=peltasta\\s)” [**X. H. 4.4.16**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%204.4.16&lang=original); ⇾ 
+
+«سربازان سنگین‌اسلحه‌ی (هُپلیتِس) آرکادیایی به‌کلی برای دیدار آنها بیرون نیامدند: تا این حد از سربازان سبک‌اسلحه (پِلتاستِس) می‌ترسیدند (ترسیده بودند)»
+
+# **زمان آینده‌ی کامل** {#زمان-آینده‌ی-کامل}

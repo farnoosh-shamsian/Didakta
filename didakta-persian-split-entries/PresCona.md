@@ -1,0 +1,17 @@
+# §PresCona. ارادی
+
+زمان حال ممکن است برای بیان آغاز، اقدام یا قصد انجام یک امر یا کنش به کار رود. معنای عزم، تلاش یا قصد انجام کار از بافت متن استنباط می‌گردد. بیان عزم و اراده، تنها به دلیل نمود ناکامل زمان حال است و در بطن معنای آن نیست.
+
+→ “[τὴν](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn1&prior=xro/nos) [δόξαν](http://www.perseus.tufts.edu/hopper/morph?l=do%2Fcan&la=greek&can=do%2Fcan0&prior=th\\n) [ταύτην](http://www.perseus.tufts.edu/hopper/morph?l=tau%2Fthn&la=greek&can=tau%2Fthn0&prior=do/can) [**πείθουσιν**](http://www.perseus.tufts.edu/hopper/morph?l=pei%2Fqousin&la=greek&can=pei%2Fqousin0&prior=tau/thn) [ὑμᾶς](http://www.perseus.tufts.edu/hopper/morph?l=u%28_ma%3Ds&la=greek&can=u%28_ma%3Ds0&prior=pei/qousin) [ἀποβαλεῖν](http://www.perseus.tufts.edu/hopper/morph?l=a%29pobalei%3Dn&la=greek&can=a%29pobalei%3Dn0&prior=u\(_ma=s)” [**I. 6.12**](http://www.perseus.tufts.edu/hopper/text?doc=Isoc.%206.12&lang=original); ⇾
+
+«می‌خواهند شما را متقاعد کنند که این شهرت را بر باد دهید»
+
+→ “[**δίδωμί**](http://www.perseus.tufts.edu/hopper/morph?l=di%2Fdwmi%2F&la=greek&can=di%2Fdwmi%2F0&prior=a\)pobalei=n) [σοι](http://www.perseus.tufts.edu/hopper/morph?l=soi&la=greek&can=soi0&prior=di/dwmi/) [αὐτὴν](http://www.perseus.tufts.edu/hopper/morph?l=au%29th%5Cn&la=greek&can=au%29th%5Cn0&prior=soi) [ταύτην](http://www.perseus.tufts.edu/hopper/morph?l=tau%2Fthn&la=greek&can=tau%2Fthn1&prior=au\)th\\n) [γυναῖκα](http://www.perseus.tufts.edu/hopper/morph?l=gunai%3Dka&la=greek&can=gunai%3Dka0&prior=tau/thn)” [**X. C. 8.5.19**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%208.5.19&lang=original); ⇾ 
+
+«همین زن را (به همسری) به تو می‌دهم»
+
+→ “[**προδίδοτον**](http://www.perseus.tufts.edu/hopper/morph?l=prodi%2Fdoton&la=greek&can=prodi%2Fdoton0&prior=gunai=ka) [τὴν](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn2&prior=prodi/doton) [Ἑλλάδα](http://www.perseus.tufts.edu/hopper/morph?l=*%28ella%2Fda&la=greek&can=*%28ella%2Fda0&prior=th\\n)” [**Ar. P. 408**](http://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Peace%20408&lang=original); ⇾ 
+
+«به یونان خیانت می‌کنند»
+
+###

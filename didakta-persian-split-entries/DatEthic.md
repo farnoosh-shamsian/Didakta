@@ -1,0 +1,21 @@
+# §DatEthic. تأکیدی (بیان احساسات)
+
+ضمیر شخصی اول‌شخص و دوم‌شخص در حالت برایی ممکن است به نحوی بیانگر منفعت یا تعلق گوینده یا مخاطب باشد. برایی تأکیدی می‌تواند برای بیان تعجب و شگفتی به کار رود. برایی تأکیدی بسیار نادر است. در بسیاری از مواقع برایی تاکیدی معادل دقیق در ترجمه ندارد یا ترجمه‌ناپذیر است.
+
+→ “[τοιοῦτο](http://www.perseus.tufts.edu/hopper/morph?l=toiou%3Dto&la=greek&can=toiou%3Dto0&prior=e\(autw=|) [**ὑμῖν**](http://www.perseus.tufts.edu/hopper/morph?l=u%28mi%3Dn&la=greek&can=u%28mi%3Dn0&prior=toiou=to) [ἐστι](http://www.perseus.tufts.edu/hopper/morph?l=e%29sti&la=greek&can=e%29sti1&prior=u\(mi=n) [ἡ](http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%280&prior=e\)sti) [τυραννίς](http://www.perseus.tufts.edu/hopper/morph?l=turanni%2Fs&la=greek&can=turanni%2Fs0&prior=h\()” [**Hdt. 5.92**](http://www.perseus.tufts.edu/hopper/text?doc=Hdt.%205.92&lang=original); ⇾ 
+
+«استبداد این‌چنین است\!»
+
+→ “[μέμνησθέ](http://www.perseus.tufts.edu/hopper/morph?l=me%2Fmnhsqe%2F&la=greek&can=me%2Fmnhsqe%2F0&prior=a\)ggeli/a_) [**μοι**](http://www.perseus.tufts.edu/hopper/morph?l=moi&la=greek&can=moi0&prior=me/mnhsqe/) [μὴ](http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C0&prior=moi) [θορυβεῖν](http://www.perseus.tufts.edu/hopper/morph?l=qorubei%3Dn&la=greek&can=qorubei%3Dn0&prior=mh\\)” [**P. A. 27b**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2027b&lang=original); ⇾ 
+
+«به‌خاطر داشته باش که جنجال نکنی»
+
+→ “[ἀμουσότεροι](http://www.perseus.tufts.edu/hopper/morph?l=a%29mouso%2Fteroi&la=greek&can=a%29mouso%2Fteroi0&prior=qorubei=n) [γενήσονται](http://www.perseus.tufts.edu/hopper/morph?l=genh%2Fsontai&la=greek&can=genh%2Fsontai0&prior=a\)mouso/teroi) [**ὑμῖν**](http://www.perseus.tufts.edu/hopper/morph?l=u%28_mi%3Dn&la=greek&can=u%28_mi%3Dn0&prior=genh/sontai) [οἱ](http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%283&prior=u\(_mi=n) [νέοι](http://www.perseus.tufts.edu/hopper/morph?l=ne%2Foi&la=greek&can=ne%2Foi0&prior=oi\()” [**P. R. 546d**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20546d&lang=original); ⇾ 
+
+«جوانان‌ بی‌فرهنگ‌تر خواهند گشت»
+
+→ “[ὦ](http://www.perseus.tufts.edu/hopper/morph?l=w%29%3D&la=greek&can=w%29%3D0&prior=pai=s) [μῆτερ](http://www.perseus.tufts.edu/hopper/morph?l=mh%3Dter&la=greek&can=mh%3Dter0&prior=w\)=), [ὡς](http://www.perseus.tufts.edu/hopper/morph?l=w%28s&la=greek&can=w%28s0&prior=mh=ter) [καλός](http://www.perseus.tufts.edu/hopper/morph?l=kalo%2Fs&la=greek&can=kalo%2Fs0&prior=w\(s) [**μοι**](http://www.perseus.tufts.edu/hopper/morph?l=moi&la=greek&can=moi1&prior=kalo/s) [ὁ](http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%281&prior=moi) [πάππος](http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fppos&la=greek&can=pa%2Fppos0&prior=o\()” [**X. C. 1.3.2**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.3.2&lang=original); ⇾ 
+
+«ای مادر، پدربزرگم چه زیباست\!»
+
+###

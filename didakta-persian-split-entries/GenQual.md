@@ -1,0 +1,33 @@
+# §GenQual. کیفی
+
+اضافی کیفی برای بیان کیفیت یک چیز به کار می‌رود و اغلب در جایگاه مسند قرار می‌گیرد.
+
+→ “[ἐὼν](http://www.perseus.tufts.edu/hopper/morph?l=e%29w%5Cn&la=greek&can=e%29w%5Cn0&prior=ei\(=s) [**τρόπου**](http://www.perseus.tufts.edu/hopper/morph?l=tro%2Fpou&la=greek&can=tro%2Fpou0&prior=e\)w\\n) [**ἡσυχίου**](http://www.perseus.tufts.edu/hopper/morph?l=h%28suxi%2Fou&la=greek&can=h%28suxi%2Fou0&prior=tro/pou)” [**Hdt. 1.107**](http://www.perseus.tufts.edu/hopper/text?doc=Hdt.%201.107&lang=original); ⇾ 
+
+«مَنشی آرام داشته»
+
+→ “[οἱ](http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%2813&prior=h\(suxi/ou) [δέ](http://www.perseus.tufts.edu/hopper/morph?l=de%2F&la=greek&can=de%2F2&prior=oi\() [τινες](http://www.perseus.tufts.edu/hopper/morph?l=tines&la=greek&can=tines1&prior=de/) **[τῆς](http://www.perseus.tufts.edu/hopper/morph?l=th%3Ds&la=greek&can=th%3Ds20&prior=tines) [αὐτῆς](http://www.perseus.tufts.edu/hopper/morph?l=au%29th%3Ds&la=greek&can=au%29th%3Ds1&prior=th=s) [γνώμης](http://www.perseus.tufts.edu/hopper/morph?l=gnw%2Fmhs&la=greek&can=gnw%2Fmhs0&prior=au\)th=s)** [ὀλίγοι](http://www.perseus.tufts.edu/hopper/morph?l=o%29li%2Fgoi&la=greek&can=o%29li%2Fgoi2&prior=gnw/mhs) [κατέφυγον](http://www.perseus.tufts.edu/hopper/morph?l=kate%2Ffugon&la=greek&can=kate%2Ffugon0&prior=o\)li/goi)” [**T. 3.70**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%203.70&lang=original); ⇾ 
+
+«اما اندک کسانی با همان عقاید گریختند»
+
+→ “[ταῦτα](http://www.perseus.tufts.edu/hopper/morph?l=tau%3Dta&la=greek&can=tau%3Dta0&prior=kate/fugon) [**παμπόλλων**](http://www.perseus.tufts.edu/hopper/morph?l=pampo%2Fllwn&la=greek&can=pampo%2Fllwn0&prior=tau=ta) [ἐστὶ](http://www.perseus.tufts.edu/hopper/morph?l=e%29sti%5C&la=greek&can=e%29sti%5C2&prior=pampo/llwn) [**λόγων**](http://www.perseus.tufts.edu/hopper/morph?l=lo%2Fgwn&la=greek&can=lo%2Fgwn0&prior=e\)sti\\)” [**P. L. 642a**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Laws%20642a&lang=original); ⇾ 
+
+«درباره‌ی این، سخن بسیار است»
+
+→ “[θεωρήσατ᾽](http://www.perseus.tufts.edu/hopper/morph?l=qewrh%2Fsat%27&la=greek&can=qewrh%2Fsat%270&prior=lo/gwn) [αὐτόν](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%2Fn&la=greek&can=au%29to%2Fn0&prior=qewrh/sat%27), [μὴ](http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C0&prior=au\)to/n) [**ὁποτέρου**](http://www.perseus.tufts.edu/hopper/morph?l=o%28pote%2Frou&la=greek&can=o%28pote%2Frou0&prior=mh\\) [τοῦ](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D9&prior=o\(pote/rou) [λόγου](http://www.perseus.tufts.edu/hopper/morph?l=lo%2Fgou&la=greek&can=lo%2Fgou0&prior=tou=), [ἀλλ᾽](http://www.perseus.tufts.edu/hopper/morph?l=a%29ll%27&la=greek&can=a%29ll%271&prior=lo/gou) [**ὁποτέρου**](http://www.perseus.tufts.edu/hopper/morph?l=o%28pote%2Frou&la=greek&can=o%28pote%2Frou1&prior=a\)ll%27) [τοῦ](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D10&prior=o\(pote/rou) [βίου](http://www.perseus.tufts.edu/hopper/morph?l=bi%2Fou&la=greek&can=bi%2Fou1&prior=tou=) [ἐστίν](http://www.perseus.tufts.edu/hopper/morph?l=e%29sti%2Fn&la=greek&can=e%29sti%2Fn1&prior=bi/ou)” [**Aes. 3.168**](http://www.perseus.tufts.edu/hopper/text?doc=Aeschin.%203.168&lang=original); ⇾ 
+
+«نه نحوه‌ی سخن، بلکه نحوه‌ی زندگی او را در نظر بگیر»
+
+→ “[εἰ](http://www.perseus.tufts.edu/hopper/morph?l=ei%29&la=greek&can=ei%291&prior=e\)sti/n) [δοκεῖ](http://www.perseus.tufts.edu/hopper/morph?l=dokei%3D&la=greek&can=dokei%3D1&prior=ei\)) [ταῦτα](http://www.perseus.tufts.edu/hopper/morph?l=tau%3Dta&la=greek&can=tau%3Dta1&prior=dokei=) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C2&prior=tau=ta) [**δαπάνης**](http://www.perseus.tufts.edu/hopper/morph?l=dapa%2Fnhs&la=greek&can=dapa%2Fnhs0&prior=kai\\) **[μεγάλης](http://www.perseus.tufts.edu/hopper/morph?l=mega%2Flhs&la=greek&can=mega%2Flhs1&prior=dapa/nhs)** [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C3&prior=mega/lhs) [**πόνων**](http://www.perseus.tufts.edu/hopper/morph?l=po%2Fnwn&la=greek&can=po%2Fnwn0&prior=kai\\) **[πολλῶν](http://www.perseus.tufts.edu/hopper/morph?l=pollw%3Dn&la=greek&can=pollw%3Dn1&prior=po/nwn)** [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C4&prior=pollw=n) [πραγματείας](http://www.perseus.tufts.edu/hopper/morph?l=pra_gmatei%2Fa_s&la=greek&can=pra_gmatei%2Fa_s0&prior=kai\\) [εἶναι](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%3Dnai&la=greek&can=ei%29%3Dnai3&prior=pra_gmatei/a_s)” [**D. 8.48**](http://www.perseus.tufts.edu/hopper/text?doc=Dem.%208.48&lang=original); ⇾ 
+
+«اگر به نظر می‌رسد که این امور هزینه‌ی زیاد و زحمت و کار بسیار دارد»
+
+اضافی کیفی در شعر می‌تواند در جایگاه وصفی به کار رود:
+
+→ “[**χόρτων**](http://www.perseus.tufts.edu/hopper/morph?l=xo%2Frtwn&la=greek&can=xo%2Frtwn0&prior=ei\)=nai) **[εὐδένδρων](http://www.perseus.tufts.edu/hopper/morph?l=eu%29de%2Fndrwn&la=greek&can=eu%29de%2Fndrwn0&prior=xo/rtwn)** [Εὐρώπας](http://www.perseus.tufts.edu/hopper/morph?l=*eu%29rw%2Fpa_s&la=greek&can=*eu%29rw%2Fpa_s0&prior=eu\)de/ndrwn)” [**E. I. T. 134**](http://www.perseus.tufts.edu/hopper/text?doc=Eur.%20IT%20134&lang=original); ⇾ 
+
+«اروپای خوش‌درختِ پر مرتع»
+
+→ “[**λευκῆς**](http://www.perseus.tufts.edu/hopper/morph?l=leukh%3Ds&la=greek&can=leukh%3Ds0&prior=*eu\)rw/pa_s) [**χιόνος**](http://www.perseus.tufts.edu/hopper/morph?l=xio%2Fnos&la=greek&can=xio%2Fnos0&prior=leukh=s) [πτέρυξ](http://www.perseus.tufts.edu/hopper/morph?l=pte%2Fruc&la=greek&can=pte%2Fruc0&prior=xio/nos)” [**S. Ant. 114**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Ant.%20114&lang=original); ⇾ 
+
+«بالِ (چون) برف سفید»

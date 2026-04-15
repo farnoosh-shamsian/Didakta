@@ -1,0 +1,25 @@
+# §IndOblig. تعهد انجام‌نشده
+
+وجه اخباری بدون [ἄν](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fn&la=greek&can=a%29%2Fn1&prior=a\)/n) با افعال غیرشخصی بیان الزام، ضرورت، امکان یا درخور بودن، برای بیان  وظیفه یا تعهد انجام نشده استفاده می‌شود. برخی از این افعال عبارتند از [χρῆν](http://www.perseus.tufts.edu/hopper/morph?l=xrh%3Dn&la=greek&can=xrh%3Dn0&prior=e\)/dei) (یا [ἐχρῆν](http://www.perseus.tufts.edu/hopper/morph?l=e%29xrh%3Dn&la=greek&can=e%29xrh%3Dn0&prior=xrh=n))، و [ἔδει](http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fdei&la=greek&can=e%29%2Fdei0&prior=a\)pwllu/meqa) ،[προσῆκε](http://www.perseus.tufts.edu/hopper/morph?l=prosh%3Dke&la=greek&can=prosh%3Dke0&prior=e\)xrh=n) ،[καιρὸς](http://www.perseus.tufts.edu/hopper/morph?l=kairo%5Cs&la=greek&can=kairo%5Cs0&prior=prosh=ke) [ἦν](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3Dn&la=greek&can=h%29%3Dn1&prior=kairo\\s)،[ἄξιον](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fcion&la=greek&can=a%29%2Fcion0&prior=h\)=n) [ἦν](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3Dn&la=greek&can=h%29%3Dn2&prior=a\)/cion)، [εἰκὸς](http://www.perseus.tufts.edu/hopper/morph?l=ei%29ko%5Cs&la=greek&can=ei%29ko%5Cs0&prior=h\)=n) [ἦν](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3Dn&la=greek&can=h%29%3Dn3&prior=ei\)ko\\s) ،[δίκαιον](http://www.perseus.tufts.edu/hopper/morph?l=di%2Fkaion&la=greek&can=di%2Fkaion0&prior=h\)=n) [ἦν](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3Dn&la=greek&can=h%29%3Dn4&prior=di/kaion) ،[αἰσχρὸν](http://www.perseus.tufts.edu/hopper/morph?l=ai%29sxro%5Cn&la=greek&can=ai%29sxro%5Cn0&prior=h\)=n) [ἦν](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3Dn&la=greek&can=h%29%3Dn5&prior=ai\)sxro\\n) ،[ἐξῆν](http://www.perseus.tufts.edu/hopper/morph?l=e%29ch%3Dn&la=greek&can=e%29ch%3Dn0&prior=h\)=n) ،[καλῶς](http://www.perseus.tufts.edu/hopper/morph?l=kalw%3Ds&la=greek&can=kalw%3Ds1&prior=e\)ch=n) [εἶχεν](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%3Dxen&la=greek&can=ei%29%3Dxen0&prior=kalw=s) و مشتقات فعلی مختوم به [τόν](http://www.perseus.tufts.edu/hopper/morph?l=to%2Fn&la=greek&can=to%2Fn0&prior=ei\)=xen) یا [τέον](http://www.perseus.tufts.edu/hopper/morph?l=te%2Fon&la=greek&can=te%2Fon0&prior=to/n) همراه با [ἦν](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3Dn&la=greek&can=h%29%3Dn6&prior=te/on). در چنین مواردی وجه اخباری بیانگر امر یا کنشی است که برخلاف آنچه بایسته بوده یا هست انجام شده است. این کاربرد اخباری، نوعی از اخباری خلاف واقع است.
+
+→ “[**ἔδει**](http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fdei&la=greek&can=e%29%2Fdei4&prior=a\)/n) [τὰ](http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C0&prior=e\)/dei) [ἐνέχυρα](http://www.perseus.tufts.edu/hopper/morph?l=e%29ne%2Fxura&la=greek&can=e%29ne%2Fxura0&prior=ta\\) [τότε](http://www.perseus.tufts.edu/hopper/morph?l=to%2Fte&la=greek&can=to%2Fte0&prior=e\)ne/xura) [**λαβεῖν**](http://www.perseus.tufts.edu/hopper/morph?l=labei%3Dn&la=greek&can=labei%3Dn0&prior=to/te)” [**X. A. 7.6.23**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%207.6.23&lang=original); ⇾ 
+
+«بایستی همان وقت وثیقه می‌گرفتم»
+
+→ “[ἄξιον](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fcion&la=greek&can=a%29%2Fcion1&prior=labei=n) [**ἦν**](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3Dn&la=greek&can=h%29%3Dn8&prior=a\)/cion) [ἀκοῦσαι](http://www.perseus.tufts.edu/hopper/morph?l=a%29kou%3Dsai&la=greek&can=a%29kou%3Dsai0&prior=h\)=n)” [**P. Eu. 304d**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Euthyd.%20304d&lang=original); ⇾
+
+«ارزش شنیدن داشت»
+
+→ “[μένειν](http://www.perseus.tufts.edu/hopper/morph?l=me%2Fnein&la=greek&can=me%2Fnein0&prior=a\)kou=sai) [**ἐξῆν**](http://www.perseus.tufts.edu/hopper/morph?l=e%29ch%3Dn&la=greek&can=e%29ch%3Dn2&prior=me/nein)” [**D. 3.17**](http://www.perseus.tufts.edu/hopper/text?doc=Dem.%203.17&lang=original); ⇾ 
+
+«شاید مانده باشد»
+
+→ “[τί](http://www.perseus.tufts.edu/hopper/morph?l=ti%2F&la=greek&can=ti%2F0&prior=e\)/dei) [σιγᾷς](http://www.perseus.tufts.edu/hopper/morph?l=si_ga%3D%7Cs&la=greek&can=si_ga%3D%7Cs0&prior=ti/); [οὐκ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29k&la=greek&can=ou%29k2&prior=si_ga=|s) [**ἐχρῆν**](http://www.perseus.tufts.edu/hopper/morph?l=e%29xrh%3Dn&la=greek&can=e%29xrh%3Dn1&prior=ou\)k) [σιγᾶν](http://www.perseus.tufts.edu/hopper/morph?l=si_ga%3Dn&la=greek&can=si_ga%3Dn0&prior=e\)xrh=n)” [**E. Hipp. 297**](http://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Hipp.%20297&lang=original); ⇾ 
+
+«چرا خاموشی؟ نبایستی خاموش بود»
+
+→ “[τούσδε](http://www.perseus.tufts.edu/hopper/morph?l=tou%2Fsde&la=greek&can=tou%2Fsde0&prior=poiei=n) [μὴ](http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C3&prior=tou/sde) [ζῆν](http://www.perseus.tufts.edu/hopper/morph?l=zh%3Dn&la=greek&can=zh%3Dn0&prior=mh\\) [**ἔδει**](http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fdei&la=greek&can=e%29%2Fdei2&prior=zh=n)” [**S. Ph. 418**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Phil.%20418&lang=original); ⇾
+
+«آنان نبایست زنده باشند»
+
+###

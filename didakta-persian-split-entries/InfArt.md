@@ -1,0 +1,57 @@
+# §InfArt. با حرف تعریف
+
+اسم‌مصدر همراه با حرف تعریف خنثی می‌تواند به‌عنوان یک عبارت اسمی عمل کند. مصدر با حرف تعریف در عین اینکه دارای ویژگی‌های اسمی است، کارکردهای فعلی خود را نیز حفظ می‌کند. مصدر با حرف تعریف را می‌توان مشابه هر عبارت اسمی دیگری به کار برد و  در ساخت دستوری مانند یک اسم معمولی عمل می‌کند. مصدر با حرف تعریف ممکن است بیانگر زمان بوده (بعد از افعال گفتن یا فکرکردن)، یا بی‌زمان باشد. حالت صرفی این کاربرد مصدر با صرف حرف تعریف نشان داده می‌شود: 
+
+فاعلی: [**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0) **[ποιεῖν](http://www.perseus.tufts.edu/hopper/morph?l=poiei%3Dn&la=greek&can=poiei%3Dn0&prior=to\\)**، [**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C1&prior=poiei=n) **[ποιήσειν](http://www.perseus.tufts.edu/hopper/morph?l=poih%2Fsein&la=greek&can=poih%2Fsein0&prior=to\\)**، [**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C2&prior=poih/sein) **[ποιῆσαι](http://www.perseus.tufts.edu/hopper/morph?l=poih%3Dsai&la=greek&can=poih%3Dsai0&prior=to\\)**، [**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C3&prior=poih=sai) **[πεποιηκέναι](http://www.perseus.tufts.edu/hopper/morph?l=pepoihke%2Fnai&la=greek&can=pepoihke%2Fnai0&prior=to\\)** و مانند آن. «ساختن»
+
+اضافی: [**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D0&prior=pepoihke/nai) **[ποιεῖν](http://www.perseus.tufts.edu/hopper/morph?l=poiei%3Dn&la=greek&can=poiei%3Dn1&prior=tou=)** ،[**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D1&prior=poiei=n) **[ποιήσειν](http://www.perseus.tufts.edu/hopper/morph?l=poih%2Fsein&la=greek&can=poih%2Fsein1&prior=tou=)** ،[**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D2&prior=poih/sein) **[ποιῆσαι](http://www.perseus.tufts.edu/hopper/morph?l=poih%3Dsai&la=greek&can=poih%3Dsai1&prior=tou=)** و مانند آن. « ـِ ساختن»
+
+برایی: [**τῷ**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C0&prior=poih=sai) **[ποιεῖν](http://www.perseus.tufts.edu/hopper/morph?l=poiei%3Dn&la=greek&can=poiei%3Dn2&prior=tw=|)**، [**τῷ**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C1&prior=poiei=n) **[ποιήσειν](http://www.perseus.tufts.edu/hopper/morph?l=poih%2Fsein&la=greek&can=poih%2Fsein2&prior=tw=|)**، [**ῷ**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C2&prior=poih/sein) **[ποιῆσαι](http://www.perseus.tufts.edu/hopper/morph?l=poih%3Dsai&la=greek&can=poih%3Dsai2&prior=tw=|)** و مانند آن. «با ساختن، برای ساختن»
+
+رایی: [**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C4&prior=poih=sai) **[ποιεῖν](http://www.perseus.tufts.edu/hopper/morph?l=poiei%3Dn&la=greek&can=poiei%3Dn3&prior=to\\)**، [**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C5&prior=poiei=n) **[ποιήσειν](http://www.perseus.tufts.edu/hopper/morph?l=poih%2Fsein&la=greek&can=poih%2Fsein3&prior=to\\)**، [**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C6&prior=poih/sein) **[ποιῆσαι](http://www.perseus.tufts.edu/hopper/morph?l=poih%3Dsai&la=greek&can=poih%3Dsai3&prior=to\\)** و مانند آن. «ساختن را»
+
+منفی‌ساز مصدر با حرف تعریف [μή](http://www.perseus.tufts.edu/hopper/morph?l=mh%2F&la=greek&can=mh%2F0) است.
+
+→ “[τὸ](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C1&prior=lalei=n) [Πελοποννησίους](http://www.perseus.tufts.edu/hopper/morph?l=*peloponnhsi%2Fous&la=greek&can=*peloponnhsi%2Fous0&prior=to\\) [αὐτοῖς](http://www.perseus.tufts.edu/hopper/morph?l=au%29toi%3Ds&la=greek&can=au%29toi%3Ds0&prior=*peloponnhsi/ous) [μὴ](http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C0&prior=au\)toi=s) [**βοηθῆσαι**](http://www.perseus.tufts.edu/hopper/morph?l=bohqh%3Dsai&la=greek&can=bohqh%3Dsai0&prior=mh\\) [παρέσχεν](http://www.perseus.tufts.edu/hopper/morph?l=pare%2Fsxen&la=greek&can=pare%2Fsxen0&prior=bohqh=sai) [ὑμῖν](http://www.perseus.tufts.edu/hopper/morph?l=u%28_mi%3Dn&la=greek&can=u%28_mi%3Dn0&prior=pare/sxen) . . . [Σαμίων](http://www.perseus.tufts.edu/hopper/morph?l=*sami%2Fwn&la=greek&can=*sami%2Fwn0&prior=u\(_mi=n) [κόλασιν](http://www.perseus.tufts.edu/hopper/morph?l=ko%2Flasin&la=greek&can=ko%2Flasin0&prior=*sami/wn)” [**T. 1.41**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%201.41&lang=original); ⇾ 
+
+«عدم کمک پلوپونزیان به آنها شما را قادر ساخت که ساموسیان را تنبیه کنید»
+
+→ “[**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D0) **[πιεῖν](http://www.perseus.tufts.edu/hopper/morph?l=piei%3Dn&la=greek&can=piei%3Dn0&prior=tou=)** [ἐπιθυμίᾳ](http://www.perseus.tufts.edu/hopper/morph?l=e%29piqu_mi%2Fa%7C&la=greek&can=e%29piqu_mi%2Fa%7C0&prior=piei=n)” [**T. 7.84**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%207.84&lang=original); ⇾ 
+
+«تمایل به نوشیدن»
+
+→ “[**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D2&prior=e\(lei=n) **[θαρσεῖν](http://www.perseus.tufts.edu/hopper/morph?l=qarsei%3Dn&la=greek&can=qarsei%3Dn0&prior=tou=)** [τὸ](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0&prior=qarsei=n) [πλεῖστον](http://www.perseus.tufts.edu/hopper/morph?l=plei%3Dston&la=greek&can=plei%3Dston0&prior=to\\) [εἰληφότες](http://www.perseus.tufts.edu/hopper/morph?l=ei%29lhfo%2Ftes&la=greek&can=ei%29lhfo%2Ftes0&prior=plei=ston)” [**T. 4.34**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.34&lang=original); ⇾ 
+
+«به‌دست‌آوردن بیشترین قوت قلب»
+
+→ “[τί](http://www.perseus.tufts.edu/hopper/morph?l=ti%2F&la=greek&can=ti%2F0&prior=ei\)lhfo/tes) [οὖν](http://www.perseus.tufts.edu/hopper/morph?l=ou%29%3Dn&la=greek&can=ou%29%3Dn0&prior=ti/) [ἐστιν](http://www.perseus.tufts.edu/hopper/morph?l=e%29stin&la=greek&can=e%29stin0&prior=ou\)=n) . . . [**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D3&prior=e\)stin) [τοῖς](http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds0&prior=tou=) [φίλοις](http://www.perseus.tufts.edu/hopper/morph?l=fi%2Flois&la=greek&can=fi%2Flois0&prior=toi=s) [**ἀρήγειν**](http://www.perseus.tufts.edu/hopper/morph?l=a%29rh%2Fgein&la=greek&can=a%29rh%2Fgein0&prior=fi/lois) [κάλλιον](http://www.perseus.tufts.edu/hopper/morph?l=ka%2Flli_on&la=greek&can=ka%2Flli_on0&prior=a\)rh/gein);” [**X. C. 1.5.13**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.5.13&lang=original); ⇾ 
+
+«چه چیزی از کمک به یاران نیکوتر است؟»
+
+→ “[ἐπέσχομεν](http://www.perseus.tufts.edu/hopper/morph?l=e%29pe%2Fsxomen&la=greek&can=e%29pe%2Fsxomen0&prior=ka/lli_on) [**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D4&prior=e\)pe/sxomen) **[δακρύειν](http://www.perseus.tufts.edu/hopper/morph?l=dakru%2F_ein&la=greek&can=dakru%2F_ein0&prior=tou=)**” [**P. Ph. 117e**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Phaedo%20117e&lang=original); ⇾ 
+
+«از گریه اجتناب کردیم»
+
+→ “[ἀντὶ](http://www.perseus.tufts.edu/hopper/morph?l=a%29nti%5C&la=greek&can=a%29nti%5C0&prior=proamu/_nasqai) [**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D8&prior=a\)nti\\) [ἐπὶ](http://www.perseus.tufts.edu/hopper/morph?l=e%29pi%5C&la=greek&can=e%29pi%5C0&prior=tou=) [Καρίαν](http://www.perseus.tufts.edu/hopper/morph?l=*ka_ri%2Fa_n&la=greek&can=*ka_ri%2Fa_n0&prior=e\)pi\\) [**ἰέναι**](http://www.perseus.tufts.edu/hopper/morph?l=i%29e%2Fnai&la=greek&can=i%29e%2Fnai0&prior=*ka_ri/a_n) . . . [ἐπὶ](http://www.perseus.tufts.edu/hopper/morph?l=e%29pi%5C&la=greek&can=e%29pi%5C1&prior=i\)e/nai) [Φρυγίας](http://www.perseus.tufts.edu/hopper/morph?l=*frugi%2Fa_s&la=greek&can=*frugi%2Fa_s0&prior=e\)pi\\) [ἐπορεύετο](http://www.perseus.tufts.edu/hopper/morph?l=e%29poreu%2Feto&la=greek&can=e%29poreu%2Feto0&prior=*frugi/a_s)” [**X. H. 3.4.12**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%203.4.12&lang=original); ⇾ 
+
+«به‌جای رفتن سوی کاریا سوی فروگیا می‌رفت»
+
+→ “[ἄνευ](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fneu&la=greek&can=a%29%2Fneu0&prior=e\)poreu/eto) [**τοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D9&prior=a\)/neu) **[σωφρονεῖν](http://www.perseus.tufts.edu/hopper/morph?l=swfronei%3Dn&la=greek&can=swfronei%3Dn0&prior=tou=)**” [**X. M. 4.3.1**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Mem.%204.3.1&lang=original); ⇾ 
+
+«بدون خویشتن‌داری»
+
+→ “[ἵνα](http://www.perseus.tufts.edu/hopper/morph?l=i%28%2Fna&la=greek&can=i%28%2Fna0) . . . [ἀπιστῶσι](http://www.perseus.tufts.edu/hopper/morph?l=a%29pistw%3Dsi&la=greek&can=a%29pistw%3Dsi0&prior=i\(/na) [**τῷ**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C0&prior=a\)pistw=si) [ἐμὲ](http://www.perseus.tufts.edu/hopper/morph?l=e%29me%5C&la=greek&can=e%29me%5C0&prior=tw=|) [**τετιμῆσθαι**](http://www.perseus.tufts.edu/hopper/morph?l=teti_mh%3Dsqai&la=greek&can=teti_mh%3Dsqai0&prior=e\)me\\) [ὑπὸ](http://www.perseus.tufts.edu/hopper/morph?l=u%28po%5C&la=greek&can=u%28po%5C0&prior=teti_mh=sqai) [δαιμόνων](http://www.perseus.tufts.edu/hopper/morph?l=daimo%2Fnwn&la=greek&can=daimo%2Fnwn0&prior=u\(po\\)” [**X. Ap. 14**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Apol.%2014&lang=original); ⇾ 
+
+«تا … گرامیداشت من توسط نیروهای الهی را باور نکرده باشند»
+
+→ “[**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C8&prior=to/) **[σπεύδειν](http://www.perseus.tufts.edu/hopper/morph?l=speu%2Fdein&la=greek&can=speu%2Fdein0&prior=to\\)** [δέ](http://www.perseus.tufts.edu/hopper/morph?l=de%2F&la=greek&can=de%2F0&prior=speu/dein) [σοι](http://www.perseus.tufts.edu/hopper/morph?l=soi&la=greek&can=soi0&prior=de/) [παραινῶ](http://www.perseus.tufts.edu/hopper/morph?l=parainw%3D&la=greek&can=parainw%3D0&prior=soi)” [**S. Ph. 620**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Phil.%20620&lang=original); ⇾ 
+
+«تو را به شتافتن نصیحت می‌کنم»
+
+→ “[μαθὼν](http://www.perseus.tufts.edu/hopper/morph?l=maqw%5Cn&la=greek&can=maqw%5Cn0&prior=dra=n) [γὰρ](http://www.perseus.tufts.edu/hopper/morph?l=ga%5Cr&la=greek&can=ga%5Cr0&prior=maqw\\n) [οὐκ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29k&la=greek&can=ou%29k0&prior=ga\\r) [ἂν](http://www.perseus.tufts.edu/hopper/morph?l=a%29%5Cn&la=greek&can=a%29%5Cn2&prior=ou\)k) [ἀρνοίμην](http://www.perseus.tufts.edu/hopper/morph?l=a%29rnoi%2Fmhn&la=greek&can=a%29rnoi%2Fmhn0&prior=a\)\\n) [**τὸ**](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C10&prior=a\)rnoi/mhn) **[δρᾶν](http://www.perseus.tufts.edu/hopper/morph?l=dra%3Dn&la=greek&can=dra%3Dn1&prior=to\\)**” [**S. Ph. 118**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Phil.%20118&lang=original); ⇾ 
+
+«چرا که اگر بدانم، از این کار سر باز نمی‌زنم»
+
+# 
+
+# **وجه وصفی** {#وجه-وصفی}

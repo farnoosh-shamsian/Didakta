@@ -1,0 +1,31 @@
+# §AutEmph. تأکیدی
+
+ضمیر [αὐτός](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%2Fs&la=greek&can=au%29to%2Fs5&prior=au\)to/s) در مواقعی نقش تاکیدی دارد که به تنهایی **در صرف نهادی** به کار رود و یا در جایگاه مسند همراه با اسم و یا در تطبیق با ضمیری به کار رفته باشد (در هر حالت صرفی). برای مثال [αὐτὸς](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%5Cs&la=greek&can=au%29to%5Cs0&prior=au\)to/s) [ὁ](http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%280&prior=au\)to\\s) [ἀνήρ](http://www.perseus.tufts.edu/hopper/morph?l=a%29nh%2Fr&la=greek&can=a%29nh%2Fr0&prior=o\() یا [ὁ](http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%281&prior=a\)nh/r) [ἀνὴρ](http://www.perseus.tufts.edu/hopper/morph?l=a%29nh%5Cr&la=greek&can=a%29nh%5Cr0&prior=o\() [αὐτός](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%2Fs&la=greek&can=au%29to%2Fs7&prior=a\)nh\\r) «خود آن مرد»، و [αὐτοῦ](http://www.perseus.tufts.edu/hopper/morph?l=au%29tou%3D&la=greek&can=au%29tou%3D0&prior=au\)to/s) [τοῦ](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D0&prior=au\)tou=) [ἀνδρός](http://www.perseus.tufts.edu/hopper/morph?l=a%29ndro%2Fs&la=greek&can=a%29ndro%2Fs0&prior=tou=) یا [τοῦ](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D1&prior=a\)ndro/s) [ἀνδρὸς](http://www.perseus.tufts.edu/hopper/morph?l=a%29ndro%5Cs&la=greek&can=a%29ndro%5Cs0&prior=tou=) [αὐτοῦ](http://www.perseus.tufts.edu/hopper/morph?l=au%29tou%3D&la=greek&can=au%29tou%3D1&prior=a\)ndro\\s)، و امثال آن.
+
+→ “[**αὐτὴ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29th%5C&la=greek&can=au%29th%5C0&prior=au\)to/s) [ἡ](http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%280&prior=au\)th\\) [ἀλήθεια](http://www.perseus.tufts.edu/hopper/morph?l=a%29lh%2Fqeia&la=greek&can=a%29lh%2Fqeia0&prior=h\()” [**Aes. 3.207**](http://www.perseus.tufts.edu/hopper/text?doc=Aeschin.%203.207&lang=original); ⇾ 
+
+«خود حقیقت»
+
+→ “[τὸ](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C0&prior=a\)lh/qeia) [πλέον](http://www.perseus.tufts.edu/hopper/morph?l=ple%2Fon&la=greek&can=ple%2Fon0&prior=to\\) [τοῦ](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D2&prior=ple/on) [χωρίου](http://www.perseus.tufts.edu/hopper/morph?l=xwri%2Fou&la=greek&can=xwri%2Fou0&prior=tou=) [**αὐτὸ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%5C&la=greek&can=au%29to%5C0&prior=xwri/ou) [καρτερὸν](http://www.perseus.tufts.edu/hopper/morph?l=kartero%5Cn&la=greek&can=kartero%5Cn0&prior=au\)to\\) [ὑπῆρχε](http://www.perseus.tufts.edu/hopper/morph?l=u%28ph%3Drxe&la=greek&can=u%28ph%3Drxe0&prior=kartero\\n)” [**T. 4.4**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.4&lang=original); ⇾ 
+
+«بخش اعظمی از مکان به خودی خود مستحکم بود»
+
+→ “[**αὐτὰ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29ta%5C&la=greek&can=au%29ta%5C0&prior=de/on) [τάδε](http://www.perseus.tufts.edu/hopper/morph?l=ta%2Fde&la=greek&can=ta%2Fde0&prior=au\)ta\\)” [**T. 1.139**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%201.139&lang=original); ⇾ 
+
+«خود همین»
+
+→ “[ἄνδρας](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fndras&la=greek&can=a%29%2Fndras0&prior=ta/de) [οἳ](http://www.perseus.tufts.edu/hopper/morph?l=oi%28%5C&la=greek&can=oi%28%5C0&prior=a\)/ndras) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C4&prior=oi\(\\) [τοῖς](http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds1&prior=kai\\) [μὴ](http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C0&prior=toi=s) [ἐπικαλουμένοις](http://www.perseus.tufts.edu/hopper/morph?l=e%29pikaloume%2Fnois&la=greek&can=e%29pikaloume%2Fnois0&prior=mh\\) [**αὐτοὶ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29toi%5C&la=greek&can=au%29toi%5C1&prior=e\)pikaloume/nois) [ἐπιστρατεύουσι](http://www.perseus.tufts.edu/hopper/morph?l=e%29pistrateu%2Fousi&la=greek&can=e%29pistrateu%2Fousi0&prior=au\)toi\\)” [**T. 4.60**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.60&lang=original); ⇾ 
+
+«مردانی که خود ناخوانده به جنگ می‌روند»
+
+→ “[**αὐτοὶ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29toi%5C&la=greek&can=au%29toi%5C0&prior=au\)to/s) [τὴν](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn0&prior=au\)toi\\) [γῆν](http://www.perseus.tufts.edu/hopper/morph?l=gh%3Dn&la=greek&can=gh%3Dn0&prior=th\\n) [ἔσχον](http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fsxon&la=greek&can=e%29%2Fsxon0&prior=gh=n)” [**T. 1.114**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%201.114&lang=original); ⇾ 
+
+«خودشان سرزمین را گرفتند»
+
+در هومر [αὐτός](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%2Fs&la=greek&can=au%29to%2Fs2&prior=au\)to/s) به شخص یا امری اصلی در مقایسه با وابسته‌‌اش اشاره دارد و برای بیان تأکید و تضاد به کار می‌رود:
+
+→ “[**αὐτὸν**](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%5Cn&la=greek&can=au%29to%5Cn0&prior=au\)to/s) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C0&prior=au\)to\\n) [θεράποντα](http://www.perseus.tufts.edu/hopper/morph?l=qera%2Fponta&la=greek&can=qera%2Fponta0&prior=kai\\)” **[Hom. Il. 13.328](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0134%3Abook%3D13%3Acard%3D328)**; ⇾ 
+
+«خودش و غلامش»
+
+###

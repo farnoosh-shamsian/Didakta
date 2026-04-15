@@ -1,0 +1,9 @@
+# §AutPron. Personal Pronoun[^129]
+
+When [αὐτός](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%2Fs&la=greek&can=au%29to%2Fs14&prior=q) is unemphatic and standing alone in the cases other than nominative, it has the meaning of the personal pronoun of the third person (him, her, it, them). This use of [αὐτός](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%2Fs&la=greek&can=au%29to%2Fs14&prior=q) as a personal pronoun always refers to someone or something that is already introduced. 
+
+→ “[ἐκέλευον](http://www.perseus.tufts.edu/hopper/morph?l=e%29ke%2Fleuon&la=greek&can=e%29ke%2Fleuon0&prior=au\)to/s) [**αὐτὴν**](http://www.perseus.tufts.edu/hopper/morph?l=au%29th%5Cn&la=greek&can=au%29th%5Cn1&prior=e\)ke/leuon) [ἀπιέναι](http://www.perseus.tufts.edu/hopper/morph?l=a%29pie%2Fnai&la=greek&can=a%29pie%2Fnai0&prior=au\)th\\n)” [**L. 1.12**](http://www.perseus.tufts.edu/hopper/text?doc=Lys.%201.12&lang=original); ⇾ they ordered her to depart
+
+→ “[ἄρχει](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Frxei&la=greek&can=a%29%2Frxei0&prior=*oi\)di/pous) [τις](http://www.perseus.tufts.edu/hopper/morph?l=tis&la=greek&can=tis0&prior=a\)/rxei) [**αὐτῶν**](http://www.perseus.tufts.edu/hopper/morph?l=au%29tw%3Dn&la=greek&can=au%29tw%3Dn0&prior=tis) [ἢ](http://www.perseus.tufts.edu/hopper/morph?l=h%29%5C&la=greek&can=h%29%5C0&prior=au\)tw=n) '[πὶ](http://www.perseus.tufts.edu/hopper/morph?l=pi%5C&la=greek&can=pi%5C0&prior=h\)\\) [τῷ](http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C0&prior=pi\\) [πλήθει](http://www.perseus.tufts.edu/hopper/morph?l=plh%2Fqei&la=greek&can=plh%2Fqei0&prior=tw=|) [λόγος](http://www.perseus.tufts.edu/hopper/morph?l=lo%2Fgos&la=greek&can=lo%2Fgos0&prior=plh/qei);” [**Soph. OC 33**](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0189%3Acard%3D33); ⇾ Does someone govern them, or does authority rest with the masses?
+
+###

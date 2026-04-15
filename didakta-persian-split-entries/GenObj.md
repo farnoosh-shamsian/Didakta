@@ -1,0 +1,37 @@
+# §GenObj. مفعولی
+
+حالت اضافی همراه با اسامی مشتق از فعل با معنای مجهول می‌تواند برای بیان مفعول به کار رود. اضافی مفعولی اغلب با اسم‌هایی به کار می‌رود که برای بیان احساسات یا حالت ذهنی به کار می‌روند.
+
+→ “[φόβος](http://www.perseus.tufts.edu/hopper/morph?l=fo%2Fbos&la=greek&can=fo%2Fbos1&prior=fobou=ntai) [**τῶν**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn2&prior=fo/bos) **[Εἱλώτων](http://www.perseus.tufts.edu/hopper/morph?l=*ei%28lw%2Ftwn&la=greek&can=*ei%28lw%2Ftwn0&prior=tw=n)**” [**Thuc. 3.54**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%203.54&lang=original); ⇾ 
+
+«ترس ایلوس‌ها» (ترسی که نسبت یه ایلوس‌ها احساس می‌شود: [φοβοῦνται](http://www.perseus.tufts.edu/hopper/morph?l=fobou%3Dntai&la=greek&can=fobou%3Dntai1&prior=*ei\(lw/twn) [τοὺς](http://www.perseus.tufts.edu/hopper/morph?l=tou%5Cs&la=greek&can=tou%5Cs0&prior=fobou=ntai) [Εἵλωτας](http://www.perseus.tufts.edu/hopper/morph?l=*ei%28%2Flwtas&la=greek&can=*ei%28%2Flwtas0&prior=tou\\s)）
+
+→ [ἡ](http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%2810&prior=*ei\(/lwtas) [**τῶν**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn27&prior=h\() **[Ἑλλήνων](http://www.perseus.tufts.edu/hopper/morph?l=*%28ellh%2Fnwn&la=greek&can=*%28ellh%2Fnwn1&prior=tw=n)** [εὔνοια](http://www.perseus.tufts.edu/hopper/morph?l=eu%29%2Fnoia&la=greek&can=eu%29%2Fnoia0&prior=*\(ellh/nwn) [**X. A. 4.7.20**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%204.7.20&lang=original); ⇾ 
+
+«نیک‌اندیشیِ یونانیان» ([εὐνοεῖ](http://www.perseus.tufts.edu/hopper/morph?l=eu%29noei%3D&la=greek&can=eu%29noei%3D0&prior=eu\)/noia) [τοῖς](http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds0&prior=eu\)noei=) [Ἕλλησι](http://www.perseus.tufts.edu/hopper/morph?l=*%28%2Fellhsi&la=greek&can=*%28%2Fellhsi0&prior=toi=s))
+
+→ “[ἡ](http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%2811&prior=*\(/ellhsi) [**τῶν**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn28&prior=h\() **[καλῶν](http://www.perseus.tufts.edu/hopper/morph?l=kalw%3Dn&la=greek&can=kalw%3Dn0&prior=tw=n)** [συνουσία](http://www.perseus.tufts.edu/hopper/morph?l=sunousi%2Fa_&la=greek&can=sunousi%2Fa_0&prior=kalw=n)” [**P. L. 838a**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Laws%20838a&lang=original); ⇾
+
+«همنشینی با نیکی» ([σύνεισι](http://www.perseus.tufts.edu/hopper/morph?l=su%2Fneisi&la=greek&can=su%2Fneisi0&prior=sunousi/a_) [τοῖς](http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds1&prior=su/neisi) [καλοῖς](http://www.perseus.tufts.edu/hopper/morph?l=kaloi%3Ds&la=greek&can=kaloi%3Ds0&prior=toi=s))
+
+→ “[ὁ](http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%287&prior=ai\)th/sews) [**θεῶν**](http://www.perseus.tufts.edu/hopper/morph?l=qew%3Dn&la=greek&can=qew%3Dn1&prior=o\() [πόλεμος](http://www.perseus.tufts.edu/hopper/morph?l=po%2Flemos&la=greek&can=po%2Flemos0&prior=qew=n)” [**X. A. 2.5.7**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.5.7&lang=original); ⇾
+
+«جنگِ (با) ایزدان»
+
+→ “[ὅρκοι](http://www.perseus.tufts.edu/hopper/morph?l=o%28%2Frkoi&la=greek&can=o%28%2Frkoi0&prior=po/lemos) [**θεῶν**](http://www.perseus.tufts.edu/hopper/morph?l=qew%3Dn&la=greek&can=qew%3Dn2&prior=o\(/rkoi)” [**E. Hipp. 657**](http://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Hipp.%20657&lang=original); ⇾ 
+
+«سوگندهای ایزدان»
+
+→ “[**ἀδικημάτων**](http://www.perseus.tufts.edu/hopper/morph?l=a%29dikhma%2Ftwn&la=greek&can=a%29dikhma%2Ftwn0&prior=eu\)xai/) [ὀργή](http://www.perseus.tufts.edu/hopper/morph?l=o%29rgh%2F&la=greek&can=o%29rgh%2F0&prior=a\)dikhma/twn)” [**L. 12.20**](http://www.perseus.tufts.edu/hopper/text?doc=Lys.%2012.20&lang=original); ⇾ 
+
+«خشم (از) بی‌عدالتی»
+
+→ “[ἐγκράτεια](http://www.perseus.tufts.edu/hopper/morph?l=e%29gkra%2Fteia&la=greek&can=e%29gkra%2Fteia0&prior=o\)rgh/) [**ἡδονῆς**](http://www.perseus.tufts.edu/hopper/morph?l=h%28donh%3Ds&la=greek&can=h%28donh%3Ds0&prior=e\)gkra/teia)” [**I. 1.21**](http://www.perseus.tufts.edu/hopper/text?doc=Isoc.%201.21&lang=original); ⇾ 
+
+«خود‌داری (در) لذت»
+
+→ “[**σοῦ**](http://www.perseus.tufts.edu/hopper/morph?l=sou%3D&la=greek&can=sou%3D0&prior=fi/lwn) [μῦθος](http://www.perseus.tufts.edu/hopper/morph?l=mu%3Dqos&la=greek&can=mu%3Dqos1&prior=sou=)” [**S. O. C. 1161**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20OC%201161&lang=original); ⇾ 
+
+«سخن (با) تو»
+
+###

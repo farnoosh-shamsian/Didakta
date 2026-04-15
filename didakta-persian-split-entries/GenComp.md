@@ -1,0 +1,23 @@
+# §GenComp. قیاسی
+
+حالت اضافی می‌تواند همراه با صفات تفضیلی و عالی به‌عنوان معیار مقایسه به کار رود.
+
+→ “[**ἡμῶν**](http://www.perseus.tufts.edu/hopper/morph?l=h%28mw%3Dn&la=greek&can=h%28mw%3Dn2&prior=xw/ra_s) [ὁ](http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%285&prior=h\(mw=n) [γεραίτερος](http://www.perseus.tufts.edu/hopper/morph?l=gerai%2Fteros&la=greek&can=gerai%2Fteros0&prior=o\()” [**X. C. 5.1.6**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%205.1.6&lang=original); ⇾ 
+
+«بزرگ‌ترِ ما»
+
+→ “[οἱ](http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%2810&prior=gerai/teros) [πρεσβύτατοι](http://www.perseus.tufts.edu/hopper/morph?l=presbu%2Ftatoi&la=greek&can=presbu%2Ftatoi0&prior=oi\() [**τῶν**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn19&prior=presbu/tatoi) **[στρατηγῶν](http://www.perseus.tufts.edu/hopper/morph?l=strathgw%3Dn&la=greek&can=strathgw%3Dn0&prior=tw=n)**” [**X. A. 3.3.11**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%203.3.11&lang=original); ⇾
+
+«پیرترینِ فرماندهان»
+
+→ “[σίτῳ](http://www.perseus.tufts.edu/hopper/morph?l=si%2F_tw%7C&la=greek&can=si%2F_tw%7C0&prior=strathgw=n) [**πάντων**](http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fntwn&la=greek&can=pa%2Fntwn0&prior=si/_tw|) **[ἀνθρώπων](http://www.perseus.tufts.edu/hopper/morph?l=a%29nqrw%2Fpwn&la=greek&can=a%29nqrw%2Fpwn1&prior=pa/ntwn)** [πλείστῳ](http://www.perseus.tufts.edu/hopper/morph?l=plei%2Fstw%7C&la=greek&can=plei%2Fstw%7C0&prior=a\)nqrw/pwn) [χρώμεθ᾽](http://www.perseus.tufts.edu/hopper/morph?l=xrw%2Fmeq%27&la=greek&can=xrw%2Fmeq%270&prior=plei/stw|) [ἐπεισάκτῳ](http://www.perseus.tufts.edu/hopper/morph?l=e%29peisa%2Fktw%7C&la=greek&can=e%29peisa%2Fktw%7C0&prior=xrw/meq%27)” [**D. 18.87**](http://www.perseus.tufts.edu/hopper/text?doc=Dem.%2018.87&lang=original); ⇾ 
+
+«بیشتر از تمام مردم غله‌ی وارد شده مصرف می‌کنیم»
+
+همچنین با قید عالی:
+
+→ “[ἡ](http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%287&prior=e\)peisa/ktw|) [ναῦς](http://www.perseus.tufts.edu/hopper/morph?l=nau%3Ds&la=greek&can=nau%3Ds1&prior=h\() [ἄριστά](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Frista%2F&la=greek&can=a%29%2Frista%2F0&prior=nau=s) [μοι](http://www.perseus.tufts.edu/hopper/morph?l=moi&la=greek&can=moi0&prior=a\)/rista/) [ἔπλει](http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fplei&la=greek&can=e%29%2Fplei0&prior=moi) [**παντὸς**](http://www.perseus.tufts.edu/hopper/morph?l=panto%5Cs&la=greek&can=panto%5Cs0&prior=e\)/plei) **[τοῦ](http://www.perseus.tufts.edu/hopper/morph?l=tou%3D&la=greek&can=tou%3D7&prior=panto\\s) [στρατοπέδου](http://www.perseus.tufts.edu/hopper/morph?l=stratope%2Fdou&la=greek&can=stratope%2Fdou0&prior=tou=)**” [**L. 21.6**](http://www.perseus.tufts.edu/hopper/text?doc=Lys.%2021.6&lang=original); ⇾ 
+
+«ناو من نسبت به ناوگروه به بهترین نحو دریا می‌نوردید»
+
+###

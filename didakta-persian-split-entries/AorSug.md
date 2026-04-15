@@ -1,0 +1,13 @@
+# §AorSug. پرسش و درخواست پیشنهادی
+
+گذشته‌ی تام با پرسش‌های [τί](http://www.perseus.tufts.edu/hopper/morph?l=ti%2F&la=greek&can=ti%2F4&prior=*a) [οὖν](http://www.perseus.tufts.edu/hopper/morph?l=ou%29%3Dn&la=greek&can=ou%29%3Dn5&prior=ti/) [ου](http://www.perseus.tufts.edu/hopper/morph?l=ou&la=greek&can=ou0&prior=ou\)=n) یا [τί](http://www.perseus.tufts.edu/hopper/morph?l=ti%2F&la=greek&can=ti%2F5&prior=ou) [οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%2911&prior=ti/) برای ابراز تعجب از انجام نشدن کاری استفاده می‌شود. در این کاربرد پرسش یا درخواست جنبه‌ی پیشنهادی یا امری دارد.
+
+→ “[τί](http://www.perseus.tufts.edu/hopper/morph?l=ti%2F&la=greek&can=ti%2F6&prior=ou\)) [οὖν](http://www.perseus.tufts.edu/hopper/morph?l=ou%29%3Dn&la=greek&can=ou%29%3Dn6&prior=ti/) [οὐχὶ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29xi%5C&la=greek&can=ou%29xi%5C0&prior=ou\)=n) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C24&prior=ou\)xi\\) [σὺ](http://www.perseus.tufts.edu/hopper/morph?l=su%5C&la=greek&can=su%5C0&prior=kai\\) [**ὑπέμνησάς**](http://www.perseus.tufts.edu/hopper/morph?l=u%28pe%2Fmnhsa%2Fs&la=greek&can=u%28pe%2Fmnhsa%2Fs0&prior=su\\) [με](http://www.perseus.tufts.edu/hopper/morph?l=me&la=greek&can=me1&prior=u\(pe/mnhsa/s);” [**X. Hi. 1.3**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hiero%201.3&lang=original); ⇾ 
+
+«پس تو چرا به من یادآوری نمی‌کنی؟»
+
+→ “[τί](http://www.perseus.tufts.edu/hopper/morph?l=ti%2F&la=greek&can=ti%2F0&prior=*\(etai=ros) [οὖν](http://www.perseus.tufts.edu/hopper/morph?l=ou%29%3Dn&la=greek&can=ou%29%3Dn0&prior=ti/) [οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%290&prior=ou\)=n) [**διηγήσω**](http://www.perseus.tufts.edu/hopper/morph?l=dihgh%2Fsw&la=greek&can=dihgh%2Fsw0&prior=ou\)) [ἡμῖν](http://www.perseus.tufts.edu/hopper/morph?l=h%28mi%3Dn&la=greek&can=h%28mi%3Dn0&prior=dihgh/sw) [τὴν](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn0&prior=h\(mi=n) [συνουσίαν](http://www.perseus.tufts.edu/hopper/morph?l=sunousi%2Fan&la=greek&can=sunousi%2Fan0&prior=th\\n), [εἰ](http://www.perseus.tufts.edu/hopper/morph?l=ei%29&la=greek&can=ei%290&prior=sunousi/an) [μή](http://www.perseus.tufts.edu/hopper/morph?l=mh%2F&la=greek&can=mh%2F0&prior=ei\)) [σέ](http://www.perseus.tufts.edu/hopper/morph?l=se%2F&la=greek&can=se%2F0&prior=mh/) [τι](http://www.perseus.tufts.edu/hopper/morph?l=ti&la=greek&can=ti0&prior=se/) [κωλύει](http://www.perseus.tufts.edu/hopper/morph?l=kwlu%2Fei&la=greek&can=kwlu%2Fei0&prior=ti)…” [**P. Pr. 310a**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Prot.%20310a&lang=original); ⇾ 
+
+«اگر چیزی مانع تو نیست، گفتگو را برای ما نیز شرح بده (چرا گفتگو را برای ما شرح نمی‌دهی؟)»
+
+###

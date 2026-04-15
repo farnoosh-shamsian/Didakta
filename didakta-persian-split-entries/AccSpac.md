@@ -1,0 +1,17 @@
+# §AccSpac. بازه‌ی مکانی
+
+حالت رایی می‌تواند برای بیان مکان، مسافت یا راه به کار رود. رایی بیان مکان بازه‌ای را که امری یا چیزی بر گستره‌‌ی آن باشد بیان می‌کند و یا به مسافت طی شده اشاره دارد.
+
+→ “[ἄγειν](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fgein&la=greek&can=a%29%2Fgein0&prior=hu\)/chtai) ([στρατιὰν](http://www.perseus.tufts.edu/hopper/morph?l=stratia%5C_n&la=greek&can=stratia%5C_n0&prior=a\)/gein)) [στενὰς](http://www.perseus.tufts.edu/hopper/morph?l=stena%5C_s&la=greek&can=stena%5C_s0&prior=stratia\\_n) [**ὁδούς**](http://www.perseus.tufts.edu/hopper/morph?l=o%28dou%2Fs&la=greek&can=o%28dou%2Fs1&prior=stena\\_s)” [**X. C. 1.6.43**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.6.43&lang=original); ⇾
+
+«هدایت‌کردن لشکر بر راه‌های باریک»
+
+→ “[ἐξελαύνει](http://www.perseus.tufts.edu/hopper/morph?l=e%29celau%2Fnei&la=greek&can=e%29celau%2Fnei0&prior=o\(dou/s) [**σταθμοὺς**](http://www.perseus.tufts.edu/hopper/morph?l=staqmou%5Cs&la=greek&can=staqmou%5Cs0&prior=e\)celau/nei) [τρεῖς](http://www.perseus.tufts.edu/hopper/morph?l=trei%3Ds&la=greek&can=trei%3Ds0&prior=staqmou\\s), [**παρασάγγας**](http://www.perseus.tufts.edu/hopper/morph?l=parasa%2Fgga_s&la=greek&can=parasa%2Fgga_s0&prior=trei=s) [εἴκοσι](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%2Fkosi&la=greek&can=ei%29%2Fkosi0&prior=parasa/gga_s) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C1&prior=ei\)/kosi) [δύο](http://www.perseus.tufts.edu/hopper/morph?l=du%2Fo&la=greek&can=du%2Fo0&prior=kai\\)” [**X. A. 1.2.5**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.2.5&lang=original); ⇾ 
+
+«در سه مرحله، بیست و دو فرسنگ پیشروی کرد»
+
+→ “[ἀπέχει](http://www.perseus.tufts.edu/hopper/morph?l=a%29pe%2Fxei&la=greek&can=a%29pe%2Fxei0&prior=du/o) [ἡ](http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%281&prior=a\)pe/xei) [Πλάταια](http://www.perseus.tufts.edu/hopper/morph?l=*pla%2Ftaia&la=greek&can=*pla%2Ftaia0&prior=h\() [τῶν](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn1&prior=*pla/taia) [Θηβῶν](http://www.perseus.tufts.edu/hopper/morph?l=*qhbw%3Dn&la=greek&can=*qhbw%3Dn0&prior=tw=n) [**σταδίους**](http://www.perseus.tufts.edu/hopper/morph?l=stadi%2Fous&la=greek&can=stadi%2Fous0&prior=*qhbw=n) [ἑβδομήκοντα](http://www.perseus.tufts.edu/hopper/morph?l=e%28bdomh%2Fkonta&la=greek&can=e%28bdomh%2Fkonta0&prior=stadi/ous)” [**T. 2.5**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%202.5&lang=original); ⇾ 
+
+«پلاتایا هفتاد استادیون از تبس فاصله دارد»
+
+###
