@@ -5,21 +5,29 @@
 ## About Didakta
 
 Didakta has been developed by **Farnoosh Shamsian** at Leipzig University, primarily through rearrangement and reformulation of H. W. Smyth's _Greek Grammar for Colleges_ (1920), inspired by Jeffrey A. Rydberg-Cox's _Overview of Greek Syntax_ (2000). It incorporates insights from recent publications such as the _Cambridge Grammar of Classical Greek_ (Emde Boas et al., 2019).
+Link to various versions and translations:
+Ferreira, A. D. (2024). Didakta Grammar for Annotation—Versão em Português. https://github.com/ProjetosAbertosClassicasDigitais/Didakta-br-portuguese/
+Rahimi, F., Shamsian, F., & Smyth, H. W. (2024). Didakta Grammar for Annotation (Kurdish) [Dataset]. https://doi.org/10.5281/zenodo.11221442
+Shamsian, F., & Smyth, H. W. (2023). Didakta Grammar for Annotation (English) [Dataset]. https://doi.org/10.5281/zenodo.11216456
+Shamsian, F., & Smyth, H. W. (2024). Didakta Grammar for Annotation (Persian) [Dataset]. https://doi.org/10.5281/ZENODO.11216819
+
+Links to related publications:
+Shamsian, F., Crane, G., & Rahimi, F. (2024, June 5). Adapting Digital Annotations for Teaching Ancient Greek in Persian. DH Benelux 2024. https://2024.dhbenelux.org/wp-content/uploads/2024/05/DHB24_paper_Shamsian_Crane_Rahimi.pdf
+Shamsian, F., Crane, G., Rahimi, F., & Ferreira, A. D. (2024). Localizing Ancient Greek Grammar and Annotations with Didakta. DH 2024.
 
 ### Key Features
 
 - **Modular Design**: Each section is self-contained and can be used independently without relying on other sections
 - **Flexible Organization**: Sections can be rearranged based on learner needs, course requirements, or project specifications
 - **Accessibility-Focused**: Simplified language to minimize inaccuracies in machine translation
-- **Evidence-Based**: References to scholarly sources, particularly the Cambridge Grammar of Classical Greek (Emde Boas et al., 2019) and Pedalion Grammar (Van Hal et al., 2024)
-- **No Positive Language Transfer**: Explains grammatical concepts without assuming knowledge of other languages
+- **No Positive Language Transfer**: Explains grammatical concepts without assuming knowledge of other languages, particularly important for localization
 
 ### Supported Languages
 
 - English
 - Persian
 - Kurdish
-- Portuguese (soon to be added here)
+- Portuguese (soon to be added here from https://github.com/ProjetosAbertosClassicasDigitais/Didakta-br-portuguese/)
 
 ## Repository Contents
 
