@@ -1,0 +1,7 @@
+{
+  "selected_model": null,
+  "best_model_name": "LinearSVC_tfidf",
+  "num_labels": null,
+  "out_dir": null,
+  "validation_rows": 304
+}
