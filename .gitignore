@@ -24,3 +24,6 @@ experiments/*/models/
 *.pt
 *.ckpt
 *.h5
+
+# --- Local build/cleanup scripts: kept out of the published repo ---
+scripts/
