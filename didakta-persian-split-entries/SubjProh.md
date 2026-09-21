@@ -1,18 +1,18 @@
 # §SubjProh. بیان نهی
 
-دوم‌شخص و سوم‌شخص فعل التزامی گذشته‌ی تام ممکن است برای بیان نهی به کار رود (با منفی‌ساز [μή](http://www.perseus.tufts.edu/hopper/morph?l=mh%2F&la=greek&can=mh%2F3&prior=bou/lei)). این کاربرد در سوم‌شخص کم‌بسامدتر است و عموماًبیانگر دوم‌شخص است.
+دوم‌شخص و سوم‌شخص فعل التزامی گذشته‌ی تام ممکن است برای بیان نهی به کار رود (با منفی‌ساز [μή](https://logeion.uchicago.edu/%CE%BC%CE%AE)). این کاربرد در سوم‌شخص کم‌بسامدتر است و عموماًبیانگر دوم‌شخص است.
 
-→ “[μηδὲν](http://www.perseus.tufts.edu/hopper/morph?l=mhde%5Cn&la=greek&can=mhde%5Cn0&prior=mh/) [**ἀθυμήσητε**](http://www.perseus.tufts.edu/hopper/morph?l=a%29qu_mh%2Fshte&la=greek&can=a%29qu_mh%2Fshte0&prior=mhde\\n)” [**X. A. 5.4.19**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%205.4.19&lang=original); ⇾ 
+→ “[μηδὲν](https://logeion.uchicago.edu/%CE%BC%CE%B7%CE%B4%E1%BD%B2%CE%BD) [**ἀθυμήσητε**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%B8%CF%85%CE%BC%CE%AE%CF%83%CE%B7%CF%84%CE%B5%2A%2A)” [**X. A. 5.4.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%205.4.19&lang=original); ⇾ 
 
 «دلسرد مشو»
 
-→ “[**ὑπολάβῃ**](http://www.perseus.tufts.edu/hopper/morph?l=u%28pola%2Fbh%7C&la=greek&can=u%28pola%2Fbh%7C0&prior=poih=|s) [δὲ](http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C2&prior=u\(pola/bh|) [μηδείς](http://www.perseus.tufts.edu/hopper/morph?l=mhdei%2Fs&la=greek&can=mhdei%2Fs0&prior=de\\)” [**T. 6.84**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%206.84&lang=original); ⇾ 
+→ “[**ὑπολάβῃ**](https://logeion.uchicago.edu/%2A%2A%E1%BD%91%CF%80%CE%BF%CE%BB%CE%AC%CE%B2%E1%BF%83%2A%2A) [δὲ](https://logeion.uchicago.edu/%CE%B4%E1%BD%B2) [μηδείς](https://logeion.uchicago.edu/%CE%BC%CE%B7%CE%B4%CE%B5%CE%AF%CF%82)” [**T. 6.84**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%206.84&lang=original); ⇾ 
 
 «مگذار هیچ‌کس تصور کند»
 
-فعل دوم شخص التزامی همراه با [οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%292&prior=oi\)w/meqa) [μή](http://www.perseus.tufts.edu/hopper/morph?l=mh%2F&la=greek&can=mh%2F6&prior=ou\)) گاه در اشعار نمایشی برای بیان نهی مؤکد به کار می‌رود.
+فعل دوم شخص التزامی همراه با [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90)w/meqa) [μή](https://logeion.uchicago.edu/%CE%BC%CE%AE)) گاه در اشعار نمایشی برای بیان نهی مؤکد به کار می‌رود.
 
-→ “[οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%293&prior=mh/) [μὴ](http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C11&prior=ou\)) [**ληρήσῃς**](http://www.perseus.tufts.edu/hopper/morph?l=lhrh%2Fsh%7Cs&la=greek&can=lhrh%2Fsh%7Cs0&prior=mh\\)” [**Ar. Nub. 367**](http://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Cl.%20367&lang=original); ⇾ 
+→ “[οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [μὴ](https://logeion.uchicago.edu/%CE%BC%E1%BD%B4)) [**ληρήσῃς**](https://logeion.uchicago.edu/%2A%2A%CE%BB%CE%B7%CF%81%CE%AE%CF%83%E1%BF%83%CF%82%2A%2A)” [**Ar. Nub. 367**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Cl.%20367&lang=original); ⇾ 
 
 «یاوه مگو»
 

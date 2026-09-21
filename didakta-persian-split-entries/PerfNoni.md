@@ -4,41 +4,41 @@
 
 با التزامی:
 
-→ “[ἵνα](http://www.perseus.tufts.edu/hopper/morph?l=i%28%2Fna&la=greek&can=i%28%2Fna0&prior=dapa/nhn), [ἢν](http://www.perseus.tufts.edu/hopper/morph?l=h%29%5Cn&la=greek&can=h%29%5Cn0&prior=i\(/na) [μὴ](http://www.perseus.tufts.edu/hopper/morph?l=mh%5C&la=greek&can=mh%5C0&prior=h\)\\n) [ὑπακούωσι](http://www.perseus.tufts.edu/hopper/morph?l=u%28pakou%2Fwsi&la=greek&can=u%28pakou%2Fwsi0&prior=mh\\), [**τεθνήκωσιν**](http://www.perseus.tufts.edu/hopper/morph?l=teqnh%2Fkwsin&la=greek&can=teqnh%2Fkwsin0&prior=u\(pakou/wsi)” [**T. 8.74**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%208.74&lang=original); ⇾ 
+→ “[ἵνα](https://logeion.uchicago.edu/%E1%BC%B5%CE%BD%CE%B1), [ἢν](https://logeion.uchicago.edu/%E1%BC%A2%CE%BD) [μὴ](https://logeion.uchicago.edu/%CE%BC%E1%BD%B4)\\n) [ὑπακούωσι](https://logeion.uchicago.edu/%E1%BD%91%CF%80%CE%B1%CE%BA%CE%BF%CF%8D%CF%89%CF%83%CE%B9), [**τεθνήκωσιν**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%B5%CE%B8%CE%BD%CE%AE%CE%BA%CF%89%CF%83%CE%B9%CE%BD%2A%2A)” [**T. 8.74**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%208.74&lang=original); ⇾ 
 
 «که اگر تسلیم نشوند، کشته می‌شوند»
 
 با تمنایی: افعال تمنایی همیشه به زمان آینده ارجاع دارند. زمان‌‌های افعال تمنایی به اختلاف زمانی اشاره ندارند، بلکه مرحله و وضعیت امر یا کنش را نشان می‌دهند.
 
-→ “[**τεθναίης**](http://www.perseus.tufts.edu/hopper/morph?l=teqnai%2Fhs&la=greek&can=teqnai%2Fhs0&prior=proshu/da) [ὦ](http://www.perseus.tufts.edu/hopper/morph?l=w%29%3D&la=greek&can=w%29%3D0&prior=teqnai/hs) [Προῖτ᾽](http://www.perseus.tufts.edu/hopper/morph?l=*proi%3Dt%27&la=greek&can=*proi%3Dt%270&prior=w\)=), [ἢ](http://www.perseus.tufts.edu/hopper/morph?l=h%29%5C&la=greek&can=h%29%5C0&prior=*proi=t%27) [κάκτανε](http://www.perseus.tufts.edu/hopper/morph?l=ka%2Fktane&la=greek&can=ka%2Fktane0&prior=h\)\\) [Βελλεροφόντην](http://www.perseus.tufts.edu/hopper/morph?l=*bellerofo%2Fnthn&la=greek&can=*bellerofo%2Fnthn1&prior=ka/ktane)” **[Hom. Il. 6.164](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6%3Acard%3D156)**; ⇾ 
+→ “[**τεθναίης**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%B5%CE%B8%CE%BD%CE%B1%CE%AF%CE%B7%CF%82%2A%2A) [ὦ](https://logeion.uchicago.edu/%E1%BD%A6) [Προῖτ᾽](https://logeion.uchicago.edu/%CE%A0%CF%81%CE%BF%E1%BF%96%CF%84%E1%BE%BD)=), [ἢ](https://logeion.uchicago.edu/%E1%BC%A2) [κάκτανε](https://logeion.uchicago.edu/%CE%BA%CE%AC%CE%BA%CF%84%CE%B1%CE%BD%CE%B5)\\) [Βελλεροφόντην](https://logeion.uchicago.edu/%CE%92%CE%B5%CE%BB%CE%BB%CE%B5%CF%81%CE%BF%CF%86%CF%8C%CE%BD%CF%84%CE%B7%CE%BD)” **[Hom. Il. 6.164](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D6%3Acard%3D156)**; ⇾ 
 
 «بمیر، ای پرویتوس، یا بلروفونتس را بکش»
 
 با وجه امری، برای بیان کنش کامل با نتیجه‌ی پایدار:
 
-→ “[**Τετάχθω**](http://www.perseus.tufts.edu/hopper/morph?l=teta%2Fxqw&la=greek&can=teta%2Fxqw0&prior=do/te)” [**P. R. 562a**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20562a&lang=original); ⇾ 
+→ “[**Τετάχθω**](https://logeion.uchicago.edu/%2A%2A%CE%A4%CE%B5%CF%84%CE%AC%CF%87%CE%B8%CF%89%2A%2A)” [**P. R. 562a**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20562a&lang=original); ⇾ 
 
 «منسوب شود»
 
-→ “[**εἰρήσθω**](http://www.perseus.tufts.edu/hopper/morph?l=ei%29rh%2Fsqw&la=greek&can=ei%29rh%2Fsqw0&prior=teta/xqw)” [**P. R. 503b**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20503b&lang=original); ⇾ 
+→ “[**εἰρήσθω**](https://logeion.uchicago.edu/%2A%2A%CE%B5%E1%BC%B0%CF%81%CE%AE%CF%83%CE%B8%CF%89%2A%2A)” [**P. R. 503b**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20503b&lang=original); ⇾ 
 
 «گفته شود»
 
 با اسم‌مصدر، اغلب همراه با کنش قاطعانه:
 
-→ “[οὐδὲ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29de%5C&la=greek&can=ou%29de%5C0&prior=a\)/n) [βουλεύεσθαι](http://www.perseus.tufts.edu/hopper/morph?l=bouleu%2Fesqai&la=greek&can=bouleu%2Fesqai0&prior=ou\)de\\) [ἔτι](http://www.perseus.tufts.edu/hopper/morph?l=e%29%2Fti&la=greek&can=e%29%2Fti0&prior=bouleu/esqai) [ὥρα](http://www.perseus.tufts.edu/hopper/morph?l=w%28%2Fra_&la=greek&can=w%28%2Fra_0&prior=e\)/ti), [ἀλλὰ](http://www.perseus.tufts.edu/hopper/morph?l=a%29lla%5C&la=greek&can=a%29lla%5C0&prior=w\(/ra_) [**βεβουλεῦσθαι**](http://www.perseus.tufts.edu/hopper/morph?l=bebouleu%3Dsqai&la=greek&can=bebouleu%3Dsqai0&prior=a\)lla\\)” [**P. Cr. 46a**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Crito%2046a&lang=original); ⇾ 
+→ “[οὐδὲ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%B4%E1%BD%B2)/n) [βουλεύεσθαι](https://logeion.uchicago.edu/%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%8D%CE%B5%CF%83%CE%B8%CE%B1%CE%B9)de\\) [ἔτι](https://logeion.uchicago.edu/%E1%BC%94%CF%84%CE%B9) [ὥρα](https://logeion.uchicago.edu/%E1%BD%A5%CF%81%CE%B1)/ti), [ἀλλὰ](https://logeion.uchicago.edu/%E1%BC%80%CE%BB%CE%BB%E1%BD%B0) [**βεβουλεῦσθαι**](https://logeion.uchicago.edu/%2A%2A%CE%B2%CE%B5%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%E1%BF%A6%CF%83%CE%B8%CE%B1%CE%B9%2A%2A)lla\\)” [**P. Cr. 46a**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Crito%2046a&lang=original); ⇾ 
 
 «دیگر وقت تصمیم‌گرفتن نیست؛ بلکه باید تصمیم گرفته باشی»
 
 با وجه وصفی:
 
-→ “[καταλαμβάνουσι](http://www.perseus.tufts.edu/hopper/morph?l=katalamba%2Fnousi&la=greek&can=katalamba%2Fnousi0&prior=geno/menos) [Βρασίδαν](http://www.perseus.tufts.edu/hopper/morph?l=*bra_si%2Fda_n&la=greek&can=*bra_si%2Fda_n0&prior=katalamba/nousi) [**ἐπεληλυθότα**](http://www.perseus.tufts.edu/hopper/morph?l=e%29pelhluqo%2Fta&la=greek&can=e%29pelhluqo%2Fta0&prior=*bra_si/da_n)” [**T. 3.69**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%203.69&lang=original); ⇾ 
+→ “[καταλαμβάνουσι](https://logeion.uchicago.edu/%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B1%CE%BC%CE%B2%CE%AC%CE%BD%CE%BF%CF%85%CF%83%CE%B9) [Βρασίδαν](https://logeion.uchicago.edu/%CE%92%CF%81%CE%B1%CF%83%CE%AF%CE%B4%CE%B1%CE%BD) [**ἐπεληλυθότα**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%80%CE%B5%CE%BB%CE%B7%CE%BB%CF%85%CE%B8%CF%8C%CF%84%CE%B1%2A%2A)” [**T. 3.69**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%203.69&lang=original); ⇾ 
 
 «فهمیدند که براسیداس رسیده است»
 
-وجه وصفی حال کامل اگر با قیدی مانند [πρόσθεν](http://www.perseus.tufts.edu/hopper/morph?l=pro%2Fsqen&la=greek&can=pro%2Fsqen2&prior=e\)pelhluqo/ta) همراه شود می‌تواند معنای گذشته‌ی کامل داشته باشد:
+وجه وصفی حال کامل اگر با قیدی مانند [πρόσθεν](https://logeion.uchicago.edu/%CF%80%CF%81%CF%8C%CF%83%CE%B8%CE%B5%CE%BD)pelhluqo/ta) همراه شود می‌تواند معنای گذشته‌ی کامل داشته باشد:
 
-→ “[ὁ](http://www.perseus.tufts.edu/hopper/morph?l=o%28&la=greek&can=o%280&prior=pro/sqen) [πρόσθε](http://www.perseus.tufts.edu/hopper/morph?l=pro%2Fsqe&la=greek&can=pro%2Fsqe0&prior=o\() [**κεκτημένος**](http://www.perseus.tufts.edu/hopper/morph?l=kekthme%2Fnos&la=greek&can=kekthme%2Fnos0&prior=pro/sqe)” [**S. Ph. 778**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Phil.%20778&lang=original); ⇾ 
+→ “[ὁ](https://logeion.uchicago.edu/%E1%BD%81) [πρόσθε](https://logeion.uchicago.edu/%CF%80%CF%81%CF%8C%CF%83%CE%B8%CE%B5) [**κεκτημένος**](https://logeion.uchicago.edu/%2A%2A%CE%BA%CE%B5%CE%BA%CF%84%CE%B7%CE%BC%CE%AD%CE%BD%CE%BF%CF%82%2A%2A)” [**S. Ph. 778**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Phil.%20778&lang=original); ⇾ 
 
 «کسی که پیش‌تر مالک \[آن\] بود»
 

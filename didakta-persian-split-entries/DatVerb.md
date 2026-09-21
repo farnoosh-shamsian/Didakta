@@ -2,76 +2,76 @@
 
 حالت برایی برای بیان مفعول غیرمستقیم افعال به کار می‌رود؛ درحالی‌که مفعول مستقیم معمولاً با حالت رایی بیان می‌شود. حالت برایی می‌تواند به‌عنوان  تنها مکمل افعالی مانند کمک‌کردن، آسیب زدن، خرسند ساختن، مهربان بودن، خشمگین شدن، اعتمادکردن، تهدیدکردن، باورداشتن، اطاعت‌کردن و امثال آنها به کار رود.
 
-مفعول برخی از افعال مرکب (مخصوصاً با [σύν](http://www.perseus.tufts.edu/hopper/morph?l=su%2Fn&la=greek&can=su%2Fn6&prior=a\)mfisbhtei=n) ،[ἐν](http://www.perseus.tufts.edu/hopper/morph?l=e%29n&la=greek&can=e%29n24&prior=su/n)، یا [ἐπί](http://www.perseus.tufts.edu/hopper/morph?l=e%29pi%2F&la=greek&can=e%29pi%2F2&prior=e\)n) و یا افعال همراه [παρά](http://www.perseus.tufts.edu/hopper/morph?l=para%2F&la=greek&can=para%2F1&prior=e\)pi/) ،[περί](http://www.perseus.tufts.edu/hopper/morph?l=peri%2F&la=greek&can=peri%2F1&prior=para/) ،[πρός](http://www.perseus.tufts.edu/hopper/morph?l=pro%2Fs&la=greek&can=pro%2Fs2&prior=peri/) یا [ὑπό](http://www.perseus.tufts.edu/hopper/morph?l=u%28po%2F&la=greek&can=u%28po%2F8&prior=pro/s) و امثال آنها) در حالت برایی است، زیرا این حروف اضافه  در پیوند با افعال نیز معنایی را در خود حفظ می‌کنند که نیازمند صرف برایی است. برایی مکمل فعل اغلب می‌تواند به عنوان برایی نفع و ضرر، برایی همراهی و برخی کاربرد‌های دیگر برایی نیز در نظرگرفته شود.
+مفعول برخی از افعال مرکب (مخصوصاً با [σύν](https://logeion.uchicago.edu/%CF%83%CF%8D%CE%BD)mfisbhtei=n) ،[ἐν](https://logeion.uchicago.edu/%E1%BC%90%CE%BD)، یا [ἐπί](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%AF)n) و یا افعال همراه [παρά](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%CE%AC)pi/) ،[περί](https://logeion.uchicago.edu/%CF%80%CE%B5%CF%81%CE%AF) ،[πρός](https://logeion.uchicago.edu/%CF%80%CF%81%CF%8C%CF%82) یا [ὑπό](https://logeion.uchicago.edu/%E1%BD%91%CF%80%CF%8C) و امثال آنها) در حالت برایی است، زیرا این حروف اضافه  در پیوند با افعال نیز معنایی را در خود حفظ می‌کنند که نیازمند صرف برایی است. برایی مکمل فعل اغلب می‌تواند به عنوان برایی نفع و ضرر، برایی همراهی و برخی کاربرد‌های دیگر برایی نیز در نظرگرفته شود.
 
-→ “[ἐμβλέψας](http://www.perseus.tufts.edu/hopper/morph?l=e%29mble%2Fya_s&la=greek&can=e%29mble%2Fya_s0&prior=u\(po/) [**αὐτῷ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29tw%3D%7C&la=greek&can=au%29tw%3D%7C3&prior=e\)mble/ya_s)” [**P. Charm. 162d**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Charm.%20162d&lang=original); ⇾
+→ “[ἐμβλέψας](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%CE%B2%CE%BB%CE%AD%CF%88%CE%B1%CF%82) [**αὐτῷ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BF%B7%2A%2A)mble/ya_s)” [**P. Charm. 162d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Charm.%20162d&lang=original); ⇾
 
 «به او نِگریسته»
 
-→ “[ἐλπίδας](http://www.perseus.tufts.edu/hopper/morph?l=e%29lpi%2Fdas&la=greek&can=e%29lpi%2Fdas0&prior=au\)tw=|) [ἐμποιεῖν](http://www.perseus.tufts.edu/hopper/morph?l=e%29mpoiei%3Dn&la=greek&can=e%29mpoiei%3Dn0&prior=e\)lpi/das) [**ἀνθρώποις**](http://www.perseus.tufts.edu/hopper/morph?l=a%29nqrw%2Fpois&la=greek&can=a%29nqrw%2Fpois1&prior=e\)mpoiei=n)” [**X. C. 1.6.19**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.6.19&lang=original); ⇾ 
+→ “[ἐλπίδας](https://logeion.uchicago.edu/%E1%BC%90%CE%BB%CF%80%CE%AF%CE%B4%CE%B1%CF%82)tw=|) [ἐμποιεῖν](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%CF%80%CE%BF%CE%B9%CE%B5%E1%BF%96%CE%BD)lpi/das) [**ἀνθρώποις**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CE%B9%CF%82%2A%2A)mpoiei=n)” [**X. C. 1.6.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.6.19&lang=original); ⇾ 
 
 «آدمیان را امیدوار ساختن»
 
-→ “[**αὐτοῖς**](http://www.perseus.tufts.edu/hopper/morph?l=au%29toi%3Ds&la=greek&can=au%29toi%3Ds7&prior=a\)nqrw/pois) [ἐπέπεσε](http://www.perseus.tufts.edu/hopper/morph?l=e%29pe%2Fpese&la=greek&can=e%29pe%2Fpese0&prior=au\)toi=s) [τὸ](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C8&prior=e\)pe/pese) [Ἑλληνικόν](http://www.perseus.tufts.edu/hopper/morph?l=*%28ellhniko%2Fn&la=greek&can=*%28ellhniko%2Fn0&prior=to\\)” [**X. A. 4.1.10**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%204.1.10&lang=original); ⇾ 
+→ “[**αὐτοῖς**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A)nqrw/pois) [ἐπέπεσε](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%AD%CF%80%CE%B5%CF%83%CE%B5)toi=s) [τὸ](https://logeion.uchicago.edu/%CF%84%E1%BD%B8)pe/pese) [Ἑλληνικόν](https://logeion.uchicago.edu/%E1%BC%99%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C%CE%BD)” [**X. A. 4.1.10**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%204.1.10&lang=original); ⇾ 
 
 «(نیروهای) هلنی بر آنان هجوم آوردند»
 
-→ “[συναδικεῖν](http://www.perseus.tufts.edu/hopper/morph?l=sunadikei%3Dn&la=greek&can=sunadikei%3Dn0&prior=au\)toi=s) [**αὐτοῖς**](http://www.perseus.tufts.edu/hopper/morph?l=au%29toi%3Ds&la=greek&can=au%29toi%3Ds9&prior=sunadikei=n)” [**X. A. 2\. 6\. 27**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.6.27&lang=original); ⇾ 
+→ “[συναδικεῖν](https://logeion.uchicago.edu/%CF%83%CF%85%CE%BD%CE%B1%CE%B4%CE%B9%CE%BA%CE%B5%E1%BF%96%CE%BD)toi=s) [**αὐτοῖς**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A)” [**X. A. 2\. 6\. 27**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.6.27&lang=original); ⇾ 
 
 «شریک‌ جرم آنان بودن»
 
-→ “[**τοῖς**](http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds3&prior=ma/xou) [**νόμοις**](http://www.perseus.tufts.edu/hopper/morph?l=no%2Fmois&la=greek&can=no%2Fmois0&prior=toi=s) [πείθου](http://www.perseus.tufts.edu/hopper/morph?l=pei%2Fqou&la=greek&can=pei%2Fqou0&prior=no/mois)” [**I. 1.16**](http://www.perseus.tufts.edu/hopper/text?doc=Isoc.%201.16&lang=original); ⇾ 
+→ “[**τοῖς**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A) [**νόμοις**](https://logeion.uchicago.edu/%2A%2A%CE%BD%CF%8C%CE%BC%CE%BF%CE%B9%CF%82%2A%2A) [πείθου](https://logeion.uchicago.edu/%CF%80%CE%B5%CE%AF%CE%B8%CE%BF%CF%85)” [**I. 1.16**](https://www.perseus.tufts.edu/hopper/text?doc=Isoc.%201.16&lang=original); ⇾ 
 
 «از قوانین پیروی کن»
 
-→ “[ἐπίστευον](http://www.perseus.tufts.edu/hopper/morph?l=e%29pi%2Fsteuon&la=greek&can=e%29pi%2Fsteuon0&prior=h\(donw=n) [**αὐτῷ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29tw%3D%7C&la=greek&can=au%29tw%3D%7C0&prior=e\)pi/steuon) [αἱ](http://www.perseus.tufts.edu/hopper/morph?l=ai%28&la=greek&can=ai%280&prior=au\)tw=|) [πόλεις](http://www.perseus.tufts.edu/hopper/morph?l=po%2Fleis&la=greek&can=po%2Fleis0&prior=ai\()” [**X. A. 1.9.8**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.9.8&lang=original); ⇾
+→ “[ἐπίστευον](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%AF%CF%83%CF%84%CE%B5%CF%85%CE%BF%CE%BD) [**αὐτῷ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BF%B7%2A%2A)pi/steuon) [αἱ](https://logeion.uchicago.edu/%CE%B1%E1%BC%B1)tw=|) [πόλεις](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B5%CE%B9%CF%82)” [**X. A. 1.9.8**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.9.8&lang=original); ⇾
 
 «شهر‌ها به او اعتماد می‌کردند»
 
-→ “[**τῷ**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C2&prior=parainou=nti) **[Μυσῷ](http://www.perseus.tufts.edu/hopper/morph?l=*mu_sw%3D%7C&la=greek&can=*mu_sw%3D%7C0&prior=tw=|)** [ἐσήμηνε](http://www.perseus.tufts.edu/hopper/morph?l=e%29sh%2Fmhne&la=greek&can=e%29sh%2Fmhne0&prior=*mu_sw=|) [φεύγειν](http://www.perseus.tufts.edu/hopper/morph?l=feu%2Fgein&la=greek&can=feu%2Fgein0&prior=e\)sh/mhne)” [**X. A. 5.2.30**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%205.2.30&lang=original); ⇾ 
+→ “[**τῷ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B7%2A%2A) **[Μυσῷ](https://logeion.uchicago.edu/%CE%9C%CF%85%CF%83%E1%BF%B7)** [ἐσήμηνε](https://logeion.uchicago.edu/%E1%BC%90%CF%83%CE%AE%CE%BC%CE%B7%CE%BD%CE%B5) [φεύγειν](https://logeion.uchicago.edu/%CF%86%CE%B5%CF%8D%CE%B3%CE%B5%CE%B9%CE%BD)sh/mhne)” [**X. A. 5.2.30**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%205.2.30&lang=original); ⇾ 
 
 «موسیایی را به گریختن فرمان داد»
 
-→ “[οὗτοι](http://www.perseus.tufts.edu/hopper/morph?l=ou%28%3Dtoi&la=greek&can=ou%28%3Dtoi1&prior=yeudome/nw|) [οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%296&prior=ou\(=toi) [παρεγένοντο](http://www.perseus.tufts.edu/hopper/morph?l=parege%2Fnonto&la=greek&can=parege%2Fnonto0&prior=ou\)) [**βασιλεῖ**](http://www.perseus.tufts.edu/hopper/morph?l=basilei%3D&la=greek&can=basilei%3D1&prior=parege/nonto)” [**X. A. 5.6.8**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%205.6.8&lang=original); ⇾ 
+→ “[οὗτοι](https://logeion.uchicago.edu/%CE%BF%E1%BD%97%CF%84%CE%BF%CE%B9) [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [παρεγένοντο](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%CE%B5%CE%B3%CE%AD%CE%BD%CE%BF%CE%BD%CF%84%CE%BF)) [**βασιλεῖ**](https://logeion.uchicago.edu/%2A%2A%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%E1%BF%96%2A%2A)” [**X. A. 5.6.8**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%205.6.8&lang=original); ⇾ 
 
 «اینان با شاه همراه نشدند»
 
-→ “[ὑποκεῖσθαι](http://www.perseus.tufts.edu/hopper/morph?l=u%28pokei%3Dsqai&la=greek&can=u%28pokei%3Dsqai0&prior=nea_ni/skw) [**τῷ**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C26&prior=u\(pokei=sqai) **[ἄρχοντι](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Frxonti&la=greek&can=a%29%2Frxonti0&prior=tw=|)**” [**P. G. 510c**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Gorg.%20510c&lang=original); ⇾
+→ “[ὑποκεῖσθαι](https://logeion.uchicago.edu/%E1%BD%91%CF%80%CE%BF%CE%BA%CE%B5%E1%BF%96%CF%83%CE%B8%CE%B1%CE%B9) [**τῷ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B7%2A%2A) **[ἄρχοντι](https://logeion.uchicago.edu/%E1%BC%84%CF%81%CF%87%CE%BF%CE%BD%CF%84%CE%B9)**” [**P. G. 510c**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Gorg.%20510c&lang=original); ⇾
 
 «تحت سلطه‌ی حاکم بودن»
 
-→ “[**τῷ**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3D%7C&la=greek&can=tw%3D%7C0&prior=misqo/n) **[Ὑρκανίῳ](http://www.perseus.tufts.edu/hopper/morph?l=*%28urkani%2Fw%7C&la=greek&can=*%28urkani%2Fw%7C0&prior=tw=|)** [ἵππον](http://www.perseus.tufts.edu/hopper/morph?l=i%28%2Fppon&la=greek&can=i%28%2Fppon0&prior=*\(urkani/w|) [ἐδωρήσατο](http://www.perseus.tufts.edu/hopper/morph?l=e%29dwrh%2Fsato&la=greek&can=e%29dwrh%2Fsato0&prior=i\(/ppon)” [**X. C. 8.4.24**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%208.4.24&lang=original); ⇾ 
+→ “[**τῷ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B7%2A%2A) **[Ὑρκανίῳ](https://logeion.uchicago.edu/%E1%BD%99%CF%81%CE%BA%CE%B1%CE%BD%CE%AF%E1%BF%B3)** [ἵππον](https://logeion.uchicago.edu/%E1%BC%B5%CF%80%CF%80%CE%BF%CE%BD) [ἐδωρήσατο](https://logeion.uchicago.edu/%E1%BC%90%CE%B4%CF%89%CF%81%CE%AE%CF%83%CE%B1%CF%84%CE%BF)” [**X. C. 8.4.24**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%208.4.24&lang=original); ⇾ 
 
 «اسبی به گرگانیان ارزانی‌ داشت»
 
-→ “[μικρὸν](http://www.perseus.tufts.edu/hopper/morph?l=mi_kro%5Cn&la=greek&can=mi_kro%5Cn0&prior=strathgoi=s) [**μεγάλῳ**](http://www.perseus.tufts.edu/hopper/morph?l=mega%2Flw%7C&la=greek&can=mega%2Flw%7C0&prior=mi_kro\\n) [εἰκάσαι](http://www.perseus.tufts.edu/hopper/morph?l=ei%29ka%2Fsai&la=greek&can=ei%29ka%2Fsai0&prior=mega/lw|)” [**T. 4.36**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.36&lang=original); ⇾
+→ “[μικρὸν](https://logeion.uchicago.edu/%CE%BC%CE%B9%CE%BA%CF%81%E1%BD%B8%CE%BD) [**μεγάλῳ**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%B5%CE%B3%CE%AC%CE%BB%E1%BF%B3%2A%2A) [εἰκάσαι](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0%CE%BA%CE%AC%CF%83%CE%B1%CE%B9)” [**T. 4.36**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.36&lang=original); ⇾
 
 «مقایسه‌کردن (چیزی) کوچک با (چیزی) بزرگ»
 
-→ “[πέμπων](http://www.perseus.tufts.edu/hopper/morph?l=pe%2Fmpwn&la=greek&can=pe%2Fmpwn0&prior=ei\)ka/sai) [**αὐτῷ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29tw%3D%7C&la=greek&can=au%29tw%3D%7C1&prior=pe/mpwn) [ἄγγελον](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fggelon&la=greek&can=a%29%2Fggelon0&prior=au\)tw=|)” [**X. A. 1.3.8**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.3.8&lang=original); ⇾ 
+→ “[πέμπων](https://logeion.uchicago.edu/%CF%80%CE%AD%CE%BC%CF%80%CF%89%CE%BD)ka/sai) [**αὐτῷ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BF%B7%2A%2A) [ἄγγελον](https://logeion.uchicago.edu/%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CE%BD)tw=|)” [**X. A. 1.3.8**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.3.8&lang=original); ⇾ 
 
 «پیکی برای او فرستاده»
 
-→ “[παρῄνει](http://www.perseus.tufts.edu/hopper/morph?l=parh%2F%7Cnei&la=greek&can=parh%2F%7Cnei0&prior=e\)fi/_emai) [**τοῖς**](http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds1&prior=parh/|nei) **[Ἀθηναίοις](http://www.perseus.tufts.edu/hopper/morph?l=*%29aqhnai%2Fois&la=greek&can=*%29aqhnai%2Fois0&prior=toi=s)** [τοιάδε](http://www.perseus.tufts.edu/hopper/morph?l=toia%2Fde&la=greek&can=toia%2Fde0&prior=*\)aqhnai/ois)” [**T. 6.8**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%206.8&lang=original); ⇾
+→ “[παρῄνει](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%E1%BF%84%CE%BD%CE%B5%CE%B9)fi/_emai) [**τοῖς**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A) **[Ἀθηναίοις](https://logeion.uchicago.edu/%E1%BC%88%CE%B8%CE%B7%CE%BD%CE%B1%CE%AF%CE%BF%CE%B9%CF%82)** [τοιάδε](https://logeion.uchicago.edu/%CF%84%CE%BF%CE%B9%CE%AC%CE%B4%CE%B5)aqhnai/ois)” [**T. 6.8**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%206.8&lang=original); ⇾
 
 «به آتنیان چنین پند داد»
 
-→ “[οὐκ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29k&la=greek&can=ou%29k0&prior=h\)dikhme/nois) [ἂν](http://www.perseus.tufts.edu/hopper/morph?l=a%29%5Cn&la=greek&can=a%29%5Cn0&prior=ou\)k) [ἠνώχλει](http://www.perseus.tufts.edu/hopper/morph?l=h%29nw%2Fxlei&la=greek&can=h%29nw%2Fxlei0&prior=a\)\\n) [νῦν](http://www.perseus.tufts.edu/hopper/morph?l=nu%3Dn&la=greek&can=nu%3Dn0&prior=h\)nw/xlei) [**ἡμῖν**](http://www.perseus.tufts.edu/hopper/morph?l=h%28mi%3Dn&la=greek&can=h%28mi%3Dn0&prior=nu=n)” [**D. 3.5**](http://www.perseus.tufts.edu/hopper/text?doc=Dem.%203.5&lang=original); ⇾ 
+→ “[οὐκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA)dikhme/nois) [ἂν](https://logeion.uchicago.edu/%E1%BC%82%CE%BD)k) [ἠνώχλει](https://logeion.uchicago.edu/%E1%BC%A0%CE%BD%CF%8E%CF%87%CE%BB%CE%B5%CE%B9)\\n) [νῦν](https://logeion.uchicago.edu/%CE%BD%E1%BF%A6%CE%BD)nw/xlei) [**ἡμῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A1%CE%BC%E1%BF%96%CE%BD%2A%2A)” [**D. 3.5**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%203.5&lang=original); ⇾ 
 
 «کنون ما را مشوّش نمی‌کرد»
 
-→ “[**ἐμοὶ**](http://www.perseus.tufts.edu/hopper/morph?l=e%29moi%5C&la=greek&can=e%29moi%5C0&prior=kako/nois) [ὀργίζονται](http://www.perseus.tufts.edu/hopper/morph?l=o%29rgi%2Fzontai&la=greek&can=o%29rgi%2Fzontai0&prior=e\)moi\\)”[**P. A. 23c**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2023c&lang=original); ⇾ 
+→ “[**ἐμοὶ**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%BC%CE%BF%E1%BD%B6%2A%2A) [ὀργίζονται](https://logeion.uchicago.edu/%E1%BD%80%CF%81%CE%B3%CE%AF%CE%B6%CE%BF%CE%BD%CF%84%CE%B1%CE%B9)moi\\)”[**P. A. 23c**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2023c&lang=original); ⇾ 
 
 «بر من خشمگین‌اند»
 
-→ “[οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%290&prior=h\)pei/loun) [φθονῶν](http://www.perseus.tufts.edu/hopper/morph?l=fqonw%3Dn&la=greek&can=fqonw%3Dn0&prior=ou\)) [**τοῖς**](http://www.perseus.tufts.edu/hopper/morph?l=toi%3Ds&la=greek&can=toi%3Ds2&prior=fqonw=n) **[πλουτοῦσιν](http://www.perseus.tufts.edu/hopper/morph?l=ploutou%3Dsin&la=greek&can=ploutou%3Dsin0&prior=toi=s)**” [**X. A. 1.9.19**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.9.19&lang=original); ⇾ 
+→ “[οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90)pei/loun) [φθονῶν](https://logeion.uchicago.edu/%CF%86%CE%B8%CE%BF%CE%BD%E1%BF%B6%CE%BD)) [**τοῖς**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A) **[πλουτοῦσιν](https://logeion.uchicago.edu/%CF%80%CE%BB%CE%BF%CF%85%CF%84%CE%BF%E1%BF%A6%CF%83%CE%B9%CE%BD)**” [**X. A. 1.9.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.9.19&lang=original); ⇾ 
 
 «کینه‌توزی نکردن علیه متموّلان»
 
-→ “[ἐπεὶ](http://www.perseus.tufts.edu/hopper/morph?l=e%29pei%5C&la=greek&can=e%29pei%5C0&prior=sumfe/rein) [δὲ](http://www.perseus.tufts.edu/hopper/morph?l=de%5C&la=greek&can=de%5C0&prior=e\)pei\\) [ἀπήντησαν](http://www.perseus.tufts.edu/hopper/morph?l=a%29ph%2Fnthsan&la=greek&can=a%29ph%2Fnthsan0&prior=de\\) [**αὐτοῖς**](http://www.perseus.tufts.edu/hopper/morph?l=au%29toi%3Ds&la=greek&can=au%29toi%3Ds0&prior=a\)ph/nthsan) [οἱ](http://www.perseus.tufts.edu/hopper/morph?l=oi%28&la=greek&can=oi%280&prior=au\)toi=s) [στρατηγοί](http://www.perseus.tufts.edu/hopper/morph?l=strathgoi%2F&la=greek&can=strathgoi%2F0&prior=oi\()” [**X. A. 2.3.17**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.3.17&lang=original); ⇾ 
+→ “[ἐπεὶ](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B5%E1%BD%B6) [δὲ](https://logeion.uchicago.edu/%CE%B4%E1%BD%B2)pei\\) [ἀπήντησαν](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%AE%CE%BD%CF%84%CE%B7%CF%83%CE%B1%CE%BD) [**αὐτοῖς**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A)ph/nthsan) [οἱ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B1)toi=s) [στρατηγοί](https://logeion.uchicago.edu/%CF%83%CF%84%CF%81%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CE%AF)” [**X. A. 2.3.17**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.3.17&lang=original); ⇾ 
 
 «هنگامی که فرماندهان با آنان دیدار کردند»
 
-→ “[περιτυγχάνει](http://www.perseus.tufts.edu/hopper/morph?l=peritugxa%2Fnei&la=greek&can=peritugxa%2Fnei0&prior=strathgoi/) [**Φιλοκράτει**](http://www.perseus.tufts.edu/hopper/morph?l=*filokra%2Ftei&la=greek&can=*filokra%2Ftei0&prior=peritugxa/nei)” [**X. H. 4.8.24**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%204.8.24&lang=original); ⇾ 
+→ “[περιτυγχάνει](https://logeion.uchicago.edu/%CF%80%CE%B5%CF%81%CE%B9%CF%84%CF%85%CE%B3%CF%87%CE%AC%CE%BD%CE%B5%CE%B9) [**Φιλοκράτει**](https://logeion.uchicago.edu/%2A%2A%CE%A6%CE%B9%CE%BB%CE%BF%CE%BA%CF%81%CE%AC%CF%84%CE%B5%CE%B9%2A%2A)” [**X. H. 4.8.24**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%204.8.24&lang=original); ⇾ 
 
 «به فیلوکراتس برخورد»

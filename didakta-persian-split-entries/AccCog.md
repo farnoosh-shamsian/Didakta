@@ -2,31 +2,31 @@
 
 رایی هم‌ریشه، مفعولی است که با فعل هم‌ریشه به لحاظ معنایی مرتبط است و به یک مفعول بیرونی اشاره نمی‌کند، بلکه معنای آن، به نحوی در همان فعل بیان شده است. رایی هم‌ریشه یا از همان ریشه‌ی فعل مشتق شده است  یا به لحاظ معنایی به آن شباهت دارد. رایی هم‌ریشه در اکثر مواقع برای جلوگیری از حشو ترجمه نمی‌شود.
 
-→ “[πολλὴν](http://www.perseus.tufts.edu/hopper/morph?l=pollh%5Cn&la=greek&can=pollh%5Cn0) [**φλυαρίαν**](http://www.perseus.tufts.edu/hopper/morph?l=flua_ri%2Fa_n&la=greek&can=flua_ri%2Fa_n0&prior=pollh\\n) [φλυαροῦντα](http://www.perseus.tufts.edu/hopper/morph?l=flua_rou%3Dnta&la=greek&can=flua_rou%3Dnta0&prior=flua_ri/a_n)” [**P. A. 19c**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2019c&lang=original); ⇾ 
+→ “[πολλὴν](https://logeion.uchicago.edu/%CF%80%CE%BF%CE%BB%CE%BB%E1%BD%B4%CE%BD) [**φλυαρίαν**](https://logeion.uchicago.edu/%2A%2A%CF%86%CE%BB%CF%85%CE%B1%CF%81%CE%AF%CE%B1%CE%BD%2A%2A) [φλυαροῦντα](https://logeion.uchicago.edu/%CF%86%CE%BB%CF%85%CE%B1%CF%81%CE%BF%E1%BF%A6%CE%BD%CF%84%CE%B1)” [**P. A. 19c**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2019c&lang=original); ⇾ 
 
 «بسیار مهمل گفتن»
 
-→ “[ξυνέφυγε](http://www.perseus.tufts.edu/hopper/morph?l=cune%2Ffuge&la=greek&can=cune%2Ffuge0&prior=flua_rou=nta) [**τὴν**](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn0&prior=cune/fuge) [**φυγὴν**](http://www.perseus.tufts.edu/hopper/morph?l=fugh%5Cn&la=greek&can=fugh%5Cn0&prior=th\\n) [ταύτην](http://www.perseus.tufts.edu/hopper/morph?l=tau%2Fthn&la=greek&can=tau%2Fthn0&prior=fugh\\n)” [**P. A. 21 a**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2021a&lang=original); ⇾ 
+→ “[ξυνέφυγε](https://logeion.uchicago.edu/%CE%BE%CF%85%CE%BD%CE%AD%CF%86%CF%85%CE%B3%CE%B5) [**τὴν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B4%CE%BD%2A%2A) [**φυγὴν**](https://logeion.uchicago.edu/%2A%2A%CF%86%CF%85%CE%B3%E1%BD%B4%CE%BD%2A%2A) [ταύτην](https://logeion.uchicago.edu/%CF%84%CE%B1%CF%8D%CF%84%CE%B7%CE%BD)” [**P. A. 21 a**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2021a&lang=original); ⇾ 
 
 «در این تبعید، تبعید بود»
 
-→ “[**τὴν**](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn1&prior=tau/thn) [ἐν](http://www.perseus.tufts.edu/hopper/morph?l=e%29n&la=greek&can=e%29n0&prior=th\\n) [Σαλαμῖνι](http://www.perseus.tufts.edu/hopper/morph?l=*salami%3Dni&la=greek&can=*salami%3Dni0&prior=e\)n) [**ναυμαχίαν**](http://www.perseus.tufts.edu/hopper/morph?l=naumaxi%2Fa_n&la=greek&can=naumaxi%2Fa_n0&prior=*salami=ni) [ναυμαχήσαντες](http://www.perseus.tufts.edu/hopper/morph?l=naumaxh%2Fsantes&la=greek&can=naumaxh%2Fsantes0&prior=naumaxi/a_n)” [**D. 59.97**](http://www.perseus.tufts.edu/hopper/text?doc=Dem.%2059.97&lang=original); ⇾ 
+→ “[**τὴν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B4%CE%BD%2A%2A) [ἐν](https://logeion.uchicago.edu/%E1%BC%90%CE%BD) [Σαλαμῖνι](https://logeion.uchicago.edu/%CE%A3%CE%B1%CE%BB%CE%B1%CE%BC%E1%BF%96%CE%BD%CE%B9)n) [**ναυμαχίαν**](https://logeion.uchicago.edu/%2A%2A%CE%BD%CE%B1%CF%85%CE%BC%CE%B1%CF%87%CE%AF%CE%B1%CE%BD%2A%2A) [ναυμαχήσαντες](https://logeion.uchicago.edu/%CE%BD%CE%B1%CF%85%CE%BC%CE%B1%CF%87%CE%AE%CF%83%CE%B1%CE%BD%CF%84%CE%B5%CF%82)” [**D. 59.97**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2059.97&lang=original); ⇾ 
 
 «در رزم دریایی سالامیس (در دریا) رزمیده»
 
-→ “[**τὰς**](http://www.perseus.tufts.edu/hopper/morph?l=ta%5C_s&la=greek&can=ta%5C_s0&prior=naumaxh/santes) **[ὑποσχέσεις](http://www.perseus.tufts.edu/hopper/morph?l=u%28posxe%2Fseis&la=greek&can=u%28posxe%2Fseis0&prior=ta\\_s)** [ἃς](http://www.perseus.tufts.edu/hopper/morph?l=a%28%5C_s&la=greek&can=a%28%5C_s0&prior=u\(posxe/seis) [οὗτος](http://www.perseus.tufts.edu/hopper/morph?l=ou%28%3Dtos&la=greek&can=ou%28%3Dtos0&prior=a\(\\_s) [ὑπισχνεῖτο](http://www.perseus.tufts.edu/hopper/morph?l=u%28pi_sxnei%3Dto&la=greek&can=u%28pi_sxnei%3Dto0&prior=ou\(=tos)**” [D. 19\. 47](http://www.perseus.tufts.edu/hopper/text?doc=Dem.%2019.47&lang=original)**; ⇾ 
+→ “[**τὰς**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B0%CF%82%2A%2A) **[ὑποσχέσεις](https://logeion.uchicago.edu/%E1%BD%91%CF%80%CE%BF%CF%83%CF%87%CE%AD%CF%83%CE%B5%CE%B9%CF%82)** [ἃς](https://logeion.uchicago.edu/%E1%BC%83%CF%82) [οὗτος](https://logeion.uchicago.edu/%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82) [ὑπισχνεῖτο](https://logeion.uchicago.edu/%E1%BD%91%CF%80%CE%B9%CF%83%CF%87%CE%BD%CE%B5%E1%BF%96%CF%84%CE%BF)**” [D. 19\. 47](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2019.47&lang=original)**; ⇾ 
 
 «تعهداتی که او (به آنها) تعهد می‌کرد»
 
-→ “[**ἡ**](http://www.perseus.tufts.edu/hopper/morph?l=h%28&la=greek&can=h%280&prior=u\(pi_sxnei=to) **[αἰτία](http://www.perseus.tufts.edu/hopper/morph?l=ai%29ti%2Fa_&la=greek&can=ai%29ti%2Fa_0&prior=h\()** [ἣν](http://www.perseus.tufts.edu/hopper/morph?l=h%28%5Cn&la=greek&can=h%28%5Cn0&prior=ai\)ti/a_) [αἰτιῶνται](http://www.perseus.tufts.edu/hopper/morph?l=ai%29tiw%3Dntai&la=greek&can=ai%29tiw%3Dntai0&prior=h\(\\n)” [**Ant. 6.27**](http://www.perseus.tufts.edu/hopper/text?doc=Antiph.%206.27&lang=original); ⇾ 
+→ “[**ἡ**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A1%2A%2A) **[αἰτία](https://logeion.uchicago.edu/%CE%B1%E1%BC%B0%CF%84%CE%AF%CE%B1)** [ἣν](https://logeion.uchicago.edu/%E1%BC%A3%CE%BD)ti/a_) [αἰτιῶνται](https://logeion.uchicago.edu/%CE%B1%E1%BC%B0%CF%84%CE%B9%E1%BF%B6%CE%BD%CF%84%CE%B1%CE%B9)” [**Ant. 6.27**](https://www.perseus.tufts.edu/hopper/text?doc=Antiph.%206.27&lang=original); ⇾ 
 
 «اتهامی که تهمت می‌زنند»
 
-→ “[**πόλεμος**](http://www.perseus.tufts.edu/hopper/morph?l=po%2Flemos&la=greek&can=po%2Flemos0&prior=h\)ti/_mhsan) [ἐπολεμεῖτο](http://www.perseus.tufts.edu/hopper/morph?l=e%29polemei%3Dto&la=greek&can=e%29polemei%3Dto0&prior=po/lemos)” [**X. H. 4.8.1**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%204.8.1&lang=original); ⇾ 
+→ “[**πόλεμος**](https://logeion.uchicago.edu/%2A%2A%CF%80%CF%8C%CE%BB%CE%B5%CE%BC%CE%BF%CF%82%2A%2A)ti/_mhsan) [ἐπολεμεῖτο](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B5%E1%BF%96%CF%84%CE%BF)” [**X. H. 4.8.1**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%204.8.1&lang=original); ⇾ 
 
 «جنگ می‌شد»
 
-→ “[**πόλεμος**](http://www.perseus.tufts.edu/hopper/morph?l=po%2Flemos&la=greek&can=po%2Flemos1&prior=blastw/n) [ἐταράχθη](http://www.perseus.tufts.edu/hopper/morph?l=e%29tara%2Fxqh&la=greek&can=e%29tara%2Fxqh0&prior=po/lemos)” [**D. 18.151**](http://www.perseus.tufts.edu/hopper/text?doc=Dem.%2018.151&lang=original); ⇾
+→ “[**πόλεμος**](https://logeion.uchicago.edu/%2A%2A%CF%80%CF%8C%CE%BB%CE%B5%CE%BC%CE%BF%CF%82%2A%2A) [ἐταράχθη](https://logeion.uchicago.edu/%E1%BC%90%CF%84%CE%B1%CF%81%CE%AC%CF%87%CE%B8%CE%B7)” [**D. 18.151**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2018.151&lang=original); ⇾
 
 «جنگ در می‌گرفت»
 

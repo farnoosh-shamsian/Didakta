@@ -1,12 +1,12 @@
 # §SubjHomer. پیش‌انگارانه (هومری)
 
-در هومر وجه التزامی اغلب به آینده‌ی اخباری شبیه است و به پیش‌بینی وقایع آینده اشاره دارد. التزامی پیش‌انگارانه با [οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%299&prior=le/gesqai) منفی می‌شود. 
+در هومر وجه التزامی اغلب به آینده‌ی اخباری شبیه است و به پیش‌بینی وقایع آینده اشاره دارد. التزامی پیش‌انگارانه با [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) منفی می‌شود. 
 
-→ “[οὐ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29&la=greek&can=ou%2910&prior=ou\)) [γάρ](http://www.perseus.tufts.edu/hopper/morph?l=ga%2Fr&la=greek&can=ga%2Fr2&prior=ou\)) [πω](http://www.perseus.tufts.edu/hopper/morph?l=pw&la=greek&can=pw0&prior=ga/r) [τοίους](http://www.perseus.tufts.edu/hopper/morph?l=toi%2Fous&la=greek&can=toi%2Fous0&prior=pw) [ἴδον](http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fdon&la=greek&can=i%29%2Fdon0&prior=toi/ous) [ἀνέρας](http://www.perseus.tufts.edu/hopper/morph?l=a%29_ne%2Fras&la=greek&can=a%29_ne%2Fras0&prior=i\)/don), [οὐδὲ](http://www.perseus.tufts.edu/hopper/morph?l=ou%29de%5C&la=greek&can=ou%29de%5C0&prior=a\)_ne/ras) [**ἴδωμαι**](http://www.perseus.tufts.edu/hopper/morph?l=i%29%2Fdwmai&la=greek&can=i%29%2Fdwmai0&prior=ou\)de\\)” **[Hom. Il. 1.262](http://www.perseus.tufts.edu/hopper/text?doc=Hom.+il.+1&fromdoc=Perseus%3Atext%3A1999.01.0135)**; ⇾ 
+→ “[οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90)) [γάρ](https://logeion.uchicago.edu/%CE%B3%CE%AC%CF%81)) [πω](https://logeion.uchicago.edu/%CF%80%CF%89) [τοίους](https://logeion.uchicago.edu/%CF%84%CE%BF%CE%AF%CE%BF%CF%85%CF%82) [ἴδον](https://logeion.uchicago.edu/%E1%BC%B4%CE%B4%CE%BF%CE%BD) [ἀνέρας](https://logeion.uchicago.edu/%E1%BC%80%CE%BD%CE%AD%CF%81%CE%B1%CF%82)/don), [οὐδὲ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%B4%E1%BD%B2)_ne/ras) [**ἴδωμαι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%B4%CE%B4%CF%89%CE%BC%CE%B1%CE%B9%2A%2A)de\\)” **[Hom. Il. 1.262](https://www.perseus.tufts.edu/hopper/text?doc=Hom.+il.+1&fromdoc=Perseus%3Atext%3A1999.01.0135)**; ⇾ 
 
 «زیرا هنوز مردانی چنین ندیدم، و نخواهم دید»
 
-→ “[καί](http://www.perseus.tufts.edu/hopper/morph?l=kai%2F&la=greek&can=kai%2F2&prior=i\)/dwmai) [νύ](http://www.perseus.tufts.edu/hopper/morph?l=nu%2F&la=greek&can=nu%2F0&prior=kai/) [τις](http://www.perseus.tufts.edu/hopper/morph?l=tis&la=greek&can=tis6&prior=nu/) [ὧδ᾽](http://www.perseus.tufts.edu/hopper/morph?l=w%28%3Dd%27&la=greek&can=w%28%3Dd%271&prior=tis) [**εἴπῃσι**](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%2Fph%7Csi&la=greek&can=ei%29%2Fph%7Csi0&prior=w\(=d%27)” [**Hom. Od. 6\. 275**](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D6); ⇾ 
+→ “[καί](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%AF)/dwmai) [νύ](https://logeion.uchicago.edu/%CE%BD%CF%8D) [τις](https://logeion.uchicago.edu/%CF%84%CE%B9%CF%82) [ὧδ᾽](https://logeion.uchicago.edu/%E1%BD%A7%CE%B4%E1%BE%BD) [**εἴπῃσι**](https://logeion.uchicago.edu/%2A%2A%CE%B5%E1%BC%B4%CF%80%E1%BF%83%CF%83%CE%B9%2A%2A)” [**Hom. Od. 6\. 275**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D6); ⇾ 
 
 «و کنون کسی خواهد گفت»
 

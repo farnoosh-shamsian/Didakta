@@ -2,23 +2,23 @@
 
 حالت اضافی می‌تواند گستره و یا درجه‌ی زمانی یا مکانی و حد و حدود یک نام را مشخص سازد.
 
-→ “[ὀκτὼ](http://www.perseus.tufts.edu/hopper/morph?l=o%29ktw%5C&la=greek&can=o%29ktw%5C0&prior=tinos) **[σταδίων](http://www.perseus.tufts.edu/hopper/morph?l=stadi%2Fwn&la=greek&can=stadi%2Fwn0&prior=o\)ktw\\)** [τεῖχος](http://www.perseus.tufts.edu/hopper/morph?l=tei%3Dxos&la=greek&can=tei%3Dxos0&prior=stadi/wn)” [**T. 7.2**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%207.2&lang=original); ⇾ 
+→ “[ὀκτὼ](https://logeion.uchicago.edu/%E1%BD%80%CE%BA%CF%84%E1%BD%BC) **[σταδίων](https://logeion.uchicago.edu/%CF%83%CF%84%CE%B1%CE%B4%CE%AF%CF%89%CE%BD)ktw\\)** [τεῖχος](https://logeion.uchicago.edu/%CF%84%CE%B5%E1%BF%96%CF%87%CE%BF%CF%82)” [**T. 7.2**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%207.2&lang=original); ⇾ 
 
 «دیوار هشت استادیونی»
 
-→ “[πέντε](http://www.perseus.tufts.edu/hopper/morph?l=pe%2Fnte&la=greek&can=pe%2Fnte0&prior=tei=xos) **[ἡμερῶν](http://www.perseus.tufts.edu/hopper/morph?l=h%28merw%3Dn&la=greek&can=h%28merw%3Dn0&prior=pe/nte)** [σιτία](http://www.perseus.tufts.edu/hopper/morph?l=si_ti%2Fa&la=greek&can=si_ti%2Fa0&prior=h\(merw=n)**” [T. 7\. 43](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D7%3Achapter%3D43)**; ⇾ 
+→ “[πέντε](https://logeion.uchicago.edu/%CF%80%CE%AD%CE%BD%CF%84%CE%B5) **[ἡμερῶν](https://logeion.uchicago.edu/%E1%BC%A1%CE%BC%CE%B5%CF%81%E1%BF%B6%CE%BD)** [σιτία](https://logeion.uchicago.edu/%CF%83%CE%B9%CF%84%CE%AF%CE%B1)**” [T. 7\. 43](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0199%3Abook%3D7%3Achapter%3D43)**; ⇾ 
 
 «تدارکات پنج‌روزه»
 
-→ “[ἐπειδὰν](http://www.perseus.tufts.edu/hopper/morph?l=e%29peida%5Cn&la=greek&can=e%29peida%5Cn0&prior=pro/sodos) [**ἐτῶν**](http://www.perseus.tufts.edu/hopper/morph?l=e%29tw%3Dn&la=greek&can=e%29tw%3Dn0&prior=e\)peida\\n) [ᾖ](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3D%7C&la=greek&can=h%29%3D%7C0&prior=e\)tw=n) [τις](http://www.perseus.tufts.edu/hopper/morph?l=tis&la=greek&can=tis0&prior=h\)=|) [τριάκοντα](http://www.perseus.tufts.edu/hopper/morph?l=tria%2F_konta&la=greek&can=tria%2F_konta0&prior=tis)” [**P. L. 721a**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Laws%20721a&lang=original); ⇾ 
+→ “[ἐπειδὰν](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B5%CE%B9%CE%B4%E1%BD%B0%CE%BD) [**ἐτῶν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%84%E1%BF%B6%CE%BD%2A%2A)peida\\n) [ᾖ](https://logeion.uchicago.edu/%E1%BE%96)tw=n) [τις](https://logeion.uchicago.edu/%CF%84%CE%B9%CF%82)=|) [τριάκοντα](https://logeion.uchicago.edu/%CF%84%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CE%BD%CF%84%CE%B1)” [**P. L. 721a**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Laws%20721a&lang=original); ⇾ 
 
 «وقتی کسی سی‌ساله باشد»
 
-→ “[τὰ](http://www.perseus.tufts.edu/hopper/morph?l=ta%5C&la=greek&can=ta%5C7&prior=tria/_konta) [τείχη](http://www.perseus.tufts.edu/hopper/morph?l=tei%2Fxh&la=greek&can=tei%2Fxh0&prior=ta\\) [ἦν](http://www.perseus.tufts.edu/hopper/morph?l=h%29%3Dn&la=greek&can=h%29%3Dn1&prior=tei/xh) [**σταδίων**](http://www.perseus.tufts.edu/hopper/morph?l=stadi%2Fwn&la=greek&can=stadi%2Fwn1&prior=h\)=n) [ὀκτώ](http://www.perseus.tufts.edu/hopper/morph?l=o%29ktw%2F&la=greek&can=o%29ktw%2F0&prior=stadi/wn)” [**T. 4.66**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.66&lang=original); ⇾ 
+→ “[τὰ](https://logeion.uchicago.edu/%CF%84%E1%BD%B0) [τείχη](https://logeion.uchicago.edu/%CF%84%CE%B5%CE%AF%CF%87%CE%B7) [ἦν](https://logeion.uchicago.edu/%E1%BC%A6%CE%BD) [**σταδίων**](https://logeion.uchicago.edu/%2A%2A%CF%83%CF%84%CE%B1%CE%B4%CE%AF%CF%89%CE%BD%2A%2A)=n) [ὀκτώ](https://logeion.uchicago.edu/%E1%BD%80%CE%BA%CF%84%CF%8E)” [**T. 4.66**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.66&lang=original); ⇾ 
 
 «دیوارها هشت استادیون بودند»
 
-→ “[δυοῖν](http://www.perseus.tufts.edu/hopper/morph?l=duoi%3Dn&la=greek&can=duoi%3Dn0&prior=h\(liki/a_s) **[μναῖν](http://www.perseus.tufts.edu/hopper/morph?l=mnai%3Dn&la=greek&can=mnai%3Dn0&prior=duoi=n)** [πρόσοδος](http://www.perseus.tufts.edu/hopper/morph?l=pro%2Fsodos&la=greek&can=pro%2Fsodos0&prior=mnai=n)” [**X. Vect. 3.10**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Ways%203.10&lang=original); ⇾ 
+→ “[δυοῖν](https://logeion.uchicago.edu/%CE%B4%CF%85%CE%BF%E1%BF%96%CE%BD) **[μναῖν](https://logeion.uchicago.edu/%CE%BC%CE%BD%CE%B1%E1%BF%96%CE%BD)** [πρόσοδος](https://logeion.uchicago.edu/%CF%80%CF%81%CF%8C%CF%83%CE%BF%CE%B4%CE%BF%CF%82)” [**X. Vect. 3.10**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Ways%203.10&lang=original); ⇾ 
 
 «دو منا عایدی»
 

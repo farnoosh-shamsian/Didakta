@@ -2,15 +2,15 @@
 
 اضافی توضیحی (که اضافی بدلی نیز نامیده می‌شود) برای توضیح یک واژه‌ی کلی‌تر به کار می‌رود. این ساختار عموماً در شعر به کار می‌رود، اما گاهی در نثر نیز دیده می‌شود.
 
-→ “[ἄελλαι](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fellai&la=greek&can=a%29%2Fellai0&prior=kate/fugon) [**παντοίων**](http://www.perseus.tufts.edu/hopper/morph?l=pantoi%2Fwn&la=greek&can=pantoi%2Fwn0&prior=a\)/ellai) **[ἀνέμων](http://www.perseus.tufts.edu/hopper/morph?l=a%29ne%2Fmwn&la=greek&can=a%29ne%2Fmwn0&prior=pantoi/wn)**” [**Hom. Od. 5.292**](http://www.perseus.tufts.edu/hopper/text?doc=Hom.%20Od.%205.292&lang=original); ⇾ 
+→ “[ἄελλαι](https://logeion.uchicago.edu/%E1%BC%84%CE%B5%CE%BB%CE%BB%CE%B1%CE%B9) [**παντοίων**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%B1%CE%BD%CF%84%CE%BF%CE%AF%CF%89%CE%BD%2A%2A)/ellai) **[ἀνέμων](https://logeion.uchicago.edu/%E1%BC%80%CE%BD%CE%AD%CE%BC%CF%89%CE%BD)**” [**Hom. Od. 5.292**](https://www.perseus.tufts.edu/hopper/text?doc=Hom.%20Od.%205.292&lang=original); ⇾ 
 
 «وزش بادهای گوناگون»
 
-→ “[**ὑὸς**](http://www.perseus.tufts.edu/hopper/morph?l=u%28o%5Cs&la=greek&can=u%28o%5Cs0&prior=e) [μέγα](http://www.perseus.tufts.edu/hopper/morph?l=me%2Fga&la=greek&can=me%2Fga0&prior=u\(o\\s) [χρῆμα](http://www.perseus.tufts.edu/hopper/morph?l=xrh%3Dma&la=greek&can=xrh%3Dma2&prior=me/ga)[^9]” [**Hdt. 1.36**](http://www.perseus.tufts.edu/hopper/text?doc=Hdt.%201.36&lang=original); ⇾ 
+→ “[**ὑὸς**](https://logeion.uchicago.edu/%2A%2A%E1%BD%91%E1%BD%B8%CF%82%2A%2A) [μέγα](https://logeion.uchicago.edu/%CE%BC%CE%AD%CE%B3%CE%B1) [χρῆμα](https://logeion.uchicago.edu/%CF%87%CF%81%E1%BF%86%CE%BC%CE%B1)[^9]” [**Hdt. 1.36**](https://www.perseus.tufts.edu/hopper/text?doc=Hdt.%201.36&lang=original); ⇾ 
 
 «گرازی بس عظیم»
 
-→ “[τὸ](http://www.perseus.tufts.edu/hopper/morph?l=to%5C&la=greek&can=to%5C13&prior=xrh=ma) [ὄρος](http://www.perseus.tufts.edu/hopper/morph?l=o%29%2Fros&la=greek&can=o%29%2Fros0&prior=to\\) **[τῆς](http://www.perseus.tufts.edu/hopper/morph?l=th%3Ds&la=greek&can=th%3Ds21&prior=o\)/ros) [Ἰστώνης](http://www.perseus.tufts.edu/hopper/morph?l=*%29istw%2Fnhs&la=greek&can=*%29istw%2Fnhs0&prior=th=s)**” [**T. 4.46**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.46&lang=original); ⇾ 
+→ “[τὸ](https://logeion.uchicago.edu/%CF%84%E1%BD%B8) [ὄρος](https://logeion.uchicago.edu/%E1%BD%84%CF%81%CE%BF%CF%82) **[τῆς](https://logeion.uchicago.edu/%CF%84%E1%BF%86%CF%82)/ros) [Ἰστώνης](https://logeion.uchicago.edu/%E1%BC%B8%CF%83%CF%84%CF%8E%CE%BD%CE%B7%CF%82)**” [**T. 4.46**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.46&lang=original); ⇾ 
 
 «کوه ایستونه»
 

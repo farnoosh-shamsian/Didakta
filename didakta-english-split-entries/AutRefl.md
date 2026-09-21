@@ -1,12 +1,12 @@
 # §AutRefl. Reflexive[^131]
 
-Instead of the indirect [ἑαυτοῦ](http://www.perseus.tufts.edu/hopper/morph?l=e%28autou%3D&la=greek&can=e%28autou%3D0), etc., the oblique cases of [αὐτός](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%2Fs&la=greek&can=au%29to%2Fs0&prior=e\(autou=) may be used as a reflexive pronoun:
+Instead of the indirect [ἑαυτοῦ](https://logeion.uchicago.edu/%E1%BC%91%CE%B1%CF%85%CF%84%CE%BF%E1%BF%A6), etc., the oblique cases of [αὐτός](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%CF%8C%CF%82) may be used as a reflexive pronoun:
 
-→ “[ἐπειρᾶτο](http://www.perseus.tufts.edu/hopper/morph?l=e%29peira%3Dto&la=greek&can=e%29peira%3Dto0&prior=au\)to/s) [τοὺς](http://www.perseus.tufts.edu/hopper/morph?l=tou%5Cs&la=greek&can=tou%5Cs0&prior=e\)peira=to) [Ἀθηναίους](http://www.perseus.tufts.edu/hopper/morph?l=*%29aqhnai%2Fous&la=greek&can=*%29aqhnai%2Fous0&prior=tou\\s) [τῆς](http://www.perseus.tufts.edu/hopper/morph?l=th%3Ds&la=greek&can=th%3Ds0&prior=*\)aqhnai/ous) [ἐς](http://www.perseus.tufts.edu/hopper/morph?l=e%29s&la=greek&can=e%29s0&prior=th=s) [**αὐτὸν**](http://www.perseus.tufts.edu/hopper/morph?l=au%29to%5Cn&la=greek&can=au%29to%5Cn0&prior=e\)s) [ὀργῆς](http://www.perseus.tufts.edu/hopper/morph?l=o%29rgh%3Ds&la=greek&can=o%29rgh%3Ds0&prior=au\)to\\n) [παραλύειν](http://www.perseus.tufts.edu/hopper/morph?l=paralu%2F_ein&la=greek&can=paralu%2F_ein0&prior=o\)rgh=s)” [**T. 2.65**](http://www.perseus.tufts.edu/hopper/text?doc=Thuc.%202.65&lang=original); ⇾ he tried to divert the Athenians from their anger against himself
+→ “[ἐπειρᾶτο](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B5%CE%B9%CF%81%E1%BE%B6%CF%84%CE%BF)to/s) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82)peira=to) [Ἀθηναίους](https://logeion.uchicago.edu/%E1%BC%88%CE%B8%CE%B7%CE%BD%CE%B1%CE%AF%CE%BF%CF%85%CF%82) [τῆς](https://logeion.uchicago.edu/%CF%84%E1%BF%86%CF%82)aqhnai/ous) [ἐς](https://logeion.uchicago.edu/%E1%BC%90%CF%82) [**αὐτὸν**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BD%B8%CE%BD%2A%2A)s) [ὀργῆς](https://logeion.uchicago.edu/%E1%BD%80%CF%81%CE%B3%E1%BF%86%CF%82)to\\n) [παραλύειν](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CF%8D%CE%B5%CE%B9%CE%BD)rgh=s)” [**T. 2.65**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%202.65&lang=original); ⇾ he tried to divert the Athenians from their anger against himself
 
-When [ἑαυτοῦ](http://www.perseus.tufts.edu/hopper/morph?l=e%28autou%3D&la=greek&can=e%28autou%3D1&prior=paralu/_ein), etc. precede, [αὐτοῦ](http://www.perseus.tufts.edu/hopper/morph?l=au%29tou%3D&la=greek&can=au%29tou%3D0&prior=e\(autou=), etc. are usual instead of the direct reflexive: 
+When [ἑαυτοῦ](https://logeion.uchicago.edu/%E1%BC%91%CE%B1%CF%85%CF%84%CE%BF%E1%BF%A6), etc. precede, [αὐτοῦ](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%A6), etc. are usual instead of the direct reflexive: 
 
-→ “[τὴν](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn0&prior=au\)tou=) [ἑαυτοῦ](http://www.perseus.tufts.edu/hopper/morph?l=e%28autou%3D&la=greek&can=e%28autou%3D2&prior=th\\n) [γνώμην](http://www.perseus.tufts.edu/hopper/morph?l=gnw%2Fmhn&la=greek&can=gnw%2Fmhn0&prior=e\(autou=) [ἀπεφαίνετο](http://www.perseus.tufts.edu/hopper/morph?l=a%29pefai%2Fneto&la=greek&can=a%29pefai%2Fneto0&prior=gnw/mhn) [Σωκράτης](http://www.perseus.tufts.edu/hopper/morph?l=*swkra%2Fths&la=greek&can=*swkra%2Fths0&prior=a\)pefai/neto) [πρὸς](http://www.perseus.tufts.edu/hopper/morph?l=pro%5Cs&la=greek&can=pro%5Cs0&prior=*swkra/ths) [τοὺς](http://www.perseus.tufts.edu/hopper/morph?l=tou%5Cs&la=greek&can=tou%5Cs1&prior=pro\\s) [ὁμιλοῦντας](http://www.perseus.tufts.edu/hopper/morph?l=o%28mi_lou%3Dntas&la=greek&can=o%28mi_lou%3Dntas0&prior=tou\\s) [**αὐτῷ**](http://www.perseus.tufts.edu/hopper/morph?l=au%29tw%3D%7C&la=greek&can=au%29tw%3D%7C0&prior=o\(mi_lou=ntas)” [**X. M. 4.7.1**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Mem.%204.7.1&lang=original); ⇾ Socrates was wont to set forth his opinion to those who conversed with him” 
+→ “[τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD)tou=) [ἑαυτοῦ](https://logeion.uchicago.edu/%E1%BC%91%CE%B1%CF%85%CF%84%CE%BF%E1%BF%A6) [γνώμην](https://logeion.uchicago.edu/%CE%B3%CE%BD%CF%8E%CE%BC%CE%B7%CE%BD) [ἀπεφαίνετο](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%B5%CF%86%CE%B1%CE%AF%CE%BD%CE%B5%CF%84%CE%BF) [Σωκράτης](https://logeion.uchicago.edu/%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82)pefai/neto) [πρὸς](https://logeion.uchicago.edu/%CF%80%CF%81%E1%BD%B8%CF%82) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [ὁμιλοῦντας](https://logeion.uchicago.edu/%E1%BD%81%CE%BC%CE%B9%CE%BB%CE%BF%E1%BF%A6%CE%BD%CF%84%CE%B1%CF%82) [**αὐτῷ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BF%B7%2A%2A)” [**X. M. 4.7.1**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Mem.%204.7.1&lang=original); ⇾ Socrates was wont to set forth his opinion to those who conversed with him” 
 
 # 
 
@@ -38,45 +38,45 @@ This tag is used to annotate words in the oblique cases that are governed by an 
 
 * Rydberg-Cox, J. (2000). *Overview of Greek Syntax*. Perseus Digital Library. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0052
 
-* Smyth, H. W. (1920). *A Greek Grammar for Colleges*. American Book Company. [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007)
+* Smyth, H. W. (1920). *A Greek Grammar for Colleges*. American Book Company. [http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007)
 
 * Van Hal, T., Anné, Y., & Pitts, R. J. (2024). *Pedalion*. [https://en.pedalion.org/](https://en.pedalion.org/)
 
-[^1]:  [Smyth 938-939](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%20938&lang=original), Pedalion 436, CGCG 30.02
+[^1]:  [Smyth 938-939](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%20938&lang=original), Pedalion 436, CGCG 30.02
 
-[^2]:  [Smyth 939](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%20939&lang=original), Pedalion 32, CGCG 30.03
+[^2]:  [Smyth 939](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%20939&lang=original), Pedalion 32, CGCG 30.03
 
-[^3]:  [Smyth 940-942](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%20940&lang=original), [904](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007:id=s904), CGCG 30.04, Pedalion 1078
+[^3]:  [Smyth 940-942](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%20940&lang=original), [904](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007:id=s904), CGCG 30.04, Pedalion 1078
 
 [^4]:  Pedalion 33, CGCG 30.55
 
-[^5]:  [Smyth 1297-1302](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201297&lang=original), Pedalion 292 and 115 , CGCG 30.28
+[^5]:  [Smyth 1297-1302](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201297&lang=original), Pedalion 292 and 115 , CGCG 30.28
 
-[^6]:  [Smyth 1306-1319](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201306&lang=original), Pedalion 118, CGCG 30.29
+[^6]:  [Smyth 1306-1319](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201306&lang=original), Pedalion 118, CGCG 30.29
 
-[^7]:  [Smyth 1320-1321](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201320&lang=original), Pedalion 1041 & 124, CGCG 30.28
+[^7]:  [Smyth 1320-1321](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201320&lang=original), Pedalion 1041 & 124, CGCG 30.28
 
-[^8]:  [Smyth 1322](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201322&lang=original), Pedalion 120, CGCG 30.28
+[^8]:  [Smyth 1322](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201322&lang=original), Pedalion 120, CGCG 30.28
 
-[^9]:  For more on this use of [χρῆμα](http://www.perseus.tufts.edu/hopper/morph?l=xrh%3Dma&la=greek&can=xrh%3Dma0): Smyth 1294
+[^9]:  For more on this use of [χρῆμα](https://logeion.uchicago.edu/%CF%87%CF%81%E1%BF%86%CE%BC%CE%B1): Smyth 1294
 
-[^10]:  [Smyth 1323-1324](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201323&lang=original), Pedalion 122, CGCG 30.28
+[^10]:  [Smyth 1323-1324](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201323&lang=original), Pedalion 122, CGCG 30.28
 
-[^11]:  [Smyth 1325-1327](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201325&lang=original), Pedalion 971 & 780, CGCG 30.28
+[^11]:  [Smyth 1325-1327](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201325&lang=original), Pedalion 971 & 780, CGCG 30.28
 
-[^12]:  [Smyth 1330](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201330&lang=original), Pedalion 125, CGCG 30.28
+[^12]:  [Smyth 1330](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201330&lang=original), Pedalion 125, CGCG 30.28
 
-[^13]:  [Smyth 1331-1335](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201331&lang=original), Pedalion 130, CGCG 30.28
+[^13]:  [Smyth 1331-1335](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201331&lang=original), Pedalion 130, CGCG 30.28
 
-[^14]:  [Smyth 1336-1337](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201336&lang=original), Pedalion 318 & 144, CGCG 30.31
+[^14]:  [Smyth 1336-1337](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201336&lang=original), Pedalion 318 & 144, CGCG 30.31
 
-[^15]:  [Smyth 1341-1379](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201375&lang=original),  [Smyth 1392-140](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201392&lang=original)7, Pedalion 977 & 302 & 121 & 166, , CGCG 30.21
+[^15]:  [Smyth 1341-1379](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201375&lang=original),  [Smyth 1392-140](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201392&lang=original)7, Pedalion 977 & 302 & 121 & 166, , CGCG 30.21
 
-[^16]:  [Smyth 1410-1411](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201410&lang=original) & 1392 & 1298, Pedalion 783 & 303, CGCG 30.28 & 30.34
+[^16]:  [Smyth 1410-1411](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201410&lang=original) & 1392 & 1298, Pedalion 783 & 303, CGCG 30.28 & 30.34
 
-[^17]:  [Smyth 1444-144](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201444&lang=original)7, Pedalion 162, CGCG 30.32
+[^17]:  [Smyth 1444-144](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201444&lang=original)7, Pedalion 162, CGCG 30.32
 
-[^18]:  [Smyth 1315-1316](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0007%3Apart%3D4%3Achapter%3D42%3Asection%3D93%3Asubsection%3D83#chapter1315), Pedalion 146, CGCG 30.24
+[^18]:  [Smyth 1315-1316](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0007%3Apart%3D4%3Achapter%3D42%3Asection%3D93%3Asubsection%3D83#chapter1315), Pedalion 146, CGCG 30.24
 
 [^19]:  Smyth 1448, Pedalion 149, CGCG 30.33
 
@@ -86,61 +86,61 @@ This tag is used to annotate words in the oblique cases that are governed by an 
 
 [^22]:  Smyth 1375, 1405-9, Pedalion 141, CGCG 30.30
 
-[^23]:  [Smyth 1460-1470](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201469&lang=original), [Smyth 1544-1550](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201544&lang=original), Pedalion 197 &182, CGCG 30.37
+[^23]:  [Smyth 1460-1470](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201469&lang=original), [Smyth 1544-1550](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201544&lang=original), Pedalion 197 &182, CGCG 30.37
 
-[^24]:   [Smyth 1476-1480](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201476&lang=original), CGCG 30.41, Pedalion 202
+[^24]:   [Smyth 1476-1480](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201476&lang=original), CGCG 30.41, Pedalion 202
 
-[^25]:   [Smyth 1481-1486](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201481&lang=original), Pedalion 185 & 188, CGCG 30.49
+[^25]:   [Smyth 1481-1486](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201481&lang=original), Pedalion 185 & 188, CGCG 30.49
 
-[^26]:   [Smyth 1486-1487](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201486&lang=original), CGCG, 30.53, Pedalion 192
+[^26]:   [Smyth 1486-1487](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201486&lang=original), CGCG, 30.53, Pedalion 192
 
-[^27]:  [Smyth 1488-1494](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201488&lang=original), Pedalion 223, CGCG 30.50
+[^27]:  [Smyth 1488-1494](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201488&lang=original), Pedalion 223, CGCG 30.50
 
-[^28]:  [Smyth 1527](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201527&lang=original), Smyth 1507, Smyth [1372](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007:id=s1372), Pedalion 229, CGCG 30.44
+[^28]:  [Smyth 1527](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201527&lang=original), Smyth 1507, Smyth [1372](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007:id=s1372), Pedalion 229, CGCG 30.44
 
-[^29]:  [Smyth 1513-151](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201513&lang=original)5, Pedalion 367, CGCG 30.54
+[^29]:  [Smyth 1513-151](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201513&lang=original)5, Pedalion 367, CGCG 30.54
 
-[^30]:  [Smyth 1503-1511](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201507&lang=original), Pedalion 216, CGCG 30.43
+[^30]:  [Smyth 1503-1511](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201507&lang=original), Pedalion 216, CGCG 30.43
 
 [^31]:  Smyth 1473, 1517-19, CGCG 30.45
 
-[^32]:  [Smyth 1524-1525](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201524&lang=original), Pedalion 369, CGCG 30.51
+[^32]:  [Smyth 1524-1525](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201524&lang=original), Pedalion 369, CGCG 30.51
 
-[^33]:  [Smyth 1539-1543](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201540&lang=original), CGCG 30.46, Pedalion 178 & 180
+[^33]:  [Smyth 1539-1543](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201540&lang=original), CGCG 30.46, Pedalion 178 & 180
 
-[^34]:  [Smyth 1530-1538](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201530&lang=original), CGCG 30.47, Pedalion 170 & 173
+[^34]:  [Smyth 1530-1538](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201530&lang=original), CGCG 30.47, Pedalion 170 & 173
 
 [^35]:  Smyth 1516, Pedalion 240
 
 [^36]:  Smyth 1496-7, CGCG 30.52, Pedalion 203 & 204
 
-[^37]:  [Smyth 1553-1555](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201553&lang=original), CGCG 30.8, Pedalion 51
+[^37]:  [Smyth 1553-1555](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201553&lang=original), CGCG 30.8, Pedalion 51
 
-[^38]:  [Smyth 1563-1577](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201563&lang=original), CGCG 30.12, Pedalion 342
+[^38]:  [Smyth 1563-1577](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201563&lang=original), CGCG 30.12, Pedalion 342
 
-[^39]:  [Smyth 1972-1981](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201972&lang=original), CGCG 30.11, Pedalion 1006
+[^39]:  [Smyth 1972-1981](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201972&lang=original), CGCG 30.11, Pedalion 1006
 
-[^40]:  [Smyth 1600-1605](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201600&lang=original), CGCG 30.14, Pedalion 92 & 820
+[^40]:  [Smyth 1600-1605](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201600&lang=original), CGCG 30.14, Pedalion 92 & 820
 
-[^41]:  [Smyth 1582-1587](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201582&lang=original), CGCG 30.15, Pedalion 87 
+[^41]:  [Smyth 1582-1587](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201582&lang=original), CGCG 30.15, Pedalion 87 
 
-[^42]:   [Smyth 1581](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201581&lang=original), CGCG 30.16, Pedalion 84
+[^42]:   [Smyth 1581](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201581&lang=original), CGCG 30.16, Pedalion 84
 
-[^43]:  [Smyth 1588](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201588&lang=original), CGCG 30.17, Pedalion 75
+[^43]:  [Smyth 1588](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201588&lang=original), CGCG 30.17, Pedalion 75
 
-[^44]:   [Smyth 1606-1611](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201606&lang=original), Pedalion 95 & 105, CGCG 30.18
+[^44]:   [Smyth 1606-1611](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201606&lang=original), Pedalion 95 & 105, CGCG 30.18
 
-[^45]:  [Smyth 1596](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201596&lang=original), Pedalion 818
+[^45]:  [Smyth 1596](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201596&lang=original), Pedalion 818
 
-[^46]:  [Smyth 1619-1635](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201619&lang=original), CGCG 30.9, Pedalion 357 & 360 & 108
+[^46]:  [Smyth 1619-1635](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201619&lang=original), CGCG 30.9, Pedalion 357 & 360 & 108
 
 [^47]:  Smyth 1610, Pedalion 96 & 100
 
-[^48]:  [Smyth 1283-1288](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201283&lang=original), CGCG 30.55, Pedalion 38 & 49
+[^48]:  [Smyth 1283-1288](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201283&lang=original), CGCG 30.55, Pedalion 38 & 49
 
 [^49]:  Smyth 1875 & 1879-1882, CGCG 33.14
 
-[^50]:  [Smyth 1876](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201876&lang=original)\-1877, CGCG 33.15
+[^50]:  [Smyth 1876](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%201876&lang=original)\-1877, CGCG 33.15
 
 [^51]:  Smyth 1878, CGCG 33.17 & 33.54
 
@@ -272,9 +272,9 @@ This tag is used to annotate words in the oblique cases that are governed by an 
 
 [^115]:  Smyth 2025-2037, CGCG 51.38-46, Pedalion 826 & 621 & 735
 
-[^116]:  [Smyth 2049-2053](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%202049&lang=original) & 1166 & 1153, CGCG 52.46-49
+[^116]:  [Smyth 2049-2053](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%202049&lang=original) & 1166 & 1153, CGCG 52.46-49
 
-[^117]:  [Smyth 2054-2067](http://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%202054&lang=original), CGCG 52.29-31 & 52.34-45
+[^117]:  [Smyth 2054-2067](https://www.perseus.tufts.edu/hopper/text?doc=Smyth%20grammar%202054&lang=original), CGCG 52.29-31 & 52.34-45
 
 [^118]:  Smyth 2068-2075, CGCG 52.32
 

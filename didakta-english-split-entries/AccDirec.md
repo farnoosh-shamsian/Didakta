@@ -2,12 +2,12 @@
 
 In poetry, the accusative may be used without a preposition to express the goal after verbs of motion.
 
-→ “[**ἄστυ**](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fstu&la=greek&can=a%29%2Fstu0&prior=u\(po/) **[Καδμεῖον](http://www.perseus.tufts.edu/hopper/morph?l=*kadmei%3Don&la=greek&can=*kadmei%3Don0&prior=a\)/stu)** [μολών](http://www.perseus.tufts.edu/hopper/morph?l=molw%2Fn&la=greek&can=molw%2Fn0&prior=*kadmei=on)” [**S. O. T. 35**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20OT%2035&lang=original); ⇾ having come to the city of Cadmus
+→ “[**ἄστυ**](https://logeion.uchicago.edu/%2A%2A%E1%BC%84%CF%83%CF%84%CF%85%2A%2A) **[Καδμεῖον](https://logeion.uchicago.edu/%CE%9A%CE%B1%CE%B4%CE%BC%CE%B5%E1%BF%96%CE%BF%CE%BD)/stu)** [μολών](https://logeion.uchicago.edu/%CE%BC%CE%BF%CE%BB%CF%8E%CE%BD)” [**S. O. T. 35**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20OT%2035&lang=original); ⇾ having come to the city of Cadmus
 
-→ “[πέμψομέν](http://www.perseus.tufts.edu/hopper/morph?l=pe%2Fmyome%2Fn&la=greek&can=pe%2Fmyome%2Fn0&prior=molw/n) [νιν](http://www.perseus.tufts.edu/hopper/morph?l=nin&la=greek&can=nin0&prior=pe/myome/n) [**Ἑλλάδα**](http://www.perseus.tufts.edu/hopper/morph?l=*%28ella%2Fda&la=greek&can=*%28ella%2Fda0&prior=nin)” [**E. Tro. 883**](http://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Tro.%20883&lang=original); ⇾ we will convey her to Greece
+→ “[πέμψομέν](https://logeion.uchicago.edu/%CF%80%CE%AD%CE%BC%CF%88%CE%BF%CE%BC%CE%AD%CE%BD) [νιν](https://logeion.uchicago.edu/%CE%BD%CE%B9%CE%BD) [**Ἑλλάδα**](https://logeion.uchicago.edu/%2A%2A%E1%BC%99%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%2A%2A)” [**E. Tro. 883**](https://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Tro.%20883&lang=original); ⇾ we will convey her to Greece
 
-Of *persons* in Homer (especially with [ἱκνέομαι](http://www.perseus.tufts.edu/hopper/morph?l=i%28kne%2Fomai&la=greek&can=i%28kne%2Fomai0&prior=*\(ella/da), [ἵκω](http://www.perseus.tufts.edu/hopper/morph?l=i%28%2Fkw&la=greek&can=i%28%2Fkw0&prior=i\(kne/omai), [ἱκάνω](http://www.perseus.tufts.edu/hopper/morph?l=i%28ka%2F_nw&la=greek&can=i%28ka%2F_nw0&prior=i\(/kw) \= reach) and in the lyric parts of the drama: 
+Of *persons* in Homer (especially with [ἱκνέομαι](https://logeion.uchicago.edu/%E1%BC%B1%CE%BA%CE%BD%CE%AD%CE%BF%CE%BC%CE%B1%CE%B9), [ἵκω](https://logeion.uchicago.edu/%E1%BC%B5%CE%BA%CF%89), [ἱκάνω](https://logeion.uchicago.edu/%E1%BC%B1%CE%BA%CE%AC%CE%BD%CF%89) \= reach) and in the lyric parts of the drama: 
 
-→ “[**μνηστῆρας**](http://www.perseus.tufts.edu/hopper/morph?l=mnhsth%3Dras&la=greek&can=mnhsth%3Dras0&prior=i\(ka/_nw) [ἀφίκετο](http://www.perseus.tufts.edu/hopper/morph?l=a%29fi%2F_keto&la=greek&can=a%29fi%2F_keto0&prior=mnhsth=ras)” **[Hom. Od. 1.325](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D1%3Acard%3D325)**; ⇾ came unto the suitors
+→ “[**μνηστῆρας**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%BD%CE%B7%CF%83%CF%84%E1%BF%86%CF%81%CE%B1%CF%82%2A%2A) [ἀφίκετο](https://logeion.uchicago.edu/%E1%BC%80%CF%86%CE%AF%CE%BA%CE%B5%CF%84%CE%BF)” **[Hom. Od. 1.325](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D1%3Acard%3D325)**; ⇾ came unto the suitors
 
 ###

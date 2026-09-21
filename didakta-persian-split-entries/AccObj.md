@@ -2,15 +2,15 @@
 
 حالت رایی برای بیان مفعول مستقیم افعال گذرا به کار می‌رود. 
 
-→ “[**τὸν**](http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn0) **[ἄνδρα](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fndra&la=greek&can=a%29%2Fndra0&prior=to\\n)** [ὁρῶ](http://www.perseus.tufts.edu/hopper/morph?l=o%28rw%3D&la=greek&can=o%28rw%3D0&prior=a\)/ndra)” [**Xen. Anab. 1.8.26**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.8.26&lang=original); ⇾ 
+→ “[**τὸν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B8%CE%BD%2A%2A) **[ἄνδρα](https://logeion.uchicago.edu/%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B1)** [ὁρῶ](https://logeion.uchicago.edu/%E1%BD%81%CF%81%E1%BF%B6)/ndra)” [**Xen. Anab. 1.8.26**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.8.26&lang=original); ⇾ 
 
 «آن مرد را می‌بینم»
 
-→ “[πάντες](http://www.perseus.tufts.edu/hopper/morph?l=pa%2Fntes&la=greek&can=pa%2Fntes0&prior=*sw/krates) [**τὸν**](http://www.perseus.tufts.edu/hopper/morph?l=to%5Cn&la=greek&can=to%5Cn0&prior=pa/ntes) **[ἄνδρα](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fndra&la=greek&can=a%29%2Fndra0&prior=to\\n)** [ἐπαινοῦσιν](http://www.perseus.tufts.edu/hopper/morph?l=e%29painou%3Dsin&la=greek&can=e%29painou%3Dsin0&prior=a\)/ndra)” [**Plat. Prot. 310e**](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0177%3Atext%3DProt.%3Asection%3D310e); ⇾ 
+→ “[πάντες](https://logeion.uchicago.edu/%CF%80%CE%AC%CE%BD%CF%84%CE%B5%CF%82) [**τὸν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B8%CE%BD%2A%2A) **[ἄνδρα](https://logeion.uchicago.edu/%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B1)** [ἐπαινοῦσιν](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B1%CE%B9%CE%BD%CE%BF%E1%BF%A6%CF%83%CE%B9%CE%BD)/ndra)” [**Plat. Prot. 310e**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0177%3Atext%3DProt.%3Asection%3D310e); ⇾ 
 
 «همه آن مرد را تحسین می‌کنند»
 
-→ “[**τὴν**](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn0&prior=me/ga) **[δυσγένειαν](http://www.perseus.tufts.edu/hopper/morph?l=dusge%2Fneian&la=greek&can=dusge%2Fneian0&prior=th\\n)** [τὴν](http://www.perseus.tufts.edu/hopper/morph?l=th%5Cn&la=greek&can=th%5Cn1&prior=dusge/neian) [ἐμὴν](http://www.perseus.tufts.edu/hopper/morph?l=e%29mh%5Cn&la=greek&can=e%29mh%5Cn0&prior=th\\n) [αἰσχύνεται](http://www.perseus.tufts.edu/hopper/morph?l=ai%29sxu%2Fnetai&la=greek&can=ai%29sxu%2Fnetai0&prior=e\)mh\\n)” [**Soph. OT 1079**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.+OT+1079); ⇾
+→ “[**τὴν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B4%CE%BD%2A%2A) **[δυσγένειαν](https://logeion.uchicago.edu/%CE%B4%CF%85%CF%83%CE%B3%CE%AD%CE%BD%CE%B5%CE%B9%CE%B1%CE%BD)** [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD) [ἐμὴν](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%E1%BD%B4%CE%BD) [αἰσχύνεται](https://logeion.uchicago.edu/%CE%B1%E1%BC%B0%CF%83%CF%87%CF%8D%CE%BD%CE%B5%CF%84%CE%B1%CE%B9)mh\\n)” [**Soph. OT 1079**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.+OT+1079); ⇾
 
 «از تبار پست خود شرمسارم»
 

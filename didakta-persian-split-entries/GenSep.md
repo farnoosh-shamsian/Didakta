@@ -2,31 +2,31 @@
 
 حالت اضافی ممکن است برای بیان نقطه یا مکان جداشدن چیزی به کار رود. این کاربرد حالت اضافی با افعال مربوط به حرکت یا جدایی معمول است و برای بیان منشاء، منبع و یا فرزندآوری به کار می‌رود.
 
-→ “[λήγειν](http://www.perseus.tufts.edu/hopper/morph?l=lh%2Fgein&la=greek&can=lh%2Fgein0) [**τῶν**](http://www.perseus.tufts.edu/hopper/morph?l=tw%3Dn&la=greek&can=tw%3Dn0&prior=lh/gein) **[πόνων](http://www.perseus.tufts.edu/hopper/morph?l=po%2Fnwn&la=greek&can=po%2Fnwn0&prior=tw=n)**” [**I. 1.14**](http://www.perseus.tufts.edu/hopper/text?doc=Isoc.%201.14&lang=original); ⇾ 
+→ “[λήγειν](https://logeion.uchicago.edu/%CE%BB%CE%AE%CE%B3%CE%B5%CE%B9%CE%BD) [**τῶν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B6%CE%BD%2A%2A) **[πόνων](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BD%CF%89%CE%BD)**” [**I. 1.14**](https://www.perseus.tufts.edu/hopper/text?doc=Isoc.%201.14&lang=original); ⇾ 
 
 «دست‌کشیدن از کار»
 
-→ “[ἐπιστήμη](http://www.perseus.tufts.edu/hopper/morph?l=e%29pisth%2Fmh&la=greek&can=e%29pisth%2Fmh0&prior=po/nwn) [χωριζομένη](http://www.perseus.tufts.edu/hopper/morph?l=xwrizome%2Fnh&la=greek&can=xwrizome%2Fnh0&prior=e\)pisth/mh) [**δικαιοσύνης**](http://www.perseus.tufts.edu/hopper/morph?l=dikaiosu%2Fnhs&la=greek&can=dikaiosu%2Fnhs0&prior=xwrizome/nh)” [**P. Menex. 246e**](http://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Menex.%20246e&lang=original); ⇾
+→ “[ἐπιστήμη](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7) [χωριζομένη](https://logeion.uchicago.edu/%CF%87%CF%89%CF%81%CE%B9%CE%B6%CE%BF%CE%BC%CE%AD%CE%BD%CE%B7)pisth/mh) [**δικαιοσύνης**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%BA%CE%B1%CE%B9%CE%BF%CF%83%CF%8D%CE%BD%CE%B7%CF%82%2A%2A)” [**P. Menex. 246e**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Menex.%20246e&lang=original); ⇾
 
 «معرفت منفصل از عدالت»
 
-→ “[**πίθων**](http://www.perseus.tufts.edu/hopper/morph?l=pi%2Fqwn&la=greek&can=pi%2Fqwn0&prior=a\)ntepoiou=nto) [ἠφύσσετο](http://www.perseus.tufts.edu/hopper/morph?l=h%29fu%2Fsseto&la=greek&can=h%29fu%2Fsseto0&prior=pi/qwn) [οἶνος](http://www.perseus.tufts.edu/hopper/morph?l=oi%29%3Dnos&la=greek&can=oi%29%3Dnos0&prior=h\)fu/sseto)” **[Hom. Od. 23.305](http://www.perseus.tufts.edu/hopper/text?doc=Hom.+od.+23+305&fromdoc=Perseus%3Atext%3A1999.01.0133)**; ⇾ 
+→ “[**πίθων**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%AF%CE%B8%CF%89%CE%BD%2A%2A)ntepoiou=nto) [ἠφύσσετο](https://logeion.uchicago.edu/%E1%BC%A0%CF%86%CF%8D%CF%83%CF%83%CE%B5%CF%84%CE%BF) [οἶνος](https://logeion.uchicago.edu/%CE%BF%E1%BC%B6%CE%BD%CE%BF%CF%82)fu/sseto)” **[Hom. Od. 23.305](https://www.perseus.tufts.edu/hopper/text?doc=Hom.+od.+23+305&fromdoc=Perseus%3Atext%3A1999.01.0133)**; ⇾ 
 
 «شراب از خم کشیده شد»
 
-→ “[ταῦτα](http://www.perseus.tufts.edu/hopper/morph?l=tau%3Dta&la=greek&can=tau%3Dta0&prior=du/o) [δέ](http://www.perseus.tufts.edu/hopper/morph?l=de%2F&la=greek&can=de%2F0&prior=tau=ta) [**σου**](http://www.perseus.tufts.edu/hopper/morph?l=sou&la=greek&can=sou0&prior=de/) [τυχόντες](http://www.perseus.tufts.edu/hopper/morph?l=tuxo%2Fntes&la=greek&can=tuxo%2Fntes0&prior=sou)” **[X. A. 6\. 6\. 32](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%206.6.32&lang=original)**; ⇾ 
+→ “[ταῦτα](https://logeion.uchicago.edu/%CF%84%CE%B1%E1%BF%A6%CF%84%CE%B1) [δέ](https://logeion.uchicago.edu/%CE%B4%CE%AD) [**σου**](https://logeion.uchicago.edu/%2A%2A%CF%83%CE%BF%CF%85%2A%2A) [τυχόντες](https://logeion.uchicago.edu/%CF%84%CF%85%CF%87%CF%8C%CE%BD%CF%84%CE%B5%CF%82)” **[X. A. 6\. 6\. 32](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%206.6.32&lang=original)**; ⇾ 
 
 «اینها را از تو گرفته»
 
-→ “[μάθε](http://www.perseus.tufts.edu/hopper/morph?l=ma%2Fqe&la=greek&can=ma%2Fqe0&prior=tuxo/ntes) [**μου**](http://www.perseus.tufts.edu/hopper/morph?l=mou&la=greek&can=mou0&prior=ma/qe) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C1&prior=mou) [τάδε](http://www.perseus.tufts.edu/hopper/morph?l=ta%2Fde&la=greek&can=ta%2Fde0&prior=kai\\)” [**X. C. 1.6.44**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.6.44&lang=original); ⇾ 
+→ “[μάθε](https://logeion.uchicago.edu/%CE%BC%CE%AC%CE%B8%CE%B5) [**μου**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%BF%CF%85%2A%2A) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [τάδε](https://logeion.uchicago.edu/%CF%84%CE%AC%CE%B4%CE%B5)” [**X. C. 1.6.44**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.6.44&lang=original); ⇾ 
 
 «اینها را از من بیاموز»
 
-→ “[κύματα](http://www.perseus.tufts.edu/hopper/morph?l=ku%2F_mata&la=greek&can=ku%2F_mata0&prior=*fili/ppou) [**παντοίων**](http://www.perseus.tufts.edu/hopper/morph?l=pantoi%2Fwn&la=greek&can=pantoi%2Fwn0&prior=ku/_mata) [**ἀνέμων**](http://www.perseus.tufts.edu/hopper/morph?l=a%29ne%2Fmwn&la=greek&can=a%29ne%2Fmwn0&prior=pantoi/wn)” **[Hom. Il. 2.369](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D2%3Acard%3D369)**; ⇾ 
+→ “[κύματα](https://logeion.uchicago.edu/%CE%BA%CF%8D%CE%BC%CE%B1%CF%84%CE%B1) [**παντοίων**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%B1%CE%BD%CF%84%CE%BF%CE%AF%CF%89%CE%BD%2A%2A) [**ἀνέμων**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%BD%CE%AD%CE%BC%CF%89%CE%BD%2A%2A)” **[Hom. Il. 2.369](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D2%3Acard%3D369)**; ⇾ 
 
 «امواجِ (حاصل از) انواع باد»
 
-→ “[**Δαρείου**](http://www.perseus.tufts.edu/hopper/morph?l=*da_rei%2Fou&la=greek&can=*da_rei%2Fou0&prior=y) [καὶ](http://www.perseus.tufts.edu/hopper/morph?l=kai%5C&la=greek&can=kai%5C0&prior=*da_rei/ou) [**Παρυσάτιδος**](http://www.perseus.tufts.edu/hopper/morph?l=*parusa%2Ftidos&la=greek&can=*parusa%2Ftidos0&prior=kai\\) [γίγνονται](http://www.perseus.tufts.edu/hopper/morph?l=gi%2Fgnontai&la=greek&can=gi%2Fgnontai0&prior=*parusa/tidos) [παῖδες](http://www.perseus.tufts.edu/hopper/morph?l=pai%3Ddes&la=greek&can=pai%3Ddes0&prior=gi/gnontai) [δύο](http://www.perseus.tufts.edu/hopper/morph?l=du%2Fo&la=greek&can=du%2Fo1&prior=pai=des)” [**X. A. 1.1.1**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.1.1&lang=original); ⇾ 
+→ “[**Δαρείου**](https://logeion.uchicago.edu/%2A%2A%CE%94%CE%B1%CF%81%CE%B5%CE%AF%CE%BF%CF%85%2A%2A) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [**Παρυσάτιδος**](https://logeion.uchicago.edu/%2A%2A%CE%A0%CE%B1%CF%81%CF%85%CF%83%CE%AC%CF%84%CE%B9%CE%B4%CE%BF%CF%82%2A%2A) [γίγνονται](https://logeion.uchicago.edu/%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BD%CF%84%CE%B1%CE%B9) [παῖδες](https://logeion.uchicago.edu/%CF%80%CE%B1%E1%BF%96%CE%B4%CE%B5%CF%82) [δύο](https://logeion.uchicago.edu/%CE%B4%CF%8D%CE%BF)” [**X. A. 1.1.1**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.1.1&lang=original); ⇾ 
 
 «از داریوش و پروشات دو فرزند زاده شدند»
 

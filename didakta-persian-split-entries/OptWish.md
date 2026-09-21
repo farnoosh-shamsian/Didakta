@@ -1,40 +1,40 @@
 # §OptWish. آرزویی
 
-وجه تمنایی بدون [ἄν](http://www.perseus.tufts.edu/hopper/morph?l=a%29%2Fn&la=greek&can=a%29%2Fn27&prior=a\)/n) می‌تواند برای بیان آرزو (در اشاره به آینده) به کار رود. تمنایی بیان آرزو با [μή](http://www.perseus.tufts.edu/hopper/morph?l=mh%2F&la=greek&can=mh%2F15&prior=a\)/n) منفی می‌شود و اغلب با [εἰ](http://www.perseus.tufts.edu/hopper/morph?l=ei%29&la=greek&can=ei%293&prior=dwrodokh/santa) [γάρ](http://www.perseus.tufts.edu/hopper/morph?l=ga%2Fr&la=greek&can=ga%2Fr3&prior=ei\)) و [εἴθε](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%2Fqe&la=greek&can=ei%29%2Fqe3&prior=ga/r) (در هومر [αι᾽](http://www.perseus.tufts.edu/hopper/morph?l=ai%27&la=greek&can=ai%270&prior=ei\)/qe) [γάρ](http://www.perseus.tufts.edu/hopper/morph?l=ga%2Fr&la=greek&can=ga%2Fr4&prior=ai%27) و [αἴθε](http://www.perseus.tufts.edu/hopper/morph?l=ai%29%2Fqe&la=greek&can=ai%29%2Fqe1&prior=ga/r)) و یا با [εἰ](http://www.perseus.tufts.edu/hopper/morph?l=ei%29&la=greek&can=ei%294&prior=ai\)/qe) و [ὡς](http://www.perseus.tufts.edu/hopper/morph?l=w%28s&la=greek&can=w%28s2&prior=ei\)) (هر دو در شعر) همراه است. در فارسی صورت «باد» و «بادا» از فعل «بودن» بازمانده‌ی وجه تمنایی هستند.
+وجه تمنایی بدون [ἄν](https://logeion.uchicago.edu/%E1%BC%84%CE%BD)/n) می‌تواند برای بیان آرزو (در اشاره به آینده) به کار رود. تمنایی بیان آرزو با [μή](https://logeion.uchicago.edu/%CE%BC%CE%AE)/n) منفی می‌شود و اغلب با [εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0) [γάρ](https://logeion.uchicago.edu/%CE%B3%CE%AC%CF%81)) و [εἴθε](https://logeion.uchicago.edu/%CE%B5%E1%BC%B4%CE%B8%CE%B5) (در هومر [αι᾽](https://logeion.uchicago.edu/%CE%B1%CE%B9%E1%BE%BD)/qe) [γάρ](https://logeion.uchicago.edu/%CE%B3%CE%AC%CF%81) و [αἴθε](https://logeion.uchicago.edu/%CE%B1%E1%BC%B4%CE%B8%CE%B5)) و یا با [εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0)/qe) و [ὡς](https://logeion.uchicago.edu/%E1%BD%A1%CF%82)) (هر دو در شعر) همراه است. در فارسی صورت «باد» و «بادا» از فعل «بودن» بازمانده‌ی وجه تمنایی هستند.
 
-→ “[ὦ](http://www.perseus.tufts.edu/hopper/morph?l=w%29%3D&la=greek&can=w%29%3D0&prior=mh/) [παῖ](http://www.perseus.tufts.edu/hopper/morph?l=pai%3D&la=greek&can=pai%3D0&prior=w\)=), [**γένοιο**](http://www.perseus.tufts.edu/hopper/morph?l=ge%2Fnoio&la=greek&can=ge%2Fnoio0&prior=pai=) [πατρὸς](http://www.perseus.tufts.edu/hopper/morph?l=patro%5Cs&la=greek&can=patro%5Cs0&prior=ge/noio) [εὐτυχέστερος](http://www.perseus.tufts.edu/hopper/morph?l=eu%29tuxe%2Fsteros&la=greek&can=eu%29tuxe%2Fsteros0&prior=patro\\s)” [**S. Aj. 550**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Aj.%20550&lang=original); ⇾
+→ “[ὦ](https://logeion.uchicago.edu/%E1%BD%A6) [παῖ](https://logeion.uchicago.edu/%CF%80%CE%B1%E1%BF%96)=), [**γένοιο**](https://logeion.uchicago.edu/%2A%2A%CE%B3%CE%AD%CE%BD%CE%BF%CE%B9%CE%BF%2A%2A) [πατρὸς](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%84%CF%81%E1%BD%B8%CF%82) [εὐτυχέστερος](https://logeion.uchicago.edu/%CE%B5%E1%BD%90%CF%84%CF%85%CF%87%CE%AD%CF%83%CF%84%CE%B5%CF%81%CE%BF%CF%82)” [**S. Aj. 550**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Aj.%20550&lang=original); ⇾
 
 «ای پسر، از پدر نیک‌بخت‌تر بادی»
 
-→ “[ὡς](http://www.perseus.tufts.edu/hopper/morph?l=w%28s&la=greek&can=w%28s3&prior=ge/noito) [**ὄλοιτο**](http://www.perseus.tufts.edu/hopper/morph?l=o%29%2Floito&la=greek&can=o%29%2Floito0&prior=w\(s)” [**S. El. 126**](http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20El.%20126&lang=original); ⇾ 
+→ “[ὡς](https://logeion.uchicago.edu/%E1%BD%A1%CF%82) [**ὄλοιτο**](https://logeion.uchicago.edu/%2A%2A%E1%BD%84%CE%BB%CE%BF%CE%B9%CF%84%CE%BF%2A%2A)” [**S. El. 126**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20El.%20126&lang=original); ⇾ 
 
 «نابود باد\!»
 
-→ “[εἴθε](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%2Fqe&la=greek&can=ei%29%2Fqe4&prior=ga/r) [φίλος](http://www.perseus.tufts.edu/hopper/morph?l=fi%2Flos&la=greek&can=fi%2Flos0&prior=ei\)/qe) [ἡμῖν](http://www.perseus.tufts.edu/hopper/morph?l=h%28mi%3Dn&la=greek&can=h%28mi%3Dn0&prior=fi/los) [**γένοιο**](http://www.perseus.tufts.edu/hopper/morph?l=ge%2Fnoio&la=greek&can=ge%2Fnoio1&prior=h\(mi=n)” [**X. H. 4.1.38**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%204.1.38&lang=original); ⇾ 
+→ “[εἴθε](https://logeion.uchicago.edu/%CE%B5%E1%BC%B4%CE%B8%CE%B5) [φίλος](https://logeion.uchicago.edu/%CF%86%CE%AF%CE%BB%CE%BF%CF%82)/qe) [ἡμῖν](https://logeion.uchicago.edu/%E1%BC%A1%CE%BC%E1%BF%96%CE%BD) [**γένοιο**](https://logeion.uchicago.edu/%2A%2A%CE%B3%CE%AD%CE%BD%CE%BF%CE%B9%CE%BF%2A%2A)” [**X. H. 4.1.38**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%204.1.38&lang=original); ⇾ 
 
 «باشد که یار ما گردی»
 
-افعال تمنایی همراه [εἰ](http://www.perseus.tufts.edu/hopper/morph?l=ei%29&la=greek&can=ei%296&prior=w\(s) [γάρ](http://www.perseus.tufts.edu/hopper/morph?l=ga%2Fr&la=greek&can=ga%2Fr5&prior=ei\)) و امثال آن گاه به عنوان مقدمه‌ی شرط با تالی محذوف در نظر گرفته می‌شوند.
+افعال تمنایی همراه [εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0) [γάρ](https://logeion.uchicago.edu/%CE%B3%CE%AC%CF%81)) و امثال آن گاه به عنوان مقدمه‌ی شرط با تالی محذوف در نظر گرفته می‌شوند.
 
-→ “[εἰ](http://www.perseus.tufts.edu/hopper/morph?l=ei%29&la=greek&can=ei%295&prior=w\(s) [γὰρ](http://www.perseus.tufts.edu/hopper/morph?l=ga%5Cr&la=greek&can=ga%5Cr2&prior=ei\)) [**γένοιτο**](http://www.perseus.tufts.edu/hopper/morph?l=ge%2Fnoito&la=greek&can=ge%2Fnoito1&prior=ga\\r)” [**X. C. 6.1.38**](http://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%206.1.38&lang=original); ⇾ 
+→ “[εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0) [γὰρ](https://logeion.uchicago.edu/%CE%B3%E1%BD%B0%CF%81)) [**γένοιτο**](https://logeion.uchicago.edu/%2A%2A%CE%B3%CE%AD%CE%BD%CE%BF%CE%B9%CF%84%CE%BF%2A%2A)” [**X. C. 6.1.38**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%206.1.38&lang=original); ⇾ 
 
 «اگر (چنین) شود»
 
 در هومر، تمنایی حال می‌تواند برای بیان آرزوی ناممکن یا محال در زمان حال به کار رود.
 
-→ “[εἴθ᾽](http://www.perseus.tufts.edu/hopper/morph?l=ei%29%2Fq%27&la=greek&can=ei%29%2Fq%271&prior=ge/noio) [**ἡβώοιμι**](http://www.perseus.tufts.edu/hopper/morph?l=h%28bw%2Foimi&la=greek&can=h%28bw%2Foimi0&prior=ei\)/q%27)” [**Hom. Il. 23.624**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D23%3Acard%3D624); ⇾ 
+→ “[εἴθ᾽](https://logeion.uchicago.edu/%CE%B5%E1%BC%B4%CE%B8%E1%BE%BD) [**ἡβώοιμι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A1%CE%B2%CF%8E%CE%BF%CE%B9%CE%BC%CE%B9%2A%2A)/q%27)” [**Hom. Il. 23.624**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D23%3Acard%3D624); ⇾ 
 
 «اگر جوان بودم»
 
 نفرین و اعتراض نیز زیرمجموعه‌ی آرزو به شمار می‌روند.
 
-→ “[**ἐξολοίμην**](http://www.perseus.tufts.edu/hopper/morph?l=e%29coloi%2Fmhn&la=greek&can=e%29coloi%2Fmhn0&prior=po/lin)” [**Ar. Ach. 324**](http://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Ach.%20324&lang=original); ⇾ 
+→ “[**ἐξολοίμην**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%BE%CE%BF%CE%BB%CE%BF%CE%AF%CE%BC%CE%B7%CE%BD%2A%2A)” [**Ar. Ach. 324**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Ach.%20324&lang=original); ⇾ 
 
 «باشد که هلاک گردم»
 
 وجه تمنایی برای بیان بلاغی آرزو، تمایل یا لعن و نفرین به کار رود.
 
-→ “[ἐν](https://www.perseus.tufts.edu/hopper/morph?l=e%29n&la=greek&can=e%29n0&prior=h\(/min) [πυρὶ](https://www.perseus.tufts.edu/hopper/morph?l=puri%5C&la=greek&can=puri%5C0&prior=e\)n) [δὴ](https://www.perseus.tufts.edu/hopper/morph?l=dh%5C&la=greek&can=dh%5C2&prior=puri\\) [βουλαί](https://www.perseus.tufts.edu/hopper/morph?l=boulai%2F&la=greek&can=boulai%2F0&prior=dh\\) [τε](https://www.perseus.tufts.edu/hopper/morph?l=te&la=greek&can=te1&prior=boulai/) [**γενοίατο**](https://www.perseus.tufts.edu/hopper/morph?l=genoi%2Fato&la=greek&can=genoi%2Fato0&prior=te) [μήδεά](https://www.perseus.tufts.edu/hopper/morph?l=mh%2Fdea%2F&la=greek&can=mh%2Fdea%2F0&prior=genoi/ato) [τ᾽](https://www.perseus.tufts.edu/hopper/morph?l=t%27&la=greek&can=t%270&prior=mh/dea/) [ἀνδρῶν](https://www.perseus.tufts.edu/hopper/morph?l=a%29ndrw%3Dn&la=greek&can=a%29ndrw%3Dn0&prior=t%27)” [**Hom. Il. 2.340**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D2%3Acard%3D340); ⇾ 
+→ “[ἐν](https://logeion.uchicago.edu/%E1%BC%90%CE%BD) [πυρὶ](https://logeion.uchicago.edu/%CF%80%CF%85%CF%81%E1%BD%B6)n) [δὴ](https://logeion.uchicago.edu/%CE%B4%E1%BD%B4) [βουλαί](https://logeion.uchicago.edu/%CE%B2%CE%BF%CF%85%CE%BB%CE%B1%CE%AF) [τε](https://logeion.uchicago.edu/%CF%84%CE%B5) [**γενοίατο**](https://logeion.uchicago.edu/%2A%2A%CE%B3%CE%B5%CE%BD%CE%BF%CE%AF%CE%B1%CF%84%CE%BF%2A%2A) [μήδεά](https://logeion.uchicago.edu/%CE%BC%CE%AE%CE%B4%CE%B5%CE%AC) [τ᾽](https://logeion.uchicago.edu/%CF%84%E1%BE%BD) [ἀνδρῶν](https://logeion.uchicago.edu/%E1%BC%80%CE%BD%CE%B4%CF%81%E1%BF%B6%CE%BD)” [**Hom. Il. 2.340**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D2%3Acard%3D340); ⇾ 
 
 «نصایح و نقشه‌های مردان در آتش شوند»
 
