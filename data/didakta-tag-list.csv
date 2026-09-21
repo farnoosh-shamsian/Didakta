@@ -1,0 +1,151 @@
+category,didakta_tag,is_category,raw_line
+Nominative,,True,POS=Nominative
+Nominative,NomSubj,False,§NomSubj
+Nominative,NomPred,False,§NomPred
+Nominative,NomInd,False,§NomInd
+Nominative,NomVoc,False,§NomVoc
+Genitive,,True,POS=Genitive
+Genitive,GenPos,False,§GenPos
+Genitive,GenPart,False,§GenPart
+Genitive,GenQual,False,§GenQual
+Genitive,GenExpl,False,§GenExpl
+Genitive,GenMat,False,§GenMat
+Genitive,GenMeas,False,§GenMeas
+Genitive,GenSubj,False,§GenSubj
+Genitive,GenObj,False,§GenObj
+Genitive,GenVal,False,§GenVal
+Genitive,GenVerb,False,§GenVerb
+Genitive,GenSep,False,§GenSep
+Genitive,GenTime,False,§GenTime
+Genitive,GenComp,False,§GenComp
+Genitive,GenLoc,False,§GenLoc
+Genitive,GenAbs,False,§GenAbs
+Genitive,GenRef,False,§GenRef
+Genitive,GenCaus,False,§GenCaus
+Dative,,True,POS=Dative
+Dative,DatVerb,False,§DatVerb
+Dative,DatPos,False,§DatPos
+Dative,DatAdvn,False,§DatAdvn
+Dative,DatEthic,False,§DatEthic
+Dative,DatAgent,False,§DatAgent
+Dative,DatMean,False,§DatMean
+Dative,DatMeas,False,§DatMeas
+Dative,DatInstr,False,§DatInstr
+Dative,DatCaus,False,§DatCaus
+Dative,DatAccom,False,§DatAccom
+Dative,DatTime,False,§DatTime
+Dative,DatLoc,False,§DatLoc
+Dative,DatResp,False,§DatResp
+Dative,DatExpr,False,§DatExpr
+Accusative,,True,POS=Accusative
+Accusative,AccObj,False,§AccObj
+Accusative,AccCog,False,§AccCog
+Accusative,AccSubj,False,§AccSubj
+Accusative,AccResp,False,§AccResp
+Accusative,AccTime,False,§AccTime
+Accusative,AccSpac,False,§AccSpac
+Accusative,AccDirec,False,§AccDirec
+Accusative,AccAdv,False,§AccAdv
+Accusative,AccOath,False,§AccOath
+Accusative,AccDoubl,False,§AccDoubl
+Accusative,AccCaus,False,§AccCaus
+Vocative,,True,POS=Vocative
+Vocative,Voc,False,§Voc
+Present,,True,POS=Present
+Present,Pres,False,§Pres
+Present,PresIter,False,§PresIter
+Present,PresCona,False,§PresCona
+Present,PresHist,False,§PresHist
+Present,PresPerf,False,§PresPerf
+Present,PresNoni,False,§PresNoni
+Imperfect,,True,POS=Imperfect
+Imperfect,Impf,False,§Impf
+Imperfect,ImpfIter,False,§ImpfIter
+Imperfect,ImpfCona,False,§ImpfCona
+Imperfect,ImpfComp,False,§ImpfComp
+Imperfect,ImpfDesc,False,§ImpfDesc
+Imperfect,ImpfCons,False,§ImpfCons
+Future,,True,POS=Future
+Future,Fut,False,§Fut
+Future,FutHypo,False,§FutHypo
+Future,FutJuss,False,§FutJuss
+Future,FutNoni,False,§FutNoni
+Aorist,,True,POS=Aorist
+Aorist,Aor,False,§Aor
+Aorist,AorIngr,False,§AorIngr
+Aorist,AorComp,False,§AorComp
+Aorist,AorGnom,False,§AorGnom
+Aorist,AorSug,False,§AorSug
+Aorist,AorIter,False,§AorIter
+Aorist,AorDram,False,§AorDram
+Aorist,AorNoni,False,§AorNoni
+Perfect,,True,POS=Perfect
+Perfect,Perf,False,§Perf
+Perfect,PerfInten,False,§PerfInten
+Perfect,PerfFut,False,§PerfFut
+Perfect,PerfNoni,False,§PerfNoni
+Pluperfect,,True,POS=Pluperfect
+Pluperfect,Pperf,False,§Pperf
+Pluperfect,PperfImm,False,§PperfImm
+Pluperfect,PperfInt,False,§PperfInt
+Future Perfect,,True,POS=Future Perfect
+Future Perfect,Futperf,False,§Futperf
+Future Perfect,FutperfInten,False,§FutperfInten
+Active Voice,,True,POS=Active Voice
+Active Voice,Act,False,§Act
+Middle Voice,,True,POS=Middle Voice
+Middle Voice,MidIndir,False,§MidIndir
+Middle Voice,MidDir,False,§MidDir
+Middle Voice,MidSpee,False,§MidSpee
+Middle Voice,MidMotion,False,§MidMotion
+Middle Voice,MidMent,False,§MidMent
+Middle Voice,MidRecip,False,§MidRecip
+Middle Voice,MidSpon,False,§MidSpon
+Passive Voice,,True,POS=Passive Voice
+Passive Voice,Pass,False,§Pass
+Indicative,,True,POS=Indicative
+Indicative,Ind,False,§Ind
+Indicative,IndOblig,False,§IndOblig
+Indicative,IndWish,False,§IndWish
+Indicative,IndCount,False,§IndCount
+Subjunctive,,True,POS=Subjunctive
+Subjunctive,SubjHort,False,§SubjHort
+Subjunctive,SubjProh,False,§SubjProh
+Subjunctive,SubjDoubt,False,§SubjDoubt
+Subjunctive,SubjDelib,False,§SubjDelib
+Subjunctive,SubjHomer,False,§SubjHomer
+Subjunctive,SubjDenia,False,§SubjDenia
+Subjunctive,SubjSubor,False,§SubjSubor
+Optative,,True,POS=Optative
+Optative,OptWish,False,§OptWish
+Optative,OptComm,False,§OptComm
+Optative,OptPoten,False,§OptPoten
+Optative,OptSubor,False,§OptSubor
+Imperative,,True,POS=Imperative
+Imperative,ImprComm,False,§ImprComm
+Imperative,ImprAssum,False,§ImprAssum
+Infinitive,,True,POS=Infinitive
+Infinitive,InfDyn,False,§InfDyn
+Infinitive,InfDec,False,§InfDec
+Infinitive,InfIdio,False,§InfIdio
+Infinitive,InfComm,False,§InfComm
+Infinitive,InfArt,False,§InfArt
+Participle,,True,POS=Participle
+Participle,PartAttr,False,§PartAttr
+Participle,PartCirc,False,§PartCirc
+Participle,PartGen,False,§PartGen
+Participle,PartAcc,False,§PartAcc
+Participle,PartSupp,False,§PartSupp
+Article,,True,POS=Article
+Article,ArtPart,False,§ArtPart
+Article,ArtSubs,False,§ArtSubs
+Article,ArtPron,False,§ArtPron
+Article,ArtGener,False,§ArtGener
+Article,ArtAbst,False,§ArtAbst
+Article,ArtProp,False,§ArtProp
+Article,ArtPoss,False,§ArtPoss
+The pronoun αὐτός,,True,POS=The pronoun αὐτός
+The pronoun αὐτός,AutEmph,False,§AutEmph
+The pronoun αὐτός,AutPron,False,§AutPron
+The pronoun αὐτός,AutIden,False,§AutIden
+The pronoun αὐτός,AutRefl,False,§AutRefl
