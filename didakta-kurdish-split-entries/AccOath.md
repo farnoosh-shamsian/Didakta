@@ -1,11 +1,11 @@
 # §AccOath. سوێند
 
-دۆخی ئاکووزاتیڤ له ڕێکەوەندەکانی سوێند خواردن لەگەڵ ئاوەڵ‌کاری سوێند وه‌کوو [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC), [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC)), [ναὶ](https://logeion.uchicago.edu/%CE%BD%CE%B1%E1%BD%B6) [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC), [νή](https://logeion.uchicago.edu/%CE%BD%CE%AE) یان کردای سوێند وه‌کوو [ὀμνύναι](https://logeion.uchicago.edu/%E1%BD%80%CE%BC%CE%BD%CF%8D%CE%BD%CE%B1%CE%B9) بەکارده‌هێنرێت و دەربڕی به که‌س یان شتێکە که سوێندی پێ دەخۆن.  
-→ “[ὀμνύω](https://logeion.uchicago.edu/%E1%BD%80%CE%BC%CE%BD%CF%8D%CF%89) [ὑμῖν](https://logeion.uchicago.edu/%E1%BD%91%CE%BC%E1%BF%96%CE%BD)mnu/w) [**θεοὺς**](https://logeion.uchicago.edu/%2A%2A%CE%B8%CE%B5%CE%BF%E1%BD%BA%CF%82%2A%2A) **[πάντας](https://logeion.uchicago.edu/%CF%80%CE%AC%CE%BD%CF%84%CE%B1%CF%82) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [πάσας](https://logeion.uchicago.edu/%CF%80%CE%AC%CF%83%CE%B1%CF%82)**” [**Xen. Anab. 6.1.31**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%206.1.31&lang=original); ⇾   
+دۆخی ئاکووزاتیڤ له ڕێکەوەندەکانی سوێند خواردن لەگەڵ ئاوەڵ‌کاری سوێند وه‌کوو μά, οὐ μά, ναὶ μά, νή یان کردای سوێند وه‌کوو ὀμνύναι بەکارده‌هێنرێت و دەربڕی به که‌س یان شتێکە که سوێندی پێ دەخۆن.  
+→ “ὀμνύω ὑμῖν **θεοὺς** **πάντας καὶ πάσας**” **Xen. Anab. 6.1.31**; ⇾   
 «سوێندت ده‌دەم بە هەموو خواژنه‌کان و خوداوەندەکان»   
-زۆرجار [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC) بۆ نەویستن[^89]، بەرپەرچ‌دانەوە یان ڕەت‌دانەوە به‌کاردێت، مەگەر ئەوەی‌کە [ναί](https://logeion.uchicago.edu/%CE%BD%CE%B1%CE%AF) لە پێش‌دا هاتبێت. ئه‌گه‌ر پیتی نەویستن پێش [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC) هاتبێت یان له دەستەواژەی دواتردا هاتبێت، [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC) ده‌توانێ به ته‌نێ به‌کاربێت.  
-→ “[μὰ](https://logeion.uchicago.edu/%CE%BC%E1%BD%B0) [**τὸν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B8%CE%BD%2A%2A) **[Ἀπόλλω](https://logeion.uchicago.edu/%E1%BC%88%CF%80%CF%8C%CE%BB%CE%BB%CF%89)**, [οὔκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%94%CE%BA)apo/llw)” [**Ar. Thesm. 269**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Thes.%20269&lang=original); ⇾   
+زۆرجار μά بۆ نەویستن[^89]، بەرپەرچ‌دانەوە یان ڕەت‌دانەوە به‌کاردێت، مەگەر ئەوەی‌کە ναί لە پێش‌دا هاتبێت. ئه‌گه‌ر پیتی نەویستن پێش μά هاتبێت یان له دەستەواژەی دواتردا هاتبێت، μά ده‌توانێ به ته‌نێ به‌کاربێت.  
+→ “μὰ **τὸν** **Ἀπόλλω**, οὔκ” **Ar. Thesm. 269**; ⇾   
 «نە، سوێند به ئاپۆلۆن»  
-هەندێک جار ئه‌گه‌ر [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC) له دوای [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) یان [ναί](https://logeion.uchicago.edu/%CE%BD%CE%B1%CE%AF)) هاتبێت، ده سڕدرێتەوە:  
-→ “[οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [**τὸν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B8%CE%BD%2A%2A)) **[Ὄλυμπον](https://logeion.uchicago.edu/%E1%BD%8C%CE%BB%CF%85%CE%BC%CF%80%CE%BF%CE%BD)**” [**S. O. T. 1088**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20OT%201088&lang=original); ⇾   
+هەندێک جار ئه‌گه‌ر μά له دوای οὐ یان ναί هاتبێت، ده سڕدرێتەوە:  
+→ “οὐ **τὸν** **Ὄλυμπον**” **S. O. T. 1088**; ⇾   
 « سوێند به ئوله‌مپ نه»

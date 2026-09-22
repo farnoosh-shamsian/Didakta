@@ -1,19 +1,19 @@
 # §AccResp. ئاکووزاتیڤی ڕوون‌کردنه‌وه
 
 دۆخی ئاکووزاتیڤ لەگەڵ ئاوەڵناو و هەروەها لەگەڵ کردارگەلی دەربڕی حاڵەت یان بارودۆخ، دەتوانێ بۆ سنووردارکردنی مانای وشە و ڕوون کردنەوەی وشە بەکارده‌هێنرێت. بە گشتی، ئاکووزاتیڤی ڕوون‌کردنه‌وه سنووری شوێنێک یان ئامرازی شتێک دیاری دەکات و بە تایبەت لەگەڵ وشەگەلێک که ئاماژه بە مانای باش یان باشتر، خراپ یان خراپتر، تایبەتمەندی جەستەیی و دەروونی یان بۆ دەربڕینی هەست بەکاردێت. ئەم بەکارهێنانە زۆرجار ئاوەڵناو و تایبەتمەندی (سروشت، شێوە، قەبارە، ژمارە و هتد) دیاری دەکات. ئاکووزاتیڤی ڕوون‌کردنه‌وه لەوانەیە دەربڕی بواری دیاریکراوی شتێک بێت و لەگەڵ کرداری دەربڕی حاڵەت یان ئاوەڵناو بکەوێت.  
-→ “[τυφλὸς](https://logeion.uchicago.edu/%CF%84%CF%85%CF%86%CE%BB%E1%BD%B8%CF%82) [**τά**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%AC%2A%2A) [τ᾽](https://logeion.uchicago.edu/%CF%84%E1%BE%BD) [**ὦτα**](https://logeion.uchicago.edu/%2A%2A%E1%BD%A6%CF%84%CE%B1%2A%2A) [**τόν**](https://logeion.uchicago.edu/%2A%2A%CF%84%CF%8C%CE%BD%2A%2A)=ta) [τε](https://logeion.uchicago.edu/%CF%84%CE%B5) [**νοῦν**](https://logeion.uchicago.edu/%2A%2A%CE%BD%CE%BF%E1%BF%A6%CE%BD%2A%2A) [**τά**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%AC%2A%2A) [τ᾽](https://logeion.uchicago.edu/%CF%84%E1%BE%BD) [**ὄμματ᾽**](https://logeion.uchicago.edu/%2A%2A%E1%BD%84%CE%BC%CE%BC%CE%B1%CF%84%E1%BE%BD%2A%2A) [εἶ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B6)/mmat%27)” [**Soph. OT 371**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20OT%20371&lang=original); ⇾   
+→ “τυφλὸς **τά** τ᾽ **ὦτα** **τόν** τε **νοῦν** **τά** τ᾽ **ὄμματ᾽** εἶ” **Soph. OT 371**; ⇾   
 «تۆ لە گوێ و ئەقڵ و چاودا کوێریت»  
-→ “[ὁ](https://logeion.uchicago.edu/%E1%BD%81) [ἄνθρωπος](https://logeion.uchicago.edu/%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82) [**τὸν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B8%CE%BD%2A%2A)/nqrwpos) **[δάκτυλον](https://logeion.uchicago.edu/%CE%B4%CE%AC%CE%BA%CF%84%CF%85%CE%BB%CE%BF%CE%BD)** [ἀλγεῖ](https://logeion.uchicago.edu/%E1%BC%80%CE%BB%CE%B3%CE%B5%E1%BF%96)” [**P. R. 462d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20462d&lang=original); ⇾   
+→ “ὁ ἄνθρωπος **τὸν** **δάκτυλον** ἀλγεῖ” **P. R. 462d**; ⇾   
 «ئه‌و پیاوه له قامکیدا ئازاری هەیە»  
-→ “[**πόδας**](https://logeion.uchicago.edu/%2A%2A%CF%80%CF%8C%CE%B4%CE%B1%CF%82%2A%2A)=) [ὠκὺς](https://logeion.uchicago.edu/%E1%BD%A0%CE%BA%E1%BD%BA%CF%82) [Ἀχιλλεύς](https://logeion.uchicago.edu/%E1%BC%88%CF%87%CE%B9%CE%BB%CE%BB%CE%B5%CF%8D%CF%82)ku%5Cs)” **[Hom. Il. 1.58](https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Il.+1.+58&fromdoc=Perseus%3Atext%3A1999.01.0133)**; ⇾   
+→ “**πόδας** ὠκὺς Ἀχιλλεύς” **Hom. Il. 1.58**; ⇾   
 «ئاخیلێئووسی تیژهه‌نگاو»  
-→ “[διαφέρει](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%B1%CF%86%CE%AD%CF%81%CE%B5%CE%B9) [γυνὴ](https://logeion.uchicago.edu/%CE%B3%CF%85%CE%BD%E1%BD%B4) [ἀνδρὸς](https://logeion.uchicago.edu/%E1%BC%80%CE%BD%CE%B4%CF%81%E1%BD%B8%CF%82) [**τὴν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B4%CE%BD%2A%2A)ndro%5Cs) **[φύσιν](https://logeion.uchicago.edu/%CF%86%CF%8D%CF%83%CE%B9%CE%BD)**” [**P. R. 453b**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20453b&lang=original); ⇾  
+→ “διαφέρει γυνὴ ἀνδρὸς **τὴν** **φύσιν**” **P. R. 453b**; ⇾  
 «ژن سروشتی لەگەڵ پیاو جیاوزە»  
-→ “[**πλῆθος**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%BB%E1%BF%86%CE%B8%CE%BF%CF%82%2A%2A) [ὡς](https://logeion.uchicago.edu/%E1%BD%A1%CF%82) [δισχίλιοι](https://logeion.uchicago.edu/%CE%B4%CE%B9%CF%83%CF%87%CE%AF%CE%BB%CE%B9%CE%BF%CE%B9)” [**X. A. 4\. 2\. 2**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%204.2.2&lang=original); ⇾   
+→ “**πλῆθος** ὡς δισχίλιοι” **X. A. 4\. 2\. 2**; ⇾   
 «لە ژمارەدا نزیکەی دوو هەزار»  
-→ “[λέξον](https://logeion.uchicago.edu/%CE%BB%CE%AD%CE%BE%CE%BF%CE%BD) [ὅστις](https://logeion.uchicago.edu/%E1%BD%85%CF%83%CF%84%CE%B9%CF%82) [εἶ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B6) [**γένος**](https://logeion.uchicago.edu/%2A%2A%CE%B3%CE%AD%CE%BD%CE%BF%CF%82%2A%2A)=)” [**E. Bacch. 460**](https://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Ba.%20460&lang=original); ⇾   
+→ “λέξον ὅστις εἶ **γένος**” **E. Bacch. 460**; ⇾   
 «پێم بڵێ لە کام ڕەچەڵەکی»  
-→ “[δεινοὶ](https://logeion.uchicago.edu/%CE%B4%CE%B5%CE%B9%CE%BD%CE%BF%E1%BD%B6) [**μάχην**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%AC%CF%87%CE%B7%CE%BD%2A%2A)” [**A. Pers. 27**](https://www.perseus.tufts.edu/hopper/text?doc=Aesch.%20Pers.%2027&lang=original); ⇾   
+→ “δεινοὶ **μάχην**” **A. Pers. 27**; ⇾   
 «سامناک لە شەڕدا»  
-→ “[γένεσθε](https://logeion.uchicago.edu/%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B8%CE%B5) [**τὴν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B4%CE%BD%2A%2A) **[διάνοιαν](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%AC%CE%BD%CE%BF%CE%B9%CE%B1%CE%BD)**” [**Aes. 3.153**](https://www.perseus.tufts.edu/hopper/text?doc=Aeschin.%203.153&lang=original); ⇾  
+→ “γένεσθε **τὴν** **διάνοιαν**” **Aes. 3.153**; ⇾  
 «لە بیردا خۆت بگوازەوە»

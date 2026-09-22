@@ -2,36 +2,36 @@
 
 عبارت رایی مستقل متشکل از یک وجه وصفی غیرشخصی در صرف رایی خنثی است که با فاعل تطبیق ندارد. هنگامی که وجه وصفی غیرشخصی است و یا فاعل آن اسم‌مصدر است، به‌جای اضافی مستقل، عبارت رایی مستقل تشکیل می‌دهد. وجه وصفی رایی مستقل پیوند نحوی با دیگر اجزای جمله ندارد.
 
-→ “[οὐδεὶς](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%B4%CE%B5%E1%BD%B6%CF%82)moi/) [τὸ](https://logeion.uchicago.edu/%CF%84%E1%BD%B8)dei\\s) [μεῖζον](https://logeion.uchicago.edu/%CE%BC%CE%B5%E1%BF%96%CE%B6%CE%BF%CE%BD) [κακὸν](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%BA%E1%BD%B8%CE%BD) [αἱρήσεται](https://logeion.uchicago.edu/%CE%B1%E1%BC%B1%CF%81%CE%AE%CF%83%CE%B5%CF%84%CE%B1%CE%B9) [**ἐξὸν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%BE%E1%BD%B8%CE%BD%2A%2A) [τὸ](https://logeion.uchicago.edu/%CF%84%E1%BD%B8)co\\n) [ἔλαττον](https://logeion.uchicago.edu/%E1%BC%94%CE%BB%CE%B1%CF%84%CF%84%CE%BF%CE%BD) ([αἱρεῖσθαι](https://logeion.uchicago.edu/%CE%B1%E1%BC%B1%CF%81%CE%B5%E1%BF%96%CF%83%CE%B8%CE%B1%CE%B9)/la_tton))” [**P. Pr. 358d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Prot.%20358d&lang=original); ⇾ 
+→ “οὐδεὶς τὸ μεῖζον κακὸν αἱρήσεται **ἐξὸν** τὸ ἔλαττον (αἱρεῖσθαι)” **P. Pr. 358d**; ⇾ 
 
 «هیچ‌کس شر بزرگ‌تر را بر نمی‌گزیند \[وقتی که انتخاب شر\] کمتر ممکن است»
 
-→ “[ἧς](https://logeion.uchicago.edu/%E1%BC%A7%CF%82) ([βουλῆς](https://logeion.uchicago.edu/%CE%B2%CE%BF%CF%85%CE%BB%E1%BF%86%CF%82)) [νῦν](https://logeion.uchicago.edu/%CE%BD%E1%BF%A6%CE%BD) [ἀξιοῖ](https://logeion.uchicago.edu/%E1%BC%80%CE%BE%CE%B9%CE%BF%E1%BF%96) [τυχεῖν](https://logeion.uchicago.edu/%CF%84%CF%85%CF%87%CE%B5%E1%BF%96%CE%BD)cioi=) [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [**μετὸν**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%B5%CF%84%E1%BD%B8%CE%BD%2A%2A)) [αὐτῷ](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%E1%BF%B7)” [**L. 31.32**](https://www.perseus.tufts.edu/hopper/text?doc=Lys.%2031.32&lang=original); ⇾ 
+→ “ἧς (βουλῆς) νῦν ἀξιοῖ τυχεῖν οὐ **μετὸν** αὐτῷ” **L. 31.32**; ⇾ 
 
 «که اکنون بدون هیچ حقی خواستار پذیرش آن است»
 
-→ “[δῆλον](https://logeion.uchicago.edu/%CE%B4%E1%BF%86%CE%BB%CE%BF%CE%BD)tw=|) [γὰρ](https://logeion.uchicago.edu/%CE%B3%E1%BD%B0%CF%81) [ὅτι](https://logeion.uchicago.edu/%E1%BD%85%CF%84%CE%B9) [οἶσθα](https://logeion.uchicago.edu/%CE%BF%E1%BC%B6%CF%83%CE%B8%CE%B1) [**μέλον**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%AD%CE%BB%CE%BF%CE%BD%2A%2A)=sqa) [γέ](https://logeion.uchicago.edu/%CE%B3%CE%AD) [σοι](https://logeion.uchicago.edu/%CF%83%CE%BF%CE%B9)” [**P. A. 24d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2024d&lang=original); ⇾ 
+→ “δῆλον γὰρ ὅτι οἶσθα **μέλον** γέ σοι” **P. A. 24d**; ⇾ 
 
 «زیرا آشکارا می‌دانی، چون برایت مهم است»
 
-→ “[μετεμέλοντο](https://logeion.uchicago.edu/%CE%BC%CE%B5%CF%84%CE%B5%CE%BC%CE%AD%CE%BB%CE%BF%CE%BD%CF%84%CE%BF) [ὅτι](https://logeion.uchicago.edu/%E1%BD%85%CF%84%CE%B9) [μετὰ](https://logeion.uchicago.edu/%CE%BC%CE%B5%CF%84%E1%BD%B0) [τὰ](https://logeion.uchicago.edu/%CF%84%E1%BD%B0) [ἐν](https://logeion.uchicago.edu/%E1%BC%90%CE%BD) [Πύλῳ](https://logeion.uchicago.edu/%CE%A0%CF%8D%CE%BB%E1%BF%B3)n), [καλῶς](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%BB%E1%BF%B6%CF%82) [**παρασχόν**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%87%CF%8C%CE%BD%2A%2A), [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [ξυνέβησαν](https://logeion.uchicago.edu/%CE%BE%CF%85%CE%BD%CE%AD%CE%B2%CE%B7%CF%83%CE%B1%CE%BD))” [**T. 5.14**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%205.14&lang=original); ⇾
+→ “μετεμέλοντο ὅτι μετὰ τὰ ἐν Πύλῳ, καλῶς **παρασχόν**, οὐ ξυνέβησαν” **T. 5.14**; ⇾
 
 «پشیمان شدند که پس از آنچه در پولوس (رخ داد)، (گرچه موقعیت) مساعدی پیش آمد، توافق نکردند»
 
-→ “[**προσταχθέν**](https://logeion.uchicago.edu/%2A%2A%CF%80%CF%81%CE%BF%CF%83%CF%84%CE%B1%CF%87%CE%B8%CE%AD%CE%BD%2A%2A) [μοι](https://logeion.uchicago.edu/%CE%BC%CE%BF%CE%B9) [ὑπὸ](https://logeion.uchicago.edu/%E1%BD%91%CF%80%E1%BD%B8) [τοῦ](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%A6) [δήμου](https://logeion.uchicago.edu/%CE%B4%CE%AE%CE%BC%CE%BF%CF%85) [Μένωνα](https://logeion.uchicago.edu/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD%CE%B1) [ἄγειν](https://logeion.uchicago.edu/%E1%BC%84%CE%B3%CE%B5%CE%B9%CE%BD) [εἰς](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0%CF%82)/gein) [Ἑλλήσποντον](https://logeion.uchicago.edu/%E1%BC%99%CE%BB%CE%BB%CE%AE%CF%83%CF%80%CE%BF%CE%BD%CF%84%CE%BF%CE%BD)s)” [**D. 50.12**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2050.12&lang=original); ⇾ 
+→ “**προσταχθέν** μοι ὑπὸ τοῦ δήμου Μένωνα ἄγειν εἰς Ἑλλήσποντον” **D. 50.12**; ⇾ 
 
 «به من از جانب مردم فرمان داده شد که منون را سوی هلسپونتوس ببرم»
 
-→ “[σὲ](https://logeion.uchicago.edu/%CF%83%E1%BD%B2)/n) [οὐχὶ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CF%87%E1%BD%B6) [ἐσώσαμεν](https://logeion.uchicago.edu/%E1%BC%90%CF%83%CF%8E%CF%83%CE%B1%CE%BC%CE%B5%CE%BD)xi\\) . . . [οἷόν](https://logeion.uchicago.edu/%CE%BF%E1%BC%B7%CF%8C%CE%BD)sw/samen) [τε](https://logeion.uchicago.edu/%CF%84%CE%B5) [**ὂν**](https://logeion.uchicago.edu/%2A%2A%E1%BD%82%CE%BD%2A%2A) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6)\\n) [δυνατόν](https://logeion.uchicago.edu/%CE%B4%CF%85%CE%BD%CE%B1%CF%84%CF%8C%CE%BD)” [**P. Cr. 46a**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Crito%2046a&lang=original); ⇾ 
+→ “σὲ οὐχὶ ἐσώσαμεν . . . οἷόν τε **ὂν** καὶ δυνατόν” **P. Cr. 46a**; ⇾ 
 
 «تو را نجات ندادیم … گرچه  هم ممکن و هم میسر بود»
 
-در صورتی که پیش از وجه وصفی شخصی [ὡς](https://logeion.uchicago.edu/%E1%BD%A1%CF%82) یا [ὥσπερ](https://logeion.uchicago.edu/%E1%BD%A5%CF%83%CF%80%CE%B5%CF%81) آمده باشد ممکن است به صورت مستقل به کار رود:
+در صورتی که پیش از وجه وصفی شخصی ὡς یا ὥσπερ آمده باشد ممکن است به صورت مستقل به کار رود:
 
-→ “[ηὔχετο](https://logeion.uchicago.edu/%CE%B7%E1%BD%94%CF%87%CE%B5%CF%84%CE%BF) [πρὸς](https://logeion.uchicago.edu/%CF%80%CF%81%E1%BD%B8%CF%82)/xeto) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [θεοὺς](https://logeion.uchicago.edu/%CE%B8%CE%B5%CE%BF%E1%BD%BA%CF%82) [τἀγαθὰ](https://logeion.uchicago.edu/%CF%84%E1%BC%80%CE%B3%CE%B1%CE%B8%E1%BD%B0) [διδόναι](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%B4%CF%8C%CE%BD%CE%B1%CE%B9)_gaqa\\), [ὡς](https://logeion.uchicago.edu/%E1%BD%A1%CF%82) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [θεοὺς](https://logeion.uchicago.edu/%CE%B8%CE%B5%CE%BF%E1%BD%BA%CF%82) [κάλλιστα](https://logeion.uchicago.edu/%CE%BA%CE%AC%CE%BB%CE%BB%CE%B9%CF%83%CF%84%CE%B1) [**εἰδότας**](https://logeion.uchicago.edu/%2A%2A%CE%B5%E1%BC%B0%CE%B4%CF%8C%CF%84%CE%B1%CF%82%2A%2A) [ὁποῖα](https://logeion.uchicago.edu/%E1%BD%81%CF%80%CE%BF%E1%BF%96%CE%B1)do/tas) [ἀγαθά](https://logeion.uchicago.edu/%E1%BC%80%CE%B3%CE%B1%CE%B8%CE%AC) [ἐστι](https://logeion.uchicago.edu/%E1%BC%90%CF%83%CF%84%CE%B9)gaqa/)” [**X. M. 1.3.2**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Mem.%201.3.2&lang=original); ⇾ 
+→ “ηὔχετο πρὸς τοὺς θεοὺς τἀγαθὰ διδόναι, ὡς τοὺς θεοὺς κάλλιστα **εἰδότας** ὁποῖα ἀγαθά ἐστι” **X. M. 1.3.2**; ⇾ 
 
 «به (درگاه) خدایان دعا کرد که به او اموری خیر اعطا کنند، چرا که خدایان بهتر از همه می‌دانند چه اموری خیر است»
 
-→ “[σιωπῇ](https://logeion.uchicago.edu/%CF%83%CE%B9%CF%89%CF%80%E1%BF%87)sti) [ἐδείπνουν](https://logeion.uchicago.edu/%E1%BC%90%CE%B4%CE%B5%CE%AF%CF%80%CE%BD%CE%BF%CF%85%CE%BD), [ὤσπερ](https://logeion.uchicago.edu/%E1%BD%A4%CF%83%CF%80%CE%B5%CF%81)dei/pnoun) [τοῦτο](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%A6%CF%84%CE%BF)/sper) [**προστεταγμένον**](https://logeion.uchicago.edu/%2A%2A%CF%80%CF%81%CE%BF%CF%83%CF%84%CE%B5%CF%84%CE%B1%CE%B3%CE%BC%CE%AD%CE%BD%CE%BF%CE%BD%2A%2A) [αὐτοῖς](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%96%CF%82)” [**X. S. 1\. 11**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Sym.%201&lang=original); ⇾ 
+→ “σιωπῇ ἐδείπνουν, ὤσπερ τοῦτο **προστεταγμένον** αὐτοῖς” **X. S. 1\. 11**; ⇾ 
 
 «در سکوت غذا می‌خوردند، گویی چنین به آنها امر شده باشد»

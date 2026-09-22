@@ -1,20 +1,20 @@
 # §ImpfIter. تکرار و عادات
 
-از زمان گذشته‌ی استمراری برای بیان عادات و افعال تکراری یا متداول در گذشته استفاده می‌شود. گذشته‌ی استمراری بیان عادات ممکن است برای تاکید با [ἄν](https://logeion.uchicago.edu/%E1%BC%84%CE%BD) همراه شود. در هومر و هرودوت گذشته‌ی استمراری و تام گاه با اضافه کردن پسوند [σκον](https://logeion.uchicago.edu/%CF%83%CE%BA%CE%BF%CE%BD) و [σκομην](https://logeion.uchicago.edu/%CF%83%CE%BA%CE%BF%CE%BC%CE%B7%CE%BD) ساخته می‌شود و بیانگر یک کنش مرسوم یا تکراری گذشته است.
+از زمان گذشته‌ی استمراری برای بیان عادات و افعال تکراری یا متداول در گذشته استفاده می‌شود. گذشته‌ی استمراری بیان عادات ممکن است برای تاکید با ἄν همراه شود. در هومر و هرودوت گذشته‌ی استمراری و تام گاه با اضافه کردن پسوند σκον و σκομην ساخته می‌شود و بیانگر یک کنش مرسوم یا تکراری گذشته است.
 
-→ “[ἐπεὶ](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B5%E1%BD%B6)stasi/aze) [εἶδον](https://logeion.uchicago.edu/%CE%B5%E1%BC%B6%CE%B4%CE%BF%CE%BD)pei\\) [αὐτὸν](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%E1%BD%B8%CE%BD)=don) [οἵπερ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B5%CF%80%CE%B5%CF%81)to\\n) [πρόσθεν](https://logeion.uchicago.edu/%CF%80%CF%81%CF%8C%CF%83%CE%B8%CE%B5%CE%BD) [**προσεκύνουν**](https://logeion.uchicago.edu/%2A%2A%CF%80%CF%81%CE%BF%CF%83%CE%B5%CE%BA%CF%8D%CE%BD%CE%BF%CF%85%CE%BD%2A%2A), [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [τότε](https://logeion.uchicago.edu/%CF%84%CF%8C%CF%84%CE%B5) [προσεκύνησαν](https://logeion.uchicago.edu/%CF%80%CF%81%CE%BF%CF%83%CE%B5%CE%BA%CF%8D%CE%BD%CE%B7%CF%83%CE%B1%CE%BD)” [**X. A. 1.6.10**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.6.10&lang=original); ⇾ 
+→ “ἐπεὶ εἶδον αὐτὸν οἵπερ πρόσθεν **προσεκύνουν**, καὶ τότε προσεκύνησαν” **X. A. 1.6.10**; ⇾ 
 
 «هنگامی که او را دیدند، همان کسانی که پیش‌از‌این عادت داشتند بر او سجده کنند، آنگاه نیز سجده کردند»
 
-→ “([Σωκράτης](https://logeion.uchicago.edu/%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%B7%CF%82)) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [ἑαυτοῦ](https://logeion.uchicago.edu/%E1%BC%91%CE%B1%CF%85%CF%84%CE%BF%E1%BF%A6) [ἐπιθυμοῦντας](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B9%CE%B8%CF%85%CE%BC%CE%BF%E1%BF%A6%CE%BD%CF%84%CE%B1%CF%82) [οὐκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA)piqu_mou=ntas) [**ἐπράττετο**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%80%CF%81%CE%AC%CF%84%CF%84%CE%B5%CF%84%CE%BF%2A%2A)k) [χρήματα](https://logeion.uchicago.edu/%CF%87%CF%81%CE%AE%CE%BC%CE%B1%CF%84%CE%B1)pra/_tteto)” [**X. M. 1.2.5**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Mem.%201.2.5&lang=original); ⇾ 
+→ “(Σωκράτης) τοὺς ἑαυτοῦ ἐπιθυμοῦντας οὐκ **ἐπράττετο** χρήματα” **X. M. 1.2.5**; ⇾ 
 
 «(سقراط) از کسانی که هوادار او بودند، پول مطالبه نمی‌کرد»
 
-→ “[**ἐπεθύμει**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%80%CE%B5%CE%B8%CF%8D%CE%BC%CE%B5%CE%B9%2A%2A)/n) [ἄν](https://logeion.uchicago.edu/%E1%BC%84%CE%BD)pequ/_mei) [τις](https://logeion.uchicago.edu/%CF%84%CE%B9%CF%82)/n) [ἔτι](https://logeion.uchicago.edu/%E1%BC%94%CF%84%CE%B9) [πλείω](https://logeion.uchicago.edu/%CF%80%CE%BB%CE%B5%CE%AF%CF%89)/ti) [αὐτοῦ](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%A6) [ἀκούειν](https://logeion.uchicago.edu/%E1%BC%80%CE%BA%CE%BF%CF%8D%CE%B5%CE%B9%CE%BD)tou=)” [**X. C. 1.4.3**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.4.3&lang=original); ⇾ 
+→ “**ἐπεθύμει** ἄν τις ἔτι πλείω αὐτοῦ ἀκούειν” **X. C. 1.4.3**; ⇾ 
 
 «آدم تمایل داشت که بیشتر به (حرف‌های) او گوش بدهد»
 
-→ “[**διηρώτων**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%B7%CF%81%CF%8E%CF%84%CF%89%CE%BD%2A%2A)/n) [ἄν](https://logeion.uchicago.edu/%E1%BC%84%CE%BD)” [**P. A. 22b**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2022b&lang=original); ⇾ 
+→ “**διηρώτων** ἄν” **P. A. 22b**; ⇾ 
 
 «می‌پرسیدم»
 

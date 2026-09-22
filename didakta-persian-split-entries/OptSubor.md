@@ -2,35 +2,35 @@
 
 وجه تمنایی غالباً در انواع مختلف بند‌های وابسته از جمله بند‌های بیان زمان، بند‌های شرطی و یا موصولی استفاده می‌شود. در بندهای وابسته‌ی تاریخی، وجه تمنایی می‌تواند جایگزین وجه اصلی شود. این کاربرد تمنایی تنها در بندهای‌ وابسته‌ی تاریخی (گذشته‌ی استمراری، گذشته‌ی تام و گذشته‌ی کامل) دیده می‌شود و در بندهای وابسته‌ی زمان‌‌های اصلی (حال، حال کامل و آینده) به کار نمی‌رود. این کاربرد تمنایی را تمنایی غیرصریح می‌نامند.
 
-تمنایی بیان استمرار (بدون [ἄν](https://logeion.uchicago.edu/%E1%BC%84%CE%BD)) ممکن است در بند‌های وابسته‌ی نامتعین در زمان‌های تاریخی برای بیان کنشی مکرر یا طبق عادت به کار رود.
+تمنایی بیان استمرار (بدون ἄν) ممکن است در بند‌های وابسته‌ی نامتعین در زمان‌های تاریخی برای بیان کنشی مکرر یا طبق عادت به کار رود.
 
-→ “[εἴ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B4)ph/|noun) [πού](https://logeion.uchicago.edu/%CF%80%CE%BF%CF%8D)/) [τι](https://logeion.uchicago.edu/%CF%84%CE%B9) [**ὁρῴη**](https://logeion.uchicago.edu/%2A%2A%E1%BD%81%CF%81%E1%BF%B4%CE%B7%2A%2A) [βρωτόν](https://logeion.uchicago.edu/%CE%B2%CF%81%CF%89%CF%84%CF%8C%CE%BD), [διεδίδου](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%B5%CE%B4%CE%AF%CE%B4%CE%BF%CF%85)” [**X. A. 4.5.8**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%204.5.8&lang=original); ⇾
+→ “εἴ πού τι **ὁρῴη** βρωτόν, διεδίδου” **X. A. 4.5.8**; ⇾
 
 «اگر جایی خوراکی می‌دید، تقسیم می‌کرد»
 
-→ “[εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0) [δέ](https://logeion.uchicago.edu/%CE%B4%CE%AD)) [τις](https://logeion.uchicago.edu/%CF%84%CE%B9%CF%82) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [**ἀντείποι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%BD%CF%84%CE%B5%CE%AF%CF%80%CE%BF%CE%B9%2A%2A), [εὐθὺς](https://logeion.uchicago.edu/%CE%B5%E1%BD%90%CE%B8%E1%BD%BA%CF%82)ntei/poi) . . . [ἐτεθνήκει](https://logeion.uchicago.edu/%E1%BC%90%CF%84%CE%B5%CE%B8%CE%BD%CE%AE%CE%BA%CE%B5%CE%B9)qu\\s)” [**T. 8.66**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%208.66&lang=original); ⇾ 
+→ “εἰ δέ τις καὶ **ἀντείποι**, εὐθὺς . . . ἐτεθνήκει” **T. 8.66**; ⇾ 
 
 «اگر کسی مخالفت می‌کرد، بی‌درنگ کشته می‌شد»
 
-→ “[δέομαι](https://logeion.uchicago.edu/%CE%B4%CE%AD%CE%BF%CE%BC%CE%B1%CE%B9)polw/leite) [οὖν](https://logeion.uchicago.edu/%CE%BF%E1%BD%96%CE%BD) [σου](https://logeion.uchicago.edu/%CF%83%CE%BF%CF%85)=n) [παραμεῖναι](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%CE%B1%CE%BC%CE%B5%E1%BF%96%CE%BD%CE%B1%CE%B9) [ἡμῖν](https://logeion.uchicago.edu/%E1%BC%A1%CE%BC%E1%BF%96%CE%BD): [ὡς](https://logeion.uchicago.edu/%E1%BD%A1%CF%82) [ἐγὼ](https://logeion.uchicago.edu/%E1%BC%90%CE%B3%E1%BD%BC) [οὐδ᾽](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%B4%E1%BE%BD)gw\\) [ἂν](https://logeion.uchicago.edu/%E1%BC%82%CE%BD)d%27) [ἑνὸς](https://logeion.uchicago.edu/%E1%BC%91%CE%BD%E1%BD%B8%CF%82)\\n) [ἥδιον](https://logeion.uchicago.edu/%E1%BC%A5%CE%B4%CE%B9%CE%BF%CE%BD) [**ἀκούσαιμι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%BA%CE%BF%CF%8D%CF%83%CE%B1%CE%B9%CE%BC%CE%B9%2A%2A) [ἢ](https://logeion.uchicago.edu/%E1%BC%A2)kou/saimi) [σοῦ](https://logeion.uchicago.edu/%CF%83%CE%BF%E1%BF%A6)\\)” [**P. Pr. 335d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Prot.%20335d&lang=original); ⇾ 
+→ “δέομαι οὖν σου παραμεῖναι ἡμῖν: ὡς ἐγὼ οὐδ᾽ ἂν ἑνὸς ἥδιον **ἀκούσαιμι** ἢ σοῦ” **P. Pr. 335d**; ⇾ 
 
 «بنابراین از تو خواهش دارم که پیش ما بمانی، چرا که من (تمایل ندارم) جز تو به هیچ‌کس گوش بسپارم»
 
-→ “[τοσούτου](https://logeion.uchicago.edu/%CF%84%CE%BF%CF%83%CE%BF%CF%8D%CF%84%CE%BF%CF%85) [δεῖς](https://logeion.uchicago.edu/%CE%B4%CE%B5%E1%BF%96%CF%82) [ἐλέου](https://logeion.uchicago.edu/%E1%BC%90%CE%BB%CE%AD%CE%BF%CF%85) [τινὸς](https://logeion.uchicago.edu/%CF%84%CE%B9%CE%BD%E1%BD%B8%CF%82)le/ou) [ἄξιος](https://logeion.uchicago.edu/%E1%BC%84%CE%BE%CE%B9%CE%BF%CF%82) [εἶναι](https://logeion.uchicago.edu/%CE%B5%E1%BC%B6%CE%BD%CE%B1%CE%B9)/cios) [ὥστε](https://logeion.uchicago.edu/%E1%BD%A5%CF%83%CF%84%CE%B5)=nai) [**μισηθείης**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%B9%CF%83%CE%B7%CE%B8%CE%B5%CE%AF%CE%B7%CF%82%2A%2A) [ἂν](https://logeion.uchicago.edu/%E1%BC%82%CE%BD) [δικαιότατ᾽](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%BA%CE%B1%CE%B9%CF%8C%CF%84%CE%B1%CF%84%E1%BE%BD)\\n) [ἀνθρώπων](https://logeion.uchicago.edu/%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CF%89%CE%BD)” [**D. 37.49**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2037.49&lang=original); ⇾ 
+→ “τοσούτου δεῖς ἐλέου τινὸς ἄξιος εἶναι ὥστε **μισηθείης** ἂν δικαιότατ᾽ ἀνθρώπων” **D. 37.49**; ⇾ 
 
 «آن ‌قدر سزاوار ترحم نیستی که حتی عادل‌ترین مردمان نیز از تو منزجر خواهد بود»
 
-→ “[εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0) [δέ](https://logeion.uchicago.edu/%CE%B4%CE%AD)) [τινες](https://logeion.uchicago.edu/%CF%84%CE%B9%CE%BD%CE%B5%CF%82) [φοβοῦνται](https://logeion.uchicago.edu/%CF%86%CE%BF%CE%B2%CE%BF%E1%BF%A6%CE%BD%CF%84%CE%B1%CE%B9) [μὴ](https://logeion.uchicago.edu/%CE%BC%E1%BD%B4) [ματαία](https://logeion.uchicago.edu/%CE%BC%CE%B1%CF%84%CE%B1%CE%AF%CE%B1) [ἂν](https://logeion.uchicago.edu/%E1%BC%82%CE%BD) [**γένοιτο**](https://logeion.uchicago.edu/%2A%2A%CE%B3%CE%AD%CE%BD%CE%BF%CE%B9%CF%84%CE%BF%2A%2A)\\n) [αὕτη](https://logeion.uchicago.edu/%CE%B1%E1%BD%95%CF%84%CE%B7) [ἡ](https://logeion.uchicago.edu/%E1%BC%A1) [κατασκευή](https://logeion.uchicago.edu/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE), [εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0) [πόλεμος](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B5%CE%BC%CE%BF%CF%82)) [**ἐγερθείη**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%B3%CE%B5%CF%81%CE%B8%CE%B5%CE%AF%CE%B7%2A%2A), [ἐννοησάτω](https://logeion.uchicago.edu/%E1%BC%90%CE%BD%CE%BD%CE%BF%CE%B7%CF%83%CE%AC%CF%84%CF%89)gerqei/h) [ὅτι](https://logeion.uchicago.edu/%E1%BD%85%CF%84%CE%B9)nnohsa/tw) [κτλ](https://logeion.uchicago.edu/%CE%BA%CF%84%CE%BB). [**X. Vect. 4.41**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Ways%204.41&lang=original); ⇾
+→ “εἰ δέ τινες φοβοῦνται μὴ ματαία ἂν **γένοιτο** αὕτη ἡ κατασκευή, εἰ πόλεμος **ἐγερθείη**, ἐννοησάτω ὅτι κτλ. **X. Vect. 4.41**; ⇾
 
 «اگر برخی می‌ترسند که این تدبیر بیهوده باشد، اگر جنگی درگیرد، بدانند که ...»
 
 هنگامی که فعل تمنایی در بند اصلی به آینده اشاره دارد (تمنایی بالقوه و تمنایی آرزویی)، فعلِ بند وابسته نیز برای همگونی، تمنایی می‌شود.
 
-→ “[ἔρδοι](https://logeion.uchicago.edu/%E1%BC%94%CF%81%CE%B4%CE%BF%CE%B9) [τις](https://logeion.uchicago.edu/%CF%84%CE%B9%CF%82)/rdoi) [ἣν](https://logeion.uchicago.edu/%E1%BC%A3%CE%BD) [ἕκαστος](https://logeion.uchicago.edu/%E1%BC%95%CE%BA%CE%B1%CF%83%CF%84%CE%BF%CF%82) [**εἰδείη**](https://logeion.uchicago.edu/%2A%2A%CE%B5%E1%BC%B0%CE%B4%CE%B5%CE%AF%CE%B7%2A%2A) [τέχνην](https://logeion.uchicago.edu/%CF%84%CE%AD%CF%87%CE%BD%CE%B7%CE%BD)dei/h)” [**Ar. Vesp. 1431**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Wasps%201431&lang=original); ⇾ 
+→ “ἔρδοι τις ἣν ἕκαστος **εἰδείη** τέχνην” **Ar. Vesp. 1431**; ⇾ 
 
 «کاش هر کس مهارتی را که بلد است انجام دهد»
 
-→ “[ὄλοιο](https://logeion.uchicago.edu/%E1%BD%84%CE%BB%CE%BF%CE%B9%CE%BF) [μήπω](https://logeion.uchicago.edu/%CE%BC%CE%AE%CF%80%CF%89)/loio), [πρὶν](https://logeion.uchicago.edu/%CF%80%CF%81%E1%BD%B6%CE%BD) [**μάθοιμι**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%AC%CE%B8%CE%BF%CE%B9%CE%BC%CE%B9%2A%2A)” [**S. Ph. 961**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Phil.%20961&lang=original); ⇾ 
+→ “ὄλοιο μήπω, πρὶν **μάθοιμι**” **S. Ph. 961**; ⇾ 
 
 «هلاک نشوی، تا بفهمم …»
 

@@ -1,15 +1,15 @@
 # §AccOath. Oaths[^45]
 
-The accusative of oath indicates the person or thing by which one swears and is accompanied bythe adverbs of swearing such as [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC), [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC)), [ναὶ](https://logeion.uchicago.edu/%CE%BD%CE%B1%E1%BD%B6) [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC), [νή](https://logeion.uchicago.edu/%CE%BD%CE%AE), or verbs of swearing, [ὀμνύναι](https://logeion.uchicago.edu/%E1%BD%80%CE%BC%CE%BD%CF%8D%CE%BD%CE%B1%CE%B9) swear by ([τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82)mnu/nai) [θεούς](https://logeion.uchicago.edu/%CE%B8%CE%B5%CE%BF%CF%8D%CF%82), pass. [Ζεὺς](https://logeion.uchicago.edu/%CE%96%CE%B5%E1%BD%BA%CF%82) [ὀμώμοται](https://logeion.uchicago.edu/%E1%BD%80%CE%BC%CF%8E%CE%BC%CE%BF%CF%84%CE%B1%CE%B9)) and *swear to* ([τὸν](https://logeion.uchicago.edu/%CF%84%E1%BD%B8%CE%BD)mw/motai) [ὅρκον](https://logeion.uchicago.edu/%E1%BD%85%CF%81%CE%BA%CE%BF%CE%BD), pass. [ὁ](https://logeion.uchicago.edu/%E1%BD%81) [ὅρκος](https://logeion.uchicago.edu/%E1%BD%85%CF%81%CE%BA%CE%BF%CF%82) [ὀμώμοται](https://logeion.uchicago.edu/%E1%BD%80%CE%BC%CF%8E%CE%BC%CE%BF%CF%84%CE%B1%CE%B9)).
+The accusative of oath indicates the person or thing by which one swears and is accompanied bythe adverbs of swearing such as μά, οὐ μά, ναὶ μά, νή, or verbs of swearing, ὀμνύναι swear by (τοὺς θεούς, pass. Ζεὺς ὀμώμοται) and *swear to* (τὸν ὅρκον, pass. ὁ ὅρκος ὀμώμοται).
 
-→ “[ὀμνύω](https://logeion.uchicago.edu/%E1%BD%80%CE%BC%CE%BD%CF%8D%CF%89) [ὑμῖν](https://logeion.uchicago.edu/%E1%BD%91%CE%BC%E1%BF%96%CE%BD)mnu/w) [**θεοὺς**](https://logeion.uchicago.edu/%2A%2A%CE%B8%CE%B5%CE%BF%E1%BD%BA%CF%82%2A%2A) **[πάντας](https://logeion.uchicago.edu/%CF%80%CE%AC%CE%BD%CF%84%CE%B1%CF%82) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [πάσας](https://logeion.uchicago.edu/%CF%80%CE%AC%CF%83%CE%B1%CF%82)**” [**Xen. Anab. 6.1.31**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%206.1.31&lang=original); ⇾ I swear to you by all the gods and goddesses.
+→ “ὀμνύω ὑμῖν **θεοὺς** **πάντας καὶ πάσας**” **Xen. Anab. 6.1.31**; ⇾ I swear to you by all the gods and goddesses.
 
-[μά](https://logeion.uchicago.edu/%CE%BC%CE%AC) is negative, except when preceded by [ναί](https://logeion.uchicago.edu/%CE%BD%CE%B1%CE%AF). [μά](https://logeion.uchicago.edu/%CE%BC%CE%AC) may stand alone when a negative precedes (often in a question) or when a negative follows in the next clause: 
+μά is negative, except when preceded by ναί. μά may stand alone when a negative precedes (often in a question) or when a negative follows in the next clause: 
 
-→ “[μὰ](https://logeion.uchicago.edu/%CE%BC%E1%BD%B0) [**τὸν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B8%CE%BD%2A%2A) **[Ἀπόλλω](https://logeion.uchicago.edu/%E1%BC%88%CF%80%CF%8C%CE%BB%CE%BB%CF%89)**, [οὔκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%94%CE%BA)apo/llw)” [**Ar. Thesm. 269**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Thes.%20269&lang=original); ⇾ No, by Apollo
+→ “μὰ **τὸν** **Ἀπόλλω**, οὔκ” **Ar. Thesm. 269**; ⇾ No, by Apollo
 
-[μά](https://logeion.uchicago.edu/%CE%BC%CE%AC)/k) is sometimes omitted after [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90), and after [ναί](https://logeion.uchicago.edu/%CE%BD%CE%B1%CE%AF)): 
+μά is sometimes omitted after οὐ, and after ναί: 
 
-→ “[οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [**τὸν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B8%CE%BD%2A%2A)) **[Ὄλυμπον](https://logeion.uchicago.edu/%E1%BD%8C%CE%BB%CF%85%CE%BC%CF%80%CE%BF%CE%BD)**” [**S. O. T. 1088**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20OT%201088&lang=original); ⇾ by heaven, \[you wil\] not.
+→ “οὐ **τὸν** **Ὄλυμπον**” **S. O. T. 1088**; ⇾ by heaven, \[you wil\] not.
 
 ###

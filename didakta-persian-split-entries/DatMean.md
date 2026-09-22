@@ -1,41 +1,41 @@
 # §DatMean. نحوه و وسیله
 
-حالت برایی می‌تواند شرایط و نحوه‌ی وقوع امری را بیان کند. برایی بیان نحوه، وسیله و شرایط وقوع،  معمولا اسمی انتزاعی است و ممکن است همراه با صفت بیاید. این نوع برایی در برخی موارد شبیه به قید عمل می‌کند، به عنوان مثال: [βίᾳ](https://logeion.uchicago.edu/%CE%B2%CE%AF%E1%BE%B3) به زور، [δίκῃ](https://logeion.uchicago.edu/%CE%B4%CE%AF%CE%BA%E1%BF%83) عادلانه، [δόλῳ](https://logeion.uchicago.edu/%CE%B4%CF%8C%CE%BB%E1%BF%B3) زیرکانه، [ἡσυχῇ](https://logeion.uchicago.edu/%E1%BC%A1%CF%83%CF%85%CF%87%E1%BF%87)/rgw|) در سکوت، [σπουδῇ](https://logeion.uchicago.edu/%CF%83%CF%80%CE%BF%CF%85%CE%B4%E1%BF%87) سراسیمه، [τῇ](https://logeion.uchicago.edu/%CF%84%E1%BF%87) [ἀληθείᾳ](https://logeion.uchicago.edu/%E1%BC%80%CE%BB%CE%B7%CE%B8%CE%B5%CE%AF%E1%BE%B3) حقیقتاً، [τῷ](https://logeion.uchicago.edu/%CF%84%E1%BF%B7)lhqei/a|) [ὄντι](https://logeion.uchicago.edu/%E1%BD%84%CE%BD%CF%84%CE%B9) واقعاً، [ὀργῇ](https://logeion.uchicago.edu/%E1%BD%80%CF%81%CE%B3%E1%BF%87)/nti) با خشم.
+حالت برایی می‌تواند شرایط و نحوه‌ی وقوع امری را بیان کند. برایی بیان نحوه، وسیله و شرایط وقوع،  معمولا اسمی انتزاعی است و ممکن است همراه با صفت بیاید. این نوع برایی در برخی موارد شبیه به قید عمل می‌کند، به عنوان مثال: βίᾳ به زور، δίκῃ عادلانه، δόλῳ زیرکانه، ἡσυχῇ در سکوت، σπουδῇ سراسیمه، τῇ ἀληθείᾳ حقیقتاً، τῷ ὄντι واقعاً، ὀργῇ با خشم.
 
-→ “[**πολλῇ**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%BF%CE%BB%CE%BB%E1%BF%87%2A%2A)rh/sqw) **[βοῇ](https://logeion.uchicago.edu/%CE%B2%CE%BF%E1%BF%87)** [προσέκειντο](https://logeion.uchicago.edu/%CF%80%CF%81%CE%BF%CF%83%CE%AD%CE%BA%CE%B5%CE%B9%CE%BD%CF%84%CE%BF)” [**Thuc. 4.127**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.127&lang=original); ⇾ 
+→ “**πολλῇ** **βοῇ** προσέκειντο” **Thuc. 4.127**; ⇾ 
 
 «با فریاد‌های بلند پیش می‌آمدند»
 
-→ “[**παντὶ**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%B1%CE%BD%CF%84%E1%BD%B6%2A%2A) **[σθένει](https://logeion.uchicago.edu/%CF%83%CE%B8%CE%AD%CE%BD%CE%B5%CE%B9)**” [**Thuc. 5\. 23**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.+5.23&fromdoc=Perseus%3Atext%3A1999.01.0247); ⇾ 
+→ “**παντὶ** **σθένει**” **Thuc. 5\. 23**; ⇾ 
 
 «با تمام توان»
 
-→ “[**σιωπῇ**](https://logeion.uchicago.edu/%2A%2A%CF%83%CE%B9%CF%89%CF%80%E1%BF%87%2A%2A)=n) [ἐδείπνουν](https://logeion.uchicago.edu/%E1%BC%90%CE%B4%CE%B5%CE%AF%CF%80%CE%BD%CE%BF%CF%85%CE%BD)” [**Xen. Sym. 1**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.+Sym.+1); ⇾ 
+→ “**σιωπῇ** ἐδείπνουν” **Xen. Sym. 1**; ⇾ 
 
 «در سکوت غذا خوردند»
 
-→ “[κατὰ](https://logeion.uchicago.edu/%CE%BA%CE%B1%CF%84%E1%BD%B0)sba/ntes) [σπουδὴν](https://logeion.uchicago.edu/%CF%83%CF%80%CE%BF%CF%85%CE%B4%E1%BD%B4%CE%BD) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [**πολλῷ**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%BF%CE%BB%CE%BB%E1%BF%B7%2A%2A) [**θορύβῳ**](https://logeion.uchicago.edu/%2A%2A%CE%B8%CE%BF%CF%81%CF%8D%CE%B2%E1%BF%B3%2A%2A) [ταῖς](https://logeion.uchicago.edu/%CF%84%CE%B1%E1%BF%96%CF%82) [μὲν](https://logeion.uchicago.edu/%CE%BC%E1%BD%B2%CE%BD) [ναυσὶν](https://logeion.uchicago.edu/%CE%BD%CE%B1%CF%85%CF%83%E1%BD%B6%CE%BD) [ἐπὶ](https://logeion.uchicago.edu/%E1%BC%90%CF%80%E1%BD%B6) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD)pi\\) [Σαλαμῖνα](https://logeion.uchicago.edu/%CE%A3%CE%B1%CE%BB%CE%B1%CE%BC%E1%BF%96%CE%BD%CE%B1) [ἔπλεον](https://logeion.uchicago.edu/%E1%BC%94%CF%80%CE%BB%CE%B5%CE%BF%CE%BD)” [**Thuc. 2.94.2**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.+2.94.2); ⇾ 
+→ “κατὰ σπουδὴν καὶ **πολλῷ** **θορύβῳ** ταῖς μὲν ναυσὶν ἐπὶ τὴν Σαλαμῖνα ἔπλεον” **Thuc. 2.94.2**; ⇾ 
 
 «با عجله و غوغای بسیار کشتی‌هایشان را سوی سالامیس می‌راندند»
 
-→ “[**βιαίῳ**](https://logeion.uchicago.edu/%2A%2A%CE%B2%CE%B9%CE%B1%CE%AF%E1%BF%B3%2A%2A) [**θανάτῳ**](https://logeion.uchicago.edu/%2A%2A%CE%B8%CE%B1%CE%BD%CE%AC%CF%84%E1%BF%B3%2A%2A) [ἀποθνῄσκειν](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%BF%CE%B8%CE%BD%E1%BF%84%CF%83%CE%BA%CE%B5%CE%B9%CE%BD)” [**X. Hi. 4.3**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hiero%204.3&lang=original) (= [βίᾳ](https://logeion.uchicago.edu/%CE%B2%CE%AF%E1%BE%B3)poqnh/|skein)); ⇾ 
+→ “**βιαίῳ** **θανάτῳ** ἀποθνῄσκειν” **X. Hi. 4.3** (= βίᾳ); ⇾ 
 
 «به مرگی سخت مردن»
 
-→ “[θεῖν](https://logeion.uchicago.edu/%CE%B8%CE%B5%E1%BF%96%CE%BD) [**δρόμῳ**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CF%81%CF%8C%CE%BC%E1%BF%B3%2A%2A)” [**X. A. 1.8.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.8.19&lang=original); ⇾ 
+→ “θεῖν **δρόμῳ**” **X. A. 1.8.19**; ⇾ 
 
 «با تمام توان دویدن»
 
 برایی بیان ارزش و برایی مواد و اجزاء تشکیل‌دهنده ممکن است در این دسته قرار گیرند.
 
-→ “[**μέρει**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%AD%CF%81%CE%B5%CE%B9%2A%2A) [τῶν](https://logeion.uchicago.edu/%CF%84%E1%BF%B6%CE%BD) [ἀδικημάτων](https://logeion.uchicago.edu/%E1%BC%80%CE%B4%CE%B9%CE%BA%CE%B7%CE%BC%CE%AC%CF%84%CF%89%CE%BD) [τὸν](https://logeion.uchicago.edu/%CF%84%E1%BD%B8%CE%BD)dikhma/twn) [κίνδυνον](https://logeion.uchicago.edu/%CE%BA%CE%AF%CE%BD%CE%B4%CF%85%CE%BD%CE%BF%CE%BD) [ἐξεπρίαντο](https://logeion.uchicago.edu/%E1%BC%90%CE%BE%CE%B5%CF%80%CF%81%CE%AF%CE%B1%CE%BD%CF%84%CE%BF)” [**L. 27.6**](https://www.perseus.tufts.edu/hopper/text?doc=Lys.%2027.6&lang=original); ⇾ 
+→ “**μέρει** τῶν ἀδικημάτων τὸν κίνδυνον ἐξεπρίαντο” **L. 27.6**; ⇾ 
 
 «با (رشوه‌دادن) بخشی از دستاوردهای نامشروع خود، از خطر رها می‌شدند»
 
-→ “[κατεσκευάσατο](https://logeion.uchicago.edu/%CE%BA%CE%B1%CF%84%CE%B5%CF%83%CE%BA%CE%B5%CF%85%CE%AC%CF%83%CE%B1%CF%84%CE%BF) [ἅρματα](https://logeion.uchicago.edu/%E1%BC%85%CF%81%CE%BC%CE%B1%CF%84%CE%B1) **[τροχοῖς](https://logeion.uchicago.edu/%CF%84%CF%81%CE%BF%CF%87%CE%BF%E1%BF%96%CF%82) [ἰσχυροῖς](https://logeion.uchicago.edu/%E1%BC%B0%CF%83%CF%87%CF%85%CF%81%CE%BF%E1%BF%96%CF%82)**” [**X. C. 6.1.29**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%206.1.29&lang=original); ⇾ 
+→ “κατεσκευάσατο ἅρματα **τροχοῖς ἰσχυροῖς**” **X. C. 6.1.29**; ⇾ 
 
 «ارابه‌هایی با چرخ‌های محکم ساخت»
 
-→ “[ἐζημίωσαν](https://logeion.uchicago.edu/%E1%BC%90%CE%B6%CE%B7%CE%BC%CE%AF%CF%89%CF%83%CE%B1%CE%BD) [**χρήμασιν**](https://logeion.uchicago.edu/%2A%2A%CF%87%CF%81%CE%AE%CE%BC%CE%B1%CF%83%CE%B9%CE%BD%2A%2A)zhmi/wsan)” [**Thuc. 2.65**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%202.65&lang=original); ⇾ 
+→ “ἐζημίωσαν **χρήμασιν**” **Thuc. 2.65**; ⇾ 
 
 «او را با غرامت مجازات کردند»

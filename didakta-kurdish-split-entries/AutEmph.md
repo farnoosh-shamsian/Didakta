@@ -1,16 +1,16 @@
 # §AutEmph. جەختکەر
 
 جێناوی αὐτός کاتێک له دۆخی نیهادی (سه‌رکاری) بەکاردەهێنرێت، یان کاتێک لە شوێنی پاڵدراو یان له ڕێک‌کەوت لەگەڵ جێناو و ناوێکدا بەکاردەهێنرێت، ڕۆڵێکی جەختکەرەوەی هەیە. بۆ نموونە αὐτὸς ὁ ἀνήρ یان ὁ ἀνὴρ αὐτός «ئه‌و پیاوە خۆی»، و αὐτοῦ τοῦ ἀνδρός یان τοῦ ἀνδρὸς α ὐτοῦ، و هاوشێوەکانی.  
-→ “[**αὐτὴ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BD%B4%2A%2A)to/s) [ἡ](https://logeion.uchicago.edu/%E1%BC%A1)th%5C) [ἀλήθεια](https://logeion.uchicago.edu/%E1%BC%80%CE%BB%CE%AE%CE%B8%CE%B5%CE%B9%CE%B1)” [**Aes. 3.207**](https://www.perseus.tufts.edu/hopper/text?doc=Aeschin.%203.207&lang=original); ⇾   
+→ “**αὐτὴ** ἡ ἀλήθεια” **Aes. 3.207**; ⇾   
 «راستیی دیار»  
-→ “[τὸ](https://logeion.uchicago.edu/%CF%84%E1%BD%B8)lh/qeia) [πλέον](https://logeion.uchicago.edu/%CF%80%CE%BB%CE%AD%CE%BF%CE%BD) [τοῦ](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%A6) [χωρίου](https://logeion.uchicago.edu/%CF%87%CF%89%CF%81%CE%AF%CE%BF%CF%85) [**αὐτὸ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BD%B8%2A%2A) [καρτερὸν](https://logeion.uchicago.edu/%CE%BA%CE%B1%CF%81%CF%84%CE%B5%CF%81%E1%BD%B8%CE%BD)to%5C) [ὑπῆρχε](https://logeion.uchicago.edu/%E1%BD%91%CF%80%E1%BF%86%CF%81%CF%87%CE%B5)” [**T. 4.4**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.4&lang=original); ⇾   
+→ “τὸ πλέον τοῦ χωρίου **αὐτὸ** καρτερὸν ὑπῆρχε” **T. 4.4**; ⇾   
 «بەشێکی زۆر لە شوێنەکە خۆی لە خۆی‌دا قایم بوو»  
-→ “[**αὐτὰ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BD%B0%2A%2A) [τάδε](https://logeion.uchicago.edu/%CF%84%CE%AC%CE%B4%CE%B5)ta%5C)” [**T. 1.139**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%201.139&lang=original); ⇾   
+→ “**αὐτὰ** τάδε” **T. 1.139**; ⇾   
 «هه‌ر ئه‌مه خۆی»  
-→ “[ἄνδρας](https://logeion.uchicago.edu/%E1%BC%84%CE%BD%CE%B4%CF%81%CE%B1%CF%82) [οἳ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B3)/ndras) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [τοῖς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%96%CF%82) [μὴ](https://logeion.uchicago.edu/%CE%BC%E1%BD%B4) [ἐπικαλουμένοις](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B9%CE%BA%CE%B1%CE%BB%CE%BF%CF%85%CE%BC%CE%AD%CE%BD%CE%BF%CE%B9%CF%82) [**αὐτοὶ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BD%B6%2A%2A)pikaloume/nois) [ἐπιστρατεύουσι](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%B1%CF%84%CE%B5%CF%8D%CE%BF%CF%85%CF%83%CE%B9)toi%5C)” [**T. 4.60**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.60&lang=original); ⇾   
+→ “ἄνδρας οἳ καὶ τοῖς μὴ ἐπικαλουμένοις **αὐτοὶ** ἐπιστρατεύουσι” **T. 4.60**; ⇾   
 «ئەو پیاوانەی وا بەبێ بانگهێشت دەچنە بۆ شەڕ»  
-→ “[**αὐτοὶ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BD%B6%2A%2A)to/s) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD)toi%5C) [γῆν](https://logeion.uchicago.edu/%CE%B3%E1%BF%86%CE%BD) [ἔσχον](https://logeion.uchicago.edu/%E1%BC%94%CF%83%CF%87%CE%BF%CE%BD)” [**T. 1.114**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%201.114&lang=original); ⇾   
+→ “**αὐτοὶ** τὴν γῆν ἔσχον” **T. 1.114**; ⇾   
 «ئەوان خۆیان دەستیان بەسەر خاکەکەدا گرت»  
 αὐτός لە هۆمەردا به کەس یان شتێکی سه‌ره‌کی له بەراورد لەگەڵ پێوەندیەکانی ئه‌و که‌سه، بۆ جەختکردنەوە و ناکۆکی بەکاردێت:  
-→ “[**αὐτὸν**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BD%B8%CE%BD%2A%2A)to/s) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6)to%5Cn) [θεράποντα](https://logeion.uchicago.edu/%CE%B8%CE%B5%CF%81%CE%AC%CF%80%CE%BF%CE%BD%CF%84%CE%B1)” **[Hom. Il. 13.328](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0134%3Abook%3D13%3Acard%3D328)**; ⇾   
+→ “**αὐτὸν** καὶ θεράποντα” **Hom. Il. 13.328**; ⇾   
 «خۆی و خزمەتکارەکەی»

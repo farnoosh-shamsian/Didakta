@@ -1,17 +1,17 @@
 # §InfComm. دەربڕینی ئاوات یان سەرسوڕمان
 
 چاوگی چالاک ڕەنگە له جیاتی کرداری فەرماندانی دووهه‌م که‌س، بۆ دەربڕینی فەرمان بەکارده‌هێنرێت. لەم بەکارهێنانەدا، کردار لە جێگای بکه‌ری چاوگ‌دا دادەنیشێت. ئەم بەکارهێنانەی چاوگ، زیاتر لە شیعردا دەبینرێت نەک لە نه‌سر و په‌خشان و نووسراوه.  
-→ “[θαρσῶν](https://logeion.uchicago.edu/%CE%B8%CE%B1%CF%81%CF%83%E1%BF%B6%CE%BD)mh/n) [νῦν](https://logeion.uchicago.edu/%CE%BD%E1%BF%A6%CE%BD), [Διόμηδες](https://logeion.uchicago.edu/%CE%94%CE%B9%CF%8C%CE%BC%CE%B7%CE%B4%CE%B5%CF%82), [ἐπὶ](https://logeion.uchicago.edu/%E1%BC%90%CF%80%E1%BD%B6) [Τρώεσσι](https://logeion.uchicago.edu/%CE%A4%CF%81%CF%8E%CE%B5%CF%83%CF%83%CE%B9)pi%5C) [**μάχεσθαι**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%AC%CF%87%CE%B5%CF%83%CE%B8%CE%B1%CE%B9%2A%2A)” [**Hom. Il. 5.121**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0133%3Abook%3D5%3Acard%3D121); ⇾   
+→ “θαρσῶν νῦν, Διόμηδες, ἐπὶ Τρώεσσι **μάχεσθαι**” **Hom. Il. 5.121**; ⇾   
 «ئێستا، ئه‌ی دیۆمێدێس، بە ئازایەتییەوە لەگەڵ ترۆجانەکان شەڕ بکە»  
-→ “[σὺ](https://logeion.uchicago.edu/%CF%83%E1%BD%BA) [δέ](https://logeion.uchicago.edu/%CE%B4%CE%AD), [Κλεαρίδα](https://logeion.uchicago.edu/%CE%9A%CE%BB%CE%B5%CE%B1%CF%81%CE%AF%CE%B4%CE%B1) . . . [τὰς](https://logeion.uchicago.edu/%CF%84%E1%BD%B0%CF%82) [πύλας](https://logeion.uchicago.edu/%CF%80%CF%8D%CE%BB%CE%B1%CF%82) [ἀνοίξας](https://logeion.uchicago.edu/%E1%BC%80%CE%BD%CE%BF%CE%AF%CE%BE%CE%B1%CF%82) [**ἐπεκθεῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%80%CE%B5%CE%BA%CE%B8%CE%B5%E1%BF%96%CE%BD%2A%2A)noi/ca_s)” [**T. 5.9**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%205.9&lang=original); ⇾   
+→ “σὺ δέ, Κλεαρίδα . . . τὰς πύλας ἀνοίξας **ἐπεκθεῖν**” **T. 5.9**; ⇾   
 «بەڵام تۆ ئه‌ی کلێئاریداس، دەروازەکان بکەرەوە و هێرش به‌ره»  
 ڕەنگە چاوگ له‌گەڵ کرداری ئاکوزاتیڤ بۆ دەربڕینی کرداری داخوازی بەکاربهێنرێت.  
-→ “[θεοὶ](https://logeion.uchicago.edu/%CE%B8%CE%B5%CE%BF%E1%BD%B6)/lbion) [πολῖται](https://logeion.uchicago.edu/%CF%80%CE%BF%CE%BB%E1%BF%96%CF%84%CE%B1%CE%B9), [μή](https://logeion.uchicago.edu/%CE%BC%CE%AE) [με](https://logeion.uchicago.edu/%CE%BC%CE%B5) [δουλείας](https://logeion.uchicago.edu/%CE%B4%CE%BF%CF%85%CE%BB%CE%B5%CE%AF%CE%B1%CF%82) [**τυχεῖν**](https://logeion.uchicago.edu/%2A%2A%CF%84%CF%85%CF%87%CE%B5%E1%BF%96%CE%BD%2A%2A)” [**A. Sept. 253**](https://www.perseus.tufts.edu/hopper/text?doc=Aesch.%20Seven%20253&lang=original); ⇾   
+→ “θεοὶ πολῖται, μή με δουλείας **τυχεῖν**” **A. Sept. 253**; ⇾   
 «ئەی خوداکانی وڵاتەکەم، با کۆیلایەتی بەشی من نەبێت\!»  
-→ “[ὦ](https://logeion.uchicago.edu/%E1%BD%A6) [Ζεῦ](https://logeion.uchicago.edu/%CE%96%CE%B5%E1%BF%A6)=), [ἐκγενέσθαι](https://logeion.uchicago.edu/%E1%BC%90%CE%BA%CE%B3%CE%B5%CE%BD%CE%AD%CF%83%CE%B8%CE%B1%CE%B9) [μοι](https://logeion.uchicago.edu/%CE%BC%CE%BF%CE%B9)kgene/sqai) [Ἀθηναίους](https://logeion.uchicago.edu/%E1%BC%88%CE%B8%CE%B7%CE%BD%CE%B1%CE%AF%CE%BF%CF%85%CF%82) [**τείσασθαι**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%B5%CE%AF%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%2A%2A)aqhnai/ous)” [**Hdt. 5.105**](https://www.perseus.tufts.edu/hopper/text?doc=Hdt.%205.105&lang=original); ⇾   
+→ “ὦ Ζεῦ, ἐκγενέσθαι μοι Ἀθηναίους **τείσασθαι**” **Hdt. 5.105**; ⇾   
 «ئای زێئووس، سزادانی ئاتێنیه‌کانم پێ ببه‌خشه\!»  
 چاوگ هەندێک جار بۆ دەربڕینی سەرسوڕمان یان سەرلێشێواوی بەکاردێت. لەم بەکارهێنانەدا، بکه‌ری کردار لە دۆخی ئاکوزاتیڤ‌دا دێت.  
-→ “[ἐμὲ](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%E1%BD%B2) [**παθεῖν**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%B1%CE%B8%CE%B5%E1%BF%96%CE%BD%2A%2A)me%5C) [τάδε](https://logeion.uchicago.edu/%CF%84%CE%AC%CE%B4%CE%B5)” [**A. Eum. 837**](https://www.perseus.tufts.edu/hopper/text?doc=Aesch.%20Eum.%20837&lang=original); ⇾   
+→ “ἐμὲ **παθεῖν** τάδε” **A. Eum. 837**; ⇾   
 «کە من ئاوەها ئازار بچێژم»  
-→ “[τοιουτονὶ](https://logeion.uchicago.edu/%CF%84%CE%BF%CE%B9%CE%BF%CF%85%CF%84%CE%BF%CE%BD%E1%BD%B6) [**τρέφειν**](https://logeion.uchicago.edu/%2A%2A%CF%84%CF%81%CE%AD%CF%86%CE%B5%CE%B9%CE%BD%2A%2A) [κύνα](https://logeion.uchicago.edu/%CE%BA%CF%8D%CE%BD%CE%B1)” [**Ar. Vesp. 835**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Wasps%20835&lang=original); ⇾  
+→ “τοιουτονὶ **τρέφειν** κύνα” **Ar. Vesp. 835**; ⇾  
 «کێ وەها سەگێک ڕادەگرێت»

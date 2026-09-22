@@ -2,12 +2,12 @@
 
 The imperfect may express an action attempted, intended, or expected in the past that eventually did not occur. The conative imperfect is used with telic verbs.
 
-→ “[**ἔπειθον**](https://logeion.uchicago.edu/%2A%2A%E1%BC%94%CF%80%CE%B5%CE%B9%CE%B8%CE%BF%CE%BD%2A%2A)kou/ein) [αὐτούς](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%CE%BF%CF%8D%CF%82)/peiqon), [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6)tou/s) [οὓς](https://logeion.uchicago.edu/%CE%BF%E1%BD%93%CF%82) [ἔπεισα](https://logeion.uchicago.edu/%E1%BC%94%CF%80%CE%B5%CE%B9%CF%83%CE%B1), [τούτους](https://logeion.uchicago.edu/%CF%84%CE%BF%CF%8D%CF%84%CE%BF%CF%85%CF%82)/peisa) [ἔχων](https://logeion.uchicago.edu/%E1%BC%94%CF%87%CF%89%CE%BD) [ἐπορευόμην](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%BF%CF%81%CE%B5%CF%85%CF%8C%CE%BC%CE%B7%CE%BD)/xwn)” [**X. C. 5.5.2**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%205.5.22&lang=original); ⇾  I tried to persuade them, and I marched away with those whom I succeeded in persuading
+→ “**ἔπειθον** αὐτούς, καὶ οὓς ἔπεισα, τούτους ἔχων ἐπορευόμην” **X. C. 5.5.2**; ⇾  I tried to persuade them, and I marched away with those whom I succeeded in persuading
 
-→ “[Ἁλόννησον](https://logeion.uchicago.edu/%E1%BC%89%CE%BB%CF%8C%CE%BD%CE%BD%CE%B7%CF%83%CE%BF%CE%BD)poreuo/mhn) [**ἐδίδου**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%B4%CE%AF%CE%B4%CE%BF%CF%85%2A%2A): [ὁ](https://logeion.uchicago.edu/%E1%BD%81)di/dou) [δ᾽](https://logeion.uchicago.edu/%CE%B4%E1%BE%BD) [ἀπηγόρευε](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%B7%CE%B3%CF%8C%CF%81%CE%B5%CF%85%CE%B5) [μὴ](https://logeion.uchicago.edu/%CE%BC%E1%BD%B4)phgo/reue) [λαμβάνειν](https://logeion.uchicago.edu/%CE%BB%CE%B1%CE%BC%CE%B2%CE%AC%CE%BD%CE%B5%CE%B9%CE%BD)” [**Aes. 3.83**](https://www.perseus.tufts.edu/hopper/text?doc=Aeschin.%203.83&lang=original); ⇾ Philip *offered* (proposed to give) *Halonnesus*, *but he* (Demosthenes) *dissuaded* them from accepting it
+→ “Ἁλόννησον **ἐδίδου**: ὁ δ᾽ ἀπηγόρευε μὴ λαμβάνειν” **Aes. 3.83**; ⇾ Philip *offered* (proposed to give) *Halonnesus*, *but he* (Demosthenes) *dissuaded* them from accepting it
 
-→ “[Θηβαῖοι](https://logeion.uchicago.edu/%CE%98%CE%B7%CE%B2%CE%B1%E1%BF%96%CE%BF%CE%B9) [**κατεδουλοῦντ᾽**](https://logeion.uchicago.edu/%2A%2A%CE%BA%CE%B1%CF%84%CE%B5%CE%B4%CE%BF%CF%85%CE%BB%CE%BF%E1%BF%A6%CE%BD%CF%84%E1%BE%BD%2A%2A) [αὐτούς](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%CE%BF%CF%8D%CF%82)” [**D. 8.74**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%208.74&lang=original); ⇾ the Thebans tried to enslave them
+→ “Θηβαῖοι **κατεδουλοῦντ᾽** αὐτούς” **D. 8.74**; ⇾ the Thebans tried to enslave them
 
-→ “[**ἠπείγοντο**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A0%CF%80%CE%B5%CE%AF%CE%B3%CE%BF%CE%BD%CF%84%CE%BF%2A%2A)tou/s) [ἐς](https://logeion.uchicago.edu/%E1%BC%90%CF%82)pei/gonto) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD)s) [Κέρκυραν](https://logeion.uchicago.edu/%CE%9A%CE%AD%CF%81%CE%BA%CF%85%CF%81%CE%B1%CE%BD)” [**T. 4.3**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.3&lang=original); ⇾ they were for pushing on to Corcyra
+→ “**ἠπείγοντο** ἐς τὴν Κέρκυραν” **T. 4.3**; ⇾ they were for pushing on to Corcyra
 
 ###

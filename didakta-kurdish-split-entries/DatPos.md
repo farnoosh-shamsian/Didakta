@@ -1,9 +1,9 @@
 # §DatPos. خاوەندارێتی
 
-داتیڤی خاوەندارێتی لەگەڵ کردارگەلێکی وه‌کوو [γίγνομαι](https://logeion.uchicago.edu/%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9) و [εἰμί](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0%CE%BC%CE%AF) بۆ دەربڕینی خاوەندارێتی یان ویستن بەکاردێت. لەم پێکهاتەیەدا، ئەو کەسەی کە شتێکی بۆ خۆی هەیە یان خاوەندارێ شتێکیه، له دۆخی داتیڤدا دێت/ جێگیر دەبێت.  
-→ “[**ἄλλοις**](https://logeion.uchicago.edu/%2A%2A%E1%BC%84%CE%BB%CE%BB%CE%BF%CE%B9%CF%82%2A%2A)mi/) [μὲν](https://logeion.uchicago.edu/%CE%BC%E1%BD%B2%CE%BD)/llois) [χρήματά](https://logeion.uchicago.edu/%CF%87%CF%81%CE%AE%CE%BC%CE%B1%CF%84%CE%AC) [ἐστι](https://logeion.uchicago.edu/%E1%BC%90%CF%83%CF%84%CE%B9), [**ἡμῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A1%CE%BC%E1%BF%96%CE%BD%2A%2A)sti) [δὲ](https://logeion.uchicago.edu/%CE%B4%E1%BD%B2) [ξύμμαχοι](https://logeion.uchicago.edu/%CE%BE%CF%8D%CE%BC%CE%BC%CE%B1%CF%87%CE%BF%CE%B9) [ἀγαθοί](https://logeion.uchicago.edu/%E1%BC%80%CE%B3%CE%B1%CE%B8%CE%BF%CE%AF)” [**Thuc. 1.86**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%201.86&lang=original); ⇾   
+داتیڤی خاوەندارێتی لەگەڵ کردارگەلێکی وه‌کوو γίγνομαι و εἰμί بۆ دەربڕینی خاوەندارێتی یان ویستن بەکاردێت. لەم پێکهاتەیەدا، ئەو کەسەی کە شتێکی بۆ خۆی هەیە یان خاوەندارێ شتێکیه، له دۆخی داتیڤدا دێت/ جێگیر دەبێت.  
+→ “**ἄλλοις** μὲν χρήματά ἐστι, **ἡμῖν** δὲ ξύμμαχοι ἀγαθοί” **Thuc. 1.86**; ⇾   
 «ئه‌وانه‌ی تر دەوڵەمەندییان هەیە، ئێمە هاوسەنگەری باشمان هەیە»  
-→ “[**τῷ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B7%2A%2A)gaqoi/) **[δικαίῳ](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%BA%CE%B1%CE%AF%E1%BF%B3)** [παρὰ](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%E1%BD%B0) [θεῶν](https://logeion.uchicago.edu/%CE%B8%CE%B5%E1%BF%B6%CE%BD) [δῶρα](https://logeion.uchicago.edu/%CE%B4%E1%BF%B6%CF%81%CE%B1) [γίγνεται](https://logeion.uchicago.edu/%CE%B3%CE%AF%CE%B3%CE%BD%CE%B5%CF%84%CE%B1%CE%B9)” [**P. R. 613e**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20613e&lang=original); ⇾   
+→ “**τῷ** **δικαίῳ** παρὰ θεῶν δῶρα γίγνεται” **P. R. 613e**; ⇾   
 «مرۆڤی دادپەروەر لە لایەن خوداکانەوە خەڵات دەکرێت»  
-→ “[ὑπάρχει](https://logeion.uchicago.edu/%E1%BD%91%CF%80%CE%AC%CF%81%CF%87%CE%B5%CE%B9) [**ἡμῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A1%CE%BC%E1%BF%96%CE%BD%2A%2A) [οὐδὲν](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%B4%E1%BD%B2%CE%BD) [τῶν](https://logeion.uchicago.edu/%CF%84%E1%BF%B6%CE%BD)de%5Cn) [ἐπιτηδείων](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B9%CF%84%CE%B7%CE%B4%CE%B5%CE%AF%CF%89%CE%BD)” [**X. A. 2.2.11**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.2.11&lang=original); ⇾   
+→ “ὑπάρχει **ἡμῖν** οὐδὲν τῶν ἐπιτηδείων” **X. A. 2.2.11**; ⇾   
 «هیچ ئامادەکارییەکمان نییە»

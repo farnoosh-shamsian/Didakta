@@ -1,12 +1,12 @@
 # §Voc. بانگهێشتی ڕاستەوخۆ یان سەرسووڕمان
 
 دۆخی ڤوکاتیڤ بۆ بانگهێشت کردنی ڕاستەوخۆ یان بۆ دەربڕینی سەرسوڕمان[^95] بەکاردێت.  
-→ “[**ὦ**](https://logeion.uchicago.edu/%2A%2A%E1%BD%A6%2A%2A) **[Ζεῦ](https://logeion.uchicago.edu/%CE%96%CE%B5%E1%BF%A6)=)** [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [**θεοί**](https://logeion.uchicago.edu/%2A%2A%CE%B8%CE%B5%CE%BF%CE%AF%2A%2A)” [**P. Pr. 310d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Prot.%20310d&lang=original); ⇾   
+→ “**ὦ** **Ζεῦ** καὶ **θεοί**” **P. Pr. 310d**; ⇾   
 «ئه‌ی زێئووس و خوداوەندەکان»  
-→ “[**ἄνθρωπε**](https://logeion.uchicago.edu/%2A%2A%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%B5%2A%2A)” [**X. C. 2.2.7**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%202.2.7&lang=original); ⇾   
+→ “**ἄνθρωπε**” **X. C. 2.2.7**; ⇾   
 «ئه‌ی هاوڕێ»  
 لە گفتوگۆی ئاسایی و وتابێژیی گشتییەکان‌دا زۆرجار پێش وشه‌ی بانگ لێ کراو ὦ دێت. دۆخی ڤوکاتیڤ بەبێ ὦ دەتوانێت ئاماژه به سەرسوڕمان، خۆشی، سووکایەتی، هەڕەشە، ئاگادارکردنەوە و هتد بکات. ئەم جیاکارییە هەمووکات له‌به‌رچاو ناکرێت، هەرچەندە بەگشتی ὦ شێوەیکی خۆماڵیانەی هەیە و بۆ هۆنراوە و شیعری به‌رز گونجاو نییە.  
-→ “[ἀκούεις](https://logeion.uchicago.edu/%E1%BC%80%CE%BA%CE%BF%CF%8D%CE%B5%CE%B9%CF%82)=) [**Αἰσχίνη**](https://logeion.uchicago.edu/%2A%2A%CE%91%E1%BC%B0%CF%83%CF%87%CE%AF%CE%BD%CE%B7%2A%2A)kou/eis);” [**D. 18.121**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2018.121&lang=original); ⇾   
+→ “ἀκούεις **Αἰσχίνη**;” **D. 18.121**; ⇾   
 «ئه‌های ئایسخینێس، گوێت لێیه؟»
 
 # **کاتی ڕانەبوردوو[^96] یان کاتی ئێستا** {#کاتی-ڕانەبوردوو-یان-کاتی-ئێستا}

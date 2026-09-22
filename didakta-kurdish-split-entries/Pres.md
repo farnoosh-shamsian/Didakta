@@ -2,15 +2,15 @@
 
 کاتی ڕانەبوردووی بەردەوام[^98] بۆ دەربڕینی دۆخێک یان کردارێکه کە لە ساتەوەختی قسەکردندا دەگوزەرێت و له جێبەجێ کردندایە. لەوانەیە ئەو چالاکییە پێش سەردەمی ئێستا دەستی پێکردبێت. کاتی ئێستا لایەنێکی ناتەواوی هەیە و بۆیە زۆرجار ئاماژە به کردارە ناتەواوەکان ده‌کا. هەروەها کاتی ئێستا ڕەنگە ئاماژە به داهاتوویەکی نزیک یان هەندێک کرداری شیمانەیی و لەتوانین‌هاتوو لە داهاتوویەکی نزیک‌دا بکات. لەوانەیە لە پێش‌وێژییەکان‌دا ڕووداوێک لە داهاتوودا بە کاتی ئێستا دەرببڕدرێت.  
 شیمانەیی، یەکجارەکی، لە پێش‌وێژییەکان‌دا لەوانەیە  
-→ “[ἀληθῆ](https://logeion.uchicago.edu/%E1%BC%80%CE%BB%CE%B7%CE%B8%E1%BF%86) [**λέγω**](https://logeion.uchicago.edu/%2A%2A%CE%BB%CE%AD%CE%B3%CF%89%2A%2A)lhqh=)” [**L. 13.72**](https://www.perseus.tufts.edu/hopper/text?doc=Lys.%2013.72&lang=original); ⇾   
+→ “ἀληθῆ **λέγω**” **L. 13.72**; ⇾   
 «حەقیقەت دەڵێم»  
-→ “[μεταξὺ](https://logeion.uchicago.edu/%CE%BC%CE%B5%CF%84%CE%B1%CE%BE%E1%BD%BA) [τὸν](https://logeion.uchicago.edu/%CF%84%E1%BD%B8%CE%BD) [λόγον](https://logeion.uchicago.edu/%CE%BB%CF%8C%CE%B3%CE%BF%CE%BD) [**καταλύομεν**](https://logeion.uchicago.edu/%2A%2A%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CF%8D%CE%BF%CE%BC%CE%B5%CE%BD%2A%2A);” [**P. G. 505c**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Gorg.%20505c&lang=original); ⇾   
+→ “μεταξὺ τὸν λόγον **καταλύομεν**;” **P. G. 505c**; ⇾   
 «قسه‌که‌مان له لە نیوەی‌دا بقرتێنین؟»  
-→ “[καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0) [βούλει](https://logeion.uchicago.edu/%CE%B2%CE%BF%CF%8D%CE%BB%CE%B5%CE%B9)), [**παραχωρῶ**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%B1%CF%81%CE%B1%CF%87%CF%89%CF%81%E1%BF%B6%2A%2A) [σοι](https://logeion.uchicago.edu/%CF%83%CE%BF%CE%B9) [τοῦ](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%A6) [βήματος](https://logeion.uchicago.edu/%CE%B2%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82), [ἕως](https://logeion.uchicago.edu/%E1%BC%95%CF%89%CF%82) [ἂν](https://logeion.uchicago.edu/%E1%BC%82%CE%BD) [εἴπῃς](https://logeion.uchicago.edu/%CE%B5%E1%BC%B4%CF%80%E1%BF%83%CF%82)%5Cn)” [**Aes. 3.165**](https://www.perseus.tufts.edu/hopper/text?doc=Aeschin.%203.165&lang=original); ⇾   
+→ “καὶ εἰ βούλει, **παραχωρῶ** σοι τοῦ βήματος, ἕως ἂν εἴπῃς” **Aes. 3.165**; ⇾   
 «و ئەگەر بته‌وێ، دوانگەکەت پێ دەسپێرم بۆ ئەوەی قسەکەت بکەیت»  
-→ “[**ἀπόλλυμαι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CF%80%CF%8C%CE%BB%CE%BB%CF%85%CE%BC%CE%B1%CE%B9%2A%2A)/ph%7Cs)” [**Ant. 5.35**](https://www.perseus.tufts.edu/hopper/text?doc=Antiph.%205.35&lang=original); ⇾   
+→ “**ἀπόλλυμαι**” **Ant. 5.35**; ⇾   
 «خەریکە لەناو دەچم»  
-→ “[εἰ](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0)pw/lluto) [αὕτη](https://logeion.uchicago.edu/%CE%B1%E1%BD%95%CF%84%CE%B7)) [ἡ](https://logeion.uchicago.edu/%E1%BC%A1) [πόλις](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B9%CF%82) [ληφθήσεται](https://logeion.uchicago.edu/%CE%BB%CE%B7%CF%86%CE%B8%CE%AE%CF%83%CE%B5%CF%84%CE%B1%CE%B9), [**ἔχεται**](https://logeion.uchicago.edu/%2A%2A%E1%BC%94%CF%87%CE%B5%CF%84%CE%B1%CE%B9%2A%2A) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6)/xetai) [ἡ](https://logeion.uchicago.edu/%E1%BC%A1) [πᾶσα](https://logeion.uchicago.edu/%CF%80%E1%BE%B6%CF%83%CE%B1) [Σικελία](https://logeion.uchicago.edu/%CE%A3%CE%B9%CE%BA%CE%B5%CE%BB%CE%AF%CE%B1)” [**T. 6.91**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%206.91&lang=original); ⇾   
+→ “εἰ αὕτη ἡ πόλις ληφθήσεται, **ἔχεται** καὶ ἡ πᾶσα Σικελία” **T. 6.91**; ⇾   
 «ئەگەر ئەم شارە بگیرێت، هەموو سیسیلیش ده گیرێت»  
-→ “[χρόνῳ](https://logeion.uchicago.edu/%CF%87%CF%81%CF%8C%CE%BD%E1%BF%B3) [**ἀγρεῖ**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%B3%CF%81%CE%B5%E1%BF%96%2A%2A) [Πριάμου](https://logeion.uchicago.edu/%CE%A0%CF%81%CE%B9%CE%AC%CE%BC%CE%BF%CF%85)grei=) [πόλιν](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B9%CE%BD) [ἅδε](https://logeion.uchicago.edu/%E1%BC%85%CE%B4%CE%B5) [κέλευθος](https://logeion.uchicago.edu/%CE%BA%CE%AD%CE%BB%CE%B5%CF%85%CE%B8%CE%BF%CF%82)” [**A. Ag. 126**](https://www.perseus.tufts.edu/hopper/text?doc=Aesch.%20Ag.%20126&lang=original); ⇾   
+→ “χρόνῳ **ἀγρεῖ** Πριάμου πόλιν ἅδε κέλευθος” **A. Ag. 126**; ⇾   
 «ورده ورده ئەم له‌شکره شاری پریام دەگرێت»

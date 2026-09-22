@@ -1,15 +1,15 @@
 # §Pass. ڕێژەی نه‌ناسراو
 
-کرداری کارا بزر یان کرداری نه‌ناسراو، ئاماژه به کارێک ده‌کات که لەسەر بکه‌ر کراوە. ڕێژەی کارا بزر له ڕێژەی ناوینه وەرگیراوە. جگە لە هەندێک فورمی داهاتوو و ڕابردووی دیاری نه‌کراو، فۆرمەکانی کرداری کارا بزر جیاوازییەکی ‌تایبه‌تیان لەگەڵ کرداری نا‌وینه نییە. وه‌کوو αἱρεῖται «هەڵدەبژێرێت» و «هەڵدەبژێردرێت»؛ κέχυται «خۆی ده‌ڕژێنێ» و «ده‌ڕژێ». نیهادی کرداری کارا بزر، لەگەڵ ὑπό و له دۆخی ئیزافە دا دێت؛ هەندێک جار [ἀπό](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CF%8C)‌ ،[διά](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%AC)po/) ،[ἐκ](https://logeion.uchicago.edu/%E1%BC%90%CE%BA) ،[παρά](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%CE%AC)k) یان [πρός](https://logeion.uchicago.edu/%CF%80%CF%81%CF%8C%CF%82) لەگەڵ ئیزافە و یان بە ὑπό لەگەڵ دۆخی ئاکووزاتیڤ(لە شیعردا).  
-→ “[ἐώθουν](https://logeion.uchicago.edu/%E1%BC%90%CF%8E%CE%B8%CE%BF%CF%85%CE%BD), [**ἐωθοῦντο**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%89%CE%B8%CE%BF%E1%BF%A6%CE%BD%CF%84%CE%BF%2A%2A)w/qoun), [ἔπαιον](https://logeion.uchicago.edu/%E1%BC%94%CF%80%CE%B1%CE%B9%CE%BF%CE%BD)wqou=nto), [**ἐπαίοντο**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%80%CE%B1%CE%AF%CE%BF%CE%BD%CF%84%CE%BF%2A%2A)/paion)” [**X. C. 7.1.38**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%207.1.38&lang=original); ⇾   
+کرداری کارا بزر یان کرداری نه‌ناسراو، ئاماژه به کارێک ده‌کات که لەسەر بکه‌ر کراوە. ڕێژەی کارا بزر له ڕێژەی ناوینه وەرگیراوە. جگە لە هەندێک فورمی داهاتوو و ڕابردووی دیاری نه‌کراو، فۆرمەکانی کرداری کارا بزر جیاوازییەکی ‌تایبه‌تیان لەگەڵ کرداری نا‌وینه نییە. وه‌کوو αἱρεῖται «هەڵدەبژێرێت» و «هەڵدەبژێردرێت»؛ κέχυται «خۆی ده‌ڕژێنێ» و «ده‌ڕژێ». نیهادی کرداری کارا بزر، لەگەڵ ὑπό و له دۆخی ئیزافە دا دێت؛ هەندێک جار ἀπό‌ ،διά ،ἐκ ،παρά یان πρός لەگەڵ ئیزافە و یان بە ὑπό لەگەڵ دۆخی ئاکووزاتیڤ(لە شیعردا).  
+→ “ἐώθουν, **ἐωθοῦντο**, ἔπαιον, **ἐπαίοντο**” **X. C. 7.1.38**; ⇾   
 «پاڵیان پێوە دەنا و پاڵیان پێوەدەنرا، دەیانوەشاند و لێیان دەدرا»  
-→ “[**φθονηθεὶς**](https://logeion.uchicago.edu/%2A%2A%CF%86%CE%B8%CE%BF%CE%BD%CE%B7%CE%B8%CE%B5%E1%BD%B6%CF%82%2A%2A) [ὑπὸ](https://logeion.uchicago.edu/%E1%BD%91%CF%80%E1%BD%B8) [τοὖ](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%96) [Οδυσσέως](https://logeion.uchicago.edu/%CE%9F%CE%B4%CF%85%CF%83%CF%83%CE%AD%CF%89%CF%82))” [**X. M. 4.2.33**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Mem.%204.2.33&lang=original); ⇾   
+→ “**φθονηθεὶς** ὑπὸ τοὖ Οδυσσέως” **X. M. 4.2.33**; ⇾   
 «ئۆدیسێس ئیرەیی پێدەبات»  
-→ “[οὐκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA) [ἠξίουν](https://logeion.uchicago.edu/%E1%BC%A0%CE%BE%CE%AF%CE%BF%CF%85%CE%BD)k) [οὗτοι](https://logeion.uchicago.edu/%CE%BF%E1%BD%97%CF%84%CE%BF%CE%B9)ci/oun) [**ἡγεμονεύεσθαι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A1%CE%B3%CE%B5%CE%BC%CE%BF%CE%BD%CE%B5%CF%8D%CE%B5%CF%83%CE%B8%CE%B1%CE%B9%2A%2A) [ὑφ᾽](https://logeion.uchicago.edu/%E1%BD%91%CF%86%E1%BE%BD) [ἡμῶν](https://logeion.uchicago.edu/%E1%BC%A1%CE%BC%E1%BF%B6%CE%BD)” [**T. 3.61**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%203.61&lang=original); ⇾   
+→ “οὐκ ἠξίουν οὗτοι **ἡγεμονεύεσθαι** ὑφ᾽ ἡμῶν” **T. 3.61**; ⇾   
 «بە دروستیان نەدەزانی لە ژێر دەسەڵاتی ئێمە‌دا بن»  
 کرداری کارا بزر هەروەها ڕەنگە به واتای «ڕێگەدان بەخۆ» یان «ئەنجامدان بۆ خۆ» بێت.  
 زۆرجار دۆخی ئاکووزاتیڤ یان دەستەواژەێک لەگەڵ له پیتی ئیزافه زۆرجار لەگەڵ کردارێکی کارا بزر، بۆ دەربڕینی ئامێر، شێواز یان هۆکار بەکاردەهێنرێت. ڕەنگە نیهادی کرداری کارا بزر وەکوو ئامرازێک لەبەرچاو بگیرێت. کاتێک ئامرازی ئەنجامدانی کردارێک ڕۆڵی بکه‌ری بۆ لەبەرچاو دەگیرێ، لەوانەیە کەسایەتی بەخۆیەوە بگرێ و ڕەنگە لەگەڵ ὑπό و به دۆخی ئیزافه دەرببڕدرێت.  
-→ “[**ἁλίσκεται**](https://logeion.uchicago.edu/%2A%2A%E1%BC%81%CE%BB%CE%AF%CF%83%CE%BA%CE%B5%CF%84%CE%B1%CE%B9%2A%2A)=n) [ὑπὸ](https://logeion.uchicago.edu/%E1%BD%91%CF%80%E1%BD%B8) [τριήρους](https://logeion.uchicago.edu/%CF%84%CF%81%CE%B9%CE%AE%CF%81%CE%BF%CF%85%CF%82)” [**D. 53.6**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2053.6&lang=original); ⇾  
+→ “**ἁλίσκεται** ὑπὸ τριήρους” **D. 53.6**; ⇾  
 «لەلایەن کەشتی شەڕکەرەوە گیرا»
 
 # **ڕێژەی ئیخباری[^172](ڕاگەیاندن)** {#ڕێژەی-ئیخباری(ڕاگەیاندن)}

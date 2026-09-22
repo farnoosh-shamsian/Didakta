@@ -1,16 +1,16 @@
 # §ImpfComp. نتیجه‌محور
 
-گذشته‌ی استمراری همراه با افعال غایی[^59] توجه را به پیامد فعل جلب می‌کند، در حالی که همان فعل در زمان حال به امر یا عملی ناکامل اشاره دارد؛ برای مثال [ἧκον](https://logeion.uchicago.edu/%E1%BC%A7%CE%BA%CE%BF%CE%BD) «آمده بودم» یا «آمدم»، [ᾠχόμην](https://logeion.uchicago.edu/%E1%BE%A0%CF%87%CF%8C%CE%BC%CE%B7%CE%BD) «رفته بودم»، [ἐνίκων](https://logeion.uchicago.edu/%E1%BC%90%CE%BD%CE%AF%CE%BA%CF%89%CE%BD)|xo/mhn) «پیروز گشتم» یا [ἡττώμην](https://logeion.uchicago.edu/%E1%BC%A1%CF%84%CF%84%CF%8E%CE%BC%CE%B7%CE%BD)ni/_kwn) «مغلوب شدم».
+گذشته‌ی استمراری همراه با افعال غایی[^59] توجه را به پیامد فعل جلب می‌کند، در حالی که همان فعل در زمان حال به امر یا عملی ناکامل اشاره دارد؛ برای مثال ἧκον «آمده بودم» یا «آمدم»، ᾠχόμην «رفته بودم»، ἐνίκων «پیروز گشتم» یا ἡττώμην «مغلوب شدم».
 
-→ “[ὃ](https://logeion.uchicago.edu/%E1%BD%83) [μὲν](https://logeion.uchicago.edu/%CE%BC%E1%BD%B2%CE%BD) [δή](https://logeion.uchicago.edu/%CE%B4%CE%AE) [σφι](https://logeion.uchicago.edu/%CF%83%CF%86%CE%B9) [τὰ](https://logeion.uchicago.edu/%CF%84%E1%BD%B0) [ἐντεταλμένα](https://logeion.uchicago.edu/%E1%BC%90%CE%BD%CF%84%CE%B5%CF%84%CE%B1%CE%BB%CE%BC%CE%AD%CE%BD%CE%B1) [**ἀπήγγελλε**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CF%80%CE%AE%CE%B3%CE%B3%CE%B5%CE%BB%CE%BB%CE%B5%2A%2A)ntetalme/na), [τοῖσι](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%96%CF%83%CE%B9)ph/ggelle) [δὲ](https://logeion.uchicago.edu/%CE%B4%E1%BD%B2) [ἕαδε](https://logeion.uchicago.edu/%E1%BC%95%CE%B1%CE%B4%CE%B5) [μὲν](https://logeion.uchicago.edu/%CE%BC%E1%BD%B2%CE%BD) [βοηθέειν](https://logeion.uchicago.edu/%CE%B2%CE%BF%CE%B7%CE%B8%CE%AD%CE%B5%CE%B9%CE%BD) [Ἀθηναίοισι](https://logeion.uchicago.edu/%E1%BC%88%CE%B8%CE%B7%CE%BD%CE%B1%CE%AF%CE%BF%CE%B9%CF%83%CE%B9) ...” [**Hdt. 6.106**](https://www.perseus.tufts.edu/hopper/text?doc=Hdt.+6.106.3&fromdoc=Perseus%3Atext%3A1999.01.0125); ⇾ 
+→ “ὃ μὲν δή σφι τὰ ἐντεταλμένα **ἀπήγγελλε**, τοῖσι δὲ ἕαδε μὲν βοηθέειν Ἀθηναίοισι ...” **Hdt. 6.106**; ⇾ 
 
 «او پیامی را که به او دستور داده شده بود رساند و آنان تصمیم گرفتند برای آتنیان کمک بفرستند»
 
-→ “([Ὀλύμπια](https://logeion.uchicago.edu/%E1%BD%88%CE%BB%CF%8D%CE%BC%CF%80%CE%B9%CE%B1)) [οἷς](https://logeion.uchicago.edu/%CE%BF%E1%BC%B7%CF%82)olu/mpia) [Ἀνδροσθένης](https://logeion.uchicago.edu/%E1%BC%88%CE%BD%CE%B4%CF%81%CE%BF%CF%83%CE%B8%CE%AD%CE%BD%CE%B7%CF%82) [παγκράτιον](https://logeion.uchicago.edu/%CF%80%CE%B1%CE%B3%CE%BA%CF%81%CE%AC%CF%84%CE%B9%CE%BF%CE%BD)androsqe/nhs) [**ἐνίκα**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%BD%CE%AF%CE%BA%CE%B1%2A%2A)” [**T. 5.49**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%205.49&lang=original); ⇾ 
+→ “(Ὀλύμπια) οἷς Ἀνδροσθένης παγκράτιον **ἐνίκα**” **T. 5.49**; ⇾ 
 
 «(بازی‌های المپیک) که در آن آندروستنس در مسابقات پانکراتیون پیروز شد (= پیروز شده بود)»
 
-→ “[τὸ](https://logeion.uchicago.edu/%CF%84%E1%BD%B8) [πλοῖον](https://logeion.uchicago.edu/%CF%80%CE%BB%CE%BF%E1%BF%96%CE%BF%CE%BD) [ἧκεν](https://logeion.uchicago.edu/%E1%BC%A7%CE%BA%CE%B5%CE%BD), [ἐν](https://logeion.uchicago.edu/%E1%BC%90%CE%BD) [ᾧ](https://logeion.uchicago.edu/%E1%BE%A7)n) [**ἐπλέομεν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%80%CE%BB%CE%AD%CE%BF%CE%BC%CE%B5%CE%BD%2A%2A)” [**Ant. 5.29**](https://www.perseus.tufts.edu/hopper/text?doc=Antiph.%205.29&lang=original); ⇾ 
+→ “τὸ πλοῖον ἧκεν, ἐν ᾧ **ἐπλέομεν**” **Ant. 5.29**; ⇾ 
 
 «کشتی که در آن حرکت کرده بودیم رسید»
 

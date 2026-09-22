@@ -2,8 +2,8 @@
 
 The present may express an action begun, attempted, or intended. The idea of attempt or intention is an inference from the context and lies in the present only so far as the present does not denote completion.
 
-→ “[τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD) [δόξαν](https://logeion.uchicago.edu/%CE%B4%CF%8C%CE%BE%CE%B1%CE%BD) [ταύτην](https://logeion.uchicago.edu/%CF%84%CE%B1%CF%8D%CF%84%CE%B7%CE%BD) [**πείθουσιν**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%B5%CE%AF%CE%B8%CE%BF%CF%85%CF%83%CE%B9%CE%BD%2A%2A) [ὑμᾶς](https://logeion.uchicago.edu/%E1%BD%91%CE%BC%E1%BE%B6%CF%82) [ἀποβαλεῖν](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%BF%CE%B2%CE%B1%CE%BB%CE%B5%E1%BF%96%CE%BD)” [**I. 6.12**](https://www.perseus.tufts.edu/hopper/text?doc=Isoc.%206.12&lang=original); ⇾ they are trying to persuade you to throw away this renown
+→ “τὴν δόξαν ταύτην **πείθουσιν** ὑμᾶς ἀποβαλεῖν” **I. 6.12**; ⇾ they are trying to persuade you to throw away this renown
 
-→ “[**δίδωμί**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%AF%CE%B4%CF%89%CE%BC%CE%AF%2A%2A)pobalei=n) [σοι](https://logeion.uchicago.edu/%CF%83%CE%BF%CE%B9) [αὐτὴν](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%E1%BD%B4%CE%BD) [ταύτην](https://logeion.uchicago.edu/%CF%84%CE%B1%CF%8D%CF%84%CE%B7%CE%BD)th\\n) [γυναῖκα](https://logeion.uchicago.edu/%CE%B3%CF%85%CE%BD%CE%B1%E1%BF%96%CE%BA%CE%B1)” [**X. C. 8.5.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%208.5.19&lang=original); ⇾ I offer you this woman herself as a wife
+→ “**δίδωμί** σοι αὐτὴν ταύτην γυναῖκα” **X. C. 8.5.19**; ⇾ I offer you this woman herself as a wife
 
-→ “[**προδίδοτον**](https://logeion.uchicago.edu/%2A%2A%CF%80%CF%81%CE%BF%CE%B4%CE%AF%CE%B4%CE%BF%CF%84%CE%BF%CE%BD%2A%2A) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD) [Ἑλλάδα](https://logeion.uchicago.edu/%E1%BC%99%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1)” [**Ar. P. 408**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Peace%20408&lang=original); ⇾ they are trying to betray Greece
+→ “**προδίδοτον** τὴν Ἑλλάδα” **Ar. P. 408**; ⇾ they are trying to betray Greece

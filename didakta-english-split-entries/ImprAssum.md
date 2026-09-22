@@ -2,14 +2,14 @@
 
 The imperative may be used in many different expressions, including assumptions (hypothetical imperative), to make a concession, or to grant permission. The imperative is commonly used in greetings and curses.
 
-→ “[ἐμοῦ](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%CE%BF%E1%BF%A6) [γ᾽](https://logeion.uchicago.edu/%CE%B3%E1%BE%BD)mou=) [ἕνεκ᾽](https://logeion.uchicago.edu/%E1%BC%95%CE%BD%CE%B5%CE%BA%E1%BE%BD) [**ἔστω**](https://logeion.uchicago.edu/%2A%2A%E1%BC%94%CF%83%CF%84%CF%89%2A%2A)” [**D. 20.14**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2020.14&lang=original); ⇾ let it be assumed as far as I am concerned
+→ “ἐμοῦ γ᾽ ἕνεκ᾽ **ἔστω**” **D. 20.14**; ⇾ let it be assumed as far as I am concerned
 
-→ “[οὕτως](https://logeion.uchicago.edu/%CE%BF%E1%BD%95%CF%84%CF%89%CF%82)/stw) [**ἐχέτω**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%87%CE%AD%CF%84%CF%89%2A%2A) [ὡς](https://logeion.uchicago.edu/%E1%BD%A1%CF%82)xe/tw) [σὺ](https://logeion.uchicago.edu/%CF%83%E1%BD%BA) [λέγεις](https://logeion.uchicago.edu/%CE%BB%CE%AD%CE%B3%CE%B5%CE%B9%CF%82)” [**P. S. 201c**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Sym.%20201c&lang=original); ⇾ assume it to be as you say
+→ “οὕτως **ἐχέτω** ὡς σὺ λέγεις” **P. S. 201c**; ⇾ assume it to be as you say
 
-→ “[οὐκοῦν](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA%CE%BF%E1%BF%A6%CE%BD) [**κείσθω**](https://logeion.uchicago.edu/%2A%2A%CE%BA%CE%B5%CE%AF%CF%83%CE%B8%CF%89%2A%2A)kou=n) [ταῦτα](https://logeion.uchicago.edu/%CF%84%CE%B1%E1%BF%A6%CF%84%CE%B1);” [**P. L. 820e**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Laws%20820e&lang=original); ⇾ shall these points be established? 
+→ “οὐκοῦν **κείσθω** ταῦτα;” **P. L. 820e**; ⇾ shall these points be established? 
 
-→ “[σὺ](https://logeion.uchicago.edu/%CF%83%E1%BD%BA)e/nai) [δὲ](https://logeion.uchicago.edu/%CE%B4%E1%BD%B2) [**χαῖρε**](https://logeion.uchicago.edu/%2A%2A%CF%87%CE%B1%E1%BF%96%CF%81%CE%B5%2A%2A) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [ἔμπης](https://logeion.uchicago.edu/%E1%BC%94%CE%BC%CF%80%CE%B7%CF%82)” [**Hom. Od. 5.192**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D5%3Acard%3D192); ⇾ yet, even so fare thee well
+→ “σὺ δὲ **χαῖρε** καὶ ἔμπης” **Hom. Od. 5.192**; ⇾ yet, even so fare thee well
 
-→ “[**βάλλ᾽**](https://logeion.uchicago.edu/%2A%2A%CE%B2%CE%AC%CE%BB%CE%BB%E1%BE%BD%2A%2A) [ἐς](https://logeion.uchicago.edu/%E1%BC%90%CF%82) [κόρακας](https://logeion.uchicago.edu/%CE%BA%CF%8C%CF%81%CE%B1%CE%BA%CE%B1%CF%82)s)” **[Aristoph. Cl. 133](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:abo:tlg,0019,003:133&lang=original)**; ⇾ go to hell\!
+→ “**βάλλ᾽** ἐς κόρακας” **Aristoph. Cl. 133**; ⇾ go to hell\!
 
 # **Infinitive** {#infinitive}

@@ -1,15 +1,15 @@
 # §SubjDelib. Deliberative Subjunctive[^101]
 
-The deliberative subjunctive (present or aorist) is used for expressing doubt of the speaker about what to do or say (negative [μή](https://logeion.uchicago.edu/%CE%BC%CE%AE)). It is often used  in the first person.
+The deliberative subjunctive (present or aorist) is used for expressing doubt of the speaker about what to do or say (negative μή). It is often used  in the first person.
 
-→ “[**εἴπωμεν**](https://logeion.uchicago.edu/%2A%2A%CE%B5%E1%BC%B4%CF%80%CF%89%CE%BC%CE%B5%CE%BD%2A%2A) [ἢ](https://logeion.uchicago.edu/%E1%BC%A2)/pwmen) [**σιγῶμεν**](https://logeion.uchicago.edu/%2A%2A%CF%83%CE%B9%CE%B3%E1%BF%B6%CE%BC%CE%B5%CE%BD%2A%2A)\\);” [**E. Ion 758**](https://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Ion%20758&lang=original); ⇾ shall we speak or keep silence? 
+→ “**εἴπωμεν** ἢ **σιγῶμεν**;” **E. Ion 758**; ⇾ shall we speak or keep silence? 
 
-→ “[τί](https://logeion.uchicago.edu/%CF%84%CE%AF) [**δράσω**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CF%81%CE%AC%CF%83%CF%89%2A%2A); [ποῖ](https://logeion.uchicago.edu/%CF%80%CE%BF%E1%BF%96) [**φύγω**](https://logeion.uchicago.edu/%2A%2A%CF%86%CF%8D%CE%B3%CF%89%2A%2A);” [**E. Med. 1271**](https://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Med.%201271&lang=original); ⇾ what am I to do? whither shall I fly?
+→ “τί **δράσω**; ποῖ **φύγω**;” **E. Med. 1271**; ⇾ what am I to do? whither shall I fly?
 
-→ “[μὴ](https://logeion.uchicago.edu/%CE%BC%E1%BD%B4) [**φῶμεν**](https://logeion.uchicago.edu/%2A%2A%CF%86%E1%BF%B6%CE%BC%CE%B5%CE%BD%2A%2A);” [**P. R. 554b**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20554b&lang=original); ⇾ shall we not say? 
+→ “μὴ **φῶμεν**;” **P. R. 554b**; ⇾ shall we not say? 
 
-The subjunctive question does not refer to a future fact, but to what is, under the present circumstances, advantageous or proper to do or say. [βούλει](https://logeion.uchicago.edu/%CE%B2%CE%BF%CF%8D%CE%BB%CE%B5%CE%B9), [βούλεσθε](https://logeion.uchicago.edu/%CE%B2%CE%BF%CF%8D%CE%BB%CE%B5%CF%83%CE%B8%CE%B5) (poet. [θέλεις](https://logeion.uchicago.edu/%CE%B8%CE%AD%CE%BB%CE%B5%CE%B9%CF%82), [θέλετε](https://logeion.uchicago.edu/%CE%B8%CE%AD%CE%BB%CE%B5%CF%84%CE%B5)) often precede the subjunctive.
+The subjunctive question does not refer to a future fact, but to what is, under the present circumstances, advantageous or proper to do or say. βούλει, βούλεσθε (poet. θέλεις, θέλετε) often precede the subjunctive.
 
-→ “[βούλει](https://logeion.uchicago.edu/%CE%B2%CE%BF%CF%8D%CE%BB%CE%B5%CE%B9) [σοι](https://logeion.uchicago.edu/%CF%83%CE%BF%CE%B9) [**εἴπω**](https://logeion.uchicago.edu/%2A%2A%CE%B5%E1%BC%B4%CF%80%CF%89%2A%2A);” [**P. G. 521d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Gorg.%20521d&lang=original); ⇾ do you wish me to say to you?
+→ “βούλει σοι **εἴπω**;” **P. G. 521d**; ⇾ do you wish me to say to you?
 
 ###

@@ -2,22 +2,22 @@
 
 حالت اضافی می‌تواند بیانگر ارزش یا قیمت یک چیز باشد. افعال مرتبط با خریدن، فروختن، ارزش داشتن و تبادل کردن قیمت یا هزینه‌ی پرداخت شده، با حالت اضافی بیان می‌شود.
 
-→ “[ἱερὰ](https://logeion.uchicago.edu/%E1%BC%B1%CE%B5%CF%81%E1%BD%B0) [**τριῶν**](https://logeion.uchicago.edu/%2A%2A%CF%84%CF%81%CE%B9%E1%BF%B6%CE%BD%2A%2A) **[ταλάντων](https://logeion.uchicago.edu/%CF%84%CE%B1%CE%BB%CE%AC%CE%BD%CF%84%CF%89%CE%BD)**” [**L. 30.20**](https://www.perseus.tufts.edu/hopper/text?doc=Lys.%2030.20&lang=original); ⇾ 
+→ “ἱερὰ **τριῶν** **ταλάντων**” **L. 30.20**; ⇾ 
 
 «پیشکشی سه تالانتی»
 
-→ “[**χιλίων**](https://logeion.uchicago.edu/%2A%2A%CF%87%CE%B9%CE%BB%CE%AF%CF%89%CE%BD%2A%2A) **[δραχμῶν](https://logeion.uchicago.edu/%CE%B4%CF%81%CE%B1%CF%87%CE%BC%E1%BF%B6%CE%BD)** [δίκην](https://logeion.uchicago.edu/%CE%B4%CE%AF%CE%BA%CE%B7%CE%BD) [φεύγω](https://logeion.uchicago.edu/%CF%86%CE%B5%CF%8D%CE%B3%CF%89)” [**D. 55.25**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2055.25&lang=original); ⇾
+→ “**χιλίων** **δραχμῶν** δίκην φεύγω” **D. 55.25**; ⇾
 
 «متهم دعوی هزار دراخمایی هستم»
 
-→ “[**ἀργυρίου**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CF%81%CE%B3%CF%85%CF%81%CE%AF%CE%BF%CF%85%2A%2A) [πρίασθαι](https://logeion.uchicago.edu/%CF%80%CF%81%CE%AF%CE%B1%CF%83%CE%B8%CE%B1%CE%B9)rguri/ou) [ἢ](https://logeion.uchicago.edu/%E1%BC%A2) [ἀποδόσθαι](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%BF%CE%B4%CF%8C%CF%83%CE%B8%CE%B1%CE%B9)\\) [ἵππον](https://logeion.uchicago.edu/%E1%BC%B5%CF%80%CF%80%CE%BF%CE%BD)podo/sqai)” [**P. R. 333b**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20333b&lang=original); ⇾ 
+→ “**ἀργυρίου** πρίασθαι ἢ ἀποδόσθαι ἵππον” **P. R. 333b**; ⇾ 
 
 «خرید یا فروش اسب با سکه»
 
-→ “[Θεμιστοκλέα](https://logeion.uchicago.edu/%CE%98%CE%B5%CE%BC%CE%B9%CF%83%CF%84%CE%BF%CE%BA%CE%BB%CE%AD%CE%B1) [τῶν](https://logeion.uchicago.edu/%CF%84%E1%BF%B6%CE%BD) [**μεγίστων**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%B5%CE%B3%CE%AF%CF%83%CF%84%CF%89%CE%BD%2A%2A) **[δωρεῶν](https://logeion.uchicago.edu/%CE%B4%CF%89%CF%81%CE%B5%E1%BF%B6%CE%BD)** [ἠξίωσαν](https://logeion.uchicago.edu/%E1%BC%A0%CE%BE%CE%AF%CF%89%CF%83%CE%B1%CE%BD)” [**I. 4.154**](https://www.perseus.tufts.edu/hopper/text?doc=Isoc.%204.154&lang=original); ⇾ 
+→ “Θεμιστοκλέα τῶν **μεγίστων** **δωρεῶν** ἠξίωσαν” **I. 4.154**; ⇾ 
 
 «تمیستوکلِس را شایسته‌ی بهترین هدایا می‌دانستند»
 
-→ “[οὐκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA)ci/wsan) [ἀνταλλακτέον](https://logeion.uchicago.edu/%E1%BC%80%CE%BD%CF%84%CE%B1%CE%BB%CE%BB%CE%B1%CE%BA%CF%84%CE%AD%CE%BF%CE%BD)k) [μοι](https://logeion.uchicago.edu/%CE%BC%CE%BF%CE%B9)ntallakte/on) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD) [φιλοτιμίαν](https://logeion.uchicago.edu/%CF%86%CE%B9%CE%BB%CE%BF%CF%84%CE%B9%CE%BC%CE%AF%CE%B1%CE%BD) [**οὐδενὸς**](https://logeion.uchicago.edu/%2A%2A%CE%BF%E1%BD%90%CE%B4%CE%B5%CE%BD%E1%BD%B8%CF%82%2A%2A) **[κέρδους](https://logeion.uchicago.edu/%CE%BA%CE%AD%CF%81%CE%B4%CE%BF%CF%85%CF%82)deno\\s)**” [**D. 19.223**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2019.223&lang=original); ⇾ 
+→ “οὐκ ἀνταλλακτέον μοι τὴν φιλοτιμίαν **οὐδενὸς** **κέρδους**” **D. 19.223**; ⇾ 
 
 «مرا نبایست که احترام‌ دوستی خود را به هیچ قیمتی مبادله کنم»

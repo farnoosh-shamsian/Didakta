@@ -1,10 +1,10 @@
 # §Futperf. کردەوەێک له داهاتوو
 
 کاتی داهاتووی تەواو، باس لە حاڵەتێک یان دۆخێک لە داهاتوودا ده‌کات کە لە کردارێکی تەواوەوە سەرچاوە دەگرێت: ἀναγεγράψομαι '«ناوم تۆمار دەکەم»، δεδήσεται « زیندانی دەبێت (دەمێنێتەوە)».  
-→ “[ἡ](https://logeion.uchicago.edu/%E1%BC%A1) [θύρα](https://logeion.uchicago.edu/%CE%B8%CF%8D%CF%81%CE%B1) [**κεκλῄσεται**](https://logeion.uchicago.edu/%2A%2A%CE%BA%CE%B5%CE%BA%CE%BB%E1%BF%84%CF%83%CE%B5%CF%84%CE%B1%CE%B9%2A%2A)” [**Ar. Lys. 1071**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Lys.%201071&lang=original); ⇾   
+→ “ἡ θύρα **κεκλῄσεται**” **Ar. Lys. 1071**; ⇾   
 «لە دەرگاکە دەدرێت»  
-→ “[σὲ](https://logeion.uchicago.edu/%CF%83%E1%BD%B2) [δ᾽](https://logeion.uchicago.edu/%CE%B4%E1%BE%BD) [ἄλλη](https://logeion.uchicago.edu/%E1%BC%84%CE%BB%CE%BB%CE%B7) [τις](https://logeion.uchicago.edu/%CF%84%CE%B9%CF%82)/llh) [γυνὴ](https://logeion.uchicago.edu/%CE%B3%CF%85%CE%BD%E1%BD%B4) [**κεκτήσεται**](https://logeion.uchicago.edu/%2A%2A%CE%BA%CE%B5%CE%BA%CF%84%CE%AE%CF%83%CE%B5%CF%84%CE%B1%CE%B9%2A%2A)” [**Eur. Alc. 181**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0087%3Acard%3D136); ⇾   
+→ “σὲ δ᾽ ἄλλη τις γυνὴ **κεκτήσεται**” **Eur. Alc. 181**; ⇾   
 «ژنێکی تر تۆی دەبێت(به هاوسه‌ری)»  
 زۆربەی کردارە تەواوەکانی داهاتوو لە ڕووی گردانه‌وه ناوه‌ندی و لە ڕووی واتاوە نادیارن. کرداری داهاتووی تەواوی دیاریکراو زۆرجار ناگەردانیه (periphrastic )، واتە بە تێکەڵکردنی ئاوه‌ڵناوی کاری ئێستای ته‌واو لەگەڵ ἔσομαι دروست دەکرێت؛ بۆ نموونە γεγραφὼς ἔσομαι «دەنووسم». دوو کرداری تەواو کە مانای ئێستا به له ئه‌م یاسا نین: ἕστηκα «وەستاوم» (ἵστημι وه‌ستاندن) و τέθνηκα «مردووم»(θνῄσκω)، کە فۆڕمی تەواوەتی داهاتوویان بریتییە لە ἑστήξω «ڕادەوەستم» و τεθω νήξω «دەمرم».  
-→ “[τὰ](https://logeion.uchicago.edu/%CF%84%E1%BD%B0) [δέοντ᾽](https://logeion.uchicago.edu/%CE%B4%CE%AD%CE%BF%CE%BD%CF%84%E1%BE%BD) [**ἐσόμεθα**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%83%CF%8C%CE%BC%CE%B5%CE%B8%CE%B1%2A%2A) **[ἐγνωκότες](https://logeion.uchicago.edu/%E1%BC%90%CE%B3%CE%BD%CF%89%CE%BA%CF%8C%CF%84%CE%B5%CF%82)so/meqa)**” [**D. 4.50**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%204.50&lang=original); ⇾   
+→ “τὰ δέοντ᾽ **ἐσόμεθα** **ἐγνωκότες**” **D. 4.50**; ⇾   
 «ئێمە ئەرکی خۆمان ده‌زانین»

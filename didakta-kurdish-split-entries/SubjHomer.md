@@ -1,7 +1,7 @@
 # §SubjHomer. پێش‌بینانە (هومێری)
 
-ڕێژەی داخوازی لە هۆمەردا زۆرجار هاوشێوەی داهاتووی ئیخباریه و ئاماژە به پێشبینی کردنی ڕووداوەکانی داهاتوو ده‌کات. داخوازی پێش‌بینانە لەگەڵ [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) نەرێنی دەبێت.  
-→ “[οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90)) [γάρ](https://logeion.uchicago.edu/%CE%B3%CE%AC%CF%81)) [πω](https://logeion.uchicago.edu/%CF%80%CF%89) [τοίους](https://logeion.uchicago.edu/%CF%84%CE%BF%CE%AF%CE%BF%CF%85%CF%82) [ἴδον](https://logeion.uchicago.edu/%E1%BC%B4%CE%B4%CE%BF%CE%BD) [ἀνέρας](https://logeion.uchicago.edu/%E1%BC%80%CE%BD%CE%AD%CF%81%CE%B1%CF%82)/don), [οὐδὲ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%B4%E1%BD%B2)_ne/ras) [**ἴδωμαι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%B4%CE%B4%CF%89%CE%BC%CE%B1%CE%B9%2A%2A)de%5C)” **[Hom. Il. 1.262](https://www.perseus.tufts.edu/hopper/text?doc=Hom.+il.+1&fromdoc=Perseus%3Atext%3A1999.01.0135)**; ⇾   
+ڕێژەی داخوازی لە هۆمەردا زۆرجار هاوشێوەی داهاتووی ئیخباریه و ئاماژە به پێشبینی کردنی ڕووداوەکانی داهاتوو ده‌کات. داخوازی پێش‌بینانە لەگەڵ οὐ نەرێنی دەبێت.  
+→ “οὐ γάρ πω τοίους ἴδον ἀνέρας, οὐδὲ **ἴδωμαι**” **Hom. Il. 1.262**; ⇾   
 چونکە هێشتا پیاوانی ئاوام نەبینیوە و ناشیبینم»  
-→ “[καί](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%AF)/dwmai) [νύ](https://logeion.uchicago.edu/%CE%BD%CF%8D) [τις](https://logeion.uchicago.edu/%CF%84%CE%B9%CF%82) [ὧδ᾽](https://logeion.uchicago.edu/%E1%BD%A7%CE%B4%E1%BE%BD) [**εἴπῃσι**](https://logeion.uchicago.edu/%2A%2A%CE%B5%E1%BC%B4%CF%80%E1%BF%83%CF%83%CE%B9%2A%2A)” [**Hom. Od. 6\. 275**](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0135%3Abook%3D6); ⇾   
+→ “καί νύ τις ὧδ᾽ **εἴπῃσι**” **Hom. Od. 6\. 275**; ⇾   
 «و ئیستا که‌سێک دەڵێت»

@@ -1,15 +1,15 @@
 # §PresPerf. دەرئەنجام یان باری گشتی
 
-زۆرجار کاتی ئێستا له هەندێک کرداردا ئاماژه به شتێک یان ئەنجامێکی جێگیر دەکات و ڕەنگە واتای وەکوو کرداری ڕانەبوردووی ته‌واو وەربگێڕدرێت. هەندێک لەم کردارانە بریتین لە [ἀδικῶ](https://logeion.uchicago.edu/%E1%BC%80%CE%B4%CE%B9%CE%BA%E1%BF%B6) «تاوانبارم»، [νικῶ](https://logeion.uchicago.edu/%CE%BD%CE%B9%CE%BA%E1%BF%B6)mi) یان [κρατῶ](https://logeion.uchicago.edu/%CE%BA%CF%81%CE%B1%CF%84%E1%BF%B6) «سەرکەوتووم» یان «تێک‌ شکاندووه»، [ἡττῶμαι](https://logeion.uchicago.edu/%E1%BC%A1%CF%84%CF%84%E1%BF%B6%CE%BC%CE%B1%CE%B9) «دۆڕاوم»، [φεύγω](https://logeion.uchicago.edu/%CF%86%CE%B5%CF%8D%CE%B3%CF%89) "من «دوورەوەخراوم» یان «تۆمەتبارم»، [προδίδωμι](https://logeion.uchicago.edu/%CF%80%CF%81%CE%BF%CE%B4%CE%AF%CE%B4%CF%89%CE%BC%CE%B9) «خایینم»، [ἁλίσκομαι](https://logeion.uchicago.edu/%E1%BC%81%CE%BB%CE%AF%CF%83%CE%BA%CE%BF%CE%BC%CE%B1%CE%B9) «دیلم»، یان [στέρομαι](https://logeion.uchicago.edu/%CF%83%CF%84%CE%AD%CF%81%CE%BF%CE%BC%CE%B1%CE%B9) «بێبەشم».  
+زۆرجار کاتی ئێستا له هەندێک کرداردا ئاماژه به شتێک یان ئەنجامێکی جێگیر دەکات و ڕەنگە واتای وەکوو کرداری ڕانەبوردووی ته‌واو وەربگێڕدرێت. هەندێک لەم کردارانە بریتین لە ἀδικῶ «تاوانبارم»، νικῶ یان κρατῶ «سەرکەوتووم» یان «تێک‌ شکاندووه»، ἡττῶμαι «دۆڕاوم»، φεύγω "من «دوورەوەخراوم» یان «تۆمەتبارم»، προδίδωμι «خایینم»، ἁλίσκομαι «دیلم»، یان στέρομαι «بێبەشم».  
 کاتی ئێستای دەرئەنجام‌تەوەر لەگەڵ کردارگەلێکی وه‌کوو بیستن، وتن و فێربوون بەکاردەهێنرێت کە لە ڕابردوودا دەستیان پێکردووە، بەڵام کاریگەرییەکەیان هەتا ئێستا درێژەی هەیە.  
-کاتی ئێستا لەگەڵ کرداری مەبەست‌دەربڕ، مانایەکی دەرئەنجام‌تەوەری هەیە وەکوو [ἥκω](https://logeion.uchicago.edu/%E1%BC%A5%CE%BA%CF%89)/rti) «گەیشتووم»، οἴχομαι «چووم» و هتد. هەروەها ڕەنگە کاتی ئێستا ئاماژە بە کردارێک بکات کە لە ڕابردوودا دەستی پێکردووە و تا ئێستاش بەردەوامە. ئەم \[جۆرە\] بەکارهێنانەی کاتی ئێستا، ئاوەڵکردارگەلی دیاریکراو یان نادیاریکرای دەربڕی کاتی ڕابردوودای لەگەڵ‌دایە.  
-→ “[Θεμιστοκλῆς](https://logeion.uchicago.edu/%CE%98%CE%B5%CE%BC%CE%B9%CF%83%CF%84%CE%BF%CE%BA%CE%BB%E1%BF%86%CF%82)fiknou=mai) [**ἥκω**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A5%CE%BA%CF%89%2A%2A) [παρὰ](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%E1%BD%B0) [σέ](https://logeion.uchicago.edu/%CF%83%CE%AD)” [**T. 1.137**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%201.137&lang=original); ⇾   
+کاتی ئێستا لەگەڵ کرداری مەبەست‌دەربڕ، مانایەکی دەرئەنجام‌تەوەری هەیە وەکوو ἥκω «گەیشتووم»، οἴχομαι «چووم» و هتد. هەروەها ڕەنگە کاتی ئێستا ئاماژە بە کردارێک بکات کە لە ڕابردوودا دەستی پێکردووە و تا ئێستاش بەردەوامە. ئەم \[جۆرە\] بەکارهێنانەی کاتی ئێستا، ئاوەڵکردارگەلی دیاریکراو یان نادیاریکرای دەربڕی کاتی ڕابردوودای لەگەڵ‌دایە.  
+→ “Θεμιστοκλῆς **ἥκω** παρὰ σέ” **T. 1.137**; ⇾   
 «من، تێمیستۆکلێس، هاتوومە‌ لات»  
-→ “[οἶδα](https://logeion.uchicago.edu/%CE%BF%E1%BC%B6%CE%B4%CE%B1) [ὅπῃ](https://logeion.uchicago.edu/%E1%BD%85%CF%80%E1%BF%83)=da) [**οἴχονται**](https://logeion.uchicago.edu/%2A%2A%CE%BF%E1%BC%B4%CF%87%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%2A%2A)” [**X. A. 1.4.8**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.4.8&lang=original); ⇾  
+→ “οἶδα ὅπῃ **οἴχονται**” **X. A. 1.4.8**; ⇾  
 «دەزانم بۆ کوێ چوون»  
-→ “[πάλαι](https://logeion.uchicago.edu/%CF%80%CE%AC%CE%BB%CE%B1%CE%B9) [**θαυμάζω**](https://logeion.uchicago.edu/%2A%2A%CE%B8%CE%B1%CF%85%CE%BC%CE%AC%CE%B6%CF%89%2A%2A)” [**P. Cr. 43b**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Crito%2043b&lang=original); ⇾   
+→ “πάλαι **θαυμάζω**” **P. Cr. 43b**; ⇾   
 «من لە مێژە سەرسامم»  
-→ “[ἐξ](https://logeion.uchicago.edu/%E1%BC%90%CE%BE) [ὧν](https://logeion.uchicago.edu/%E1%BD%A7%CE%BD)c) [**ἀκούω**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%BA%CE%BF%CF%8D%CF%89%2A%2A)” [**X. A. 1.9.28**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.9.28&lang=original); ⇾   
+→ “ἐξ ὧν **ἀκούω**” **X. A. 1.9.28**; ⇾   
 « لەوەی وا کە دەیبیستم (بیستوومە)»  
-→ “[ὅπερ](https://logeion.uchicago.edu/%E1%BD%85%CF%80%CE%B5%CF%81)kou/w) [**λέγω**](https://logeion.uchicago.edu/%2A%2A%CE%BB%CE%AD%CE%B3%CF%89%2A%2A)” [**P. A. 21a**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2021a&lang=original); ⇾   
+→ “ὅπερ **λέγω**” **P. A. 21a**; ⇾   
 «ئه‌وه‌ی ده‌یڵێم»

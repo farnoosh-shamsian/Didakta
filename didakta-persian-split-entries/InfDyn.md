@@ -2,45 +2,45 @@
 
 اسم‌مصدر پویا برای بیان کنش به کار می‌رود و فعل را تحت معانی مختلفی مانند خواستن، میل، زور، درخواست، فرمان، تلاش، آموزش و غیره تکمیل می‌کند. مصدر پویا بیانگر یک کنش بالقوه است که ممکن است محقق بشود یا نشود. مصدرهای متممی، مکمل افعالی هستند که مصدر را به‌عنوان مفعول می‌گیرند و از جمله‌ی مصدرهای پویا به شمار می‌روند. مصدرهای پویا، در میان کاربردهای دیگر، می‌توانند هدف و نتیجه را بیان کرده  یا معنای صفت یا اسمی را محدود کنند.
 
-زمان‌ اسم مصدر بیانگر نمود است و تنها مرحله انجام کنش را نشان می‌دهد. اسم مصدر پویا با [μή](https://logeion.uchicago.edu/%CE%BC%CE%AE) منفی می‌شود، در حالی که منفی‌ساز مصدر تبیینی [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90)=nai) است.
+زمان‌ اسم مصدر بیانگر نمود است و تنها مرحله انجام کنش را نشان می‌دهد. اسم مصدر پویا با μή منفی می‌شود، در حالی که منفی‌ساز مصدر تبیینی οὐ است.
 
-→ “[τί](https://logeion.uchicago.edu/%CF%84%CE%AF) [χρὴ](https://logeion.uchicago.edu/%CF%87%CF%81%E1%BD%B4) [**ποιεῖν**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%BF%CE%B9%CE%B5%E1%BF%96%CE%BD%2A%2A);” [**X. A. 2.1.16**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.1.16&lang=original); ⇾ 
+→ “τί χρὴ **ποιεῖν**;” **X. A. 2.1.16**; ⇾ 
 
 «انجام‌دادن چه کاری لازم است؟»
 
-→ “[παίδευσις](https://logeion.uchicago.edu/%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CF%85%CF%83%CE%B9%CF%82) [καλὴ](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%BB%E1%BD%B4) [διδάσκει](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%B4%CE%AC%CF%83%CE%BA%CE%B5%CE%B9) [**χρῆσθαι**](https://logeion.uchicago.edu/%2A%2A%CF%87%CF%81%E1%BF%86%CF%83%CE%B8%CE%B1%CE%B9%2A%2A) [νόμοις](https://logeion.uchicago.edu/%CE%BD%CF%8C%CE%BC%CE%BF%CE%B9%CF%82)” [**X. Ven. 12.14**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hunt.%2012.14&lang=original); ⇾ 
+→ “παίδευσις καλὴ διδάσκει **χρῆσθαι** νόμοις” **X. Ven. 12.14**; ⇾ 
 
 «تربیت نیکو رعایت‌کردنقوانین را می‌آموزد»
 
-→ “[**διαγιγνώσκειν**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%B1%CE%B3%CE%B9%CE%B3%CE%BD%CF%8E%CF%83%CE%BA%CE%B5%CE%B9%CE%BD%2A%2A) [σε](https://logeion.uchicago.edu/%CF%83%CE%B5) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [ἀγαθοὺς](https://logeion.uchicago.edu/%E1%BC%80%CE%B3%CE%B1%CE%B8%CE%BF%E1%BD%BA%CF%82) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6)gaqou\\s) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [κακοὺς](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%BA%CE%BF%E1%BD%BA%CF%82) [ἐδίδαξεν](https://logeion.uchicago.edu/%E1%BC%90%CE%B4%CE%AF%CE%B4%CE%B1%CE%BE%CE%B5%CE%BD)” [**X. M. 3.1.9**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Mem.%203.1.9&lang=original); ⇾ 
+→ “**διαγιγνώσκειν** σε τοὺς ἀγαθοὺς καὶ τοὺς κακοὺς ἐδίδαξεν” **X. M. 3.1.9**; ⇾ 
 
 «به تو تمییز دادن نیک و بد را آموخت»
 
-→ “[ἱκανοὶ](https://logeion.uchicago.edu/%E1%BC%B1%CE%BA%CE%B1%CE%BD%CE%BF%E1%BD%B6)pei=n) [ἡμᾶς](https://logeion.uchicago.edu/%E1%BC%A1%CE%BC%E1%BE%B6%CF%82) [**ὠφελεῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BD%A0%CF%86%CE%B5%CE%BB%CE%B5%E1%BF%96%CE%BD%2A%2A)” [**X. A. 3.3.18**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%203.3.18&lang=original); ⇾ 
+→ “ἱκανοὶ ἡμᾶς **ὠφελεῖν**” **X. A. 3.3.18**; ⇾ 
 
 «قادر به یاری‌دادن ما»
 
-→ “[ἐβουλεύοντο](https://logeion.uchicago.edu/%E1%BC%90%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%8D%CE%BF%CE%BD%CF%84%CE%BF)kou/ein) [**ἐκλιπεῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%BA%CE%BB%CE%B9%CF%80%CE%B5%E1%BF%96%CE%BD%2A%2A)bouleu/onto) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD)klipei=n) [πόλιν](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B9%CE%BD)” [**Hdt. 6.100**](https://www.perseus.tufts.edu/hopper/text?doc=Hdt.%206.100&lang=original); ⇾ 
+→ “ἐβουλεύοντο **ἐκλιπεῖν** τὴν πόλιν” **Hdt. 6.100**; ⇾ 
 
 «قصد ترک‌کردن شهر داشتند»
 
-→ “[βασιλεὺς](https://logeion.uchicago.edu/%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%E1%BD%BA%CF%82) [ἀξιοῖ](https://logeion.uchicago.edu/%E1%BC%80%CE%BE%CE%B9%CE%BF%E1%BF%96) [σὲ](https://logeion.uchicago.edu/%CF%83%E1%BD%B2)cioi=) [**ἀποπλεῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CF%80%CE%BF%CF%80%CE%BB%CE%B5%E1%BF%96%CE%BD%2A%2A)” [**X. H. 3.4.25**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%203.4.25&lang=original); ⇾ 
+→ “βασιλεὺς ἀξιοῖ σὲ **ἀποπλεῖν**” **X. H. 3.4.25**; ⇾ 
 
 «پادشاه رفتن تو با کشتی را صلاح می‌داند»
 
-→ “[ταύτην](https://logeion.uchicago.edu/%CF%84%CE%B1%CF%8D%CF%84%CE%B7%CE%BD) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD) [χώραν](https://logeion.uchicago.edu/%CF%87%CF%8E%CF%81%CE%B1%CE%BD) [ἐπέτρεψε](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%AD%CF%84%CF%81%CE%B5%CF%88%CE%B5) [**διαρπάσαι**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%B1%CF%81%CF%80%CE%AC%CF%83%CE%B1%CE%B9%2A%2A)pe/treye) [τοῖς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%96%CF%82) [Ἕλλησιν](https://logeion.uchicago.edu/%E1%BC%9D%CE%BB%CE%BB%CE%B7%CF%83%CE%B9%CE%BD)” [**X. A. 1.2.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.2.19&lang=original); ⇾
+→ “ταύτην τὴν χώραν ἐπέτρεψε **διαρπάσαι** τοῖς Ἕλλησιν” **X. A. 1.2.19**; ⇾
 
 «این سرزمین را برای غارت‌کردن به یونانیان داد»
 
-→ “[Ἀριστάρχῳ](https://logeion.uchicago.edu/%E1%BC%88%CF%81%CE%B9%CF%83%CF%84%CE%AC%CF%81%CF%87%E1%BF%B3) . . . [ἔδοτε](https://logeion.uchicago.edu/%E1%BC%94%CE%B4%CE%BF%CF%84%CE%B5)arista/rxw|) [ἡμέραν](https://logeion.uchicago.edu/%E1%BC%A1%CE%BC%CE%AD%CF%81%CE%B1%CE%BD)/dote) [**ἀπολογήσασθαι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%AE%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%2A%2A)” [**X. H. 1.7.28**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%201.7.28&lang=original); ⇾ 
+→ “Ἀριστάρχῳ . . . ἔδοτε ἡμέραν **ἀπολογήσασθαι**” **X. H. 1.7.28**; ⇾ 
 
 «به آریستاخوس برای دفاع از خودش یک روز \[فرصت\] دادید»
 
-→ “[παρέχω](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%CE%AD%CF%87%CF%89)mou=) [ἐμαυτὸν](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%CE%B1%CF%85%CF%84%E1%BD%B8%CE%BD) [**ἐρωτᾶν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%81%CF%89%CF%84%E1%BE%B6%CE%BD%2A%2A)mauto\\n)” [**P. A. 33b**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2033b&lang=original); ⇾ 
+→ “παρέχω ἐμαυτὸν **ἐρωτᾶν**” **P. A. 33b**; ⇾ 
 
 «خود را برای پرسش‌گری در اختیار می‌گذارم»
 
-→ “[ἀπετράποντο](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%B5%CF%84%CF%81%CE%AC%CF%80%CE%BF%CE%BD%CF%84%CE%BF) [ἐς](https://logeion.uchicago.edu/%E1%BC%90%CF%82)petra/ponto) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD)s) [πόλιν](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B9%CE%BD) [πρὶν](https://logeion.uchicago.edu/%CF%80%CF%81%E1%BD%B6%CE%BD) [**ὑπερβαίνειν**](https://logeion.uchicago.edu/%2A%2A%E1%BD%91%CF%80%CE%B5%CF%81%CE%B2%CE%B1%CE%AF%CE%BD%CE%B5%CE%B9%CE%BD%2A%2A)” [**T. 3.24**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%203.24&lang=original); ⇾ 
+→ “ἀπετράποντο ἐς τὴν πόλιν πρὶν **ὑπερβαίνειν**” **T. 3.24**; ⇾ 
 
 «پیش از (تلاش برای) بالارفتن (از دیوار) سوی شهر بازگشتند»
 

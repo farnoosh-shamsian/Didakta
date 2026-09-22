@@ -1,14 +1,14 @@
 # §ArtGener. ناوی گشتی
 
 پیتی پێناسە‌ی ناوی گشتی[^214]، بۆ جیاکردنەوەی چینێک یان جۆرێکی دیاریکراو لە چینەکانی تر بەکاردێت، بۆ نموونە ὁ ἄνθρωπος بە واتای «مرۆڤ» (جیاواز لە بوونەوەرەکانی تر)، οἱ γέροντες «به‌سالاچووه‌کان».   
-→ “[δεῖ](https://logeion.uchicago.edu/%CE%B4%CE%B5%E1%BF%96) [**τὸν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BD%B8%CE%BD%2A%2A) [στρατιώτην](https://logeion.uchicago.edu/%CF%83%CF%84%CF%81%CE%B1%CF%84%CE%B9%CF%8E%CF%84%CE%B7%CE%BD) [φοβεῖσθαι](https://logeion.uchicago.edu/%CF%86%CE%BF%CE%B2%CE%B5%E1%BF%96%CF%83%CE%B8%CE%B1%CE%B9) [μᾶλλον](https://logeion.uchicago.edu/%CE%BC%E1%BE%B6%CE%BB%CE%BB%CE%BF%CE%BD) [τὸν](https://logeion.uchicago.edu/%CF%84%E1%BD%B8%CE%BD) [ἄρχοντα](https://logeion.uchicago.edu/%E1%BC%84%CF%81%CF%87%CE%BF%CE%BD%CF%84%CE%B1) [ἢ](https://logeion.uchicago.edu/%E1%BC%A2)/rxonta) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82)%5C) [πολεμίους](https://logeion.uchicago.edu/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%AF%CE%BF%CF%85%CF%82)” [**X. A. 2.6.10**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.6.10&lang=original); ⇾   
+→ “δεῖ **τὸν** στρατιώτην φοβεῖσθαι μᾶλλον τὸν ἄρχοντα ἢ τοὺς πολεμίους” **X. A. 2.6.10**; ⇾   
 «سەربازەکان دەبێت لە فەرماندەکەیان زورتر له دوژمن بترسن»  
-→ “[πονηρὸν](https://logeion.uchicago.edu/%CF%80%CE%BF%CE%BD%CE%B7%CF%81%E1%BD%B8%CE%BD) [**ὁ**](https://logeion.uchicago.edu/%2A%2A%E1%BD%81%2A%2A) [συκοφάντης](https://logeion.uchicago.edu/%CF%83%CF%85%CE%BA%CE%BF%CF%86%CE%AC%CE%BD%CF%84%CE%B7%CF%82)” [**D. 18.242**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2018.242&lang=original); ⇾   
+→ “πονηρὸν **ὁ** συκοφάντης” **D. 18.242**; ⇾   
 «پشکێنەر شتێکی بێزاویه»  
 پیتی پێناسە‌ی ناوی گشتی، لەگەڵ ناوی تاک، ئەو ناوە دەکاتە نوێنەری تەواوی چینی خۆی و لەگەڵ ناوێکی کۆدا به هەموو نموونەکانی ئەو چینە ئاماژە ده‌کا. ئەم بەکارهێنانەی پیتی پێناسە‌، بە تایبەتی لە حاله‌تی کۆ، لەگەڵ ئاوەڵناوی ناوی بەکاردێت. ئاوەڵناوی کاری لەگەڵ پیتی پێناسە‌ وشەدا دەتوانێت بە چینێک ئاماژە بدات.  
-→ “[οὐκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA) [ἀπορήσετε](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%BF%CF%81%CE%AE%CF%83%CE%B5%CF%84%CE%B5)k) [**τῶν**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B6%CE%BD%2A%2A)porh/sete) [ἐθελησόντων](https://logeion.uchicago.edu/%E1%BC%90%CE%B8%CE%B5%CE%BB%CE%B7%CF%83%CF%8C%CE%BD%CF%84%CF%89%CE%BD) [ὑπὲρ](https://logeion.uchicago.edu/%E1%BD%91%CF%80%E1%BD%B2%CF%81)qelhso/ntwn) [ὑμῶν](https://logeion.uchicago.edu/%E1%BD%91%CE%BC%E1%BF%B6%CE%BD) [κινδυνεύειν](https://logeion.uchicago.edu/%CE%BA%CE%B9%CE%BD%CE%B4%CF%85%CE%BD%CE%B5%CF%8D%CE%B5%CE%B9%CE%BD)” [**D. 20.166**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%2020.166&lang=original); ⇾   
+→ “οὐκ ἀπορήσετε **τῶν** ἐθελησόντων ὑπὲρ ὑμῶν κινδυνεύειν” **D. 20.166**; ⇾   
 «ئاتاجی ئەو کەسانە نابی کە ئامادە بن خۆیان بۆ تۆ بخەنە مەترسییەوە»  
-→ “[**οἱ**](https://logeion.uchicago.edu/%2A%2A%CE%BF%E1%BC%B1%2A%2A) [λογοποιοῦντες](https://logeion.uchicago.edu/%CE%BB%CE%BF%CE%B3%CE%BF%CF%80%CE%BF%CE%B9%CE%BF%E1%BF%A6%CE%BD%CF%84%CE%B5%CF%82)” **[Dem. 4\. 49](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0069%3Aspeech%3D4%3Asection%3D49)**; ⇾   
+→ “**οἱ** λογοποιοῦντες” **Dem. 4\. 49**; ⇾   
 «سیخوڕه‌کان»  
-→ “[**οἱ**](https://logeion.uchicago.edu/%2A%2A%CE%BF%E1%BC%B1%2A%2A) [ἐθελήσοντες](https://logeion.uchicago.edu/%E1%BC%90%CE%B8%CE%B5%CE%BB%CE%AE%CF%83%CE%BF%CE%BD%CF%84%CE%B5%CF%82) [μένειν](https://logeion.uchicago.edu/%CE%BC%CE%AD%CE%BD%CE%B5%CE%B9%CE%BD)qelh/sontes)” [**X. H. 7.5.24**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%207.5.24&lang=original); ⇾   
+→ “**οἱ** ἐθελήσοντες μένειν” **X. H. 7.5.24**; ⇾   
 «خوازیارانی ماندنه‌وه»

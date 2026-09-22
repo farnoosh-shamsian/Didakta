@@ -2,26 +2,26 @@
 
 The dynamic infinitive expresses an action, and complements verbs with meaning of want, desire, force, ask, command, try, teach, etc. The dynamic infinitive indicates a potential action, which may or may not be realized. The prolative infinitive which complement verbs that take an infinitive as the object are dynamic infinitives. Dynamic infinitives, among other uses, can indicate purpose, result, or limit the meaning of an adjective or a noun. 
 
-The tenses of this infinitive are purely aspectual, and denote only the stage of action. The negative of dynamic infinitive is [μή](https://logeion.uchicago.edu/%CE%BC%CE%AE), while the negative of declarative infinitive is [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90)=nai).
+The tenses of this infinitive are purely aspectual, and denote only the stage of action. The negative of dynamic infinitive is μή, while the negative of declarative infinitive is οὐ.
 
-→ “[τί](https://logeion.uchicago.edu/%CF%84%CE%AF) [χρὴ](https://logeion.uchicago.edu/%CF%87%CF%81%E1%BD%B4) [**ποιεῖν**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%BF%CE%B9%CE%B5%E1%BF%96%CE%BD%2A%2A);” [**X. A. 2.1.16**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.1.16&lang=original); ⇾ what must be done?
+→ “τί χρὴ **ποιεῖν**;” **X. A. 2.1.16**; ⇾ what must be done?
 
-→ “[παίδευσις](https://logeion.uchicago.edu/%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CF%85%CF%83%CE%B9%CF%82) [καλὴ](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%BB%E1%BD%B4) [διδάσκει](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%B4%CE%AC%CF%83%CE%BA%CE%B5%CE%B9) [**χρῆσθαι**](https://logeion.uchicago.edu/%2A%2A%CF%87%CF%81%E1%BF%86%CF%83%CE%B8%CE%B1%CE%B9%2A%2A) [νόμοις](https://logeion.uchicago.edu/%CE%BD%CF%8C%CE%BC%CE%BF%CE%B9%CF%82)” [**X. Ven. 12.14**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hunt.%2012.14&lang=original); ⇾ a good education teaches obedience to the laws
+→ “παίδευσις καλὴ διδάσκει **χρῆσθαι** νόμοις” **X. Ven. 12.14**; ⇾ a good education teaches obedience to the laws
 
-→ “[**διαγιγνώσκειν**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%B1%CE%B3%CE%B9%CE%B3%CE%BD%CF%8E%CF%83%CE%BA%CE%B5%CE%B9%CE%BD%2A%2A) [σε](https://logeion.uchicago.edu/%CF%83%CE%B5) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [ἀγαθοὺς](https://logeion.uchicago.edu/%E1%BC%80%CE%B3%CE%B1%CE%B8%CE%BF%E1%BD%BA%CF%82) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6)gaqou\\s) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [κακοὺς](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%BA%CE%BF%E1%BD%BA%CF%82) [ἐδίδαξεν](https://logeion.uchicago.edu/%E1%BC%90%CE%B4%CE%AF%CE%B4%CE%B1%CE%BE%CE%B5%CE%BD)” [**X. M. 3.1.9**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Mem.%203.1.9&lang=original); ⇾ he taught you to distinguish the good and the bad
+→ “**διαγιγνώσκειν** σε τοὺς ἀγαθοὺς καὶ τοὺς κακοὺς ἐδίδαξεν” **X. M. 3.1.9**; ⇾ he taught you to distinguish the good and the bad
 
-→ “[ἱκανοὶ](https://logeion.uchicago.edu/%E1%BC%B1%CE%BA%CE%B1%CE%BD%CE%BF%E1%BD%B6)pei=n) [ἡμᾶς](https://logeion.uchicago.edu/%E1%BC%A1%CE%BC%E1%BE%B6%CF%82) [**ὠφελεῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BD%A0%CF%86%CE%B5%CE%BB%CE%B5%E1%BF%96%CE%BD%2A%2A)” [**X. A. 3.3.18**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%203.3.18&lang=original); ⇾ able to assist us
+→ “ἱκανοὶ ἡμᾶς **ὠφελεῖν**” **X. A. 3.3.18**; ⇾ able to assist us
 
-→ “[ἐβουλεύοντο](https://logeion.uchicago.edu/%E1%BC%90%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%8D%CE%BF%CE%BD%CF%84%CE%BF)kou/ein) [**ἐκλιπεῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%BA%CE%BB%CE%B9%CF%80%CE%B5%E1%BF%96%CE%BD%2A%2A)bouleu/onto) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD)klipei=n) [πόλιν](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B9%CE%BD)” [**Hdt. 6.100**](https://www.perseus.tufts.edu/hopper/text?doc=Hdt.%206.100&lang=original); ⇾ they planned to leave the city
+→ “ἐβουλεύοντο **ἐκλιπεῖν** τὴν πόλιν” **Hdt. 6.100**; ⇾ they planned to leave the city
 
-→ “[βασιλεὺς](https://logeion.uchicago.edu/%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%E1%BD%BA%CF%82) [ἀξιοῖ](https://logeion.uchicago.edu/%E1%BC%80%CE%BE%CE%B9%CE%BF%E1%BF%96) [σὲ](https://logeion.uchicago.edu/%CF%83%E1%BD%B2)cioi=) [**ἀποπλεῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CF%80%CE%BF%CF%80%CE%BB%CE%B5%E1%BF%96%CE%BD%2A%2A)” [**X. H. 3.4.25**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%203.4.25&lang=original); ⇾ the king asks that you sail away
+→ “βασιλεὺς ἀξιοῖ σὲ **ἀποπλεῖν**” **X. H. 3.4.25**; ⇾ the king asks that you sail away
 
-→ “[ταύτην](https://logeion.uchicago.edu/%CF%84%CE%B1%CF%8D%CF%84%CE%B7%CE%BD) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD) [χώραν](https://logeion.uchicago.edu/%CF%87%CF%8E%CF%81%CE%B1%CE%BD) [ἐπέτρεψε](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%AD%CF%84%CF%81%CE%B5%CF%88%CE%B5) [**διαρπάσαι**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%B1%CF%81%CF%80%CE%AC%CF%83%CE%B1%CE%B9%2A%2A)pe/treye) [τοῖς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%96%CF%82) [Ἕλλησιν](https://logeion.uchicago.edu/%E1%BC%9D%CE%BB%CE%BB%CE%B7%CF%83%CE%B9%CE%BD)” [**X. A. 1.2.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.2.19&lang=original); ⇾ he gave this land over to the Greeks to plunder
+→ “ταύτην τὴν χώραν ἐπέτρεψε **διαρπάσαι** τοῖς Ἕλλησιν” **X. A. 1.2.19**; ⇾ he gave this land over to the Greeks to plunder
 
-→ “[Ἀριστάρχῳ](https://logeion.uchicago.edu/%E1%BC%88%CF%81%CE%B9%CF%83%CF%84%CE%AC%CF%81%CF%87%E1%BF%B3) . . . [ἔδοτε](https://logeion.uchicago.edu/%E1%BC%94%CE%B4%CE%BF%CF%84%CE%B5)arista/rxw|) [ἡμέραν](https://logeion.uchicago.edu/%E1%BC%A1%CE%BC%CE%AD%CF%81%CE%B1%CE%BD)/dote) [**ἀπολογήσασθαι**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%AE%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%2A%2A)” [**X. H. 1.7.28**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%201.7.28&lang=original); ⇾ you granted a day to Aristarchus to make his defence
+→ “Ἀριστάρχῳ . . . ἔδοτε ἡμέραν **ἀπολογήσασθαι**” **X. H. 1.7.28**; ⇾ you granted a day to Aristarchus to make his defence
 
-→ “[παρέχω](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%CE%AD%CF%87%CF%89)mou=) [ἐμαυτὸν](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%CE%B1%CF%85%CF%84%E1%BD%B8%CE%BD) [**ἐρωτᾶν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CF%81%CF%89%CF%84%E1%BE%B6%CE%BD%2A%2A)mauto\\n)” [**P. A. 33b**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2033b&lang=original); ⇾ I offer myself to be questioned
+→ “παρέχω ἐμαυτὸν **ἐρωτᾶν**” **P. A. 33b**; ⇾ I offer myself to be questioned
 
-→ “[ἀπετράποντο](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%B5%CF%84%CF%81%CE%AC%CF%80%CE%BF%CE%BD%CF%84%CE%BF) [ἐς](https://logeion.uchicago.edu/%E1%BC%90%CF%82)petra/ponto) [τὴν](https://logeion.uchicago.edu/%CF%84%E1%BD%B4%CE%BD)s) [πόλιν](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B9%CE%BD) [πρὶν](https://logeion.uchicago.edu/%CF%80%CF%81%E1%BD%B6%CE%BD) [**ὑπερβαίνειν**](https://logeion.uchicago.edu/%2A%2A%E1%BD%91%CF%80%CE%B5%CF%81%CE%B2%CE%B1%CE%AF%CE%BD%CE%B5%CE%B9%CE%BD%2A%2A)” [**T. 3.24**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%203.24&lang=original); ⇾ they turned back to the city before they attempted to scale the wall
+→ “ἀπετράποντο ἐς τὴν πόλιν πρὶν **ὑπερβαίνειν**” **T. 3.24**; ⇾ they turned back to the city before they attempted to scale the wall
 
 ###

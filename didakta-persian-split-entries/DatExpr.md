@@ -2,41 +2,41 @@
 
 اسم یا ضمیری در حالت برایی می‌تواند برای بیان شخصی به کار رود که چیزی از دیدگاه او بیان شده یا موقعیتی درک شده است. برایی بیان تجربه‌گر اغلب با افعال غیرشخصی همراه است واحساسات، ضرورت یا نیاز را بیان می‌کنند.
 
-→ “[γάμους](https://logeion.uchicago.edu/%CE%B3%CE%AC%CE%BC%CE%BF%CF%85%CF%82) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [πρώτους](https://logeion.uchicago.edu/%CF%80%CF%81%CF%8E%CF%84%CE%BF%CF%85%CF%82) [ἐγάμει](https://logeion.uchicago.edu/%E1%BC%90%CE%B3%CE%AC%CE%BC%CE%B5%CE%B9) [**Πέρσῃσι**](https://logeion.uchicago.edu/%2A%2A%CE%A0%CE%AD%CF%81%CF%83%E1%BF%83%CF%83%CE%B9%2A%2A)ga/mei) [ὁ](https://logeion.uchicago.edu/%E1%BD%81) [Δαρεῖος](https://logeion.uchicago.edu/%CE%94%CE%B1%CF%81%CE%B5%E1%BF%96%CE%BF%CF%82)”  [**Hdt. 3.88**](https://www.perseus.tufts.edu/hopper/text?doc=Hdt.%203.88&lang=original); ⇾ 
+→ “γάμους τοὺς πρώτους ἐγάμει **Πέρσῃσι** ὁ Δαρεῖος”  **Hdt. 3.88**; ⇾ 
 
 «داریوش از دید پارسیان بهترین ازدواج‌ها را ازدواج کرد» (توضیح بیشتر در رایی هم‌ریشه)
 
-→ “[πᾶσι](https://logeion.uchicago.edu/%CF%80%E1%BE%B6%CF%83%CE%B9) [νικᾶν](https://logeion.uchicago.edu/%CE%BD%CE%B9%CE%BA%E1%BE%B6%CE%BD) [**τοῖς**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A) **[κριταῖς](https://logeion.uchicago.edu/%CE%BA%CF%81%CE%B9%CF%84%CE%B1%E1%BF%96%CF%82)**” [**Ar. Av. 445**](https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.%20Birds%20445&lang=original); ⇾
+→ “πᾶσι νικᾶν **τοῖς** **κριταῖς**” **Ar. Av. 445**; ⇾
 
 «به چشم همه‌ی قاضیان پیروز بوده»
 
-→ “[**πολλοῖσιν**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%E1%BF%96%CF%83%CE%B9%CE%BD%2A%2A) [οἰκτρός](https://logeion.uchicago.edu/%CE%BF%E1%BC%B0%CE%BA%CF%84%CF%81%CF%8C%CF%82)” [**S. Tr. 1071**](https://www.perseus.tufts.edu/hopper/text?doc=Soph.%20Trach.%201071&lang=original); ⇾ 
+→ “**πολλοῖσιν** οἰκτρός” **S. Tr. 1071**; ⇾ 
 
 «برای بسیاری رقت‌انگیز»
 
-→ “[ἔδοξέ](https://logeion.uchicago.edu/%E1%BC%94%CE%B4%CE%BF%CE%BE%CE%AD) [**τῇ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%87%2A%2A) **[βουλῇ](https://logeion.uchicago.edu/%CE%B2%CE%BF%CF%85%CE%BB%E1%BF%87)** [ἢ](https://logeion.uchicago.edu/%E1%BC%A2) [**τῷ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B7%2A%2A)\\) **[δήμῳ](https://logeion.uchicago.edu/%CE%B4%CE%AE%CE%BC%E1%BF%B3)** [ἢ](https://logeion.uchicago.edu/%E1%BC%A2) [**ἀμφοτέροις**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%BC%CF%86%CE%BF%CF%84%CE%AD%CF%81%CE%BF%CE%B9%CF%82%2A%2A)\\)” **[Plat. Pha. 258a](https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Phaedrus+258a)**; ⇾ 
+→ “ἔδοξέ **τῇ** **βουλῇ** ἢ **τῷ** **δήμῳ** ἢ **ἀμφοτέροις**” **Plat. Pha. 258a**; ⇾ 
 
 «شورا یا مردم یا هر دو به نظرشان رسید»
 
 وجه وصفی در حالت برایی بدون اسم یا ضمیر غالباً به‌صورت  مفرد یا جمع برای بیان قضاوت‌کننده یا مشاهده‌کننده استفاده می‌شود. این ساخت بیشتر با وجه وصفی افعال آمدن، رفتن یا درنظرگرفتن کاربرد دارد.
 
-→ “[ἡ](https://logeion.uchicago.edu/%E1%BC%A1) [Θρᾴκη](https://logeion.uchicago.edu/%CE%98%CF%81%E1%BE%B4%CE%BA%CE%B7) [ἐστὶν](https://logeion.uchicago.edu/%E1%BC%90%CF%83%CF%84%E1%BD%B6%CE%BD) [ἐπὶ](https://logeion.uchicago.edu/%E1%BC%90%CF%80%E1%BD%B6)sti\\n) [δεξιὰ](https://logeion.uchicago.edu/%CE%B4%CE%B5%CE%BE%CE%B9%E1%BD%B0)pi\\) [εἰς](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0%CF%82) [τὸν](https://logeion.uchicago.edu/%CF%84%E1%BD%B8%CE%BD)s) [Πόντον](https://logeion.uchicago.edu/%CE%A0%CF%8C%CE%BD%CF%84%CE%BF%CE%BD) [**εἰσπλέοντι**](https://logeion.uchicago.edu/%2A%2A%CE%B5%E1%BC%B0%CF%83%CF%80%CE%BB%CE%AD%CE%BF%CE%BD%CF%84%CE%B9%2A%2A)”  [**X. A. 6.4.1**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%206.4.1&lang=original); ⇾ 
+→ “ἡ Θρᾴκη ἐστὶν ἐπὶ δεξιὰ εἰς τὸν Πόντον **εἰσπλέοντι**”  **X. A. 6.4.1**; ⇾ 
 
 «به سمت پونتوس که کشتی می‌رانی، تراکیه در سمت راست است»
 
-→ “[ἔλεγον](https://logeion.uchicago.edu/%E1%BC%94%CE%BB%CE%B5%CE%B3%CE%BF%CE%BD)sple/onti) [ὅτι](https://logeion.uchicago.edu/%E1%BD%85%CF%84%CE%B9)/legon) [ἡ](https://logeion.uchicago.edu/%E1%BC%A1) [ὁδὸς](https://logeion.uchicago.edu/%E1%BD%81%CE%B4%E1%BD%B8%CF%82) [**διαβάντι**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%B1%CE%B2%CE%AC%CE%BD%CF%84%CE%B9%2A%2A) [τὸν](https://logeion.uchicago.edu/%CF%84%E1%BD%B8%CE%BD) [ποταμὸν](https://logeion.uchicago.edu/%CF%80%CE%BF%CF%84%CE%B1%CE%BC%E1%BD%B8%CE%BD) [ἐπὶ](https://logeion.uchicago.edu/%E1%BC%90%CF%80%E1%BD%B6) [Λυδίαν](https://logeion.uchicago.edu/%CE%9B%CF%85%CE%B4%CE%AF%CE%B1%CE%BD)pi\\) [φέροι](https://logeion.uchicago.edu/%CF%86%CE%AD%CF%81%CE%BF%CE%B9)” **[X. A. 3.5.15](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%203.5.15&lang=original)**; ⇾ 
+→ “ἔλεγον ὅτι ἡ ὁδὸς **διαβάντι** τὸν ποταμὸν ἐπὶ Λυδίαν φέροι” **X. A. 3.5.15**; ⇾ 
 
 «گفتند که وقتی از رودخانه بگذری، راه  به لودیا منتهی می‌شود»
 
-→ “[οὐκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA) [οὖν](https://logeion.uchicago.edu/%CE%BF%E1%BD%96%CE%BD)k) [ἄτοπον](https://logeion.uchicago.edu/%E1%BC%84%CF%84%CE%BF%CF%80%CE%BF%CE%BD)=n) [**διαλογιζομένοις**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%B1%CE%BB%CE%BF%CE%B3%CE%B9%CE%B6%CE%BF%CE%BC%CE%AD%CE%BD%CE%BF%CE%B9%CF%82%2A%2A)/topon) [τὰς](https://logeion.uchicago.edu/%CF%84%E1%BD%B0%CF%82) [δωρεὰς](https://logeion.uchicago.edu/%CE%B4%CF%89%CF%81%CE%B5%E1%BD%B0%CF%82) [νυνὶ](https://logeion.uchicago.edu/%CE%BD%CF%85%CE%BD%E1%BD%B6) [πλείους](https://logeion.uchicago.edu/%CF%80%CE%BB%CE%B5%CE%AF%CE%BF%CF%85%CF%82) [εἶναι](https://logeion.uchicago.edu/%CE%B5%E1%BC%B6%CE%BD%CE%B1%CE%B9);” [**Aes. 3.179**](https://www.perseus.tufts.edu/hopper/text?doc=Aeschin.%203.179&lang=original); ⇾
+→ “οὐκ οὖν ἄτοπον **διαλογιζομένοις** τὰς δωρεὰς νυνὶ πλείους εἶναι;” **Aes. 3.179**; ⇾
 
 «حال که تامل می‌کنیم عجیب نیست که هدایا اکنون بیشتر است؟»
 
-→ “[τὸ](https://logeion.uchicago.edu/%CF%84%E1%BD%B8)=nai) [μὲν](https://logeion.uchicago.edu/%CE%BC%E1%BD%B2%CE%BD) [ἔξωθεν](https://logeion.uchicago.edu/%E1%BC%94%CE%BE%CF%89%CE%B8%CE%B5%CE%BD) [**ἁπτομένῳ**](https://logeion.uchicago.edu/%2A%2A%E1%BC%81%CF%80%CF%84%CE%BF%CE%BC%CE%AD%CE%BD%E1%BF%B3%2A%2A)/cwqen) [σῶμα](https://logeion.uchicago.edu/%CF%83%E1%BF%B6%CE%BC%CE%B1) [οὐκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA) [ἄγαν](https://logeion.uchicago.edu/%E1%BC%84%CE%B3%CE%B1%CE%BD)k) [θερμὸν](https://logeion.uchicago.edu/%CE%B8%CE%B5%CF%81%CE%BC%E1%BD%B8%CE%BD)/ga_n) [ἦν](https://logeion.uchicago.edu/%E1%BC%A6%CE%BD)” [**T. 2.49**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%202.49&lang=original); ⇾ 
+→ “τὸ μὲν ἔξωθεν **ἁπτομένῳ** σῶμα οὐκ ἄγαν θερμὸν ἦν” **T. 2.49**; ⇾ 
 
 «وقتی سطح بدن را لمس می‌کردید، خیلی داغ نبود»
 
-→ “[πρὸς](https://logeion.uchicago.edu/%CF%80%CF%81%E1%BD%B8%CF%82)=n) [ὠφέλειαν](https://logeion.uchicago.edu/%E1%BD%A0%CF%86%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1%CE%BD) [**σκοπουμένῳ**](https://logeion.uchicago.edu/%2A%2A%CF%83%CE%BA%CE%BF%CF%80%CE%BF%CF%85%CE%BC%CE%AD%CE%BD%E1%BF%B3%2A%2A)fe/leian) [ὁ](https://logeion.uchicago.edu/%E1%BD%81) [ἐπαινέτης](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B1%CE%B9%CE%BD%CE%AD%CF%84%CE%B7%CF%82) [τοῦ](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BF%A6)paine/ths) [δικαίου](https://logeion.uchicago.edu/%CE%B4%CE%B9%CE%BA%CE%B1%CE%AF%CE%BF%CF%85) [ἀληθεύει](https://logeion.uchicago.edu/%E1%BC%80%CE%BB%CE%B7%CE%B8%CE%B5%CF%8D%CE%B5%CE%B9)” [**P. R. 589c**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Rep.%20589c&lang=original); ⇾ 
+→ “πρὸς ὠφέλειαν **σκοπουμένῳ** ὁ ἐπαινέτης τοῦ δικαίου ἀληθεύει” **P. R. 589c**; ⇾ 
 
 «اگر از منظر منفعت بنگری، ستایشگر عدالت راست می‌گوید»
 

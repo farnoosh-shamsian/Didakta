@@ -2,39 +2,39 @@
 
 دۆخی داتیڤ، بۆ دەربڕینی بەرکاری ناڕاستەوخۆی[^49] کردار بەکاردێت؛ بەڵام بەرکاری ڕاستەوخۆ زۆرتر بە دۆخی ئاکوزاتیڤ دەردەبڕدرێت، دۆخی داتیڤ دەتوانێت وەکوو تەنیا تەواوکەری کردارگەلێکی وەک: یارمەتیدان، زیان‌گەیاندن، دڵخۆشکردن، میهرەبان‌بوون، تووڕەبوون، متمانەکردن، هەڕەشەکردن، باوەڕکردن، گوێڕایەڵی و هتد بەکار بهێنرێت.  
 بەرکاری هەندێک کردارە لێکدراوەکان (بەتایبەت لەگەڵ σύν،ἐν ، یان ἐπί یان παρά،περί ، πρός یان ὑπό و هاوشێوە ئه‌مانه) لە دۆخی داتیڤ دایە، چونکە پیتی پێوەندییانە لە پێوەندی لەگەڵ کردارەکانیشدا مانایەک لە خۆیان‌دا ڕادەگرن که پێویستی به گەردانی داتیڤ هه‌یه. داتیڤی تەواوکەری کردار، زۆرجار دەتوانێ وه‌کوو داتیڤی سوود و زیان، داتیڤی هاوڕێ‌بوون و هەندێک لە بەکارهێنانه داتیڤەکانی تریش لەبەرچاو بگیرێت.  
-→ “[ἐμβλέψας](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%CE%B2%CE%BB%CE%AD%CF%88%CE%B1%CF%82) [**αὐτῷ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BF%B7%2A%2A)mble/ya_s)” [**P. Charm. 162d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Charm.%20162d&lang=original); ⇾  
+→ “ἐμβλέψας **αὐτῷ**” **P. Charm. 162d**; ⇾  
 «سەیری ئەوی کردووە»  
-→ “[ἐλπίδας](https://logeion.uchicago.edu/%E1%BC%90%CE%BB%CF%80%CE%AF%CE%B4%CE%B1%CF%82)tw=%7C) [ἐμποιεῖν](https://logeion.uchicago.edu/%E1%BC%90%CE%BC%CF%80%CE%BF%CE%B9%CE%B5%E1%BF%96%CE%BD)lpi/das) [**ἀνθρώποις**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%BF%CE%B9%CF%82%2A%2A)mpoiei=n)” [**X. C. 1.6.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.6.19&lang=original); ⇾   
+→ “ἐλπίδας ἐμποιεῖν **ἀνθρώποις**” **X. C. 1.6.19**; ⇾   
 « هیوادار کردنی مرۆڤەکان»  
-→ “[**αὐτοῖς**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A)nqrw/pois) [ἐπέπεσε](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%AD%CF%80%CE%B5%CF%83%CE%B5)toi=s) [τὸ](https://logeion.uchicago.edu/%CF%84%E1%BD%B8)pe/pese) [Ἑλληνικόν](https://logeion.uchicago.edu/%E1%BC%99%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C%CE%BD)” [**X. A. 4.1.10**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%204.1.10&lang=original); ⇾   
+→ “**αὐτοῖς** ἐπέπεσε τὸ Ἑλληνικόν” **X. A. 4.1.10**; ⇾   
 «(هێزە) هێلینییەکان هێرشیان بردە سەریان»  
-→ “[συναδικεῖν](https://logeion.uchicago.edu/%CF%83%CF%85%CE%BD%CE%B1%CE%B4%CE%B9%CE%BA%CE%B5%E1%BF%96%CE%BD)toi=s) [**αὐτοῖς**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A)” [**X. A. 2\. 6\. 27**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.6.27&lang=original); ⇾   
+→ “συναδικεῖν **αὐτοῖς**” **X. A. 2\. 6\. 27**; ⇾   
 «لە کارە خراپەکاندا هاوبەشی ئه‌وان بوون»  
-→ “[**τοῖς**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A) [**νόμοις**](https://logeion.uchicago.edu/%2A%2A%CE%BD%CF%8C%CE%BC%CE%BF%CE%B9%CF%82%2A%2A) [πείθου](https://logeion.uchicago.edu/%CF%80%CE%B5%CE%AF%CE%B8%CE%BF%CF%85)” [**I. 1.16**](https://www.perseus.tufts.edu/hopper/text?doc=Isoc.%201.16&lang=original); ⇾   
+→ “**τοῖς** **νόμοις** πείθου” **I. 1.16**; ⇾   
 « یاساکان لەبەرچاو بگرە»  
-→ “[ἐπίστευον](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%AF%CF%83%CF%84%CE%B5%CF%85%CE%BF%CE%BD) [**αὐτῷ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BF%B7%2A%2A)pi/steuon) [αἱ](https://logeion.uchicago.edu/%CE%B1%E1%BC%B1)tw=%7C) [πόλεις](https://logeion.uchicago.edu/%CF%80%CF%8C%CE%BB%CE%B5%CE%B9%CF%82)” [**X. A. 1.9.8**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.9.8&lang=original); ⇾  
+→ “ἐπίστευον **αὐτῷ** αἱ πόλεις” **X. A. 1.9.8**; ⇾  
 «شارەکان متمانەیان پێ دەکرد»  
-→ “[**τῷ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B7%2A%2A) **[Μυσῷ](https://logeion.uchicago.edu/%CE%9C%CF%85%CF%83%E1%BF%B7)** [ἐσήμηνε](https://logeion.uchicago.edu/%E1%BC%90%CF%83%CE%AE%CE%BC%CE%B7%CE%BD%CE%B5) [φεύγειν](https://logeion.uchicago.edu/%CF%86%CE%B5%CF%8D%CE%B3%CE%B5%CE%B9%CE%BD)sh/mhne)” [**X. A. 5.2.30**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%205.2.30&lang=original); ⇾   
+→ “**τῷ** **Μυσῷ** ἐσήμηνε φεύγειν” **X. A. 5.2.30**; ⇾   
 «فەرمانی هەڵاتنی به مووسیاییه‌کان دا»  
-→ “[οὗτοι](https://logeion.uchicago.edu/%CE%BF%E1%BD%97%CF%84%CE%BF%CE%B9) [οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90) [παρεγένοντο](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%CE%B5%CE%B3%CE%AD%CE%BD%CE%BF%CE%BD%CF%84%CE%BF)) [**βασιλεῖ**](https://logeion.uchicago.edu/%2A%2A%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%E1%BF%96%2A%2A)” [**X. A. 5.6.8**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%205.6.8&lang=original); ⇾   
+→ “οὗτοι οὐ παρεγένοντο **βασιλεῖ**” **X. A. 5.6.8**; ⇾   
 «ئەمانە له‌گه‌ڵ پاشا نەکەوتن»  
-→ “[ὑποκεῖσθαι](https://logeion.uchicago.edu/%E1%BD%91%CF%80%CE%BF%CE%BA%CE%B5%E1%BF%96%CF%83%CE%B8%CE%B1%CE%B9) [**τῷ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B7%2A%2A) **[ἄρχοντι](https://logeion.uchicago.edu/%E1%BC%84%CF%81%CF%87%CE%BF%CE%BD%CF%84%CE%B9)**” [**P. G. 510c**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Gorg.%20510c&lang=original); ⇾  
+→ “ὑποκεῖσθαι **τῷ** **ἄρχοντι**” **P. G. 510c**; ⇾  
 «لە ژێر دەسەڵاتی حاکمدا بوون»   
-→ “[**τῷ**](https://logeion.uchicago.edu/%2A%2A%CF%84%E1%BF%B7%2A%2A) **[Ὑρκανίῳ](https://logeion.uchicago.edu/%E1%BD%99%CF%81%CE%BA%CE%B1%CE%BD%CE%AF%E1%BF%B3)** [ἵππον](https://logeion.uchicago.edu/%E1%BC%B5%CF%80%CF%80%CE%BF%CE%BD) [ἐδωρήσατο](https://logeion.uchicago.edu/%E1%BC%90%CE%B4%CF%89%CF%81%CE%AE%CF%83%CE%B1%CF%84%CE%BF)” [**X. C. 8.4.24**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%208.4.24&lang=original); ⇾   
+→ “**τῷ** **Ὑρκανίῳ** ἵππον ἐδωρήσατο” **X. C. 8.4.24**; ⇾   
 «ئەسپێکی بە گۆرگانیه‌کان بەخشی»  
-→ “[μικρὸν](https://logeion.uchicago.edu/%CE%BC%CE%B9%CE%BA%CF%81%E1%BD%B8%CE%BD) [**μεγάλῳ**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%B5%CE%B3%CE%AC%CE%BB%E1%BF%B3%2A%2A) [εἰκάσαι](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0%CE%BA%CE%AC%CF%83%CE%B1%CE%B9)” [**T. 4.36**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.36&lang=original); ⇾  
+→ “μικρὸν **μεγάλῳ** εἰκάσαι” **T. 4.36**; ⇾  
 «بەراوردکردنی (شتێکی) بچووک لەگەڵ (شتێکی) گەورە»  
-→ “[πέμπων](https://logeion.uchicago.edu/%CF%80%CE%AD%CE%BC%CF%80%CF%89%CE%BD)ka/sai) [**αὐτῷ**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%E1%BF%B7%2A%2A) [ἄγγελον](https://logeion.uchicago.edu/%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CE%BD)tw=%7C)” [**X. A. 1.3.8**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.3.8&lang=original); ⇾   
+→ “πέμπων **αὐτῷ** ἄγγελον” **X. A. 1.3.8**; ⇾   
 «ڕاسپاردە‌یکی بۆ ناردووە»  
-→ “[παρῄνει](https://logeion.uchicago.edu/%CF%80%CE%B1%CF%81%E1%BF%84%CE%BD%CE%B5%CE%B9)fi/_emai) [**τοῖς**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A) **[Ἀθηναίοις](https://logeion.uchicago.edu/%E1%BC%88%CE%B8%CE%B7%CE%BD%CE%B1%CE%AF%CE%BF%CE%B9%CF%82)** [τοιάδε](https://logeion.uchicago.edu/%CF%84%CE%BF%CE%B9%CE%AC%CE%B4%CE%B5)aqhnai/ois)” [**T. 6.8**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%206.8&lang=original); ⇾  
+→ “παρῄνει **τοῖς** **Ἀθηναίοις** τοιάδε” **T. 6.8**; ⇾  
 « بەم شێوەیە ئامۆژگاری ئاتێنیه‌کانی کرد»  
-→ “[οὐκ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90%CE%BA)dikhme/nois) [ἂν](https://logeion.uchicago.edu/%E1%BC%82%CE%BD)k) [ἠνώχλει](https://logeion.uchicago.edu/%E1%BC%A0%CE%BD%CF%8E%CF%87%CE%BB%CE%B5%CE%B9)%5Cn) [νῦν](https://logeion.uchicago.edu/%CE%BD%E1%BF%A6%CE%BD)nw/xlei) [**ἡμῖν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A1%CE%BC%E1%BF%96%CE%BD%2A%2A)” [**D. 3.5**](https://www.perseus.tufts.edu/hopper/text?doc=Dem.%203.5&lang=original); ⇾   
+→ “οὐκ ἂν ἠνώχλει νῦν **ἡμῖν**” **D. 3.5**; ⇾   
 «ئەو ئێستا ئێمەی تووشی کێشە نەدەکرد»  
-→ “[**ἐμοὶ**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%BC%CE%BF%E1%BD%B6%2A%2A) [ὀργίζονται](https://logeion.uchicago.edu/%E1%BD%80%CF%81%CE%B3%CE%AF%CE%B6%CE%BF%CE%BD%CF%84%CE%B1%CE%B9)moi%5C)”[**P. A. 23c**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Apol.%2023c&lang=original); ⇾   
+→ “**ἐμοὶ** ὀργίζονται”**P. A. 23c**; ⇾   
 «لەمن تووڕەن»  
-→ “[οὐ](https://logeion.uchicago.edu/%CE%BF%E1%BD%90)pei/loun) [φθονῶν](https://logeion.uchicago.edu/%CF%86%CE%B8%CE%BF%CE%BD%E1%BF%B6%CE%BD)) [**τοῖς**](https://logeion.uchicago.edu/%2A%2A%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A) **[πλουτοῦσιν](https://logeion.uchicago.edu/%CF%80%CE%BB%CE%BF%CF%85%CF%84%CE%BF%E1%BF%A6%CF%83%CE%B9%CE%BD)**” [**X. A. 1.9.19**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%201.9.19&lang=original); ⇾   
+→ “οὐ φθονῶν **τοῖς** **πλουτοῦσιν**” **X. A. 1.9.19**; ⇾   
 «نەگرتنی کینە بەرامبەر بە دەوڵەمەندەکان»  
-→ “[ἐπεὶ](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B5%E1%BD%B6) [δὲ](https://logeion.uchicago.edu/%CE%B4%E1%BD%B2)pei%5C) [ἀπήντησαν](https://logeion.uchicago.edu/%E1%BC%80%CF%80%CE%AE%CE%BD%CF%84%CE%B7%CF%83%CE%B1%CE%BD) [**αὐτοῖς**](https://logeion.uchicago.edu/%2A%2A%CE%B1%E1%BD%90%CF%84%CE%BF%E1%BF%96%CF%82%2A%2A)ph/nthsan) [οἱ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B1)toi=s) [στρατηγοί](https://logeion.uchicago.edu/%CF%83%CF%84%CF%81%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CE%AF)” [**X. A. 2.3.17**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Anab.%202.3.17&lang=original); ⇾   
+→ “ἐπεὶ δὲ ἀπήντησαν **αὐτοῖς** οἱ στρατηγοί” **X. A. 2.3.17**; ⇾   
 «کاتێک فەرماندەکان لەگەڵیان کۆبوونەوە»  
-→ “[περιτυγχάνει](https://logeion.uchicago.edu/%CF%80%CE%B5%CF%81%CE%B9%CF%84%CF%85%CE%B3%CF%87%CE%AC%CE%BD%CE%B5%CE%B9) [**Φιλοκράτει**](https://logeion.uchicago.edu/%2A%2A%CE%A6%CE%B9%CE%BB%CE%BF%CE%BA%CF%81%CE%AC%CF%84%CE%B5%CE%B9%2A%2A)” [**X. H. 4.8.24**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Hell.%204.8.24&lang=original); ⇾   
+→ “περιτυγχάνει **Φιλοκράτει**” **X. H. 4.8.24**; ⇾   
 «چاوی بە فیلۆکراتێس که‌وت»

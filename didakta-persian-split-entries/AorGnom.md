@@ -2,25 +2,25 @@
 
 زمان گذشته‌ی تام می‌تواند برای بیان ضرب‌المثل‌، امثال و حقایق کلی به کار رود. در این کاربرد، اغلب گذشته‌ی تام صرفاً یک رخداد گذشته را بیان نمی‌کند، بلکه به عادت‌ها، تمایلات کلّی، رویه‌ها یا رویدادهای معمول اشاره دارد.
 
-→ “[παθὼν](https://logeion.uchicago.edu/%CF%80%CE%B1%CE%B8%E1%BD%BC%CE%BD) [δέ](https://logeion.uchicago.edu/%CE%B4%CE%AD) [τε](https://logeion.uchicago.edu/%CF%84%CE%B5) [νήπιος](https://logeion.uchicago.edu/%CE%BD%CE%AE%CF%80%CE%B9%CE%BF%CF%82) [**ἔγνω**](https://logeion.uchicago.edu/%2A%2A%E1%BC%94%CE%B3%CE%BD%CF%89%2A%2A)” [**H.WD.218**](https://www.perseus.tufts.edu/hopper/text?doc=Hes.+WD+218&fromdoc=Perseus%3Atext%3A1999.01.0131); ⇾ 
+→ “παθὼν δέ τε νήπιος **ἔγνω**” **H.WD.218**; ⇾ 
 
 «ابله تجربه کرده، یاد می‌گیرد»
 
-→ “[κάλλος](https://logeion.uchicago.edu/%CE%BA%CE%AC%CE%BB%CE%BB%CE%BF%CF%82)/gnw) [μὲν](https://logeion.uchicago.edu/%CE%BC%E1%BD%B2%CE%BD) [γὰρ](https://logeion.uchicago.edu/%CE%B3%E1%BD%B0%CF%81) [ἢ](https://logeion.uchicago.edu/%E1%BC%A2) [χρόνος](https://logeion.uchicago.edu/%CF%87%CF%81%CF%8C%CE%BD%CE%BF%CF%82)\\) [**ἀνήλωσεν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%80%CE%BD%CE%AE%CE%BB%CF%89%CF%83%CE%B5%CE%BD%2A%2A) [ἢ](https://logeion.uchicago.edu/%E1%BC%A2)nh/lwsen) [νόσος](https://logeion.uchicago.edu/%CE%BD%CF%8C%CF%83%CE%BF%CF%82)\\) [**ἐμάρανε**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%BC%CE%AC%CF%81%CE%B1%CE%BD%CE%B5%2A%2A)” [**I. 1.6**](https://www.perseus.tufts.edu/hopper/text?doc=Isoc.%201.6&lang=original); ⇾
+→ “κάλλος μὲν γὰρ ἢ χρόνος **ἀνήλωσεν** ἢ νόσος **ἐμάρανε**” **I. 1.6**; ⇾
 
 «زیرا زیبایی یا با زمان هدر می‌رود یا با بیماری پژمرده می‌شود» 
 
 از جمله کاربرد‌های مشابه گذشته‌ی تام، استفاده از آن در توصیفات کلی، صحنه‌های خیالی و در توصیف آداب‌ورسوم است. در شعر، گذشته‌ی تام عموما برای بیان وجه قیاس در تشبیهات به کار می‌رود.
 
-→ “[ἐπειδὰν](https://logeion.uchicago.edu/%E1%BC%90%CF%80%CE%B5%CE%B9%CE%B4%E1%BD%B0%CE%BD)poi/hsan) [ἀφίκωνται](https://logeion.uchicago.edu/%E1%BC%80%CF%86%CE%AF%CE%BA%CF%89%CE%BD%CF%84%CE%B1%CE%B9)peida\\n) [οἱ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B1)fi/kwntai) [τετελευτηκότες](https://logeion.uchicago.edu/%CF%84%CE%B5%CF%84%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%B7%CE%BA%CF%8C%CF%84%CE%B5%CF%82) [εἰς](https://logeion.uchicago.edu/%CE%B5%E1%BC%B0%CF%82) [τὸν](https://logeion.uchicago.edu/%CF%84%E1%BD%B8%CE%BD)s) [τόπον](https://logeion.uchicago.edu/%CF%84%CF%8C%CF%80%CE%BF%CE%BD), [οἷ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B7) [ὁ](https://logeion.uchicago.edu/%E1%BD%81) [δαίμων](https://logeion.uchicago.edu/%CE%B4%CE%B1%CE%AF%CE%BC%CF%89%CE%BD) [ἕκαστον](https://logeion.uchicago.edu/%E1%BC%95%CE%BA%CE%B1%CF%83%CF%84%CE%BF%CE%BD) [κομίζ](https://logeion.uchicago.edu/%CE%BA%CE%BF%CE%BC%CE%AF%CE%B6) [πρῶτον](https://logeion.uchicago.edu/%CF%80%CF%81%E1%BF%B6%CF%84%CE%BF%CE%BD) [μὲν](https://logeion.uchicago.edu/%CE%BC%E1%BD%B2%CE%BD) [**διεδικάσαντο**](https://logeion.uchicago.edu/%2A%2A%CE%B4%CE%B9%CE%B5%CE%B4%CE%B9%CE%BA%CE%AC%CF%83%CE%B1%CE%BD%CF%84%CE%BF%2A%2A) [οἵ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B5) [τε](https://logeion.uchicago.edu/%CF%84%CE%B5) [καλῶς](https://logeion.uchicago.edu/%CE%BA%CE%B1%CE%BB%E1%BF%B6%CF%82) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [ὁσίως](https://logeion.uchicago.edu/%E1%BD%81%CF%83%CE%AF%CF%89%CF%82) [βιώσαντες](https://logeion.uchicago.edu/%CE%B2%CE%B9%CF%8E%CF%83%CE%B1%CE%BD%CF%84%CE%B5%CF%82) [καὶ](https://logeion.uchicago.edu/%CE%BA%CE%B1%E1%BD%B6) [οἱ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B1) [μή](https://logeion.uchicago.edu/%CE%BC%CE%AE)” [**P. Ph. 113d**](https://www.perseus.tufts.edu/hopper/text?doc=Plat.%20Phaedo%20113d&lang=original); ⇾ 
+→ “ἐπειδὰν ἀφίκωνται οἱ τετελευτηκότες εἰς τὸν τόπον, οἷ ὁ δαίμων ἕκαστον κομίζ πρῶτον μὲν **διεδικάσαντο** οἵ τε καλῶς καὶ ὁσίως βιώσαντες καὶ οἱ μή” **P. Ph. 113d**; ⇾ 
 
 «هنگامی که مردگان به جایی می‌رسند که هر یک توسط دایمون خود هدایت می‌شوند، نخست محاکمه می‌شوند که (آیا) نیک و پیرهیزکارانه زیسته‌اند و یا خیر»
 
-→ “[φᾶρος](https://logeion.uchicago.edu/%CF%86%E1%BE%B6%CF%81%CE%BF%CF%82) [δὲ](https://logeion.uchicago.edu/%CE%B4%E1%BD%B2) [αὐτημερὸν](https://logeion.uchicago.edu/%CE%B1%E1%BD%90%CF%84%CE%B7%CE%BC%CE%B5%CF%81%E1%BD%B8%CE%BD) [ἐξυφήναντες](https://logeion.uchicago.edu/%E1%BC%90%CE%BE%CF%85%CF%86%CE%AE%CE%BD%CE%B1%CE%BD%CF%84%CE%B5%CF%82)thmero\\n) [οἱ](https://logeion.uchicago.edu/%CE%BF%E1%BC%B1)cufh/nantes) [ἱρέες](https://logeion.uchicago.edu/%E1%BC%B1%CF%81%CE%AD%CE%B5%CF%82) [κατ᾽](https://logeion.uchicago.edu/%CE%BA%CE%B1%CF%84%E1%BE%BD) [ὦν](https://logeion.uchicago.edu/%E1%BD%A6%CE%BD) [**ἔδησαν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%94%CE%B4%CE%B7%CF%83%CE%B1%CE%BD%2A%2A)=n) [ἑνὸς](https://logeion.uchicago.edu/%E1%BC%91%CE%BD%E1%BD%B8%CF%82)/dhsan) [ἑωυτῶν](https://logeion.uchicago.edu/%E1%BC%91%CF%89%CF%85%CF%84%E1%BF%B6%CE%BD) [μίτρῃ](https://logeion.uchicago.edu/%CE%BC%CE%AF%CF%84%CF%81%E1%BF%83) [τοὺς](https://logeion.uchicago.edu/%CF%84%CE%BF%E1%BD%BA%CF%82) [ὀφθαλμούς](https://logeion.uchicago.edu/%E1%BD%80%CF%86%CE%B8%CE%B1%CE%BB%CE%BC%CE%BF%CF%8D%CF%82)” [**Hdt. 2.122**](https://www.perseus.tufts.edu/hopper/text?doc=Hdt.%202.122&lang=original); ⇾
+→ “φᾶρος δὲ αὐτημερὸν ἐξυφήναντες οἱ ἱρέες κατ᾽ ὦν **ἔδησαν** ἑνὸς ἑωυτῶν μίτρῃ τοὺς ὀφθαλμούς” **Hdt. 2.122**; ⇾
 
 «کاهنان در همان روز خرقه‌ای بافته، چشمان یکی از میان خودشان را با سربند می‌بندند»
 
-→ “[ἤριπε](https://logeion.uchicago.edu/%E1%BC%A4%CF%81%CE%B9%CF%80%CE%B5) [δ᾽](https://logeion.uchicago.edu/%CE%B4%E1%BE%BD)/ripe) [ὡς](https://logeion.uchicago.edu/%E1%BD%A1%CF%82) [ὅτε](https://logeion.uchicago.edu/%E1%BD%85%CF%84%CE%B5) [τις](https://logeion.uchicago.edu/%CF%84%CE%B9%CF%82) [δρῦς](https://logeion.uchicago.edu/%CE%B4%CF%81%E1%BF%A6%CF%82) [**ἤριπεν**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A4%CF%81%CE%B9%CF%80%CE%B5%CE%BD%2A%2A)” [**Hom. Il. 16.482**](https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Il.+16.482&fromdoc=Perseus%3Atext%3A1999.01.0133); ⇾ 
+→ “ἤριπε δ᾽ ὡς ὅτε τις δρῦς **ἤριπεν**” **Hom. Il. 16.482**; ⇾ 
 
 «افتاد آن‌طور که درخت بلوطی می‌افتد»
 

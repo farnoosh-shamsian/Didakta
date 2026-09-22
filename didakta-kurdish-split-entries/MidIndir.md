@@ -1,18 +1,18 @@
 # §MidIndir. ناوه‌ندی گەڕانەوەیی ناڕاستەوخۆ
 
 لە ڕێژەی ناوه‌ندی گەڕانەوەیی ناڕاستەوخۆ،[^159] کار کاریگه‌ری له سه‌ر بکه‌ری کردار دادەنێ و بکەری کردە بەگشتی ڕۆڵی قازانج‌بەری کردە دەگێڕێت و بە جۆرێک دەچێتە ژێر کاریگەریی کردەوە. له ڕێژەی ناوه‌ندی گەڕانەوەیی ناڕاستەوخۆدا، بکه‌ر بۆ خۆی و له ڕووی سودمەندی کرداره‌که کار ده‌کات و بە جۆرێک لە جۆرەکان کاریگەریی کردارەکەی لەسەرە. بکه‌ر شتێک بۆ خۆی دەکات، لە پێوەندی لەگەڵ خۆی یان داراییەکەی‌دا و بەم بۆنەوه بە جۆرێک لە جۆرەکان ڕۆڵی به‌رکاری ناڕاستەوخۆی کردارەکەی دەخرێتە ئەستۆ. نموونە: πορίζεσθαι «بۆ خۆ دابینکردن» (لە کرداری πορίζειν «دابینکردن»)، φυλάττεσθαι «ئاگالێ‌بوون» (لە φυλάττειν «پاراستن») و αἱρεσ θαι «هەڵبژاردن»(بۆ خۆ وەرگرتن).  
-→ “[ὅπλα](https://logeion.uchicago.edu/%E1%BD%85%CF%80%CE%BB%CE%B1) [**πορίσασθαι**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%BF%CF%81%CE%AF%CF%83%CE%B1%CF%83%CE%B8%CE%B1%CE%B9%2A%2A)” [**T. 4.9**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%204.9&lang=original); ⇾   
+→ “ὅπλα **πορίσασθαι**” **T. 4.9**; ⇾   
 «دابینکردنی چەک (بۆ خۆ)»  
-→ “[ὁπλίτας](https://logeion.uchicago.edu/%E1%BD%81%CF%80%CE%BB%CE%AF%CF%84%CE%B1%CF%82) [**μετεπέμψατο**](https://logeion.uchicago.edu/%2A%2A%CE%BC%CE%B5%CF%84%CE%B5%CF%80%CE%AD%CE%BC%CF%88%CE%B1%CF%84%CE%BF%2A%2A)” [**T. 7\. 31**](https://www.perseus.tufts.edu/hopper/text?doc=Thuc.%207.31&lang=original); ⇾   
+→ “ὁπλίτας **μετεπέμψατο**” **T. 7\. 31**; ⇾   
 « ناردیه شوێن هۆپلیتاسەکان»  
-→ “[γυναῖκα](https://logeion.uchicago.edu/%CE%B3%CF%85%CE%BD%CE%B1%E1%BF%96%CE%BA%CE%B1) [**ἠγαγόμην**](https://logeion.uchicago.edu/%2A%2A%E1%BC%A0%CE%B3%CE%B1%CE%B3%CF%8C%CE%BC%CE%B7%CE%BD%2A%2A)” [**L. 1.6**](https://www.perseus.tufts.edu/hopper/text?doc=Lys.%201.6&lang=original); ⇾   
+→ “γυναῖκα **ἠγαγόμην**” **L. 1.6**; ⇾   
 «ژنم (بۆ خۆم)هێنا»   
 هەندێک کرداری ناوه‌ندی ڕەنگە ئاماژە بەوە بکەن کە بکه‌ر لەلایەن کەسێکی ترەوە کارێکی بۆ خۆی کردووە. ئەم بەکارهێنانە زۆرجار پێی دەوترێت کرداری ناوەندی هۆکار.[^160]  
-→ “[ἐγὼ](https://logeion.uchicago.edu/%E1%BC%90%CE%B3%E1%BD%BC) [γάρ](https://logeion.uchicago.edu/%CE%B3%CE%AC%CF%81)gw%5C) [σε](https://logeion.uchicago.edu/%CF%83%CE%B5) [ταῦτα](https://logeion.uchicago.edu/%CF%84%CE%B1%E1%BF%A6%CF%84%CE%B1) [**ἐδιδαξάμην**](https://logeion.uchicago.edu/%2A%2A%E1%BC%90%CE%B4%CE%B9%CE%B4%CE%B1%CE%BE%CE%AC%CE%BC%CE%B7%CE%BD%2A%2A)” [**X. C. 1.6.2**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%201.6.2&lang=original); ⇾   
+→ “ἐγὼ γάρ σε ταῦτα **ἐδιδαξάμην**” **X. C. 1.6.2**; ⇾   
 «من ئەمانەم فێری تۆ کردووە»  
-→ “[**παρατίθεσθαι**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%B1%CF%81%CE%B1%CF%84%CE%AF%CE%B8%CE%B5%CF%83%CE%B8%CE%B1%CE%B9%2A%2A)didaca/mhn) [σῖτον](https://logeion.uchicago.edu/%CF%83%E1%BF%96%CF%84%CE%BF%CE%BD)” [**X. C. 8\. 6\. 12**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%208.6.12&lang=original); ⇾   
+→ “**παρατίθεσθαι** σῖτον” **X. C. 8\. 6\. 12**; ⇾   
 « خۆراک دابینکردن»  
-→ “[ὅσοι](https://logeion.uchicago.edu/%E1%BD%85%CF%83%CE%BF%CE%B9) [ὅπλα](https://logeion.uchicago.edu/%E1%BD%85%CF%80%CE%BB%CE%B1) [ἀφῄρηνται](https://logeion.uchicago.edu/%E1%BC%80%CF%86%E1%BF%84%CF%81%CE%B7%CE%BD%CF%84%CE%B1%CE%B9), [ταχὺ](https://logeion.uchicago.edu/%CF%84%CE%B1%CF%87%E1%BD%BA)fh/%7Crhntai) [ἄλλα](https://logeion.uchicago.edu/%E1%BC%84%CE%BB%CE%BB%CE%B1) [**ποιήσονται**](https://logeion.uchicago.edu/%2A%2A%CF%80%CE%BF%CE%B9%CE%AE%CF%83%CE%BF%CE%BD%CF%84%CE%B1%CE%B9%2A%2A)/lla)” [**X. C. 6\. 1\. 12**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%206.1.12&lang=original); ⇾   
+→ “ὅσοι ὅπλα ἀφῄρηνται, ταχὺ ἄλλα **ποιήσονται**” **X. C. 6\. 1\. 12**; ⇾   
 «هەموو ئەوانەی چه‌ک کراون، دەزبەجێ چه‌کی تر بۆ خۆیان دروست دەکه‌ن»  
-→ “[ἑαυτῷ](https://logeion.uchicago.edu/%E1%BC%91%CE%B1%CF%85%CF%84%E1%BF%B7) [σκηνὴν](https://logeion.uchicago.edu/%CF%83%CE%BA%CE%B7%CE%BD%E1%BD%B4%CE%BD) [**κατεσκευάσατο**](https://logeion.uchicago.edu/%2A%2A%CE%BA%CE%B1%CF%84%CE%B5%CF%83%CE%BA%CE%B5%CF%85%CE%AC%CF%83%CE%B1%CF%84%CE%BF%2A%2A)” [**X. C. 2\. 1\. 30**](https://www.perseus.tufts.edu/hopper/text?doc=Xen.%20Cyrop.%202.1.30&lang=original); ⇾   
+→ “ἑαυτῷ σκηνὴν **κατεσκευάσατο**” **X. C. 2\. 1\. 30**; ⇾   
 «خێوەتێکی بۆ خۆی دابین کرد»
