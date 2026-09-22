@@ -16,8 +16,10 @@ __pycache__/
 .idea/
 .DS_Store
 
+# --- Experiments: kept local only ---
+experiments/
+
 # --- Trained models / large binaries (exceed GitHub's 100 MB file limit) ---
-experiments/*/models/
 *.joblib
 *.safetensors
 *.bin
